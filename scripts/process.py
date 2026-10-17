@@ -131,6 +131,20 @@ for a in D('eures')['data']:
         h=1 if (a.get('s') == 'parttime') else 0, n=1 if 'en' in (a.get('l') or '') else 0,
         m=1 if a.get('o') in ('temporary',) else 0, hint=(a.get('l') or ''))
 
+# Adzuna (GB, DE, NL) -- shown as "Jobs by Adzuna", linked via Adzuna's redirect URL
+def adz_salary(a):
+    lo, hi = a.get('smin'), a.get('smax')
+    if not lo or a.get('sp') in ('1', 1, True): return ''
+    sym = '£' if a['c'] == 'gb' else '€'
+    f = lambda v: f"{sym}{round(v / 1000)}k" if v >= 1000 else f"{sym}{v:g}"
+    return f(lo) if not hi or hi == lo else f"{f(lo)}–{f(hi)}"
+for a in D('adzuna')['data']:
+    if not is_hr(a['t'] or ''): continue
+    loc = a.get('n') or ''
+    add(o='adzuna', c=a['c'], i='adz' + a['id'], t=a['t'], e=a.get('e'), l=loc.split(',')[0].strip(),
+        r=uk_region(loc) if a['c'] == 'gb' else (a.get('r') or ''), p=a.get('d') or '', x='', u=a.get('u'),
+        s=adz_salary(a), h=1 if a.get('ct') == 'part_time' else 0, m=1 if a.get('ty') == 'contract' else 0)
+
 # Denmark (Jobnet)
 for a in D('jobnet')['data']:
     if not is_hr(a['t'], a.get('o') or ''): continue

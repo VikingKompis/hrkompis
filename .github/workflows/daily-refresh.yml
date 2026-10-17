@@ -7,7 +7,12 @@ on:
   schedule:
     - cron: "0 3 * * *"
     - cron: "0 4 * * *"
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      only:
+        description: "Comma-separated sources to fetch (blank = all)"
+        required: false
+        default: ""
 
 permissions:
   contents: write
@@ -39,6 +44,11 @@ jobs:
 
       - name: Fetch HR jobs from all sources
         if: steps.gate.outputs.go == 'true'
+        env:
+          ONLY: ${{ github.event.inputs.only }}
+          ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+          ADZUNA_PAGES: ${{ vars.ADZUNA_PAGES }}
         run: python scripts/fetch.py
 
       - name: Classify and build jobs.json

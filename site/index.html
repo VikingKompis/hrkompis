@@ -246,7 +246,7 @@ nav a{cursor:pointer}
   <button class="more" id="more" type="button" hidden>Show more</button>
 </main>
   <footer><div class="wrap">
-  <div>Updated every morning at 05:00 Stockholm time from Arbetsförmedlingen (Sweden), Jobnet (Denmark), EURES, the EU job portal (Germany, Netherlands, Ireland), NHS Jobs and the UK government Work Hub (UK), publicjobs.ie (Ireland), and employers' own career sites.</div>
+  <div>Updated every morning at 05:00 Stockholm time from Arbetsförmedlingen (Sweden), Jobnet (Denmark), EURES, the EU job portal (Germany, Netherlands, Ireland), NHS Jobs and the UK government Work Hub (UK), publicjobs.ie (Ireland), employers' own career sites, and <a href="https://www.adzuna.co.uk" target="_blank" rel="noopener">Jobs by Adzuna</a> (UK, Germany, Netherlands).</div>
   <div>Each listing opens the original ad, where you apply directly. Ad language for Dutch and German ads is judged from the job title.</div>
 </div></footer>
 </div>
@@ -273,7 +273,7 @@ function aboutFill(p){
 // Data is refreshed every day at 05:00 Stockholm time by GitHub Actions.
 const DATA_URL = "https://raw.githubusercontent.com/VikingKompis/hrkompis/main/data/jobs.json";
 const CNAME = {gb:"United Kingdom",ie:"Ireland",dk:"Denmark",de:"Germany",nl:"Netherlands",se:"Sweden"};
-const SRC = {af:"Arbetsförmedlingen",eures:"EURES",jobnet:"Jobnet",nhs:"NHS Jobs",workhub:"UK Work Hub",career:"Employer careers site",publicjobs:"publicjobs.ie"};
+const SRC = {af:"Arbetsförmedlingen",eures:"EURES",jobnet:"Jobnet",nhs:"NHS Jobs",workhub:"UK Work Hub",career:"Employer careers site",publicjobs:"publicjobs.ie",adzuna:"Jobs by Adzuna"};
 const FILTERS = [
   {key:"c",  label:"Country",    opts:[["gb","United Kingdom"],["ie","Ireland"],["dk","Denmark"],["de","Germany"],["nl","Netherlands"],["se","Sweden"]]},
   {key:"k",  label:"Sector",     opts:[["pub","Public sector"],["priv","Private sector"],["u","Employer not named"]]},

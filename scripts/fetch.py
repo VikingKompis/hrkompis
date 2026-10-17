@@ -4,7 +4,7 @@ Each source is fetched independently. If a source fails or returns nothing,
 the previous day's raw file is kept so the site never loses a whole country,
 and the run is flagged as failed at the end so GitHub sends an alert email.
 """
-import json, os, re, sys, time, html, http.cookiejar, urllib.request, urllib.parse
+import json, os, re, sys, time, html, http.cookiejar, urllib.request, urllib.parse, urllib.error
 from concurrent.futures import ThreadPoolExecutor
 
 RAW = os.environ.get('RAW_DIR', 'raw')
@@ -50,10 +50,16 @@ def save(name, payload, count, minimum):
     print(f'ok {name}: {count}', flush=True)
 
 
+class Skip(Exception):
+    """A source that is deliberately switched off today (no key, quota used up). Not an error."""
+
+
 def run(name, fn, minimum):
     try:
         payload, count = fn()
         save(name, payload, count, minimum)
+    except Skip as e:
+        print(f'-- {name} skipped: {e}', flush=True)
     except Exception as e:
         problems.append(f'{name}: {type(e).__name__}: {e}')
         print(f'!! {name} failed: {e}', flush=True)
@@ -327,6 +333,54 @@ def smartrecruiters():
     return {'src': 'smartrecruiters', 'data': data}, len(data)
 
 
+# ---------------- Adzuna (UK, Germany, Netherlands) ----------------
+# Needs the ADZUNA_APP_ID / ADZUNA_APP_KEY repository secrets. Each page is one API call
+# (50 ads). ADZUNA_PAGES sets pages per country, e.g. "gb:6,de:4,nl:3" = 13 calls a day.
+# Listings must be shown as "Jobs by Adzuna" and link through Adzuna's redirect URL.
+ADZUNA_TERMS = {
+    'gb': 'hr hrbp human resources recruiter recruitment payroll talent people reward learning',
+    'de': 'hr personal personalreferent personalsachbearbeiter recruiter recruiting lohnbuchhalter entgeltabrechnung payroll talent',
+    'nl': 'hr p&o recruiter recruitment salarisadministrateur personeelsadviseur payroll talent',
+}
+
+
+def adzuna():
+    aid, key = os.environ.get('ADZUNA_APP_ID'), os.environ.get('ADZUNA_APP_KEY')
+    if not aid or not key:
+        raise Skip('no Adzuna key configured')
+    pages = dict((c, int(n)) for c, n in (x.split(':') for x in (os.environ.get('ADZUNA_PAGES') or 'gb:6,de:4,nl:3').split(',') if x))
+    seen, calls, stopped = {}, 0, ''
+    for c, n in pages.items():
+        for pg in range(1, n + 1):
+            q = urllib.parse.urlencode({'app_id': aid, 'app_key': key, 'results_per_page': 50, 'what_or': ADZUNA_TERMS.get(c, 'hr'),
+                                        'sort_by': 'date', 'max_days_old': 30, 'content-type': 'application/json'})
+            try:
+                calls += 1
+                j = getj(f'https://api.adzuna.com/v1/api/jobs/{c}/search/{pg}?{q}', tries=1, headers={'Accept': 'application/json'})
+            except urllib.error.HTTPError as e:
+                if e.code in (401, 403, 429):
+                    stopped = f'Adzuna refused call {calls} (HTTP {e.code}): plan limit reached or key inactive'
+                    break
+                raise
+            res = j.get('results') or []
+            for r in res:
+                area = (r.get('location') or {}).get('area') or []
+                seen.setdefault(str(r['id']), {'c': c, 't': r.get('title'), 'e': (r.get('company') or {}).get('display_name'),
+                    'n': (r.get('location') or {}).get('display_name'), 'r': area[1] if len(area) > 1 else '',
+                    'd': (r.get('created') or '')[:10], 'u': r.get('redirect_url'),
+                    'ct': r.get('contract_time') or '', 'ty': r.get('contract_type') or '',
+                    'smin': r.get('salary_min'), 'smax': r.get('salary_max'), 'sp': r.get('salary_is_predicted')})
+            if len(res) < 50:
+                break
+        if stopped:
+            break
+    print(f'adzuna: {calls} calls, {len(seen)} ads' + (f' -- {stopped}' if stopped else ''), flush=True)
+    if not seen:
+        raise Skip(stopped or 'no results')
+    data = [{'id': i, **v} for i, v in seen.items()]
+    return {'src': 'adzuna', 'calls': calls, 'data': data}, len(data)
+
+
 def employers():
     sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
     import employers as em
@@ -339,7 +393,10 @@ if __name__ == '__main__':
     t0 = time.time()
     sources = [('jobtech', jobtech, 100), ('eures', eures, 1000), ('jobnet', jobnet, 50), ('nhs', nhs, 200),
                ('workhub', workhub, 200), ('publicjobs', publicjobs, 50), ('greenhouse', greenhouse, 10),
-               ('lever', lever, 5), ('smartrecruiters', smartrecruiters, 20), ('employers', employers, 50)]
+               ('lever', lever, 5), ('smartrecruiters', smartrecruiters, 20), ('employers', employers, 50), ('adzuna', adzuna, 1)]
+    only = [x for x in os.environ.get('ONLY', '').split(',') if x]
+    if only:
+        sources = [s for s in sources if s[0] in only]
     with ThreadPoolExecutor(len(sources)) as ex:
         list(ex.map(lambda s: run(*s), sources))
     print(f'done in {time.time() - t0:.0f}s')
