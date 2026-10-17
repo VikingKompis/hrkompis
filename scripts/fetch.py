@@ -334,26 +334,28 @@ def smartrecruiters():
 
 
 # ---------------- Adzuna (UK, Germany, Netherlands) ----------------
-# Needs the ADZUNA_APP_ID / ADZUNA_APP_KEY repository secrets. Each page is one API call
-# (50 ads). ADZUNA_PAGES sets pages per country, e.g. "gb:6,de:4,nl:3" = 13 calls a day.
+# Needs the ADZUNA_APP_ID / ADZUNA_APP_KEY repository secrets. Searches Adzuna's own
+# "HR & Recruitment" category (hr-jobs), newest first, ads from the last 2 days. Each page is
+# one API call (50 ads); ADZUNA_PAGES sets pages per country. Results are merged with the
+# previous days' file and kept for 30 days, so the list builds up over time.
 # Listings must be shown as "Jobs by Adzuna" and link through Adzuna's redirect URL.
-ADZUNA_TERMS = {
-    'gb': 'hr hrbp human resources recruiter recruitment payroll talent people reward learning',
-    'de': 'hr personal personalreferent personalsachbearbeiter recruiter recruiting lohnbuchhalter entgeltabrechnung payroll talent',
-    'nl': 'hr p&o recruiter recruitment salarisadministrateur personeelsadviseur payroll talent',
-}
-
-
 def adzuna():
     aid, key = os.environ.get('ADZUNA_APP_ID'), os.environ.get('ADZUNA_APP_KEY')
     if not aid or not key:
         raise Skip('no Adzuna key configured')
-    pages = dict((c, int(n)) for c, n in (x.split(':') for x in (os.environ.get('ADZUNA_PAGES') or 'gb:6,de:4,nl:3').split(',') if x))
-    seen, calls, stopped = {}, 0, ''
+    pages = dict((c, int(n)) for c, n in (x.split(':') for x in (os.environ.get('ADZUNA_PAGES') or 'gb:20,de:10,nl:6').split(',') if x))
+    days = int(os.environ.get('ADZUNA_DAYS') or 2)
+    seen, calls, stopped, new = {}, 0, '', 0
+    path = os.path.join(RAW, 'adzuna.json')
+    cutoff = time.strftime('%Y-%m-%d', time.gmtime(time.time() - 30 * 86400))
+    if os.path.exists(path):
+        for r in json.load(open(path, encoding='utf-8')).get('data', []):
+            if (r.get('d') or '9') >= cutoff:
+                seen[r['id']] = {k: v for k, v in r.items() if k != 'id'}
     for c, n in pages.items():
         for pg in range(1, n + 1):
-            q = urllib.parse.urlencode({'app_id': aid, 'app_key': key, 'results_per_page': 50, 'what_or': ADZUNA_TERMS.get(c, 'hr'),
-                                        'sort_by': 'date', 'max_days_old': 30, 'content-type': 'application/json'})
+            q = urllib.parse.urlencode({'app_id': aid, 'app_key': key, 'results_per_page': 50, 'category': 'hr-jobs',
+                                        'sort_by': 'date', 'max_days_old': days, 'content-type': 'application/json'})
             try:
                 calls += 1
                 j = getj(f'https://api.adzuna.com/v1/api/jobs/{c}/search/{pg}?{q}', tries=1, headers={'Accept': 'application/json'})
@@ -364,21 +366,23 @@ def adzuna():
                 raise
             res = j.get('results') or []
             for r in res:
+                i = str(r['id'])
+                if i not in seen: new += 1
                 area = (r.get('location') or {}).get('area') or []
-                seen.setdefault(str(r['id']), {'c': c, 't': r.get('title'), 'e': (r.get('company') or {}).get('display_name'),
+                seen[i] = {'c': c, 't': r.get('title'), 'e': (r.get('company') or {}).get('display_name'),
                     'n': (r.get('location') or {}).get('display_name'), 'r': area[1] if len(area) > 1 else '',
                     'd': (r.get('created') or '')[:10], 'u': r.get('redirect_url'),
                     'ct': r.get('contract_time') or '', 'ty': r.get('contract_type') or '',
-                    'smin': r.get('salary_min'), 'smax': r.get('salary_max'), 'sp': r.get('salary_is_predicted')})
+                    'smin': r.get('salary_min'), 'smax': r.get('salary_max'), 'sp': r.get('salary_is_predicted')}
             if len(res) < 50:
                 break
         if stopped:
             break
-    print(f'adzuna: {calls} calls, {len(seen)} ads' + (f' -- {stopped}' if stopped else ''), flush=True)
-    if not seen:
-        raise Skip(stopped or 'no results')
+    print(f'adzuna: {calls} calls, {new} new ads, {len(seen)} kept' + (f' -- {stopped}' if stopped else ''), flush=True)
+    if not new:
+        raise Skip(stopped or 'no new ads')
     data = [{'id': i, **v} for i, v in seen.items()]
-    return {'src': 'adzuna', 'calls': calls, 'data': data}, len(data)
+    return {'src': 'adzuna', 'calls': calls, 'new': new, 'data': data}, len(data)
 
 
 def employers():
