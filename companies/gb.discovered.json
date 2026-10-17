@@ -1,0 +1,1499 @@
+[
+ {
+  "name": "Tesco",
+  "url": "https://www.tesco-careers.com/",
+  "ats": [],
+  "markers": [],
+  "final": "https://www.tesco.com/careers/en-GB",
+  "pages": [
+   {
+    "url": "https://www.tesco-careers.com/",
+    "final": "https://www.tesco.com/careers/en-GB"
+   }
+  ]
+ },
+ {
+  "name": "Sainsbury's",
+  "url": "https://sainsburys.jobs/",
+  "ats": [
+   {
+    "ats": "oracle",
+    "ids": [
+     "hdhe.fa.em3.oraclecloud.com",
+     "CX"
+    ]
+   }
+  ],
+  "markers": [],
+  "final": "https://www.sainsburys.jobs",
+  "pages": [
+   {
+    "url": "https://sainsburys.jobs/",
+    "final": "https://www.sainsburys.jobs/"
+   },
+   {
+    "url": "https://www.sainsburys.jobs/",
+    "final": "https://www.sainsburys.jobs/"
+   },
+   {
+    "url": "https://www.sainsburys.jobs/working-for-us/",
+    "final": "https://www.sainsburys.jobs/working-for-us/"
+   },
+   {
+    "url": "https://www.sainsburys.jobs/teams/",
+    "final": "https://www.sainsburys.jobs/teams/"
+   },
+   {
+    "url": "https://www.sainsburys.jobs/application-help/",
+    "final": "https://www.sainsburys.jobs/application-help/"
+   },
+   {
+    "url": "https://www.sainsburys.jobs/life-at-sainsburys/",
+    "final": "https://www.sainsburys.jobs/life-at-sainsburys/"
+   },
+   {
+    "url": "https://www.sainsburys.jobs/register-your-interest/",
+    "final": "https://www.sainsburys.jobs/register-your-interest/"
+   },
+   {
+    "url": "https://www.sainsburys.jobs",
+    "final": "https://www.sainsburys.jobs"
+   }
+  ]
+ },
+ {
+  "name": "Asda",
+  "url": "https://www.asda.jobs/",
+  "ats": [
+   {
+    "ats": "workday",
+    "ids": [
+     "asda",
+     "wd103",
+     "AsdaJobs"
+    ]
+   }
+  ],
+  "markers": [],
+  "final": "https://www.asda.jobs/",
+  "pages": [
+   {
+    "url": "https://www.asda.jobs/",
+    "final": "https://www.asda.jobs/"
+   }
+  ]
+ },
+ {
+  "name": "Morrisons",
+  "url": "https://www.morrisons.jobs/",
+  "ats": [
+   {
+    "ats": "oracle",
+    "ids": [
+     "eicg.fa.em2.oraclecloud.com",
+     "MorrisonsJobs"
+    ]
+   }
+  ],
+  "markers": [],
+  "final": "https://www.morrisons.jobs/",
+  "pages": [
+   {
+    "url": "https://www.morrisons.jobs/",
+    "final": "https://www.morrisons.jobs/"
+   }
+  ]
+ },
+ {
+  "name": "Unilever",
+  "url": "https://careers.unilever.com/",
+  "ats": [
+   {
+    "ats": "workday",
+    "ids": [
+     "unilever",
+     "wd3",
+     "Unilever_Experienced_Professionals"
+    ]
+   }
+  ],
+  "markers": [
+   "radancy"
+  ],
+  "final": "https://careers.unilever.com/en",
+  "pages": [
+   {
+    "url": "https://careers.unilever.com/",
+    "final": "https://careers.unilever.com/en"
+   }
+  ]
+ },
+ {
+  "name": "GSK",
+  "url": "https://jobs.gsk.com/",
+  "ats": [
+   {
+    "ats": "workday",
+    "ids": [
+     "gsk",
+     "wd5",
+     "GSKCareers"
+    ]
+   }
+  ],
+  "markers": [
+   "phenom"
+  ],
+  "final": "https://jobs.gsk.com/us/en/cookiesettings",
+  "pages": [
+   {
+    "url": "https://jobs.gsk.com/",
+    "final": "https://jobs.gsk.com/us/en"
+   },
+   {
+    "url": "https://cdn.phenompeople.com/CareerConnectResources/GHVGPAGB/en_us/desktop/assets/images/favicon.ico?v=1776769848916",
+    "final": "https://cdn.phenompeople.com/CareerConnectResources/GHVGPAGB/en_us/desktop/assets/images/favicon.ico?v=1776769848916"
+   },
+   {
+    "url": "https://jobs.gsk.com/us/en/home",
+    "final": "https://jobs.gsk.com/us/en/home"
+   },
+   {
+    "url": "https://jobs.gsk.com/us/en/search-results",
+    "final": "https://jobs.gsk.com/us/en/search-results"
+   },
+   {
+    "url": "https://jobs.gsk.com/us/en/cookiesettings",
+    "final": "https://jobs.gsk.com/us/en/cookiesettings"
+   }
+  ]
+ },
+ {
+  "name": "AstraZeneca UK",
+  "url": "https://careers.astrazeneca.com/",
+  "ats": [
+   {
+    "ats": "eightfold",
+    "ids": [
+     "astrazeneca"
+    ]
+   }
+  ],
+  "markers": [
+   "radancy"
+  ],
+  "final": "https://careers.astrazeneca.com/",
+  "pages": [
+   {
+    "url": "https://careers.astrazeneca.com/",
+    "final": "https://careers.astrazeneca.com/"
+   }
+  ]
+ },
+ {
+  "name": "BP",
+  "url": "https://www.bp.com/en/global/corporate/careers.html",
+  "ats": [
+   {
+    "ats": "workday",
+    "ids": [
+     "bpinternational",
+     "wd3",
+     "bpCareers"
+    ]
+   },
+   {
+    "ats": "avature",
+    "ids": [
+     "bp.avature.net"
+    ]
+   }
+  ],
+  "markers": [],
+  "final": "https://careers.bp.com/",
+  "pages": [
+   {
+    "url": "https://www.bp.com/en/global/corporate/careers.html",
+    "final": "https://careers.bp.com/"
+   }
+  ]
+ },
+ {
+  "name": "Shell",
+  "url": "https://www.shell.co.uk/careers.html",
+  "ats": [],
+  "markers": [],
+  "final": "https://www.shell.co.uk/about-us/careers.html#vanity-aHR0cHM6Ly93d3cuc2hlbGwuY28udWsvY2FyZWVycy5odG1s",
+  "pages": [
+   {
+    "url": "https://www.shell.co.uk/careers.html",
+    "final": "https://www.shell.co.uk/about-us/careers.html#vanity-aHR0cHM6Ly93d3cuc2hlbGwuY28udWsvY2FyZWVycy5odG1s"
+   }
+  ]
+ },
+ {
+  "name": "HSBC",
+  "url": "https://www.hsbc.com/careers",
+  "ats": [],
+  "markers": [],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://www.hsbc.com/careers",
+    "final": "https://www.hsbc.com/careers"
+   },
+   {
+    "url": "https://www.hsbc.com/who-we-are/hsbc-and-digital/hsbc-patents-and-research-papers",
+    "final": "https://www.hsbc.com/who-we-are/hsbc-and-digital/hsbc-patents-and-research-papers"
+   },
+   {
+    "url": "https://www.hsbc.com/who-we-are/our-strategy-and-values",
+    "final": "https://www.hsbc.com/who-we-are/our-strategy-and-values"
+   },
+   {
+    "url": "https://www.hsbc.com/careers/students-and-graduates",
+    "final": "https://www.hsbc.com/careers/students-and-graduates"
+   },
+   {
+    "url": "https://www.hsbc.com/careers/students-and-graduates/university-students-and-graduates",
+    "final": "https://www.hsbc.com/careers/students-and-graduates/university-students-and-graduates"
+   },
+   {
+    "url": "https://www.hsbc.com/careers/students-and-graduates/schools-and-apprenticeships",
+    "final": "https://www.hsbc.com/careers/students-and-graduates/schools-and-apprenticeships"
+   },
+   {
+    "url": "https://www.hsbc.com/careers/students-and-graduates/events",
+    "final": "https://www.hsbc.com/careers/students-and-graduates/events"
+   },
+   {
+    "url": "https://www.hsbc.com/who-we-are/hsbc-and-digital/papers-patents-and-partnerships",
+    "error": "HTTP Error 404: Not Found"
+   }
+  ]
+ },
+ {
+  "name": "Barclays",
+  "url": "https://search.jobs.barclays/",
+  "ats": [
+   {
+    "ats": "workday",
+    "ids": [
+     "barclays",
+     "wd3",
+     "External_Career_Site_Barclays"
+    ]
+   }
+  ],
+  "markers": [
+   "radancy"
+  ],
+  "final": "https://search.jobs.barclays/",
+  "pages": [
+   {
+    "url": "https://search.jobs.barclays/",
+    "final": "https://search.jobs.barclays/"
+   }
+  ]
+ },
+ {
+  "name": "Lloyds Banking Group",
+  "url": "https://www.lloydsbankinggroup.com/careers.html",
+  "ats": [
+   {
+    "ats": "workday",
+    "ids": [
+     "lbg",
+     "wd3",
+     "lbg_Careers"
+    ]
+   }
+  ],
+  "markers": [],
+  "final": "https://www.lloydsbankinggroup.com/careers.html",
+  "pages": [
+   {
+    "url": "https://www.lloydsbankinggroup.com/careers.html",
+    "final": "https://www.lloydsbankinggroup.com/careers.html"
+   }
+  ]
+ },
+ {
+  "name": "NatWest Group",
+  "url": "https://jobs.natwestgroup.com/",
+  "ats": [],
+  "markers": [],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://jobs.natwestgroup.com/",
+    "error": "HTTP Error 403: Forbidden"
+   }
+  ]
+ },
+ {
+  "name": "Santander UK",
+  "url": "https://www.santanderjobs.co.uk/",
+  "ats": [],
+  "markers": [],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://www.santanderjobs.co.uk/",
+    "error": "HTTP Error 403: Forbidden"
+   }
+  ]
+ },
+ {
+  "name": "Aviva",
+  "url": "https://careers.aviva.co.uk/",
+  "ats": [],
+  "markers": [],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://careers.aviva.co.uk/",
+    "error": "HTTP Error 403: Forbidden"
+   }
+  ]
+ },
+ {
+  "name": "Legal & General",
+  "url": "https://group.legalandgeneral.com/en/careers",
+  "ats": [],
+  "markers": [],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://group.legalandgeneral.com/en/careers",
+    "error": "HTTP Error 404: Not Found"
+   }
+  ]
+ },
+ {
+  "name": "Vodafone UK",
+  "url": "https://careers.vodafone.com/uk/",
+  "ats": [],
+  "markers": [],
+  "final": "https://careers.vodafone.com/uk/whyvodafonethree/",
+  "pages": [
+   {
+    "url": "https://careers.vodafone.com/uk/",
+    "final": "https://careers.vodafone.com/uk/"
+   },
+   {
+    "url": "https://careers.vodafone.com/uk/wp-content/themes/vodafone/assets/img/favicon.ico",
+    "final": "https://careers.vodafone.com/uk/wp-content/themes/vodafone/assets/img/favicon.ico"
+   },
+   {
+    "url": "https://careers.vodafone.com/uk",
+    "final": "https://careers.vodafone.com/uk/"
+   },
+   {
+    "url": "https://careers.vodafone.com/uk/discover-our-teams/",
+    "final": "https://careers.vodafone.com/uk/discover-our-teams/"
+   },
+   {
+    "url": "https://careers.vodafone.com/uk/experienced-professionals/",
+    "final": "https://careers.vodafone.com/uk/experienced-professionals/"
+   },
+   {
+    "url": "https://careers.vodafone.com/uk/discover-our-teams/graduate-programmes/",
+    "final": "https://careers.vodafone.com/uk/discover-our-teams/graduate-programmes/"
+   },
+   {
+    "url": "https://careers.vodafone.com/uk/apprenticeships/",
+    "final": "https://careers.vodafone.com/uk/apprenticeships/"
+   },
+   {
+    "url": "https://careers.vodafone.com/uk/whyvodafonethree/",
+    "final": "https://careers.vodafone.com/uk/whyvodafonethree/"
+   }
+  ]
+ },
+ {
+  "name": "BT Group",
+  "url": "https://www.bt.com/careers",
+  "ats": [],
+  "markers": [
+   "sf_rmk"
+  ],
+  "final": "https://jobs.bt.com/search/?q=&amp;locationsearch=&amp;searchResultView=LIST",
+  "pages": [
+   {
+    "url": "https://www.bt.com/careers",
+    "final": "https://jobs.bt.com/"
+   },
+   {
+    "url": "https://jobs.bt.com/platform/bootstrap/3.4.8_NES/css/bootstrap.min.css",
+    "final": "https://jobs.bt.com/platform/bootstrap/3.4.8_NES/css/bootstrap.min.css"
+   },
+   {
+    "url": "https://rmkcdn.successfactors.com/44ea18da/9fca4db2-e1ef-49b8-8bc2-c.svg",
+    "final": "https://rmkcdn.successfactors.com/44ea18da/9fca4db2-e1ef-49b8-8bc2-c.svg"
+   },
+   {
+    "url": "https://jobs.bt.com",
+    "final": "https://jobs.bt.com"
+   },
+   {
+    "url": "https://jobs.bt.com/content/Students-and-Graduates/?locale=en_GB",
+    "final": "https://jobs.bt.com/content/Students-and-Graduates/?locale=en_GB"
+   },
+   {
+    "url": "https://jobs.bt.com/lp/HER/1bff33b6ac656809/",
+    "final": "https://jobs.bt.com/lp/HER/1bff33b6ac656809/"
+   },
+   {
+    "url": "https://jobs.bt.com/go/Search-roles/9050302/",
+    "final": "https://jobs.bt.com/go/Search-roles/9050302/"
+   },
+   {
+    "url": "https://jobs.bt.com/search/?q=&amp;locationsearch=&amp;searchResultView=LIST",
+    "final": "https://jobs.bt.com/search/?q=&amp;locationsearch=&amp;searchResultView=LIST"
+   }
+  ]
+ },
+ {
+  "name": "Sky",
+  "url": "https://careers.sky.com/",
+  "ats": [
+   {
+    "ats": "workday",
+    "ids": [
+     "sky",
+     "wd3",
+     "sky_careers"
+    ]
+   }
+  ],
+  "markers": [],
+  "final": "https://careers.sky.com/_next/static/css/1af44f9056b77a13.css",
+  "pages": [
+   {
+    "url": "https://careers.sky.com/",
+    "final": "https://careers.sky.com/"
+   },
+   {
+    "url": "https://www.datocms-assets.com/104939/1701860345-1a_home_header.jpg",
+    "final": "https://www.datocms-assets.com/104939/1701860345-1a_home_header.jpg"
+   },
+   {
+    "url": "https://careers.sky.com/en/earlycareers",
+    "error": "HTTP Error 404: Not Found"
+   },
+   {
+    "url": "https://earlycareers.sky.com/",
+    "final": "https://careers.sky.com/earlycareers"
+   },
+   {
+    "url": "https://careers.sky.com/en/jobs",
+    "error": "HTTP Error 404: Not Found"
+   },
+   {
+    "url": "https://careers.sky.com/cz",
+    "final": "https://careers.sky.com/cz"
+   },
+   {
+    "url": "https://careers.sky.com/ie",
+    "final": "https://careers.sky.com/ie"
+   },
+   {
+    "url": "https://careers.sky.com/_next/static/css/1af44f9056b77a13.css",
+    "final": "https://careers.sky.com/_next/static/css/1af44f9056b77a13.css"
+   }
+  ]
+ },
+ {
+  "name": "BAE Systems",
+  "url": "https://www.baesystems.com/en-uk/careers",
+  "ats": [],
+  "markers": [],
+  "final": "https://www.baesystems.com/en-uk/careers",
+  "pages": [
+   {
+    "url": "https://www.baesystems.com/en-uk/careers",
+    "final": "https://www.baesystems.com/en-uk/careers"
+   }
+  ]
+ },
+ {
+  "name": "Rolls-Royce",
+  "url": "https://careers.rolls-royce.com/",
+  "ats": [],
+  "markers": [],
+  "final": "https://careers.rolls-royce.com/en/~/media/BF7D07DAA102403BB4647ACDBF832ECC.ico",
+  "pages": [
+   {
+    "url": "https://careers.rolls-royce.com/",
+    "final": "https://careers.rolls-royce.com/en"
+   },
+   {
+    "url": "https://careers.rolls-royce.com/~/media/BF7D07DAA102403BB4647ACDBF832ECC.ico",
+    "final": "https://careers.rolls-royce.com/~/media/BF7D07DAA102403BB4647ACDBF832ECC.ico"
+   },
+   {
+    "url": "https://careers.rolls-royce.com/en/jobs",
+    "final": "https://careers.rolls-royce.com/en/jobs"
+   },
+   {
+    "url": "https://careers.rolls-royce.com/en/jobs?seniority=Intern_Graduate",
+    "final": "https://careers.rolls-royce.com/en/jobs?seniority=Intern_Graduate"
+   },
+   {
+    "url": "https://pages.hireez.com/rolls-royce/ao-technicians-singapore?source=CareerSite",
+    "final": "https://pages.hireez.com/rolls-royce/ao-technicians-singapore?source=CareerSite"
+   },
+   {
+    "url": "https://careers.rolls-royce.com/en/jobs?search=Engineer",
+    "final": "https://careers.rolls-royce.com/en/jobs?search=Engineer"
+   },
+   {
+    "url": "https://careers.rolls-royce.com/en/jobs?search=Indianapolis",
+    "final": "https://careers.rolls-royce.com/en/jobs?search=Indianapolis"
+   },
+   {
+    "url": "https://careers.rolls-royce.com/en/~/media/BF7D07DAA102403BB4647ACDBF832ECC.ico",
+    "final": "https://careers.rolls-royce.com/en/~/media/BF7D07DAA102403BB4647ACDBF832ECC.ico"
+   }
+  ]
+ },
+ {
+  "name": "Diageo",
+  "url": "https://www.diageo.com/en/careers",
+  "ats": [
+   {
+    "ats": "workday",
+    "ids": [
+     "diageo",
+     "wd3",
+     "Diageo_Careers"
+    ]
+   }
+  ],
+  "markers": [],
+  "final": "https://www.diageo.com/en/careers",
+  "pages": [
+   {
+    "url": "https://www.diageo.com/en/careers",
+    "final": "https://www.diageo.com/en/careers"
+   }
+  ]
+ },
+ {
+  "name": "Reckitt",
+  "url": "https://careers.reckitt.com/",
+  "ats": [
+   {
+    "ats": "successfactors",
+    "ids": [
+     "career2.successfactors.eu",
+     "reckittb01"
+    ]
+   }
+  ],
+  "markers": [
+   "sf_rmk"
+  ],
+  "final": "https://careers.reckitt.com/",
+  "pages": [
+   {
+    "url": "https://careers.reckitt.com/",
+    "final": "https://careers.reckitt.com/"
+   }
+  ]
+ },
+ {
+  "name": "Compass Group UK",
+  "url": "https://www.compass-group.co.uk/careers/",
+  "ats": [],
+  "markers": [],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://www.compass-group.co.uk/careers/",
+    "error": "HTTP Error 404: Not Found"
+   }
+  ]
+ },
+ {
+  "name": "Rentokil Initial",
+  "url": "https://www.rentokil-initial.com/careers",
+  "ats": [
+   {
+    "ats": "smartrecruiters",
+    "ids": [
+     "RentokilInitial1"
+    ]
+   }
+  ],
+  "markers": [],
+  "final": "https://careers.rentokil-initial.com/",
+  "pages": [
+   {
+    "url": "https://www.rentokil-initial.com/careers",
+    "final": "https://careers.rentokil-initial.com/"
+   }
+  ]
+ },
+ {
+  "name": "Bupa",
+  "url": "https://careers.bupa.co.uk/",
+  "ats": [
+   {
+    "ats": "workday",
+    "ids": [
+     "bupa",
+     "wd3",
+     "BGUK_Event_Landing"
+    ]
+   }
+  ],
+  "markers": [],
+  "final": "https://careers.bupa.co.uk/",
+  "pages": [
+   {
+    "url": "https://careers.bupa.co.uk/",
+    "final": "https://careers.bupa.co.uk/"
+   }
+  ]
+ },
+ {
+  "name": "Network Rail",
+  "url": "https://www.networkrail.co.uk/careers/",
+  "ats": [],
+  "markers": [],
+  "final": "https://www.networkrail.co.uk/industry-and-commercial/research-development-and-technology/research-and-development-programme/",
+  "pages": [
+   {
+    "url": "https://www.networkrail.co.uk/careers/",
+    "final": "https://www.networkrail.co.uk/careers/"
+   },
+   {
+    "url": "https://www.networkrail.co.uk/industry-and-commercial/research-development-and-technology/",
+    "final": "https://www.networkrail.co.uk/industry-and-commercial/research-development-and-technology/"
+   },
+   {
+    "url": "https://www.networkrail.co.uk/careers/early-careers/",
+    "final": "https://www.networkrail.co.uk/careers/early-careers/"
+   },
+   {
+    "url": "https://www.networkrail.co.uk/careers/at-school/",
+    "final": "https://www.networkrail.co.uk/careers/at-school/"
+   },
+   {
+    "url": "https://apxprodnwrl.opc.oracleoutsourcing.com/ords/r/xxapex/recruitment-external-candidate/home",
+    "final": "https://apxprodnwrl.opc.oracleoutsourcing.com/ords/r/xxapex/recruitment-external-candidate/home"
+   },
+   {
+    "url": "https://www.networkrail.co.uk/industry-and-commercial/research-development-and-technology/our-strategy-for-research-development-and-technology-rdt/",
+    "final": "https://www.networkrail.co.uk/industry-and-commercial/research-development-and-technology/our-strategy-for-research-development-and-technology-rdt/"
+   },
+   {
+    "url": "https://www.networkrail.co.uk/industry-and-commercial/research-development-and-technology/test-tracks/",
+    "final": "https://www.networkrail.co.uk/industry-and-commercial/research-development-and-technology/test-tracks/"
+   },
+   {
+    "url": "https://www.networkrail.co.uk/industry-and-commercial/research-development-and-technology/research-and-development-programme/",
+    "final": "https://www.networkrail.co.uk/industry-and-commercial/research-development-and-technology/research-and-development-programme/"
+   }
+  ]
+ },
+ {
+  "name": "Royal Mail",
+  "url": "https://www.royalmailgroup.com/en/careers/",
+  "ats": [],
+  "markers": [],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://www.royalmailgroup.com/en/careers/",
+    "error": "HTTP Error 404: Not Found"
+   }
+  ]
+ },
+ {
+  "name": "John Lewis Partnership",
+  "url": "https://www.jlpjobs.com/",
+  "ats": [
+   {
+    "ats": "workday",
+    "ids": [
+     "jlp",
+     "wd3",
+     "JLPjobs_careers"
+    ]
+   }
+  ],
+  "markers": [],
+  "final": "https://www.jlpjobs.com/",
+  "pages": [
+   {
+    "url": "https://www.jlpjobs.com/",
+    "final": "https://www.jlpjobs.com/"
+   }
+  ]
+ },
+ {
+  "name": "Marks & Spencer",
+  "url": "https://jobs.marksandspencer.com/",
+  "ats": [
+   {
+    "ats": "oracle",
+    "ids": [
+     "fa-eqid-saasfaprod1.fa.ocs.oraclecloud.com",
+     "CX_1"
+    ]
+   }
+  ],
+  "markers": [],
+  "final": "https://jobs.marksandspencer.com/",
+  "pages": [
+   {
+    "url": "https://jobs.marksandspencer.com/",
+    "final": "https://jobs.marksandspencer.com/"
+   }
+  ]
+ },
+ {
+  "name": "Next",
+  "url": "https://careers.next.co.uk/",
+  "ats": [
+   {
+    "ats": "oracle",
+    "ids": [
+     "ekeq.fa.em2.oraclecloud.com",
+     "CX_3001"
+    ]
+   }
+  ],
+  "markers": [],
+  "final": "https://careers.next.co.uk/",
+  "pages": [
+   {
+    "url": "https://careers.next.co.uk/",
+    "final": "https://careers.next.co.uk/"
+   }
+  ]
+ },
+ {
+  "name": "Boots",
+  "url": "https://www.boots.jobs/",
+  "ats": [],
+  "markers": [],
+  "final": "https://www.boots.jobs/search-jobs",
+  "pages": [
+   {
+    "url": "https://www.boots.jobs/",
+    "final": "https://www.boots.jobs/"
+   },
+   {
+    "url": "https://www.boots.jobs/wp-content/themes/boots-pharmacy/img/icons/favicon.ico",
+    "final": "https://www.boots.jobs/wp-content/themes/boots-pharmacy/img/icons/favicon.ico"
+   },
+   {
+    "url": "https://www.boots.jobs/saved-jobs",
+    "final": "https://www.boots.jobs/saved-jobs"
+   },
+   {
+    "url": "https://www.boots.jobs/search-jobs/",
+    "final": "https://www.boots.jobs/search-jobs/"
+   },
+   {
+    "url": "https://www.boots.jobs/user-guide",
+    "final": "https://www.boots.jobs/user-guide"
+   },
+   {
+    "url": "https://www.boots.jobs/faq",
+    "final": "https://www.boots.jobs/faq"
+   },
+   {
+    "url": "https://www.boots.jobs/retail",
+    "final": "https://www.boots.jobs/retail"
+   },
+   {
+    "url": "https://www.boots.jobs/search-jobs",
+    "final": "https://www.boots.jobs/search-jobs"
+   }
+  ]
+ },
+ {
+  "name": "Kingfisher (B&Q, Screwfix)",
+  "url": "https://www.kingfisher.com/en/careers.html",
+  "ats": [],
+  "markers": [],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://www.kingfisher.com/en/careers.html",
+    "error": "HTTP Error 404: Not Found"
+   }
+  ]
+ },
+ {
+  "name": "Whitbread",
+  "url": "https://www.whitbreadcareers.com/",
+  "ats": [],
+  "markers": [],
+  "final": "https://www.whitbreadcareers.com/roles/contact-centre/",
+  "pages": [
+   {
+    "url": "https://www.whitbreadcareers.com/",
+    "final": "https://www.whitbreadcareers.com/"
+   },
+   {
+    "url": "https://www.whitbreadcareers.com/search-and-apply/",
+    "final": "https://www.whitbreadcareers.com/search-and-apply/"
+   },
+   {
+    "url": "https://www.whitbreadcareers.com/roles/",
+    "final": "https://www.whitbreadcareers.com/roles/"
+   },
+   {
+    "url": "https://www.whitbreadcareers.com/roles/team-members/",
+    "final": "https://www.whitbreadcareers.com/roles/team-members/"
+   },
+   {
+    "url": "https://www.whitbreadcareers.com/roles/chefs/",
+    "final": "https://www.whitbreadcareers.com/roles/chefs/"
+   },
+   {
+    "url": "https://www.whitbreadcareers.com/roles/whitbread-tech/",
+    "final": "https://www.whitbreadcareers.com/roles/whitbread-tech/"
+   },
+   {
+    "url": "https://www.whitbreadcareers.com/roles/support-centre/",
+    "final": "https://www.whitbreadcareers.com/roles/support-centre/"
+   },
+   {
+    "url": "https://www.whitbreadcareers.com/roles/contact-centre/",
+    "final": "https://www.whitbreadcareers.com/roles/contact-centre/"
+   }
+  ]
+ },
+ {
+  "name": "Mitie",
+  "url": "https://www.mitie.com/careers/",
+  "ats": [],
+  "markers": [],
+  "final": "https://careers.mitie.com/jobs/login/",
+  "pages": [
+   {
+    "url": "https://www.mitie.com/careers/",
+    "final": "https://www.mitie.com/about-us/jobs-at-mitie/"
+   },
+   {
+    "url": "https://www.mitie.com/wp-content/themes/mitie/assets/fonts/GillSansMTPro-Book.woff2",
+    "final": "https://www.mitie.com/wp-content/themes/mitie/assets/fonts/GillSansMTPro-Book.woff2"
+   },
+   {
+    "url": "https://www.mitie.com/about-us/jobs-at-mitie/",
+    "final": "https://www.mitie.com/about-us/jobs-at-mitie/"
+   },
+   {
+    "url": "https://careers.mitie.com/jobs/",
+    "final": "https://careers.mitie.com/jobs/home/"
+   },
+   {
+    "url": "https://www.mitie.com/about-us/jobs-at-mitie/?video=discover-how-we-are-the-future-of-high-performing-places",
+    "final": "https://www.mitie.com/about-us/jobs-at-mitie/?video=discover-how-we-are-the-future-of-high-performing-places"
+   },
+   {
+    "url": "https://careers.mitie.com/jobs/home/",
+    "final": "https://careers.mitie.com/jobs/home/"
+   },
+   {
+    "url": "https://careers.mitie.com/jobs/custom/Mitie_02/Assets/Images/Icons/favicon.ico",
+    "final": "https://careers.mitie.com/jobs/custom/Mitie_02/Assets/Images/Icons/favicon.ico"
+   },
+   {
+    "url": "https://careers.mitie.com/jobs/login/",
+    "final": "https://careers.mitie.com/jobs/login/"
+   }
+  ]
+ },
+ {
+  "name": "Serco",
+  "url": "https://www.serco.com/uk/careers",
+  "ats": [],
+  "markers": [],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://www.serco.com/uk/careers",
+    "error": "HTTP Error 403: Forbidden"
+   }
+  ]
+ },
+ {
+  "name": "Capita",
+  "url": "https://www.capita.com/careers",
+  "ats": [],
+  "markers": [],
+  "final": "https://www.capita.com/careers",
+  "pages": [
+   {
+    "url": "https://www.capita.com/careers",
+    "final": "https://www.capita.com/careers"
+   }
+  ]
+ },
+ {
+  "name": "Jaguar Land Rover",
+  "url": "https://www.jaguarlandrovercareers.com/",
+  "ats": [
+   {
+    "ats": "successfactors",
+    "ids": [
+     "career5.successfactors.eu",
+     "C0001130632P"
+    ]
+   }
+  ],
+  "markers": [
+   "sf_rmk"
+  ],
+  "final": "https://www.jaguarlandrovercareers.com/",
+  "pages": [
+   {
+    "url": "https://www.jaguarlandrovercareers.com/",
+    "final": "https://www.jaguarlandrovercareers.com/"
+   }
+  ]
+ },
+ {
+  "name": "Centrica (British Gas)",
+  "url": "https://www.centrica.com/careers/",
+  "ats": [
+   {
+    "ats": "workday",
+    "ids": [
+     "centrica",
+     "wd3",
+     "Centrica"
+    ]
+   }
+  ],
+  "markers": [],
+  "final": "https://www.lifeatcentrica.com/jobs/r0090549/revenue-protection-performance-manager/",
+  "pages": [
+   {
+    "url": "https://www.centrica.com/careers/",
+    "final": "https://www.lifeatcentrica.com/"
+   },
+   {
+    "url": "https://cdnjs.cloudflare.com/",
+    "final": "https://cdnjs.cloudflare.com/"
+   },
+   {
+    "url": "https://www.lifeatcentrica.com/jobs/",
+    "final": "https://www.lifeatcentrica.com/jobs/"
+   },
+   {
+    "url": "https://www.lifeatcentrica.com/why-join-us/",
+    "final": "https://www.lifeatcentrica.com/why-join-us/"
+   },
+   {
+    "url": "https://www.lifeatcentrica.com/belonging-growth/your-career/",
+    "final": "https://www.lifeatcentrica.com/belonging-growth/your-career/"
+   },
+   {
+    "url": "https://www.lifeatcentrica.com/jobs/saved-jobs/",
+    "final": "https://www.lifeatcentrica.com/jobs/saved-jobs/"
+   },
+   {
+    "url": "https://www.lifeatcentrica.com/jobs/r0090148/research-engineer-connectivity-smart-devices/",
+    "final": "https://www.lifeatcentrica.com/jobs/r0090148/research-engineer-connectivity-smart-devices/"
+   },
+   {
+    "url": "https://www.lifeatcentrica.com/jobs/r0090549/revenue-protection-performance-manager/",
+    "final": "https://www.lifeatcentrica.com/jobs/r0090549/revenue-protection-performance-manager/"
+   }
+  ]
+ },
+ {
+  "name": "National Grid",
+  "url": "https://careers.nationalgrid.com/",
+  "ats": [],
+  "markers": [],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://careers.nationalgrid.com/",
+    "error": "HTTP Error 403: Forbidden"
+   }
+  ]
+ },
+ {
+  "name": "SSE",
+  "url": "https://careers.sse.com/",
+  "ats": [],
+  "markers": [],
+  "final": "https://careers.sse.com/",
+  "pages": [
+   {
+    "url": "https://careers.sse.com/",
+    "final": "https://careers.sse.com/"
+   }
+  ]
+ },
+ {
+  "name": "EDF UK",
+  "url": "https://www.edfenergy.com/careers",
+  "ats": [],
+  "markers": [],
+  "final": "https://careers.edfenergy.com/job/emergency-preparedness-industrial-placement-in-morecambe-jid-2358",
+  "pages": [
+   {
+    "url": "https://www.edfenergy.com/careers",
+    "final": "https://careers.edfenergy.com/"
+   },
+   {
+    "url": "https://attraxcdnprod1-freshed3dgayb7c3.z01.azurefd.net/1481212/bf10964d-3108-4a11-a60e-0374d019fd96/2026.3.4.20637/Blob/favicon.ico",
+    "final": "https://attraxcdnprod1-freshed3dgayb7c3.z01.azurefd.net/1481212/bf10964d-3108-4a11-a60e-0374d019fd96/2026.3.4.20637/Blob/favicon.ico"
+   },
+   {
+    "url": "https://careers.edfenergy.com/jobs",
+    "final": "https://careers.edfenergy.com/jobs"
+   },
+   {
+    "url": "https://careers.edfenergy.com/job/station-guide-in-hartlepool-jid-2405",
+    "final": "https://careers.edfenergy.com/job/station-guide-in-hartlepool-jid-2405"
+   },
+   {
+    "url": "https://careers.edfenergy.com/job/prepare-for-operations-manager-in-edinburgh-jid-2382",
+    "final": "https://careers.edfenergy.com/job/prepare-for-operations-manager-in-edinburgh-jid-2382"
+   },
+   {
+    "url": "https://careers.edfenergy.com/job/industrial-safety-engineer-in-leiston-jid-1895",
+    "final": "https://careers.edfenergy.com/job/industrial-safety-engineer-in-leiston-jid-1895"
+   },
+   {
+    "url": "https://careers.edfenergy.com/job/prepare-for-operations-manager-in-sunderland-jid-2383",
+    "final": "https://careers.edfenergy.com/job/prepare-for-operations-manager-in-sunderland-jid-2383"
+   },
+   {
+    "url": "https://careers.edfenergy.com/job/emergency-preparedness-industrial-placement-in-morecambe-jid-2358",
+    "final": "https://careers.edfenergy.com/job/emergency-preparedness-industrial-placement-in-morecambe-jid-2358"
+   }
+  ]
+ },
+ {
+  "name": "Deloitte UK",
+  "url": "https://www.deloitte.com/uk/en/careers.html",
+  "ats": [
+   {
+    "ats": "avature",
+    "ids": [
+     "deloitteuk.avature.net"
+    ]
+   }
+  ],
+  "markers": [],
+  "final": "https://www.deloitte.com/uk/en/careers/search-jobs.html?icid=top_search-jobs",
+  "pages": [
+   {
+    "url": "https://www.deloitte.com/uk/en/careers.html",
+    "final": "https://www.deloitte.com/uk/en/careers.html"
+   },
+   {
+    "url": "https://fonts.googleapis.com",
+    "error": "HTTP Error 404: Not Found"
+   },
+   {
+    "url": "https://www.deloitte.com/uk/en/careers.html?icid=top_careers",
+    "final": "https://www.deloitte.com/uk/en/careers.html?icid=top_careers"
+   },
+   {
+    "url": "https://www.deloitte.com/uk/en/careers/early-careers.html?icid=top_early-careers",
+    "final": "https://www.deloitte.com/uk/en/careers/early-careers.html?icid=top_early-careers"
+   },
+   {
+    "url": "https://www.deloitte.com/uk/en/careers/professional-careers.html?icid=top_professional-careers",
+    "final": "https://www.deloitte.com/uk/en/careers/professional-careers.html?icid=top_professional-careers"
+   },
+   {
+    "url": "https://www.deloitte.com/uk/en/careers/contracting-at-deloitte.html?icid=top_contracting-at-deloitte",
+    "final": "https://www.deloitte.com/uk/en/careers/contracting-at-deloitte.html?icid=top_contracting-at-deloitte"
+   },
+   {
+    "url": "https://www.deloitte.com/uk/en/careers/meet-our-people.html?icid=top_meet-our-people",
+    "final": "https://www.deloitte.com/uk/en/careers/meet-our-people.html?icid=top_meet-our-people"
+   },
+   {
+    "url": "https://www.deloitte.com/uk/en/careers/search-jobs.html?icid=top_search-jobs",
+    "final": "https://www.deloitte.com/uk/en/careers/search-jobs.html?icid=top_search-jobs"
+   }
+  ]
+ },
+ {
+  "name": "PwC UK",
+  "url": "https://www.pwc.co.uk/careers.html",
+  "ats": [],
+  "markers": [],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://www.pwc.co.uk/careers.html",
+    "error": "HTTP Error 403: Forbidden"
+   }
+  ]
+ },
+ {
+  "name": "KPMG UK",
+  "url": "https://www.kpmgcareers.co.uk/",
+  "ats": [],
+  "markers": [],
+  "final": "https://www.kpmgcareers.co.uk/",
+  "pages": [
+   {
+    "url": "https://www.kpmgcareers.co.uk/",
+    "final": "https://www.kpmgcareers.co.uk/"
+   },
+   {
+    "url": "https://www.kpmgcareers.co.uk/graduate/",
+    "final": "https://www.kpmgcareers.co.uk/graduate/"
+   },
+   {
+    "url": "https://www.kpmgcareers.co.uk/apprentice/",
+    "final": "https://www.kpmgcareers.co.uk/apprentice/"
+   },
+   {
+    "url": "https://www.kpmgcareers.co.uk/search/",
+    "final": "https://www.kpmgcareers.co.uk/search/"
+   },
+   {
+    "url": "https://student.kpmgcareers.co.uk/talentcommunity",
+    "final": "https://student.kpmgcareers.co.uk/talentcommunity?cookieCheck=true"
+   },
+   {
+    "url": "https://www.instagram.com/kpmgukcareers/",
+    "error": "HTTP Error 429: Too Many Requests"
+   },
+   {
+    "url": "https://www.youtube.com/@KPMGUKCareers",
+    "final": "https://www.youtube.com/@KPMGUKCareers"
+   },
+   {
+    "url": "http://www.kpmgcareers.co.uk/",
+    "final": "https://www.kpmgcareers.co.uk/"
+   }
+  ]
+ },
+ {
+  "name": "EY UK",
+  "url": "https://www.ey.com/en_uk/careers",
+  "ats": [],
+  "markers": [],
+  "final": "https://www.ey.com/en_uk/careers/what-you-can-do-here/tax",
+  "pages": [
+   {
+    "url": "https://www.ey.com/en_uk/careers",
+    "final": "https://www.ey.com/en_uk/careers"
+   },
+   {
+    "url": "https://www.ey.com/content/dam/ey-unified-site/icon/ey-favicon.jpg",
+    "final": "https://www.ey.com/content/dam/ey-unified-site/icon/ey-favicon.jpg"
+   },
+   {
+    "url": "https://www.ey.com/en_uk/careers/what-you-can-do-here",
+    "final": "https://www.ey.com/en_uk/careers/what-you-can-do-here"
+   },
+   {
+    "url": "https://www.ey.com/en_uk/careers/what-you-can-do-here/assurance",
+    "final": "https://www.ey.com/en_uk/careers/what-you-can-do-here/assurance"
+   },
+   {
+    "url": "https://www.ey.com/en_uk/careers/what-you-can-do-here/core-business-services",
+    "final": "https://www.ey.com/en_uk/careers/what-you-can-do-here/core-business-services"
+   },
+   {
+    "url": "https://www.ey.com/en_uk/careers/what-you-can-do-here/consulting",
+    "final": "https://www.ey.com/en_uk/careers/what-you-can-do-here/consulting"
+   },
+   {
+    "url": "https://www.ey.com/en_uk/careers/parthenon",
+    "final": "https://www.ey.com/en_uk/careers/parthenon"
+   },
+   {
+    "url": "https://www.ey.com/en_uk/careers/what-you-can-do-here/tax",
+    "final": "https://www.ey.com/en_uk/careers/what-you-can-do-here/tax"
+   }
+  ]
+ },
+ {
+  "name": "Experian",
+  "url": "https://www.experianplc.com/careers",
+  "ats": [],
+  "markers": [],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://www.experianplc.com/careers",
+    "error": "HTTP Error 404: Not Found"
+   }
+  ]
+ },
+ {
+  "name": "RELX",
+  "url": "https://www.relx.com/careers",
+  "ats": [
+   {
+    "ats": "workday",
+    "ids": [
+     "relx",
+     "wd3",
+     "relx"
+    ]
+   }
+  ],
+  "markers": [],
+  "final": "https://www.relx.com/careers/meet-our-people",
+  "pages": [
+   {
+    "url": "https://www.relx.com/careers",
+    "final": "https://www.relx.com/careers"
+   },
+   {
+    "url": "https://www.relx.com/careers/why-relx",
+    "final": "https://www.relx.com/careers/why-relx"
+   },
+   {
+    "url": "https://www.relx.com/careers/experienced-professional",
+    "final": "https://www.relx.com/careers/experienced-professional"
+   },
+   {
+    "url": "https://www.relx.com/careers/graduates-and-early-careers",
+    "final": "https://www.relx.com/careers/graduates-and-early-careers"
+   },
+   {
+    "url": "https://www.relx.com/careers/join-us",
+    "final": "https://www.relx.com/careers/join-us"
+   },
+   {
+    "url": "https://www.relx.com/careers/meet-our-people",
+    "final": "https://www.relx.com/careers/meet-our-people"
+   }
+  ]
+ },
+ {
+  "name": "Pearson",
+  "url": "https://www.pearson.com/en-gb/careers.html",
+  "ats": [],
+  "markers": [],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://www.pearson.com/en-gb/careers.html",
+    "error": "HTTP Error 403: Forbidden"
+   }
+  ]
+ },
+ {
+  "name": "Burberry",
+  "url": "https://careers.burberry.com/",
+  "ats": [],
+  "markers": [],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://careers.burberry.com/",
+    "error": "<urlopen error [Errno -2] Name or service not known>"
+   }
+  ]
+ },
+ {
+  "name": "Ocado Group",
+  "url": "https://careers.ocadogroup.com/",
+  "ats": [
+   {
+    "ats": "greenhouse",
+    "ids": [
+     "ocadogroup"
+    ]
+   },
+   {
+    "ats": "greenhouse",
+    "ids": [
+     "embed"
+    ]
+   }
+  ],
+  "markers": [],
+  "final": "https://www.ocado-logistics.com/job-listing",
+  "pages": [
+   {
+    "url": "https://careers.ocadogroup.com/",
+    "final": "https://careers.ocadogroup.com/"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com",
+    "error": "HTTP Error 403: Forbidden"
+   },
+   {
+    "url": "https://www.ocado-logistics.com/",
+    "final": "https://www.ocado-logistics.com/"
+   },
+   {
+    "url": "https://careers.ocadogroup.com/teams/early-careers",
+    "final": "https://careers.ocadogroup.com/teams/early-careers"
+   },
+   {
+    "url": "https://careers.ocadogroup.com/jobs",
+    "final": "https://careers.ocadogroup.com/jobs"
+   },
+   {
+    "url": "https://careers.ocadogroup.com/jobs/GH-4254627101?gh_jid=4254627101",
+    "final": "https://careers.ocadogroup.com/jobs/details?gh_jid=4254627101"
+   },
+   {
+    "url": "https://www.ocado-logistics.com/team-categories/warehouse-roles",
+    "final": "https://www.ocado-logistics.com/team-categories/warehouse-roles"
+   },
+   {
+    "url": "https://www.ocado-logistics.com/job-listing",
+    "final": "https://www.ocado-logistics.com/job-listing"
+   }
+  ]
+ },
+ {
+  "name": "Lidl GB",
+  "url": "https://careers.lidl.co.uk/",
+  "ats": [
+   {
+    "ats": "successfactors",
+    "ids": [
+     "career5.successfactors.eu",
+     "lidlstiftuP2"
+    ]
+   }
+  ],
+  "markers": [],
+  "final": "https://careers.lidl.co.uk/",
+  "pages": [
+   {
+    "url": "https://careers.lidl.co.uk/",
+    "final": "https://careers.lidl.co.uk/"
+   }
+  ]
+ },
+ {
+  "name": "Aldi UK",
+  "url": "https://www.aldirecruitment.co.uk/",
+  "ats": [],
+  "markers": [],
+  "final": "https://www.aldirecruitment.co.uk/early-careers/apprenticeships",
+  "pages": [
+   {
+    "url": "https://www.aldirecruitment.co.uk/",
+    "final": "https://www.aldirecruitment.co.uk/"
+   },
+   {
+    "url": "https://www.aldirecruitment.co.uk/dist/css/screen.css?v=eFJpbgA-dC0kqwW7GRZMk2qQ6SpezMpJYpdTu3ZHjiE",
+    "final": "https://www.aldirecruitment.co.uk/dist/css/screen.css?v=eFJpbgA-dC0kqwW7GRZMk2qQ6SpezMpJYpdTu3ZHjiE"
+   },
+   {
+    "url": "https://careers.aldirecruitment.co.uk/vacancies/vacancy-search-results.aspx",
+    "error": "HTTP Error 403: Forbidden"
+   },
+   {
+    "url": "https://www.aldirecruitment.co.uk/roles/stores",
+    "final": "https://www.aldirecruitment.co.uk/roles/stores"
+   },
+   {
+    "url": "https://www.aldirecruitment.co.uk/roles/warehouse-transport",
+    "final": "https://www.aldirecruitment.co.uk/roles/warehouse-transport"
+   },
+   {
+    "url": "https://www.aldirecruitment.co.uk/roles/head-office",
+    "final": "https://www.aldirecruitment.co.uk/roles/head-office"
+   },
+   {
+    "url": "https://www.aldirecruitment.co.uk/roles/area-managers",
+    "final": "https://www.aldirecruitment.co.uk/roles/area-managers"
+   },
+   {
+    "url": "https://www.aldirecruitment.co.uk/early-careers/apprenticeships",
+    "final": "https://www.aldirecruitment.co.uk/early-careers/apprenticeships"
+   }
+  ]
+ },
+ {
+  "name": "Primark",
+  "url": "https://careers.primark.com/",
+  "ats": [],
+  "markers": [
+   "radancy"
+  ],
+  "final": "https://careers.primark.com/sl/save-jobs",
+  "pages": [
+   {
+    "url": "https://careers.primark.com/",
+    "final": "https://careers.primark.com/en"
+   },
+   {
+    "url": "https://internalcareers.primark.com/en",
+    "final": "https://login.microsoftonline.com:443/aea37347-50ba-4d20-8681-47eaedfab1f8/saml2?SAMLRequest=jZA9b4MwFEX3%2fArLu7ExEIIFRJG6REqWpqqqLpWDHUACO%2fUzJf33ddIPdWvXJ537zr3l%2bjIO6E076K2pcBwxjLRprOpNW%2bHJn0i8xOt6UW4m35l7%2fTpp8CgwBsQF%2bgp33p8FpfM8R3MSWddSzlhMn%2fa7Q9PpUZLegJem0fiHUn9TGG3vKvxS5KrImG5IWhwVSZWOiVxlCeEylak6Sn7iCUaP3%2fb8ar8FmPT29tSHE%2bNLEjMS5w8sE5wJnkX5apmF%2b%2fOXUajpjLASehBGjhqEb8Rhs9%2bJkCfOznrb2AHXC4TKW7j7DycBtPNBC9fXshDaDrbtTeSkCnO8R0Z7CueSfkaGhenviesP&RelayState=https%3a%2f%2finternalcareers.primark.com%2fen%2f"
+   },
+   {
+    "url": "https://careers.primark.com/en/save-jobs",
+    "final": "https://careers.primark.com/en/save-jobs"
+   },
+   {
+    "url": "https://careers.primark.com/en/early-careers",
+    "final": "https://careers.primark.com/en/early-careers"
+   },
+   {
+    "url": "https://careers.primark.com/in-store",
+    "final": "https://careers.primark.com/en/in-store"
+   },
+   {
+    "url": "https://careers.primark.com/head-office",
+    "final": "https://careers.primark.com/en/head-office"
+   },
+   {
+    "url": "https://careers.primark.com/digital-tech-and-data",
+    "final": "https://careers.primark.com/en/digital-tech-and-data"
+   },
+   {
+    "url": "https://careers.primark.com/sl/save-jobs",
+    "final": "https://careers.primark.com/sl/save-jobs"
+   }
+  ]
+ },
+ {
+  "name": "Amazon UK",
+  "url": "https://www.amazon.jobs/en/locations/uk-0",
+  "ats": [],
+  "markers": [],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://www.amazon.jobs/en/locations/uk-0",
+    "error": "HTTP Error 404: Not Found"
+   }
+  ]
+ },
+ {
+  "name": "Accenture UK",
+  "url": "https://www.accenture.com/gb-en/careers",
+  "ats": [
+   {
+    "ats": "workday",
+    "ids": [
+     "accenture",
+     "wd103",
+     "AccentureCareers"
+    ]
+   }
+  ],
+  "markers": [],
+  "final": "https://www.accenture.com/gb-en/careers",
+  "pages": [
+   {
+    "url": "https://www.accenture.com/gb-en/careers",
+    "final": "https://www.accenture.com/gb-en/careers"
+   }
+  ]
+ }
+]
