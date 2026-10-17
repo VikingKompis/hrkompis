@@ -343,7 +343,7 @@ def adzuna():
     aid, key = os.environ.get('ADZUNA_APP_ID'), os.environ.get('ADZUNA_APP_KEY')
     if not aid or not key:
         raise Skip('no Adzuna key configured')
-    pages = dict((c, int(n)) for c, n in (x.split(':') for x in (os.environ.get('ADZUNA_PAGES') or 'gb:20,de:10,nl:6').split(',') if x))
+    pages = dict((c, int(n)) for c, n in (x.split(':') for x in (os.environ.get('ADZUNA_PAGES') or 'gb:20,de:4,nl:6').split(',') if x))
     days = int(os.environ.get('ADZUNA_DAYS') or 2)
     seen, calls, stopped, new = {}, 0, '', 0
     path = os.path.join(RAW, 'adzuna.json')
