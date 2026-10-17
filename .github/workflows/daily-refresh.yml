@@ -1,0 +1,64 @@
+name: Daily HR jobs refresh
+
+# Runs at 05:00 Stockholm time every day. GitHub schedules in UTC, so both
+# 03:00 and 04:00 UTC are listed and the first step only lets the run that
+# lands on 05:00 local time through (03:00 UTC in summer, 04:00 UTC in winter).
+on:
+  schedule:
+    - cron: "0 3 * * *"
+    - cron: "0 4 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - name: Check it is 05:00 in Stockholm
+        id: gate
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then echo "go=true" >> "$GITHUB_OUTPUT"; exit 0; fi
+          H=$(TZ=Europe/Stockholm date +%H)
+          echo "Stockholm hour: $H"
+          if [ "$H" = "05" ]; then echo "go=true" >> "$GITHUB_OUTPUT"; else echo "go=false" >> "$GITHUB_OUTPUT"; fi
+
+      - uses: actions/checkout@v4
+        if: steps.gate.outputs.go == 'true'
+
+      - uses: actions/setup-python@v5
+        if: steps.gate.outputs.go == 'true'
+        with:
+          python-version: "3.12"
+
+      - name: Fetch HR jobs from all sources
+        if: steps.gate.outputs.go == 'true'
+        run: python scripts/fetch.py
+
+      - name: Classify and build jobs.json
+        if: steps.gate.outputs.go == 'true'
+        run: python scripts/process.py
+
+      - name: Publish today's data
+        if: steps.gate.outputs.go == 'true'
+        run: |
+          git config user.name "hrkompis-bot"
+          git config user.email "hrkompis-bot@users.noreply.github.com"
+          git add data/jobs.json raw/*.json
+          git commit -m "Daily refresh $(TZ=Europe/Stockholm date +%Y-%m-%d)" || echo "No changes"
+          git push
+
+      - name: Flag sources that failed
+        if: steps.gate.outputs.go == 'true'
+        run: |
+          if [ -f raw/problems.txt ]; then
+            echo "::error::Some sources failed today; previous data was kept for them."
+            cat raw/problems.txt
+            exit 1
+          fi
