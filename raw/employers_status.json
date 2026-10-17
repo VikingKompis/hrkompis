@@ -1,0 +1,362 @@
+[
+ {
+  "c": "se",
+  "name": "Volvo Group",
+  "type": "rmk",
+  "jobs": 15,
+  "error": null,
+  "secs": 10
+ },
+ {
+  "c": "se",
+  "name": "Volvo Cars",
+  "type": "rmk",
+  "jobs": 2,
+  "error": null,
+  "secs": 8
+ },
+ {
+  "c": "se",
+  "name": "Scania",
+  "type": "rmk",
+  "jobs": 37,
+  "error": null,
+  "secs": 8
+ },
+ {
+  "c": "se",
+  "name": "Atlas Copco",
+  "type": "rmk",
+  "jobs": 6,
+  "error": null,
+  "secs": 14
+ },
+ {
+  "c": "se",
+  "name": "Axfood",
+  "type": "rmk",
+  "jobs": 58,
+  "error": null,
+  "secs": 8
+ },
+ {
+  "c": "se",
+  "name": "SCA",
+  "type": "rmk",
+  "jobs": 11,
+  "error": null,
+  "secs": 6
+ },
+ {
+  "c": "se",
+  "name": "Getinge",
+  "type": "rmk",
+  "jobs": 6,
+  "error": null,
+  "secs": 12
+ },
+ {
+  "c": "se",
+  "name": "Sandvik",
+  "type": "workday",
+  "jobs": 33,
+  "error": null,
+  "secs": 13
+ },
+ {
+  "c": "se",
+  "name": "Essity",
+  "type": "workday",
+  "jobs": 16,
+  "error": null,
+  "secs": 11
+ },
+ {
+  "c": "se",
+  "name": "Boliden",
+  "type": "workday",
+  "jobs": 22,
+  "error": null,
+  "secs": 10
+ },
+ {
+  "c": "se",
+  "name": "Saab",
+  "type": "workday",
+  "jobs": 164,
+  "error": null,
+  "secs": 15
+ },
+ {
+  "c": "se",
+  "name": "Husqvarna Group",
+  "type": "workday",
+  "jobs": 22,
+  "error": null,
+  "secs": 11
+ },
+ {
+  "c": "se",
+  "name": "Elekta",
+  "type": "workday",
+  "jobs": 10,
+  "error": null,
+  "secs": 11
+ },
+ {
+  "c": "se",
+  "name": "Swedbank",
+  "type": "teamtailor",
+  "jobs": 77,
+  "error": null,
+  "secs": 2
+ },
+ {
+  "c": "se",
+  "name": "Apoteket",
+  "type": "teamtailor",
+  "jobs": 61,
+  "error": null,
+  "secs": 2
+ },
+ {
+  "c": "se",
+  "name": "AstraZeneca",
+  "type": "eightfold",
+  "jobs": 0,
+  "error": "HTTPError: HTTP Error 403: FORBIDDEN",
+  "secs": 0
+ },
+ {
+  "c": "se",
+  "name": "IKEA",
+  "type": "radancy",
+  "jobs": 0,
+  "error": null,
+  "secs": 6
+ },
+ {
+  "c": "se",
+  "name": "ICA Gruppen",
+  "type": "phenom",
+  "jobs": 1,
+  "error": null,
+  "secs": 2
+ },
+ {
+  "c": "se",
+  "name": "ABB",
+  "type": "phenom",
+  "jobs": 57,
+  "error": null,
+  "secs": 4
+ },
+ {
+  "c": "gb",
+  "name": "Asda",
+  "type": "workday",
+  "jobs": 308,
+  "error": null,
+  "secs": 16
+ },
+ {
+  "c": "gb",
+  "name": "Unilever",
+  "type": "workday",
+  "jobs": 6,
+  "error": null,
+  "secs": 13
+ },
+ {
+  "c": "gb",
+  "name": "GSK",
+  "type": "workday",
+  "jobs": 72,
+  "error": null,
+  "secs": 15
+ },
+ {
+  "c": "gb",
+  "name": "BP",
+  "type": "workday",
+  "jobs": 18,
+  "error": null,
+  "secs": 13
+ },
+ {
+  "c": "gb",
+  "name": "Barclays",
+  "type": "workday",
+  "jobs": 123,
+  "error": null,
+  "secs": 35
+ },
+ {
+  "c": "gb",
+  "name": "Lloyds Banking Group",
+  "type": "workday",
+  "jobs": 70,
+  "error": null,
+  "secs": 18
+ },
+ {
+  "c": "gb",
+  "name": "Sky",
+  "type": "workday",
+  "jobs": 0,
+  "error": null,
+  "secs": 13
+ },
+ {
+  "c": "gb",
+  "name": "Rolls-Royce",
+  "type": "workday",
+  "jobs": 57,
+  "error": null,
+  "secs": 15
+ },
+ {
+  "c": "gb",
+  "name": "Diageo",
+  "type": "workday",
+  "jobs": 21,
+  "error": null,
+  "secs": 13
+ },
+ {
+  "c": "gb",
+  "name": "Bupa",
+  "type": "workday",
+  "jobs": 0,
+  "error": "HTTPError: HTTP Error 404: Not Found",
+  "secs": 1
+ },
+ {
+  "c": "gb",
+  "name": "John Lewis Partnership",
+  "type": "workday",
+  "jobs": 80,
+  "error": null,
+  "secs": 19
+ },
+ {
+  "c": "gb",
+  "name": "Centrica",
+  "type": "workday",
+  "jobs": 39,
+  "error": null,
+  "secs": 16
+ },
+ {
+  "c": "gb",
+  "name": "RELX",
+  "type": "workday",
+  "jobs": 112,
+  "error": null,
+  "secs": 16
+ },
+ {
+  "c": "gb",
+  "name": "Accenture",
+  "type": "workday",
+  "jobs": 209,
+  "error": null,
+  "secs": 54
+ },
+ {
+  "c": "gb",
+  "name": "Sainsbury's",
+  "type": "oracle",
+  "jobs": 215,
+  "error": null,
+  "secs": 14
+ },
+ {
+  "c": "gb",
+  "name": "Morrisons",
+  "type": "oracle",
+  "jobs": 288,
+  "error": null,
+  "secs": 14
+ },
+ {
+  "c": "gb",
+  "name": "Marks & Spencer",
+  "type": "oracle",
+  "jobs": 263,
+  "error": null,
+  "secs": 8
+ },
+ {
+  "c": "gb",
+  "name": "Next",
+  "type": "oracle",
+  "jobs": 327,
+  "error": null,
+  "secs": 10
+ },
+ {
+  "c": "gb",
+  "name": "BT Group",
+  "type": "rmk",
+  "jobs": 65,
+  "error": null,
+  "secs": 6
+ },
+ {
+  "c": "gb",
+  "name": "Reckitt",
+  "type": "rmk",
+  "jobs": 7,
+  "error": null,
+  "secs": 9
+ },
+ {
+  "c": "gb",
+  "name": "Jaguar Land Rover",
+  "type": "rmk",
+  "jobs": 10,
+  "error": null,
+  "secs": 8
+ },
+ {
+  "c": "gb",
+  "name": "Rentokil Initial",
+  "type": "smartrecruiters",
+  "jobs": 0,
+  "error": null,
+  "secs": 0
+ },
+ {
+  "c": "gb",
+  "name": "Ocado Group",
+  "type": "greenhouse",
+  "jobs": 20,
+  "error": null,
+  "secs": 0
+ },
+ {
+  "c": "gb",
+  "name": "AstraZeneca",
+  "type": "eightfold",
+  "jobs": 0,
+  "error": "HTTPError: HTTP Error 403: FORBIDDEN",
+  "secs": 0
+ },
+ {
+  "c": "gb",
+  "name": "Primark",
+  "type": "radancy",
+  "jobs": 93,
+  "error": null,
+  "secs": 4
+ },
+ {
+  "c": "gb",
+  "name": "Royal Mail Group",
+  "type": "phenom",
+  "jobs": 107,
+  "error": null,
+  "secs": 2
+ }
+]
