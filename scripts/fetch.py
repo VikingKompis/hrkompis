@@ -327,6 +327,8 @@ if __name__ == '__main__':
     with ThreadPoolExecutor(len(sources)) as ex:
         list(ex.map(lambda s: run(*s), sources))
     print(f'done in {time.time() - t0:.0f}s')
+    status = {'run_utc': time.strftime('%Y-%m-%dT%H:%M:%SZ', time.gmtime()), 'seconds': round(time.time() - t0), 'problems': problems}
+    json.dump(status, open(os.path.join(RAW, 'status.json'), 'w'), indent=1)
     if problems:
         open(os.path.join(RAW, 'problems.txt'), 'w').write('\n'.join(problems))
         print('PROBLEMS:\n' + '\n'.join(problems))
