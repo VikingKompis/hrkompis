@@ -9,7 +9,7 @@ from concurrent.futures import ThreadPoolExecutor
 
 RAW = os.environ.get('RAW_DIR', 'raw')
 os.makedirs(RAW, exist_ok=True)
-UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36 HRKompis/1.0'
+UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36'
 problems = []
 
 
@@ -187,12 +187,20 @@ def nhs():
 # ---------------- UK: government Work Hub ----------------
 def workhub():
     out = {}
+    op = opener()
+    hdr = {'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8', 'Sec-Fetch-Dest': 'document',
+           'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'same-origin', 'Upgrade-Insecure-Requests': '1',
+           'Referer': 'https://www.jobs.service.gov.uk/jobs'}
+    try:
+        get('https://www.jobs.service.gov.uk/', op, hdr)
+    except Exception:
+        pass
     for q in ['HR business partner', 'HR advisor', 'HR manager', 'HR director', 'head of HR', 'people partner', 'HR officer',
               'HR administrator', 'HR coordinator', 'HR generalist', 'people director', 'talent acquisition', 'in-house recruiter',
               'recruitment partner', 'recruitment coordinator', 'payroll', 'reward', 'learning and development', 'employee relations',
               'organisational development', 'HR assistant', 'people operations', 'HRIS']:
         for p in range(1, 26):
-            t = get(f'https://www.jobs.service.gov.uk/jobs/search?keywords={urllib.parse.quote(q)}&pageNumber={p}')
+            t = get(f'https://www.jobs.service.gov.uk/jobs/search?keywords={urllib.parse.quote(q)}&pageNumber={p}', op, hdr)
             parts = t.split('data-testid="searchResultCard-')[1:]
             if not parts:
                 break
