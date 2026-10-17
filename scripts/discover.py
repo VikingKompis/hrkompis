@@ -30,12 +30,17 @@ SIGS = [
     ('avature', re.compile(r'https?://([a-z0-9.-]+\.avature\.net)', re.I)),
     ('reachmee', re.compile(r'(site\d*\.reachmee\.com/[^"\'\s]*)', re.I)),
     ('jobylon', re.compile(r'(?:emp|cdn)\.jobylon\.com/(?:[a-z/]*?)(\d{3,})', re.I)),
+    ('personio', re.compile(r'https?://([a-z0-9-]+)\.jobs\.personio\.(?:de|com)', re.I)),
+    ('jobvite', re.compile(r'jobs\.jobvite\.com/([a-z0-9_-]+)', re.I)),
+    ('ashby', re.compile(r'jobs\.ashbyhq\.com/([a-z0-9_.-]+)', re.I)),
+    ('oleeo', re.compile(r'https?://([a-z0-9.-]+\.tal\.net)', re.I)),
 ]
 # Platforms recognised from page markup rather than a URL with an id in it
 MARKERS = [
     ('sf_rmk', re.compile(r'rmkcdn\.successfactors|/services/rss/job|data-careersite|j2w\.|jobs2web', re.I)),
     ('phenom', re.compile(r'phenompeople|cdn\.phenompeople|phApp\.', re.I)),
-    ('radancy', re.compile(r'tmpwebeng|radancy|tmp\.com', re.I)),
+    ('radancy', re.compile(r'tmpwebeng|radancy|/search-jobs/results', re.I)),
+    ('workday_word', re.compile(r'myworkdayjobs|workday', re.I)),
     ('teamtailor_custom', re.compile(r'teamtailor-cdn|teamtailor\.com/assets', re.I)),
 ]
 LINK = re.compile(r'href="([^"#]+)"[^>]*>(.*?)</a>', re.I | re.S)
@@ -59,8 +64,10 @@ def scan(text):
 
 def discover(c):
     op = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(http.cookiejar.CookieJar()))
-    seen, queue, found, marks, pages = set(), [(c['url'], 0)], [], set(), []
-    while queue and len(seen) < 8:
+    root = re.match(r'(https?://[^/]+)', c['url']).group(1)
+    starts = [c['url']] + c.get('extra', []) + [root + '/']
+    seen, queue, found, marks, pages = set(), [(u, 0) for u in starts], [], set(), []
+    while queue and len(seen) < 16:
         url, depth = queue.pop(0)
         if url in seen:
             continue
@@ -74,7 +81,7 @@ def discover(c):
         hits, mk = scan(final + '\n' + html)
         found += hits
         marks |= set(mk)
-        if found or depth >= 2:
+        if found or depth >= 3:
             continue
         cand = []
         for href, txt in LINK.findall(html):
@@ -83,7 +90,7 @@ def discover(c):
                 u = urllib.parse.urljoin(final, href.strip())
                 if u.startswith('http') and u not in seen:
                     cand.append(u)
-        for u in list(dict.fromkeys(cand))[:6]:
+        for u in list(dict.fromkeys(cand))[:8]:
             queue.append((u, depth + 1))
     uniq = []
     for h in found:
