@@ -20,6 +20,10 @@ TERMS = {'se': ['HR', 'Human Resources', 'People', 'Talent', 'Recruit', 'Payroll
          'ie': ['HR', 'Human Resources', 'People', 'Talent', 'Recruit', 'Payroll', 'Reward', 'Learning', 'Employee Relations', 'Resourcing']}
 
 
+import threading, urllib.error
+WD_GATE = threading.Semaphore(4)
+
+
 def req(url, data=None, headers=None, timeout=30, method=None):
     h = {'User-Agent': UA, 'Accept': 'application/json, text/html;q=0.9, */*;q=0.8', 'Accept-Language': 'en-GB,en;q=0.9'}
     h.update(headers or {})
@@ -28,8 +32,19 @@ def req(url, data=None, headers=None, timeout=30, method=None):
         body = json.dumps(data).encode()
         h['Content-Type'] = 'application/json'
     r = urllib.request.Request(url, data=body, headers=h, method=method or ('POST' if body else 'GET'))
-    with urllib.request.urlopen(r, timeout=timeout) as resp:
-        return resp.read().decode('utf-8', 'replace')
+    gate = WD_GATE if 'myworkday' in url else None
+    for i in range(5):
+        try:
+            if gate: gate.acquire()
+            try:
+                with urllib.request.urlopen(r, timeout=timeout) as resp:
+                    return resp.read().decode('utf-8', 'replace')
+            finally:
+                if gate: time.sleep(0.4); gate.release()
+        except urllib.error.HTTPError as e:
+            if e.code in (429, 502, 503, 504) and i < 4:
+                time.sleep(6 * (i + 1)); continue
+            raise
 
 
 def strip(s):
