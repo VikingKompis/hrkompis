@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>HRKompis | Every HR job, every morning</title>
+<title>HRKompis | HR jobs only, fresh every morning</title>
 <meta name="description" content="HRKompis collects open HR roles across the UK, Ireland, Denmark, Germany, the Netherlands and Sweden every morning at 05:00, and sorts them the way HR people think about their work.">
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='10' fill='%2314202e'/%3E%3Crect x='4' y='4' width='16' height='16' rx='3' fill='%23eef3f6'/%3E%3Crect x='24' y='4' width='16' height='16' rx='3' fill='%23eef3f6'/%3E%3Crect x='44' y='4' width='16' height='16' rx='3' fill='%23eef3f6'/%3E%3Crect x='4' y='24' width='16' height='16' rx='3' fill='%23eef3f6'/%3E%3Crect x='24' y='24' width='16' height='16' rx='3' fill='%23eef3f6'/%3E%3Crect x='44' y='24' width='16' height='16' rx='3' fill='%23eef3f6'/%3E%3Crect x='4' y='44' width='16' height='16' rx='3' fill='%23eef3f6'/%3E%3Crect x='24' y='44' width='16' height='16' rx='3' fill='%23eef3f6'/%3E%3Crect x='44' y='44' width='16' height='16' rx='3' fill='%230fa3b1'/%3E%3C/svg%3E">
@@ -162,7 +162,7 @@ nav a{cursor:pointer}
   <div class="wrap">
     <div class="hero">
       <p class="eyebrow">For HR professionals</p>
-      <h1>Every HR job in six European markets. One list, fresh every morning.</h1>
+      <h1>Only HR jobs. Six European markets, one list, fresh every morning.</h1>
       <p class="lede">HRKompis collects open HR roles from public job boards and employers' own career sites across <b>the UK, Ireland, Denmark, Germany, the Netherlands and Sweden</b>. Every morning at <b>05:00 Stockholm time</b> we refresh the list and sort it the way HR people think about their work.</p>
       <a class="cta" href="#jobs" data-view="jobs">Click here for today's HR jobs <svg viewBox="0 0 20 20" aria-hidden="true"><path d="M4 10h12M11 5l5 5-5 5"/></svg></a>
       <p class="live" id="live">Today's list: loading…</p>
@@ -413,7 +413,7 @@ function show(v){
   $("navAbout").toggleAttribute("aria-current", v==="about"); $("navJobs").toggleAttribute("aria-current", v==="jobs");
   if ($("navAbout").hasAttribute("aria-current")) $("navAbout").setAttribute("aria-current","page");
   if ($("navJobs").hasAttribute("aria-current")) $("navJobs").setAttribute("aria-current","page");
-  document.title = v==="jobs" ? "Today's HR jobs | HRKompis" : "HRKompis | Every HR job, every morning";
+  document.title = v==="jobs" ? "Today's HR jobs | HRKompis" : "HRKompis | HR jobs only, fresh every morning";
   window.scrollTo(0,0);
 }
 document.addEventListener("click", e=>{
