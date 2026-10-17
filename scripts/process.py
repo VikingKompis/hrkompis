@@ -195,6 +195,39 @@ for a in D('smartrecruiters')['data']:
     add(o='career', c=c, i='sr' + a['id'], t=a['t'], e=a.get('co'), l=a.get('city') or '', r=a.get('city') or '', p=a.get('d') or '', x='', u=a['u'],
         n=1 if c in ('gb', 'ie') or eng_title(a['t']) else 0, h=1 if 'part' in (a.get('tt') or '').lower() else 0)
 
+
+# Top employers' own careers sites (companies/targets.json)
+SE_CITY = [(r'stockholm|solna|kista|sundbyberg|södertälje|sodertalje|nacka|danderyd|täby|lidingö', 'Stockholm'), (r'göteborg|gothenburg|mölndal|molndal|trollhättan|borås|boras|skövde|lidköping', 'Västra Götaland'),
+           (r'malmö|malmo|lund|helsingborg|landskrona|kristianstad', 'Skåne'), (r'uppsala|enköping', 'Uppsala'), (r'linköping|linkoping|norrköping|norrkoping|motala', 'Östergötland'),
+           (r'västerås|vasteras', 'Västmanland'), (r'örebro|orebro|karlskoga', 'Örebro'), (r'sandviken|gävle|gavle', 'Gävleborg'), (r'umeå|umea|skellefteå|skelleftea', 'Västerbotten'),
+           (r'luleå|lulea|kiruna|gällivare|boden', 'Norrbotten'), (r'jönköping|jonkoping|huskvarna|värnamo', 'Jönköping'), (r'eskilstuna|nyköping|strängnäs', 'Södermanland'),
+           (r'sundsvall|örnsköldsvik|härnösand', 'Västernorrland'), (r'karlstad', 'Värmland'), (r'falun|ludvika|borlänge|avesta', 'Dalarna'), (r'halmstad|varberg', 'Halland'),
+           (r'växjö|vaxjo|älmhult', 'Kronoberg'), (r'kalmar|västervik|oskarshamn', 'Kalmar'), (r'östersund', 'Jämtland'), (r'karlskrona|ronneby', 'Blekinge'), (r'visby|gotland', 'Gotland')]
+def se_region(loc):
+    for rx, reg in SE_CITY:
+        if re.search(rx, loc or '', re.I): return reg
+    return ''
+def wd_date(s):
+    s = (s or '').lower()
+    if re.match(r'\d{4}-\d{2}-\d{2}', s): return s[:10]
+    n = 0
+    if 'today' in s: n = 0
+    elif 'yesterday' in s: n = 1
+    else:
+        m = re.search(r'(\d+)\+?\s*day', s)
+        if not m: return ''
+        n = int(m.group(1))
+    return (TODAY - datetime.timedelta(days=n)).isoformat()
+import hashlib
+for a in D('employers')['data']:
+    t = a.get('t') or ''
+    if not is_hr(t): continue
+    loc = a.get('loc') or ''
+    c = a['c']
+    add(o='career', c=c, i='em' + hashlib.md5(a['u'].encode()).hexdigest()[:12], t=t, e=a['co'], l=loc,
+        r=se_region(loc) if c == 'se' else uk_region(loc) if c == 'gb' else '', p=wd_date(a.get('d')), x='', u=a['u'],
+        n=1 if c == 'gb' or eng_title(t) else 0)
+
 # fix region for Germany career-site rows etc.: keep city as region where no region known
 # ---------------- ad language ----------------
 DE_M = re.compile(r'\b[mwfd]\s*[/|]\s*[wmf]\s*[/|]\s*(d|x|div)|\(all genders?\)|[äöüß]|\b(und|für|mit|zur|zum|im|bei|sachbearbeit|referent|leiter|leitung|personal|mitarbeiter|kauf(mann|frau)|abrechnung|entgelt|lohn|gehalt|stellvertret|teilzeit|vollzeit|befristet|werkstudent|gn\b|standort|bereich|schwerpunkt|vertrieb|technik|berlin|münchen|hamburg|köln|frankfurt|stuttgart|düsseldorf|leipzig|dresden|hannover|nürnberg|bremen|essen|dortmund|bonn|mannheim|karlsruhe)', re.I)

@@ -327,11 +327,19 @@ def smartrecruiters():
     return {'src': 'smartrecruiters', 'data': data}, len(data)
 
 
+def employers():
+    sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+    import employers as em
+    data, status = em.run_all()
+    json.dump(status, open(os.path.join(RAW, 'employers_status.json'), 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
+    return {'src': 'employers', 'data': data}, len(data)
+
+
 if __name__ == '__main__':
     t0 = time.time()
     sources = [('jobtech', jobtech, 100), ('eures', eures, 1000), ('jobnet', jobnet, 50), ('nhs', nhs, 200),
                ('workhub', workhub, 200), ('publicjobs', publicjobs, 50), ('greenhouse', greenhouse, 10),
-               ('lever', lever, 5), ('smartrecruiters', smartrecruiters, 20)]
+               ('lever', lever, 5), ('smartrecruiters', smartrecruiters, 20), ('employers', employers, 50)]
     with ThreadPoolExecutor(len(sources)) as ex:
         list(ex.map(lambda s: run(*s), sources))
     print(f'done in {time.time() - t0:.0f}s')
