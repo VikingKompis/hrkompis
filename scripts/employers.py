@@ -5,7 +5,7 @@ identifiers its public job feed needs. One reader per system type. Results go
 to raw/employers.json; per-employer counts go to raw/employers_status.json so
 broken feeds are easy to spot.
 """
-import json, re, html, time, urllib.request, urllib.parse
+import datetime, json, re, html, time, urllib.request, urllib.parse
 from concurrent.futures import ThreadPoolExecutor
 
 UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36'
@@ -242,7 +242,40 @@ def phenom(c, cc):
     return list(out.values())
 
 
-READERS = {'workday': workday, 'oracle': oracle, 'rmk': rmk, 'teamtailor': teamtailor, 'eightfold': eightfold,
+
+# ---------------- Amazon (amazon.jobs public search feed) ----------------
+ISO3 = {'se': 'SWE', 'gb': 'GBR', 'ie': 'IRL'}
+def amazon(c, cc):
+    out = {}
+    for term in ['HR', 'Human Resources', 'People', 'Recruit', 'Talent', 'Payroll', 'Learning']:
+        for off in range(0, 500, 100):
+            q = urllib.parse.urlencode({'base_query': term, 'normalized_country_code[]': ISO3[cc], 'result_limit': 100, 'offset': off, 'sort': 'recent'})
+            j = json.loads(req('https://www.amazon.jobs/en/search.json?' + q))
+            jobs = j.get('jobs') or []
+            for p in jobs:
+                d = ''
+                try: d = datetime.datetime.strptime(p.get('posted_date') or '', '%B %d, %Y').date().isoformat()
+                except Exception: pass
+                out[p.get('id_icims') or p.get('job_path')] = {'t': p.get('title'), 'loc': p.get('normalized_location') or p.get('location') or '',
+                                                              'u': 'https://www.amazon.jobs' + (p.get('job_path') or ''), 'd': d}
+            if len(jobs) < 100: break
+    return list(out.values())
+
+
+# ---------------- Lever ----------------
+def lever(c, cc):
+    j = json.loads(req(f"https://api.{'eu.' if c.get('eu') else ''}lever.co/v0/postings/{c['id']}?mode=json"))
+    out = []
+    for p in j:
+        cat = p.get('categories') or {}
+        loc = ' '.join([cat.get('location') or ''] + (cat.get('allLocations') or []) + [p.get('country') or ''])
+        if in_country(cc, loc) or (p.get('country') or '').lower() == cc:
+            d = datetime.datetime.fromtimestamp((p.get('createdAt') or 0) / 1000).date().isoformat() if p.get('createdAt') else ''
+            out.append({'t': p.get('text'), 'loc': cat.get('location') or '', 'u': p.get('hostedUrl'), 'd': d})
+    return out
+
+
+READERS = {'amazon': amazon, 'lever': lever, 'workday': workday, 'oracle': oracle, 'rmk': rmk, 'teamtailor': teamtailor, 'eightfold': eightfold,
            'smartrecruiters': smartrecruiters, 'greenhouse': greenhouse, 'radancy': radancy, 'phenom': phenom}
 
 
@@ -260,7 +293,7 @@ def run_all(path='companies/targets.json'):
         except Exception as e:
             return cc, c, [], f'{type(e).__name__}: {str(e)[:150]}', time.time() - t0
 
-    with ThreadPoolExecutor(8) as ex:
+    with ThreadPoolExecutor(16) as ex:
         for cc, c, rows, err, secs in ex.map(one, jobs):
             for r in rows:
                 data.append({'c': cc, 'co': c['name'], **r})

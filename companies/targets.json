@@ -1,51 +1,1595 @@
 {
  "se": [
-  {"name": "Volvo Group", "type": "rmk", "host": "jobs.volvogroup.com"},
-  {"name": "Volvo Cars", "type": "rmk", "host": "jobs.volvocars.com"},
-  {"name": "Scania", "type": "rmk", "host": "jobs.scania.com"},
-  {"name": "Atlas Copco", "type": "rmk", "host": "www.jobs.atlascopcogroup.com"},
-  {"name": "Axfood", "type": "rmk", "host": "jobb.axfood.se", "local": true},
-  {"name": "SCA", "type": "rmk", "host": "jobs.sca.com"},
-  {"name": "Getinge", "type": "rmk", "host": "careers.getinge.com"},
-  {"name": "Sandvik", "type": "workday", "tenant": "sandvik", "wd": "wd3", "site": "sandvik-jobs"},
-  {"name": "Essity", "type": "workday", "tenant": "essity", "wd": "wd3", "site": "Job_opportunities"},
-  {"name": "Boliden", "type": "workday", "tenant": "boliden", "wd": "wd3", "site": "BolidenJobs"},
-  {"name": "Saab", "type": "workday", "tenant": "saabgroup", "wd": "wd116", "site": "Saab_careers"},
-  {"name": "Husqvarna Group", "type": "workday", "tenant": "husqvarnagroup", "wd": "wd3", "site": "External_Career_Site"},
-  {"name": "Elekta", "type": "workday", "tenant": "elekta", "wd": "wd3", "site": "Elekta_Careers"},
-  {"name": "Swedbank", "type": "teamtailor", "host": "jobs.swedbank.com", "local": true},
-  {"name": "Apoteket", "type": "teamtailor", "host": "jobb.apoteket.se", "local": true},
-  {"name": "AstraZeneca", "type": "eightfold", "host": "astrazeneca.eightfold.ai", "domain": "astrazeneca.com"},
-  {"name": "IKEA", "type": "radancy", "host": "jobs.ikea.com", "lang": "en"},
-  {"name": "ICA Gruppen", "type": "phenom", "host": "karriar.icagruppen.se", "locale": "sv_se", "country": "se", "local": true},
-  {"name": "ABB", "type": "phenom", "host": "careers.abb", "locale": "en_global", "country": "global"}
+  {
+   "name": "Volvo Group",
+   "type": "rmk",
+   "host": "jobs.volvogroup.com"
+  },
+  {
+   "name": "Volvo Cars",
+   "type": "rmk",
+   "host": "jobs.volvocars.com"
+  },
+  {
+   "name": "Scania",
+   "type": "rmk",
+   "host": "jobs.scania.com"
+  },
+  {
+   "name": "Atlas Copco",
+   "type": "rmk",
+   "host": "www.jobs.atlascopcogroup.com"
+  },
+  {
+   "name": "Axfood",
+   "type": "rmk",
+   "host": "jobb.axfood.se",
+   "local": true
+  },
+  {
+   "name": "SCA",
+   "type": "rmk",
+   "host": "jobs.sca.com"
+  },
+  {
+   "name": "Getinge",
+   "type": "rmk",
+   "host": "careers.getinge.com"
+  },
+  {
+   "name": "Sandvik",
+   "type": "workday",
+   "tenant": "sandvik",
+   "wd": "wd3",
+   "site": "sandvik-jobs"
+  },
+  {
+   "name": "Essity",
+   "type": "workday",
+   "tenant": "essity",
+   "wd": "wd3",
+   "site": "Job_opportunities"
+  },
+  {
+   "name": "Boliden",
+   "type": "workday",
+   "tenant": "boliden",
+   "wd": "wd3",
+   "site": "BolidenJobs"
+  },
+  {
+   "name": "Saab",
+   "type": "workday",
+   "tenant": "saabgroup",
+   "wd": "wd116",
+   "site": "Saab_careers"
+  },
+  {
+   "name": "Husqvarna Group",
+   "type": "workday",
+   "tenant": "husqvarnagroup",
+   "wd": "wd3",
+   "site": "External_Career_Site"
+  },
+  {
+   "name": "Elekta",
+   "type": "workday",
+   "tenant": "elekta",
+   "wd": "wd3",
+   "site": "Elekta_Careers"
+  },
+  {
+   "name": "Swedbank",
+   "type": "teamtailor",
+   "host": "jobs.swedbank.com",
+   "local": true
+  },
+  {
+   "name": "Apoteket",
+   "type": "teamtailor",
+   "host": "jobb.apoteket.se",
+   "local": true
+  },
+  {
+   "name": "AstraZeneca",
+   "type": "eightfold",
+   "host": "astrazeneca.eightfold.ai",
+   "domain": "astrazeneca.com"
+  },
+  {
+   "name": "IKEA",
+   "type": "radancy",
+   "host": "jobs.ikea.com",
+   "lang": "en"
+  },
+  {
+   "name": "ICA Gruppen",
+   "type": "phenom",
+   "host": "karriar.icagruppen.se",
+   "locale": "sv_se",
+   "country": "se",
+   "local": true
+  },
+  {
+   "name": "ABB",
+   "type": "phenom",
+   "host": "careers.abb",
+   "locale": "en_global",
+   "country": "global"
+  },
+  {
+   "name": "Unilever",
+   "type": "workday",
+   "tenant": "unilever",
+   "wd": "wd3",
+   "site": "Unilever_Experienced_Professionals"
+  },
+  {
+   "name": "GSK",
+   "type": "workday",
+   "tenant": "gsk",
+   "wd": "wd5",
+   "site": "GSKCareers"
+  },
+  {
+   "name": "BP",
+   "type": "workday",
+   "tenant": "bpinternational",
+   "wd": "wd3",
+   "site": "bpCareers"
+  },
+  {
+   "name": "Barclays",
+   "type": "workday",
+   "tenant": "barclays",
+   "wd": "wd3",
+   "site": "External_Career_Site_Barclays"
+  },
+  {
+   "name": "Diageo",
+   "type": "workday",
+   "tenant": "diageo",
+   "wd": "wd3",
+   "site": "Diageo_Careers"
+  },
+  {
+   "name": "RELX",
+   "type": "workday",
+   "tenant": "relx",
+   "wd": "wd3",
+   "site": "relx"
+  },
+  {
+   "name": "Accenture",
+   "type": "workday",
+   "tenant": "accenture",
+   "wd": "wd103",
+   "site": "AccentureCareers"
+  },
+  {
+   "name": "Reckitt",
+   "type": "rmk",
+   "host": "careers.reckitt.com"
+  },
+  {
+   "name": "Amazon",
+   "type": "amazon"
+  },
+  {
+   "name": "Salesforce",
+   "type": "workday",
+   "tenant": "salesforce",
+   "wd": "wd12",
+   "site": "External_Career_Site"
+  },
+  {
+   "name": "SAP",
+   "type": "rmk",
+   "host": "www.linkedin.com"
+  },
+  {
+   "name": "Cisco",
+   "type": "workday",
+   "tenant": "cisco",
+   "wd": "wd5",
+   "site": "Cisco_Careers"
+  },
+  {
+   "name": "Adobe",
+   "type": "workday",
+   "tenant": "adobe",
+   "wd": "wd5",
+   "site": "external_experienced"
+  },
+  {
+   "name": "Workday",
+   "type": "workday",
+   "tenant": "workday",
+   "wd": "wd5",
+   "site": "Workday"
+  },
+  {
+   "name": "ServiceNow",
+   "type": "smartrecruiters",
+   "id": "ServiceNow"
+  },
+  {
+   "name": "Nvidia",
+   "type": "workday",
+   "tenant": "nvidia",
+   "wd": "wd5",
+   "site": "NVIDIAExternalCareerSite"
+  },
+  {
+   "name": "Intel",
+   "type": "workday",
+   "tenant": "intel",
+   "wd": "wd1",
+   "site": "External"
+  },
+  {
+   "name": "HP",
+   "type": "workday",
+   "tenant": "hp",
+   "wd": "wd5",
+   "site": "ExternalCareerSite"
+  },
+  {
+   "name": "PayPal",
+   "type": "workday",
+   "tenant": "paypal",
+   "wd": "wd1",
+   "site": "jobs"
+  },
+  {
+   "name": "Mastercard",
+   "type": "workday",
+   "tenant": "mastercard",
+   "wd": "wd1",
+   "site": "CorporateCareers"
+  },
+  {
+   "name": "American Express",
+   "type": "eightfold",
+   "host": "aexp.eightfold.ai",
+   "domain": "aexp.com"
+  },
+  {
+   "name": "Uber",
+   "type": "oracle",
+   "host": "iaziqy.fa.ocs.oraclecloud.com",
+   "site": "UberCareers"
+  },
+  {
+   "name": "LinkedIn",
+   "type": "smartrecruiters",
+   "id": "LinkedIn3"
+  },
+  {
+   "name": "Spotify",
+   "type": "lever",
+   "id": "spotify"
+  },
+  {
+   "name": "King",
+   "type": "eightfold",
+   "host": "activision.eightfold.ai",
+   "domain": "activision.com"
+  },
+  {
+   "name": "Monzo",
+   "type": "greenhouse",
+   "id": "monzo"
+  },
+  {
+   "name": "Pfizer",
+   "type": "workday",
+   "tenant": "pfizer",
+   "wd": "wd1",
+   "site": "PfizerCareers"
+  },
+  {
+   "name": "Johnson & Johnson",
+   "type": "workday",
+   "tenant": "jj",
+   "wd": "wd5",
+   "site": "JJ"
+  },
+  {
+   "name": "Novartis",
+   "type": "workday",
+   "tenant": "novartis",
+   "wd": "wd3",
+   "site": "Novartis_Careers"
+  },
+  {
+   "name": "Sanofi",
+   "type": "workday",
+   "tenant": "sanofi",
+   "wd": "wd3",
+   "site": "SanofiCareers"
+  },
+  {
+   "name": "Bristol Myers Squibb",
+   "type": "workday",
+   "tenant": "bristolmyerssquibb",
+   "wd": "wd5",
+   "site": "BMS"
+  },
+  {
+   "name": "Abbott",
+   "type": "workday",
+   "tenant": "abbott",
+   "wd": "wd5",
+   "site": "abbottcareers"
+  },
+  {
+   "name": "Medtronic",
+   "type": "workday",
+   "tenant": "medtronic",
+   "wd": "wd1",
+   "site": "MedtronicCareers"
+  },
+  {
+   "name": "Thermo Fisher Scientific",
+   "type": "workday",
+   "tenant": "thermofisher",
+   "wd": "wd5",
+   "site": "ThermoFisherCareers"
+  },
+  {
+   "name": "MSD",
+   "type": "workday",
+   "tenant": "msd",
+   "wd": "wd5",
+   "site": "SearchJobs"
+  },
+  {
+   "name": "Roche",
+   "type": "workday",
+   "tenant": "roche",
+   "wd": "wd3",
+   "site": "roche-ext"
+  },
+  {
+   "name": "Philips",
+   "type": "workday",
+   "tenant": "philips",
+   "wd": "wd3",
+   "site": "jobs-and-careers"
+  },
+  {
+   "name": "Siemens Healthineers",
+   "type": "workday",
+   "tenant": "onehealthineers",
+   "wd": "wd3",
+   "site": "SHSJB"
+  },
+  {
+   "name": "Honeywell",
+   "type": "oracle",
+   "host": "ibqbjb.fa.ocs.oraclecloud.com",
+   "site": "Honeywell"
+  },
+  {
+   "name": "3M",
+   "type": "workday",
+   "tenant": "3m",
+   "wd": "wd1",
+   "site": "Search"
+  },
+  {
+   "name": "GE Vernova",
+   "type": "workday",
+   "tenant": "gevernova",
+   "wd": "wd5",
+   "site": "Vernova_ExternalSite"
+  },
+  {
+   "name": "Mondelez",
+   "type": "workday",
+   "tenant": "mdlz",
+   "wd": "wd3",
+   "site": "External"
+  },
+  {
+   "name": "Coca-Cola",
+   "type": "workday",
+   "tenant": "coke",
+   "wd": "wd1",
+   "site": "coca-cola-careers"
+  },
+  {
+   "name": "Carlsberg",
+   "type": "rmk",
+   "host": "www.carlsberggroup.com"
+  },
+  {
+   "name": "L'Oréal",
+   "type": "radancy",
+   "host": "careers.loreal.com",
+   "lang": "en"
+  },
+  {
+   "name": "Nike",
+   "type": "workday",
+   "tenant": "nike",
+   "wd": "wd1",
+   "site": "nke"
+  },
+  {
+   "name": "adidas",
+   "type": "rmk",
+   "host": "jobs.adidas-group.com"
+  },
+  {
+   "name": "Mars",
+   "type": "rmk",
+   "host": "jobs.kellanova.com"
+  },
+  {
+   "name": "ExxonMobil",
+   "type": "rmk",
+   "host": "jobs.exxonmobil.com"
+  },
+  {
+   "name": "Equinor",
+   "type": "workday",
+   "tenant": "equinor",
+   "wd": "wd3",
+   "site": "EQNR"
+  },
+  {
+   "name": "Citi",
+   "type": "workday",
+   "tenant": "citi",
+   "wd": "wd5",
+   "site": "2"
+  },
+  {
+   "name": "Morgan Stanley",
+   "type": "eightfold",
+   "host": "morganstanley.eightfold.ai",
+   "domain": "morganstanley.com"
+  },
+  {
+   "name": "BlackRock",
+   "type": "workday",
+   "tenant": "blackrock",
+   "wd": "wd1",
+   "site": "BlackRock_Professional"
+  },
+  {
+   "name": "State Street",
+   "type": "workday",
+   "tenant": "statestreet",
+   "wd": "wd1",
+   "site": "Global"
+  },
+  {
+   "name": "Northern Trust",
+   "type": "workday",
+   "tenant": "ntrs",
+   "wd": "wd1",
+   "site": "northerntrust"
+  },
+  {
+   "name": "S&P Global",
+   "type": "workday",
+   "tenant": "spgi",
+   "wd": "wd5",
+   "site": "SPGI_Careers"
+  },
+  {
+   "name": "LSEG",
+   "type": "workday",
+   "tenant": "lseg",
+   "wd": "wd3",
+   "site": "Careers"
+  },
+  {
+   "name": "Marsh McLennan",
+   "type": "workday",
+   "tenant": "mmc",
+   "wd": "wd1",
+   "site": "MMC"
+  },
+  {
+   "name": "Zurich",
+   "type": "rmk",
+   "host": "www.careers.zurich.com"
+  },
+  {
+   "name": "EY",
+   "type": "rmk",
+   "host": "careers.ey.com"
+  },
+  {
+   "name": "Kone",
+   "type": "workday",
+   "tenant": "kone",
+   "wd": "wd3",
+   "site": "Careers"
+  },
+  {
+   "name": "Hilton",
+   "type": "oracle",
+   "host": "efet.fa.us2.oraclecloud.com",
+   "site": "CX_1"
+  },
+  {
+   "name": "Marriott",
+   "type": "oracle",
+   "host": "ejwl.fa.us2.oraclecloud.com",
+   "site": "CX"
+  },
+  {
+   "name": "CRH",
+   "type": "rmk",
+   "host": "www.crh.com"
+  },
+  {
+   "name": "Glanbia",
+   "type": "rmk",
+   "host": "www.glanbia.com"
+  },
+  {
+   "name": "ESB",
+   "type": "rmk",
+   "host": "careers.esb.ie"
+  },
+  {
+   "name": "Stryker",
+   "type": "workday",
+   "tenant": "stryker",
+   "wd": "wd1",
+   "site": "StrykerCareers"
+  },
+  {
+   "name": "Analog Devices",
+   "type": "workday",
+   "tenant": "analogdevices",
+   "wd": "wd1",
+   "site": "External"
+  }
  ],
  "gb": [
-  {"name": "Asda", "type": "workday", "tenant": "asda", "wd": "wd103", "site": "AsdaJobs", "local": true},
-  {"name": "Unilever", "type": "workday", "tenant": "unilever", "wd": "wd3", "site": "Unilever_Experienced_Professionals"},
-  {"name": "GSK", "type": "workday", "tenant": "gsk", "wd": "wd5", "site": "GSKCareers"},
-  {"name": "BP", "type": "workday", "tenant": "bpinternational", "wd": "wd3", "site": "bpCareers"},
-  {"name": "Barclays", "type": "workday", "tenant": "barclays", "wd": "wd3", "site": "External_Career_Site_Barclays"},
-  {"name": "Lloyds Banking Group", "type": "workday", "tenant": "lbg", "wd": "wd3", "site": "lbg_Careers", "local": true},
-  {"name": "Sky", "type": "workday", "tenant": "sky", "wd": "wd3", "site": "sky_careers"},
-  {"name": "Rolls-Royce", "type": "workday", "tenant": "rollsroyce", "wd": "wd3", "site": "professional"},
-  {"name": "Diageo", "type": "workday", "tenant": "diageo", "wd": "wd3", "site": "Diageo_Careers"},
-  {"name": "Bupa", "type": "workday", "tenant": "bupa", "wd": "wd3", "site": "BGUK"},
-  {"name": "John Lewis Partnership", "type": "workday", "tenant": "jlp", "wd": "wd3", "site": "JLPjobs_careers", "local": true},
-  {"name": "Centrica", "type": "workday", "tenant": "centrica", "wd": "wd3", "site": "Centrica"},
-  {"name": "RELX", "type": "workday", "tenant": "relx", "wd": "wd3", "site": "relx"},
-  {"name": "Accenture", "type": "workday", "tenant": "accenture", "wd": "wd103", "site": "AccentureCareers"},
-  {"name": "Sainsbury's", "type": "oracle", "host": "hdhe.fa.em3.oraclecloud.com", "site": "CX", "local": true},
-  {"name": "Morrisons", "type": "oracle", "host": "eicg.fa.em2.oraclecloud.com", "site": "MorrisonsJobs", "local": true},
-  {"name": "Marks & Spencer", "type": "oracle", "host": "fa-eqid-saasfaprod1.fa.ocs.oraclecloud.com", "site": "CX_1"},
-  {"name": "Next", "type": "oracle", "host": "ekeq.fa.em2.oraclecloud.com", "site": "CX_3001"},
-  {"name": "BT Group", "type": "rmk", "host": "jobs.bt.com"},
-  {"name": "Reckitt", "type": "rmk", "host": "careers.reckitt.com"},
-  {"name": "Jaguar Land Rover", "type": "rmk", "host": "www.jaguarlandrovercareers.com"},
-  {"name": "Rentokil Initial", "type": "smartrecruiters", "id": "RentokilInitial1"},
-  {"name": "Ocado Group", "type": "greenhouse", "id": "ocadogroup"},
-  {"name": "AstraZeneca", "type": "eightfold", "host": "astrazeneca.eightfold.ai", "domain": "astrazeneca.com"},
-  {"name": "Primark", "type": "radancy", "host": "careers.primark.com", "lang": "en"},
-  {"name": "Royal Mail Group", "type": "phenom", "host": "careers.royalmailgroup.com", "locale": "en_gb", "country": "gb", "local": true}
+  {
+   "name": "Asda",
+   "type": "workday",
+   "tenant": "asda",
+   "wd": "wd103",
+   "site": "AsdaJobs",
+   "local": true
+  },
+  {
+   "name": "Unilever",
+   "type": "workday",
+   "tenant": "unilever",
+   "wd": "wd3",
+   "site": "Unilever_Experienced_Professionals"
+  },
+  {
+   "name": "GSK",
+   "type": "workday",
+   "tenant": "gsk",
+   "wd": "wd5",
+   "site": "GSKCareers"
+  },
+  {
+   "name": "BP",
+   "type": "workday",
+   "tenant": "bpinternational",
+   "wd": "wd3",
+   "site": "bpCareers"
+  },
+  {
+   "name": "Barclays",
+   "type": "workday",
+   "tenant": "barclays",
+   "wd": "wd3",
+   "site": "External_Career_Site_Barclays"
+  },
+  {
+   "name": "Lloyds Banking Group",
+   "type": "workday",
+   "tenant": "lbg",
+   "wd": "wd3",
+   "site": "lbg_Careers",
+   "local": true
+  },
+  {
+   "name": "Sky",
+   "type": "workday",
+   "tenant": "sky",
+   "wd": "wd3",
+   "site": "sky_careers"
+  },
+  {
+   "name": "Rolls-Royce",
+   "type": "workday",
+   "tenant": "rollsroyce",
+   "wd": "wd3",
+   "site": "professional"
+  },
+  {
+   "name": "Diageo",
+   "type": "workday",
+   "tenant": "diageo",
+   "wd": "wd3",
+   "site": "Diageo_Careers"
+  },
+  {
+   "name": "Bupa",
+   "type": "workday",
+   "tenant": "bupa",
+   "wd": "wd3",
+   "site": "BGUK"
+  },
+  {
+   "name": "John Lewis Partnership",
+   "type": "workday",
+   "tenant": "jlp",
+   "wd": "wd3",
+   "site": "JLPjobs_careers",
+   "local": true
+  },
+  {
+   "name": "Centrica",
+   "type": "workday",
+   "tenant": "centrica",
+   "wd": "wd3",
+   "site": "Centrica"
+  },
+  {
+   "name": "RELX",
+   "type": "workday",
+   "tenant": "relx",
+   "wd": "wd3",
+   "site": "relx"
+  },
+  {
+   "name": "Accenture",
+   "type": "workday",
+   "tenant": "accenture",
+   "wd": "wd103",
+   "site": "AccentureCareers"
+  },
+  {
+   "name": "Sainsbury's",
+   "type": "oracle",
+   "host": "hdhe.fa.em3.oraclecloud.com",
+   "site": "CX",
+   "local": true
+  },
+  {
+   "name": "Morrisons",
+   "type": "oracle",
+   "host": "eicg.fa.em2.oraclecloud.com",
+   "site": "MorrisonsJobs",
+   "local": true
+  },
+  {
+   "name": "Marks & Spencer",
+   "type": "oracle",
+   "host": "fa-eqid-saasfaprod1.fa.ocs.oraclecloud.com",
+   "site": "CX_1"
+  },
+  {
+   "name": "Next",
+   "type": "oracle",
+   "host": "ekeq.fa.em2.oraclecloud.com",
+   "site": "CX_3001"
+  },
+  {
+   "name": "BT Group",
+   "type": "rmk",
+   "host": "jobs.bt.com"
+  },
+  {
+   "name": "Reckitt",
+   "type": "rmk",
+   "host": "careers.reckitt.com"
+  },
+  {
+   "name": "Jaguar Land Rover",
+   "type": "rmk",
+   "host": "www.jaguarlandrovercareers.com"
+  },
+  {
+   "name": "Rentokil Initial",
+   "type": "smartrecruiters",
+   "id": "RentokilInitial1"
+  },
+  {
+   "name": "Ocado Group",
+   "type": "greenhouse",
+   "id": "ocadogroup"
+  },
+  {
+   "name": "AstraZeneca",
+   "type": "eightfold",
+   "host": "astrazeneca.eightfold.ai",
+   "domain": "astrazeneca.com"
+  },
+  {
+   "name": "Primark",
+   "type": "radancy",
+   "host": "careers.primark.com",
+   "lang": "en"
+  },
+  {
+   "name": "Royal Mail Group",
+   "type": "phenom",
+   "host": "careers.royalmailgroup.com",
+   "locale": "en_gb",
+   "country": "gb",
+   "local": true
+  },
+  {
+   "name": "Amazon",
+   "type": "amazon"
+  },
+  {
+   "name": "Salesforce",
+   "type": "workday",
+   "tenant": "salesforce",
+   "wd": "wd12",
+   "site": "External_Career_Site"
+  },
+  {
+   "name": "SAP",
+   "type": "rmk",
+   "host": "www.linkedin.com"
+  },
+  {
+   "name": "Cisco",
+   "type": "workday",
+   "tenant": "cisco",
+   "wd": "wd5",
+   "site": "Cisco_Careers"
+  },
+  {
+   "name": "Adobe",
+   "type": "workday",
+   "tenant": "adobe",
+   "wd": "wd5",
+   "site": "external_experienced"
+  },
+  {
+   "name": "Workday",
+   "type": "workday",
+   "tenant": "workday",
+   "wd": "wd5",
+   "site": "Workday"
+  },
+  {
+   "name": "ServiceNow",
+   "type": "smartrecruiters",
+   "id": "ServiceNow"
+  },
+  {
+   "name": "Nvidia",
+   "type": "workday",
+   "tenant": "nvidia",
+   "wd": "wd5",
+   "site": "NVIDIAExternalCareerSite"
+  },
+  {
+   "name": "Intel",
+   "type": "workday",
+   "tenant": "intel",
+   "wd": "wd1",
+   "site": "External"
+  },
+  {
+   "name": "HP",
+   "type": "workday",
+   "tenant": "hp",
+   "wd": "wd5",
+   "site": "ExternalCareerSite"
+  },
+  {
+   "name": "PayPal",
+   "type": "workday",
+   "tenant": "paypal",
+   "wd": "wd1",
+   "site": "jobs"
+  },
+  {
+   "name": "Mastercard",
+   "type": "workday",
+   "tenant": "mastercard",
+   "wd": "wd1",
+   "site": "CorporateCareers"
+  },
+  {
+   "name": "American Express",
+   "type": "eightfold",
+   "host": "aexp.eightfold.ai",
+   "domain": "aexp.com"
+  },
+  {
+   "name": "Uber",
+   "type": "oracle",
+   "host": "iaziqy.fa.ocs.oraclecloud.com",
+   "site": "UberCareers"
+  },
+  {
+   "name": "LinkedIn",
+   "type": "smartrecruiters",
+   "id": "LinkedIn3"
+  },
+  {
+   "name": "Spotify",
+   "type": "lever",
+   "id": "spotify"
+  },
+  {
+   "name": "King",
+   "type": "eightfold",
+   "host": "activision.eightfold.ai",
+   "domain": "activision.com"
+  },
+  {
+   "name": "Monzo",
+   "type": "greenhouse",
+   "id": "monzo"
+  },
+  {
+   "name": "Pfizer",
+   "type": "workday",
+   "tenant": "pfizer",
+   "wd": "wd1",
+   "site": "PfizerCareers"
+  },
+  {
+   "name": "Johnson & Johnson",
+   "type": "workday",
+   "tenant": "jj",
+   "wd": "wd5",
+   "site": "JJ"
+  },
+  {
+   "name": "Novartis",
+   "type": "workday",
+   "tenant": "novartis",
+   "wd": "wd3",
+   "site": "Novartis_Careers"
+  },
+  {
+   "name": "Sanofi",
+   "type": "workday",
+   "tenant": "sanofi",
+   "wd": "wd3",
+   "site": "SanofiCareers"
+  },
+  {
+   "name": "Bristol Myers Squibb",
+   "type": "workday",
+   "tenant": "bristolmyerssquibb",
+   "wd": "wd5",
+   "site": "BMS"
+  },
+  {
+   "name": "Abbott",
+   "type": "workday",
+   "tenant": "abbott",
+   "wd": "wd5",
+   "site": "abbottcareers"
+  },
+  {
+   "name": "Medtronic",
+   "type": "workday",
+   "tenant": "medtronic",
+   "wd": "wd1",
+   "site": "MedtronicCareers"
+  },
+  {
+   "name": "Thermo Fisher Scientific",
+   "type": "workday",
+   "tenant": "thermofisher",
+   "wd": "wd5",
+   "site": "ThermoFisherCareers"
+  },
+  {
+   "name": "MSD",
+   "type": "workday",
+   "tenant": "msd",
+   "wd": "wd5",
+   "site": "SearchJobs"
+  },
+  {
+   "name": "Roche",
+   "type": "workday",
+   "tenant": "roche",
+   "wd": "wd3",
+   "site": "roche-ext"
+  },
+  {
+   "name": "Philips",
+   "type": "workday",
+   "tenant": "philips",
+   "wd": "wd3",
+   "site": "jobs-and-careers"
+  },
+  {
+   "name": "Siemens Healthineers",
+   "type": "workday",
+   "tenant": "onehealthineers",
+   "wd": "wd3",
+   "site": "SHSJB"
+  },
+  {
+   "name": "Honeywell",
+   "type": "oracle",
+   "host": "ibqbjb.fa.ocs.oraclecloud.com",
+   "site": "Honeywell"
+  },
+  {
+   "name": "3M",
+   "type": "workday",
+   "tenant": "3m",
+   "wd": "wd1",
+   "site": "Search"
+  },
+  {
+   "name": "GE Vernova",
+   "type": "workday",
+   "tenant": "gevernova",
+   "wd": "wd5",
+   "site": "Vernova_ExternalSite"
+  },
+  {
+   "name": "Mondelez",
+   "type": "workday",
+   "tenant": "mdlz",
+   "wd": "wd3",
+   "site": "External"
+  },
+  {
+   "name": "Coca-Cola",
+   "type": "workday",
+   "tenant": "coke",
+   "wd": "wd1",
+   "site": "coca-cola-careers"
+  },
+  {
+   "name": "Carlsberg",
+   "type": "rmk",
+   "host": "www.carlsberggroup.com"
+  },
+  {
+   "name": "L'Oréal",
+   "type": "radancy",
+   "host": "careers.loreal.com",
+   "lang": "en"
+  },
+  {
+   "name": "Nike",
+   "type": "workday",
+   "tenant": "nike",
+   "wd": "wd1",
+   "site": "nke"
+  },
+  {
+   "name": "adidas",
+   "type": "rmk",
+   "host": "jobs.adidas-group.com"
+  },
+  {
+   "name": "Mars",
+   "type": "rmk",
+   "host": "jobs.kellanova.com"
+  },
+  {
+   "name": "ExxonMobil",
+   "type": "rmk",
+   "host": "jobs.exxonmobil.com"
+  },
+  {
+   "name": "Equinor",
+   "type": "workday",
+   "tenant": "equinor",
+   "wd": "wd3",
+   "site": "EQNR"
+  },
+  {
+   "name": "Citi",
+   "type": "workday",
+   "tenant": "citi",
+   "wd": "wd5",
+   "site": "2"
+  },
+  {
+   "name": "Morgan Stanley",
+   "type": "eightfold",
+   "host": "morganstanley.eightfold.ai",
+   "domain": "morganstanley.com"
+  },
+  {
+   "name": "BlackRock",
+   "type": "workday",
+   "tenant": "blackrock",
+   "wd": "wd1",
+   "site": "BlackRock_Professional"
+  },
+  {
+   "name": "State Street",
+   "type": "workday",
+   "tenant": "statestreet",
+   "wd": "wd1",
+   "site": "Global"
+  },
+  {
+   "name": "Northern Trust",
+   "type": "workday",
+   "tenant": "ntrs",
+   "wd": "wd1",
+   "site": "northerntrust"
+  },
+  {
+   "name": "S&P Global",
+   "type": "workday",
+   "tenant": "spgi",
+   "wd": "wd5",
+   "site": "SPGI_Careers"
+  },
+  {
+   "name": "LSEG",
+   "type": "workday",
+   "tenant": "lseg",
+   "wd": "wd3",
+   "site": "Careers"
+  },
+  {
+   "name": "Marsh McLennan",
+   "type": "workday",
+   "tenant": "mmc",
+   "wd": "wd1",
+   "site": "MMC"
+  },
+  {
+   "name": "Zurich",
+   "type": "rmk",
+   "host": "www.careers.zurich.com"
+  },
+  {
+   "name": "EY",
+   "type": "rmk",
+   "host": "careers.ey.com"
+  },
+  {
+   "name": "Kone",
+   "type": "workday",
+   "tenant": "kone",
+   "wd": "wd3",
+   "site": "Careers"
+  },
+  {
+   "name": "Hilton",
+   "type": "oracle",
+   "host": "efet.fa.us2.oraclecloud.com",
+   "site": "CX_1"
+  },
+  {
+   "name": "Marriott",
+   "type": "oracle",
+   "host": "ejwl.fa.us2.oraclecloud.com",
+   "site": "CX"
+  },
+  {
+   "name": "CRH",
+   "type": "rmk",
+   "host": "www.crh.com"
+  },
+  {
+   "name": "Glanbia",
+   "type": "rmk",
+   "host": "www.glanbia.com"
+  },
+  {
+   "name": "ESB",
+   "type": "rmk",
+   "host": "careers.esb.ie"
+  },
+  {
+   "name": "Stryker",
+   "type": "workday",
+   "tenant": "stryker",
+   "wd": "wd1",
+   "site": "StrykerCareers"
+  },
+  {
+   "name": "Analog Devices",
+   "type": "workday",
+   "tenant": "analogdevices",
+   "wd": "wd1",
+   "site": "External"
+  }
+ ],
+ "ie": [
+  {
+   "name": "Unilever",
+   "type": "workday",
+   "tenant": "unilever",
+   "wd": "wd3",
+   "site": "Unilever_Experienced_Professionals"
+  },
+  {
+   "name": "GSK",
+   "type": "workday",
+   "tenant": "gsk",
+   "wd": "wd5",
+   "site": "GSKCareers"
+  },
+  {
+   "name": "BP",
+   "type": "workday",
+   "tenant": "bpinternational",
+   "wd": "wd3",
+   "site": "bpCareers"
+  },
+  {
+   "name": "Barclays",
+   "type": "workday",
+   "tenant": "barclays",
+   "wd": "wd3",
+   "site": "External_Career_Site_Barclays"
+  },
+  {
+   "name": "Rolls-Royce",
+   "type": "workday",
+   "tenant": "rollsroyce",
+   "wd": "wd3",
+   "site": "professional"
+  },
+  {
+   "name": "Diageo",
+   "type": "workday",
+   "tenant": "diageo",
+   "wd": "wd3",
+   "site": "Diageo_Careers"
+  },
+  {
+   "name": "Centrica",
+   "type": "workday",
+   "tenant": "centrica",
+   "wd": "wd3",
+   "site": "Centrica"
+  },
+  {
+   "name": "RELX",
+   "type": "workday",
+   "tenant": "relx",
+   "wd": "wd3",
+   "site": "relx"
+  },
+  {
+   "name": "Accenture",
+   "type": "workday",
+   "tenant": "accenture",
+   "wd": "wd103",
+   "site": "AccentureCareers"
+  },
+  {
+   "name": "Marks & Spencer",
+   "type": "oracle",
+   "host": "fa-eqid-saasfaprod1.fa.ocs.oraclecloud.com",
+   "site": "CX_1"
+  },
+  {
+   "name": "Next",
+   "type": "oracle",
+   "host": "ekeq.fa.em2.oraclecloud.com",
+   "site": "CX_3001"
+  },
+  {
+   "name": "BT Group",
+   "type": "rmk",
+   "host": "jobs.bt.com"
+  },
+  {
+   "name": "Reckitt",
+   "type": "rmk",
+   "host": "careers.reckitt.com"
+  },
+  {
+   "name": "Jaguar Land Rover",
+   "type": "rmk",
+   "host": "www.jaguarlandrovercareers.com"
+  },
+  {
+   "name": "Ocado Group",
+   "type": "greenhouse",
+   "id": "ocadogroup"
+  },
+  {
+   "name": "Primark",
+   "type": "radancy",
+   "host": "careers.primark.com",
+   "lang": "en"
+  },
+  {
+   "name": "Amazon",
+   "type": "amazon"
+  },
+  {
+   "name": "Salesforce",
+   "type": "workday",
+   "tenant": "salesforce",
+   "wd": "wd12",
+   "site": "External_Career_Site"
+  },
+  {
+   "name": "SAP",
+   "type": "rmk",
+   "host": "www.linkedin.com"
+  },
+  {
+   "name": "Cisco",
+   "type": "workday",
+   "tenant": "cisco",
+   "wd": "wd5",
+   "site": "Cisco_Careers"
+  },
+  {
+   "name": "Adobe",
+   "type": "workday",
+   "tenant": "adobe",
+   "wd": "wd5",
+   "site": "external_experienced"
+  },
+  {
+   "name": "Workday",
+   "type": "workday",
+   "tenant": "workday",
+   "wd": "wd5",
+   "site": "Workday"
+  },
+  {
+   "name": "ServiceNow",
+   "type": "smartrecruiters",
+   "id": "ServiceNow"
+  },
+  {
+   "name": "Nvidia",
+   "type": "workday",
+   "tenant": "nvidia",
+   "wd": "wd5",
+   "site": "NVIDIAExternalCareerSite"
+  },
+  {
+   "name": "Intel",
+   "type": "workday",
+   "tenant": "intel",
+   "wd": "wd1",
+   "site": "External"
+  },
+  {
+   "name": "HP",
+   "type": "workday",
+   "tenant": "hp",
+   "wd": "wd5",
+   "site": "ExternalCareerSite"
+  },
+  {
+   "name": "PayPal",
+   "type": "workday",
+   "tenant": "paypal",
+   "wd": "wd1",
+   "site": "jobs"
+  },
+  {
+   "name": "Mastercard",
+   "type": "workday",
+   "tenant": "mastercard",
+   "wd": "wd1",
+   "site": "CorporateCareers"
+  },
+  {
+   "name": "American Express",
+   "type": "eightfold",
+   "host": "aexp.eightfold.ai",
+   "domain": "aexp.com"
+  },
+  {
+   "name": "Uber",
+   "type": "oracle",
+   "host": "iaziqy.fa.ocs.oraclecloud.com",
+   "site": "UberCareers"
+  },
+  {
+   "name": "LinkedIn",
+   "type": "smartrecruiters",
+   "id": "LinkedIn3"
+  },
+  {
+   "name": "Spotify",
+   "type": "lever",
+   "id": "spotify"
+  },
+  {
+   "name": "King",
+   "type": "eightfold",
+   "host": "activision.eightfold.ai",
+   "domain": "activision.com"
+  },
+  {
+   "name": "Monzo",
+   "type": "greenhouse",
+   "id": "monzo"
+  },
+  {
+   "name": "Pfizer",
+   "type": "workday",
+   "tenant": "pfizer",
+   "wd": "wd1",
+   "site": "PfizerCareers"
+  },
+  {
+   "name": "Johnson & Johnson",
+   "type": "workday",
+   "tenant": "jj",
+   "wd": "wd5",
+   "site": "JJ"
+  },
+  {
+   "name": "Novartis",
+   "type": "workday",
+   "tenant": "novartis",
+   "wd": "wd3",
+   "site": "Novartis_Careers"
+  },
+  {
+   "name": "Sanofi",
+   "type": "workday",
+   "tenant": "sanofi",
+   "wd": "wd3",
+   "site": "SanofiCareers"
+  },
+  {
+   "name": "Bristol Myers Squibb",
+   "type": "workday",
+   "tenant": "bristolmyerssquibb",
+   "wd": "wd5",
+   "site": "BMS"
+  },
+  {
+   "name": "Abbott",
+   "type": "workday",
+   "tenant": "abbott",
+   "wd": "wd5",
+   "site": "abbottcareers"
+  },
+  {
+   "name": "Medtronic",
+   "type": "workday",
+   "tenant": "medtronic",
+   "wd": "wd1",
+   "site": "MedtronicCareers"
+  },
+  {
+   "name": "Thermo Fisher Scientific",
+   "type": "workday",
+   "tenant": "thermofisher",
+   "wd": "wd5",
+   "site": "ThermoFisherCareers"
+  },
+  {
+   "name": "MSD",
+   "type": "workday",
+   "tenant": "msd",
+   "wd": "wd5",
+   "site": "SearchJobs"
+  },
+  {
+   "name": "Roche",
+   "type": "workday",
+   "tenant": "roche",
+   "wd": "wd3",
+   "site": "roche-ext"
+  },
+  {
+   "name": "Philips",
+   "type": "workday",
+   "tenant": "philips",
+   "wd": "wd3",
+   "site": "jobs-and-careers"
+  },
+  {
+   "name": "Siemens Healthineers",
+   "type": "workday",
+   "tenant": "onehealthineers",
+   "wd": "wd3",
+   "site": "SHSJB"
+  },
+  {
+   "name": "Honeywell",
+   "type": "oracle",
+   "host": "ibqbjb.fa.ocs.oraclecloud.com",
+   "site": "Honeywell"
+  },
+  {
+   "name": "3M",
+   "type": "workday",
+   "tenant": "3m",
+   "wd": "wd1",
+   "site": "Search"
+  },
+  {
+   "name": "GE Vernova",
+   "type": "workday",
+   "tenant": "gevernova",
+   "wd": "wd5",
+   "site": "Vernova_ExternalSite"
+  },
+  {
+   "name": "Mondelez",
+   "type": "workday",
+   "tenant": "mdlz",
+   "wd": "wd3",
+   "site": "External"
+  },
+  {
+   "name": "Coca-Cola",
+   "type": "workday",
+   "tenant": "coke",
+   "wd": "wd1",
+   "site": "coca-cola-careers"
+  },
+  {
+   "name": "Carlsberg",
+   "type": "rmk",
+   "host": "www.carlsberggroup.com"
+  },
+  {
+   "name": "L'Oréal",
+   "type": "radancy",
+   "host": "careers.loreal.com",
+   "lang": "en"
+  },
+  {
+   "name": "Nike",
+   "type": "workday",
+   "tenant": "nike",
+   "wd": "wd1",
+   "site": "nke"
+  },
+  {
+   "name": "adidas",
+   "type": "rmk",
+   "host": "jobs.adidas-group.com"
+  },
+  {
+   "name": "Mars",
+   "type": "rmk",
+   "host": "jobs.kellanova.com"
+  },
+  {
+   "name": "ExxonMobil",
+   "type": "rmk",
+   "host": "jobs.exxonmobil.com"
+  },
+  {
+   "name": "Equinor",
+   "type": "workday",
+   "tenant": "equinor",
+   "wd": "wd3",
+   "site": "EQNR"
+  },
+  {
+   "name": "Citi",
+   "type": "workday",
+   "tenant": "citi",
+   "wd": "wd5",
+   "site": "2"
+  },
+  {
+   "name": "Morgan Stanley",
+   "type": "eightfold",
+   "host": "morganstanley.eightfold.ai",
+   "domain": "morganstanley.com"
+  },
+  {
+   "name": "BlackRock",
+   "type": "workday",
+   "tenant": "blackrock",
+   "wd": "wd1",
+   "site": "BlackRock_Professional"
+  },
+  {
+   "name": "State Street",
+   "type": "workday",
+   "tenant": "statestreet",
+   "wd": "wd1",
+   "site": "Global"
+  },
+  {
+   "name": "Northern Trust",
+   "type": "workday",
+   "tenant": "ntrs",
+   "wd": "wd1",
+   "site": "northerntrust"
+  },
+  {
+   "name": "S&P Global",
+   "type": "workday",
+   "tenant": "spgi",
+   "wd": "wd5",
+   "site": "SPGI_Careers"
+  },
+  {
+   "name": "LSEG",
+   "type": "workday",
+   "tenant": "lseg",
+   "wd": "wd3",
+   "site": "Careers"
+  },
+  {
+   "name": "Marsh McLennan",
+   "type": "workday",
+   "tenant": "mmc",
+   "wd": "wd1",
+   "site": "MMC"
+  },
+  {
+   "name": "Zurich",
+   "type": "rmk",
+   "host": "www.careers.zurich.com"
+  },
+  {
+   "name": "EY",
+   "type": "rmk",
+   "host": "careers.ey.com"
+  },
+  {
+   "name": "Kone",
+   "type": "workday",
+   "tenant": "kone",
+   "wd": "wd3",
+   "site": "Careers"
+  },
+  {
+   "name": "Hilton",
+   "type": "oracle",
+   "host": "efet.fa.us2.oraclecloud.com",
+   "site": "CX_1"
+  },
+  {
+   "name": "Marriott",
+   "type": "oracle",
+   "host": "ejwl.fa.us2.oraclecloud.com",
+   "site": "CX"
+  },
+  {
+   "name": "CRH",
+   "type": "rmk",
+   "host": "www.crh.com"
+  },
+  {
+   "name": "Glanbia",
+   "type": "rmk",
+   "host": "www.glanbia.com"
+  },
+  {
+   "name": "ESB",
+   "type": "rmk",
+   "host": "careers.esb.ie"
+  },
+  {
+   "name": "Stryker",
+   "type": "workday",
+   "tenant": "stryker",
+   "wd": "wd1",
+   "site": "StrykerCareers"
+  },
+  {
+   "name": "Analog Devices",
+   "type": "workday",
+   "tenant": "analogdevices",
+   "wd": "wd1",
+   "site": "External"
+  }
  ]
 }
