@@ -6,11 +6,15 @@
   "markers": [
    "sf_rmk"
   ],
-  "final": "https://jobs.volvogroup.com/?locale=en_US",
+  "final": "https://www.volvogroup.com/en/news-and-media/portraits/portraits/Virginia-Ostrowski.html",
   "pages": [
    {
     "url": "https://www.volvogroup.com/en/careers.html",
     "final": "https://www.volvogroup.com/en/careers.html"
+   },
+   {
+    "url": "https://www.volvogroup.com/",
+    "final": "https://www.volvogroup.com/en/"
    },
    {
     "url": "https://www.volvogroup.com/clientlibs-edge/production/20261001112600/shared/vcdk/publish.css",
@@ -39,6 +43,34 @@
    {
     "url": "https://www.volvogroup.com/en/careers/job-openings.html",
     "final": "https://jobs.volvogroup.com/?locale=en_US"
+   },
+   {
+    "url": "https://www.volvogroup.com/en/investors/corporate-governance/board-of-directors/composition-and-attendance.html",
+    "final": "https://www.volvogroup.com/en/investors/corporate-governance/board-of-directors/composition-and-attendance.html"
+   },
+   {
+    "url": "https://www.volvogroup.com/en/suppliers/our-supplier-requirements/material-and-substances-composition-reporting-in-imds.html",
+    "final": "https://www.volvogroup.com/en/suppliers/our-supplier-requirements/material-and-substances-composition-reporting-in-imds.html"
+   },
+   {
+    "url": "https://www.volvogroup.com/clientlibs-edge/production/20261001112600/shared/components/content/text.css",
+    "final": "https://www.volvogroup.com/clientlibs-edge/production/20261001112600/shared/components/content/text.css"
+   },
+   {
+    "url": "https://www.volvogroup.com/clientlibs-edge/production/20261001112600/shared/components/content/container.css",
+    "final": "https://www.volvogroup.com/clientlibs-edge/production/20261001112600/shared/components/content/container.css"
+   },
+   {
+    "url": "https://www.volvogroup.com/en/careers/working-at-volvo-group/diversity-inclusion-stories/How_stereotypes_are_harmful.html",
+    "final": "https://www.volvogroup.com/en/careers/working-at-volvo-group/diversity-inclusion-stories/How_stereotypes_are_harmful.html"
+   },
+   {
+    "url": "https://jobs.volvogroup.com/",
+    "final": "https://jobs.volvogroup.com/"
+   },
+   {
+    "url": "https://www.volvogroup.com/en/news-and-media/portraits/portraits/Virginia-Ostrowski.html",
+    "final": "https://www.volvogroup.com/en/news-and-media/portraits/portraits/Virginia-Ostrowski.html"
    }
   ]
  },
@@ -52,19 +84,85 @@
    {
     "url": "https://www.volvocars.com/intl/v/careers",
     "error": "HTTP Error 403: Forbidden"
+   },
+   {
+    "url": "https://www.volvocars.com/",
+    "error": "HTTP Error 403: Forbidden"
    }
   ]
  },
  {
   "name": "Scania",
-  "url": "https://www.scania.com/group/en/home/careers.html",
+  "url": "https://www.scania.com/group/en/home/career.html",
   "ats": [],
-  "markers": [],
-  "final": null,
+  "markers": [
+   "sf_rmk"
+  ],
+  "final": "https://www.scania.com/etc.clientlibs/scania-core-app/components/content/teaser/list/clientlibs.lc-978476956f52ce0ad7ab9c9e82d80d60-lc.min.css",
   "pages": [
    {
-    "url": "https://www.scania.com/group/en/home/careers.html",
-    "error": "HTTP Error 404: Not Found"
+    "url": "https://www.scania.com/group/en/home/career.html",
+    "final": "https://www.scania.com/group/en/home/career.html"
+   },
+   {
+    "url": "https://www.scania.com/",
+    "final": "https://www.scania.com/"
+   },
+   {
+    "url": "https://www.scania.com/etc.clientlibs/scania-clientlibs/clientlibs/clientlib-site/resources/favicon/favicon.ico?v=2",
+    "final": "https://www.scania.com/etc.clientlibs/scania-clientlibs/clientlibs/clientlib-site/resources/favicon/favicon.ico?v=2"
+   },
+   {
+    "url": "https://www.scania.com/etc.clientlibs/scania-core-app/components/content/search/searchbox/clientlibs/site.lc-3abf62c17053a7133dde00fa82e79b0d-lc.min.css",
+    "final": "https://www.scania.com/etc.clientlibs/scania-core-app/components/content/search/searchbox/clientlibs/site.lc-3abf62c17053a7133dde00fa82e79b0d-lc.min.css"
+   },
+   {
+    "url": "https://www.scania.com/etc.clientlibs/scania-core-app/components/content/content/title/clientlibs/site.lc-2abdc9f6ec3baa894c6af4ac9ffbd561-lc.min.css",
+    "final": "https://www.scania.com/etc.clientlibs/scania-core-app/components/content/content/title/clientlibs/site.lc-2abdc9f6ec3baa894c6af4ac9ffbd561-lc.min.css"
+   },
+   {
+    "url": "https://www.scania.com/group/en/home/career/graduates.html",
+    "final": "https://www.scania.com/group/en/home/career/graduates.html"
+   },
+   {
+    "url": "https://www.scania.com/group/en/home/career/available-positions.html",
+    "final": "https://jobs.scania.com/go/Jobs-at-Scania/9096601/"
+   },
+   {
+    "url": "https://www.scania.com/group/en/home/newsroom/news/2026/introducing-the-researcher-bringing-humanity-into-transport-electrification.html",
+    "final": "https://www.scania.com/group/en/home/newsroom/news/2026/introducing-the-researcher-bringing-humanity-into-transport-electrification.html"
+   },
+   {
+    "url": "https://www.scania.com/group/en/home/career/life-at-scania/meet-our-employees.html",
+    "final": "https://www.scania.com/group/en/home/career/life-at-scania/meet-our-employees.html"
+   },
+   {
+    "url": "https://www.scania.com/group/en/home/career/life-at-scania/meet-our-employees/magdalena-norman.html",
+    "final": "https://www.scania.com/group/en/home/career/life-at-scania/meet-our-employees/magdalena-norman.html"
+   },
+   {
+    "url": "https://www.scania.com/career.html",
+    "final": "https://www.scania.com/career.html"
+   },
+   {
+    "url": "https://www.scania.com/group/en/home/career/life-at-scania.html",
+    "final": "https://www.scania.com/group/en/home/career/life-at-scania.html"
+   },
+   {
+    "url": "https://www.scania.com/group/en/home/career/students-and-graduates.html",
+    "final": "https://www.scania.com/group/en/home/career/students-and-graduates.html"
+   },
+   {
+    "url": "https://www.scania.com/group/en/home/career/career-opportunities.html",
+    "final": "https://www.scania.com/group/en/home/career/career-opportunities.html"
+   },
+   {
+    "url": "https://www.scania.com/etc.clientlibs/scania-core-app/components/content/teaser/heroimage/clientlibs/site.lc-db6175c7abfd1e8e6f4c8e94d236bf0f-lc.min.css",
+    "final": "https://www.scania.com/etc.clientlibs/scania-core-app/components/content/teaser/heroimage/clientlibs/site.lc-db6175c7abfd1e8e6f4c8e94d236bf0f-lc.min.css"
+   },
+   {
+    "url": "https://www.scania.com/etc.clientlibs/scania-core-app/components/content/teaser/list/clientlibs.lc-978476956f52ce0ad7ab9c9e82d80d60-lc.min.css",
+    "final": "https://www.scania.com/etc.clientlibs/scania-core-app/components/content/teaser/list/clientlibs.lc-978476956f52ce0ad7ab9c9e82d80d60-lc.min.css"
    }
   ]
  },
@@ -77,6 +175,10 @@
   "pages": [
    {
     "url": "https://www.ericsson.com/en/careers",
+    "error": "HTTP Error 403: Forbidden"
+   },
+   {
+    "url": "https://www.ericsson.com/",
     "error": "HTTP Error 403: Forbidden"
    }
   ]
@@ -132,7 +234,7 @@
   "markers": [
    "radancy"
   ],
-  "final": "https://jobs.ikea.com/en",
+  "final": "https://jobs.ikea.com/pt-br",
   "pages": [
    {
     "url": "https://jobs.ikea.com/",
@@ -163,20 +265,52 @@
     "final": "https://jobs.ikea.com/en/search-jobs?acm=59681&alrpm=ALL&ascf=[%7B%22key%22:%22custom_fields.JobFamily%22,%22value%22:%22Finance%2c+Legal+%26+Property%22%7D]"
    },
    {
+    "url": "https://jobs.ikea.com/EN/59687",
+    "final": "https://jobs.ikea.com/en/search-jobs?acm=59687&alrpm=ALL&ascf=[%7B%22key%22:%22custom_fields.JobFamily%22,%22value%22:%22Finance%2c+Legal+%26+Property%22%7D]"
+   },
+   {
+    "url": "https://jobs.ikea.com/EN/59693",
+    "final": "https://jobs.ikea.com/en/search-jobs?acm=59693&alrpm=ALL&ascf=[%7B%22key%22:%22custom_fields.JobFamily%22,%22value%22:%22Finance%2c+Legal+%26+Property%22%7D]"
+   },
+   {
     "url": "https://jobs.ikea.com/en",
     "final": "https://jobs.ikea.com/en"
+   },
+   {
+    "url": "https://jobs.ikea.com/fr",
+    "final": "https://jobs.ikea.com/fr"
+   },
+   {
+    "url": "https://jobs.ikea.com/nl",
+    "final": "https://jobs.ikea.com/nl"
+   },
+   {
+    "url": "https://jobs.ikea.com/de",
+    "final": "https://jobs.ikea.com/de"
+   },
+   {
+    "url": "https://jobs.ikea.com/es",
+    "final": "https://jobs.ikea.com/es"
+   },
+   {
+    "url": "https://jobs.ikea.com/it",
+    "final": "https://jobs.ikea.com/it"
+   },
+   {
+    "url": "https://jobs.ikea.com/pt-br",
+    "final": "https://jobs.ikea.com/pt-br"
    }
   ]
  },
  {
   "name": "Electrolux Group",
-  "url": "https://www.electroluxgroup.com/careers/",
+  "url": "https://www.electroluxgroup.com/",
   "ats": [],
   "markers": [],
   "final": null,
   "pages": [
    {
-    "url": "https://www.electroluxgroup.com/careers/",
+    "url": "https://www.electroluxgroup.com/",
     "error": "The read operation timed out"
    }
   ]
@@ -185,12 +319,18 @@
   "name": "Atlas Copco",
   "url": "https://www.atlascopcogroup.com/en/careers",
   "ats": [],
-  "markers": [],
-  "final": "https://www.atlascopcogroup.com/se/careers/jobs",
+  "markers": [
+   "sf_rmk"
+  ],
+  "final": "https://www.atlascopcogroup.com/se/careers/reasons-to-join-atlas-copco-group",
   "pages": [
    {
     "url": "https://www.atlascopcogroup.com/en/careers",
     "final": "https://www.atlascopcogroup.com/en/careers"
+   },
+   {
+    "url": "https://www.atlascopcogroup.com/",
+    "final": "https://www.atlascopcogroup.com/en"
    },
    {
     "url": "https://www.atlascopcogroup.com/se/careers",
@@ -217,8 +357,36 @@
     "final": "https://www.atlascopcogroup.com/en/about-us/sweden/student-opportunities-sweden/my-dream-now"
    },
    {
+    "url": "https://www.atlascopcogroup.com/en/about-us/sweden/student-opportunities-sweden/erik-johnsson-scholarship",
+    "final": "https://www.atlascopcogroup.com/en/about-us/sweden/student-opportunities-sweden/erik-johnsson-scholarship"
+   },
+   {
+    "url": "https://www.atlascopcogroup.com/en/careers/jobs",
+    "final": "https://www.atlascopcogroup.com/en/careers/jobs"
+   },
+   {
+    "url": "https://www.atlascopcogroup.com/en",
+    "final": "https://www.atlascopcogroup.com/en"
+   },
+   {
     "url": "https://www.atlascopcogroup.com/se/careers/jobs",
     "final": "https://www.atlascopcogroup.com/se/careers/jobs"
+   },
+   {
+    "url": "https://www.atlascopcogroup.com/se/careers/jobs/job-overview",
+    "final": "https://www.jobs.atlascopcogroup.com/search/?q=&locationsearch=&locale=sv_SE&searchResultView=LIST&skillsSearch=false"
+   },
+   {
+    "url": "https://www.atlascopcogroup.com/se/careers/jobs/recruitment-process",
+    "final": "https://www.atlascopcogroup.com/se/careers/jobs/recruitment-process"
+   },
+   {
+    "url": "https://www.atlascopcogroup.com/se/careers/jobs/frequently-asked-questions",
+    "final": "https://www.atlascopcogroup.com/se/careers/jobs/frequently-asked-questions"
+   },
+   {
+    "url": "https://www.atlascopcogroup.com/se/careers/reasons-to-join-atlas-copco-group",
+    "final": "https://www.atlascopcogroup.com/se/careers/reasons-to-join-atlas-copco-group"
    }
   ]
  },
@@ -235,12 +403,18 @@
     ]
    }
   ],
-  "markers": [],
-  "final": "https://www.home.sandvik/en/careers/",
+  "markers": [
+   "workday_word"
+  ],
+  "final": "https://www.home.sandvik/",
   "pages": [
    {
     "url": "https://www.home.sandvik/en/careers/",
     "final": "https://www.home.sandvik/en/careers/"
+   },
+   {
+    "url": "https://www.home.sandvik/",
+    "final": "https://www.home.sandvik/"
    }
   ]
  },
@@ -249,11 +423,15 @@
   "url": "https://www.skf.com/group/careers",
   "ats": [],
   "markers": [],
-  "final": "https://www.skf.com/group/careers",
+  "final": "https://www.skf.com/us",
   "pages": [
    {
     "url": "https://www.skf.com/group/careers",
     "final": "https://www.skf.com/group/careers"
+   },
+   {
+    "url": "https://www.skf.com/",
+    "final": "https://www.skf.com/us"
    }
   ]
  },
@@ -262,12 +440,17 @@
   "url": "https://careers.abb/global/en",
   "ats": [],
   "markers": [
-   "phenom"
+   "phenom",
+   "workday_word"
   ],
-  "final": "https://careers.abb/global/en/story-beatrice",
+  "final": "https://careers.abb/global/en/nakyah-s-story",
   "pages": [
    {
     "url": "https://careers.abb/global/en",
+    "final": "https://careers.abb/global/en"
+   },
+   {
+    "url": "https://careers.abb/",
     "final": "https://careers.abb/global/en"
    },
    {
@@ -284,7 +467,7 @@
    },
    {
     "url": "https://www.instagram.com/abbcareer/",
-    "error": "HTTP Error 429: Too Many Requests"
+    "final": "https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fabbcareer%2F&is_from_rle"
    },
    {
     "url": "https://www.youtube.com/@abbcareer",
@@ -297,71 +480,207 @@
    {
     "url": "https://careers.abb/global/en/story-beatrice",
     "final": "https://careers.abb/global/en/story-beatrice"
+   },
+   {
+    "url": "https://careers.abb/global/en/story-boda",
+    "final": "https://careers.abb/global/en/story-boda"
+   },
+   {
+    "url": "https://careers.abb/global/en/story-hanuman",
+    "final": "https://careers.abb/global/en/story-hanuman"
+   },
+   {
+    "url": "https://careers.abb/global/en/gdpr-ph-media-cc-view1-option3-primary-link-href1",
+    "error": "HTTP Error 404: Not Found"
+   },
+   {
+    "url": "https://www.youtube.com/s/desktop/5d669aa8/img/favicon.ico",
+    "final": "https://www.youtube.com/s/desktop/5d669aa8/img/favicon.ico"
+   },
+   {
+    "url": "https://careers.abb/global/en/masayasu-eng",
+    "final": "https://careers.abb/global/en/masayasu-eng"
+   },
+   {
+    "url": "https://careers.abb/global/en/doug-s-story",
+    "final": "https://careers.abb/global/en/doug-s-story"
+   },
+   {
+    "url": "https://careers.abb/global/en/nakyah-s-story",
+    "final": "https://careers.abb/global/en/nakyah-s-story"
    }
   ]
  },
  {
   "name": "Securitas",
-  "url": "https://www.securitas.se/jobba-hos-oss/",
+  "url": "https://www.securitas.se/",
   "ats": [],
   "markers": [],
   "final": null,
   "pages": [
    {
-    "url": "https://www.securitas.se/jobba-hos-oss/",
+    "url": "https://www.securitas.se/",
     "error": "HTTP Error 503: Service Unavailable"
    }
   ]
  },
  {
   "name": "ICA Gruppen",
-  "url": "https://www.icagruppen.se/jobba-hos-oss/",
+  "url": "https://www.icagruppen.se/",
   "ats": [],
-  "markers": [],
-  "final": null,
+  "markers": [
+   "phenom"
+  ],
+  "final": "https://karriar.apotekhjartat.se/se/sv",
   "pages": [
    {
-    "url": "https://www.icagruppen.se/jobba-hos-oss/",
-    "error": "HTTP Error 404: Not Found"
+    "url": "https://www.icagruppen.se/",
+    "final": "https://www.icagruppen.se/"
+   },
+   {
+    "url": "https://karriar.icagruppen.se/se/sv",
+    "final": "https://karriar.icagruppen.se/se/sv"
+   },
+   {
+    "url": "https://www.google.com/maps/search/Kolonnv%C3%A4gen%2020+169%2070%20%20Solna",
+    "final": "https://www.google.com/maps/search/Kolonnv%C3%A4gen%2020+169%2070%20%20Solna"
+   },
+   {
+    "url": "https://cdn.phenompeople.com/CareerConnectResources/common/js/globalplatform/1781270809227_globalstyles.css",
+    "final": "https://cdn.phenompeople.com/CareerConnectResources/common/js/globalplatform/1781270809227_globalstyles.css"
+   },
+   {
+    "url": "https://karriar.icagruppen.se/se/short-header-LedigaURL",
+    "final": "https://karriar.icagruppen.se/se/sv"
+   },
+   {
+    "url": "https://karriar.icagruppen.se/se/short-header-shortJobbaSearchLinkPath",
+    "final": "https://karriar.icagruppen.se/se/sv"
+   },
+   {
+    "url": "https://karriar.icagruppen.se/se/short-header-shortJobbaButikLinkPath",
+    "final": "https://karriar.icagruppen.se/se/sv"
+   },
+   {
+    "url": "https://karriar.icagruppen.se/se/search-results",
+    "final": "https://karriar.icagruppen.se/se/sv"
+   },
+   {
+    "url": "https://karriar.icagruppen.se/se/Bd8TZG-eI0sU7-gLpn68-ph-media-cc-view1-option1-primary-link-href",
+    "final": "https://karriar.icagruppen.se/se/sv"
+   },
+   {
+    "url": "https://karriar.icagruppen.se/se/lN4865-Bd8TZG-eI0sU7-gLpn68-ph-media-cc-view1-option1-primary-link-href",
+    "final": "https://karriar.icagruppen.se/se/sv"
+   },
+   {
+    "url": "https://karriar.icagruppen.se/se/sv/lediga-jobb",
+    "final": "https://karriar.icagruppen.se/se/sv/lediga-jobb"
+   },
+   {
+    "url": "https://www.google.com/search?tbm=map&amp;authuser=0&amp;hl=en&amp;gl=us&amp;q=Kolonnv%C3%A4gen+20+169+70++Solna&amp;pb=%211sKolonnv%C3%A4gen+20+169+70++Solna%217i20%2110b1%2112m61%211m5%2118b1%2130b1%2131m1%211b1%2134e1%212m4%215m1%216e2%2120e3%2139b1%216m32%2132i1%2149b1%2163m0%2166b1%2185b1%21114b1%21149b1%21206b1%21209b1%21212b1%21215b1%21216b1%21222b1%21223b1%21234b1%21235b1%21239b1%21246b1%21253b1%21260b1%21262b1%21266b1%21267b1%21270b1%21271b1%21273b1%21277b1%21281b1%21291m0%21294b1%21302i300%21303i100%2110b1%2112b1%2113b1%2114b1%2116b1%2117m1%213e1%2120m3%215e2%216b1%2114b1%2146m1%211b0%2196b1%2197m1%212b1%2199b1%2119m4%212m3%211i360%212i120%214i8%2120m57%212m2%211i203%212i100%213m2%212i4%215b1%216m6%211m2%211i86%212i86%211m2%211i408%212i240%217m33%211m3%211e1%212b0%213e3%211m3%211e2%212b1%213e2%211m3%211e2%212b0%213e3%211m3%211e8%212b0%213e3%211m3%211e10%212b0%213e3%211m3%211e10%212b1%213e2%211m3%211e10%212b0%213e4%211m3%211e9%212b1%213e2%212b1%219b0%2115m8%211m7%211m2%211m1%211e2%212m2%211i195%212i195%213i20%2122m5%211slAbTasKrC4_NkPIPy-O3UA%217e81%2114m1%213slAbTasKrC4_NkPIPy-O3UA%2115i9937%2124m107%211m25%2113m9%212b1%213b1%214b1%216i1%218b1%219b1%2114b1%2120b1%2125b1%2118m14%213b1%214b1%215b1%216b1%2113b1%2114b1%2117b1%2121b1%2122b1%2132b1%2133m1%211b1%2134b1%2136e2%2110m1%218e3%2111m1%213e1%2117b1%2120m2%211e3%211e6%2124b1%2125b1%2126b1%2127b1%2129b1%2130m1%212b1%2136b1%2137b1%2139m3%212m2%212i1%213i1%2143b1%2152b1%2154m1%211b1%2155b1%2156m1%211b1%2161m2%211m1%211e1%2165m5%213m4%211m3%211m2%211i224%212i298%2172m22%211m8%212b1%215b1%217b1%2112m4%211b1%212b1%214m1%211e1%214b1%218m10%211m6%214m1%211e1%214m1%211e3%214m1%211e4%213sother_user_google_review_posts__and__hotel_and_vr_partner_review_posts%216m1%211e1%219b1%2189b1%2190m2%211m1%211e2%2198m3%211b1%212b1%213b1%21103b1%21113b1%21114m3%211b1%212m1%211b1%21117b1%21122m1%211b1%21126b1%21127b1%21128m1%211b1%2126m4%212m3%211i80%212i92%214i8%2130m28%211m6%211m2%211i0%212i0%212m2%211i530%212i768%211m6%211m2%211i974%212i0%212m2%211i1024%212i768%211m6%211m2%211i0%212i0%212m2%211i1024%212i20%211m6%211m2%211i0%212i748%212m2%211i1024%212i768%2134m19%212b1%213b1%214b1%216b1%218m6%211b1%213b1%214b1%215b1%216b1%217b1%219b1%2112b1%2114b1%2120b1%2123b1%2125b1%2126b1%2131b1%2137m1%211e81%2142b1%2149m10%213b1%216m2%211b1%212b1%217m2%211e3%212b1%218b1%219b1%2110e2%2150m3%212e2%213m1%213b1%2161b1%2167m5%217b1%2110b1%2114b1%2115m1%211b0%2169i800%2177b1",
+    "final": "https://www.google.com/search?tbm=map&amp;authuser=0&amp;hl=en&amp;gl=us&amp;q=Kolonnv%C3%A4gen+20+169+70++Solna&amp;pb=%211sKolonnv%C3%A4gen+20+169+70++Solna%217i20%2110b1%2112m61%211m5%2118b1%2130b1%2131m1%211b1%2134e1%212m4%215m1%216e2%2120e3%2139b1%216m32%2132i1%2149b1%2163m0%2166b1%2185b1%21114b1%21149b1%21206b1%21209b1%21212b1%21215b1%21216b1%21222b1%21223b1%21234b1%21235b1%21239b1%21246b1%21253b1%21260b1%21262b1%21266b1%21267b1%21270b1%21271b1%21273b1%21277b1%21281b1%21291m0%21294b1%21302i300%21303i100%2110b1%2112b1%2113b1%2114b1%2116b1%2117m1%213e1%2120m3%215e2%216b1%2114b1%2146m1%211b0%2196b1%2197m1%212b1%2199b1%2119m4%212m3%211i360%212i120%214i8%2120m57%212m2%211i203%212i100%213m2%212i4%215b1%216m6%211m2%211i86%212i86%211m2%211i408%212i240%217m33%211m3%211e1%212b0%213e3%211m3%211e2%212b1%213e2%211m3%211e2%212b0%213e3%211m3%211e8%212b0%213e3%211m3%211e10%212b0%213e3%211m3%211e10%212b1%213e2%211m3%211e10%212b0%213e4%211m3%211e9%212b1%213e2%212b1%219b0%2115m8%211m7%211m2%211m1%211e2%212m2%211i195%212i195%213i20%2122m5%211slAbTasKrC4_NkPIPy-O3UA%217e81%2114m1%213slAbTasKrC4_NkPIPy-O3UA%2115i9937%2124m107%211m25%2113m9%212b1%213b1%214b1%216i1%218b1%219b1%2114b1%2120b1%2125b1%2118m14%213b1%214b1%215b1%216b1%2113b1%2114b1%2117b1%2121b1%2122b1%2132b1%2133m1%211b1%2134b1%2136e2%2110m1%218e3%2111m1%213e1%2117b1%2120m2%211e3%211e6%2124b1%2125b1%2126b1%2127b1%2129b1%2130m1%212b1%2136b1%2137b1%2139m3%212m2%212i1%213i1%2143b1%2152b1%2154m1%211b1%2155b1%2156m1%211b1%2161m2%211m1%211e1%2165m5%213m4%211m3%211m2%211i224%212i298%2172m22%211m8%212b1%215b1%217b1%2112m4%211b1%212b1%214m1%211e1%214b1%218m10%211m6%214m1%211e1%214m1%211e3%214m1%211e4%213sother_user_google_review_posts__and__hotel_and_vr_partner_review_posts%216m1%211e1%219b1%2189b1%2190m2%211m1%211e2%2198m3%211b1%212b1%213b1%21103b1%21113b1%21114m3%211b1%212m1%211b1%21117b1%21122m1%211b1%21126b1%21127b1%21128m1%211b1%2126m4%212m3%211i80%212i92%214i8%2130m28%211m6%211m2%211i0%212i0%212m2%211i530%212i768%211m6%211m2%211i974%212i0%212m2%211i1024%212i768%211m6%211m2%211i0%212i0%212m2%211i1024%212i20%211m6%211m2%211i0%212i748%212m2%211i1024%212i768%2134m19%212b1%213b1%214b1%216b1%218m6%211b1%213b1%214b1%215b1%216b1%217b1%219b1%2112b1%2114b1%2120b1%2123b1%2125b1%2126b1%2131b1%2137m1%211e81%2142b1%2149m10%213b1%216m2%211b1%212b1%217m2%211e3%212b1%218b1%219b1%2110e2%2150m3%212e2%213m1%213b1%2161b1%2167m5%217b1%2110b1%2114b1%2115m1%211b0%2169i800%2177b1"
+   },
+   {
+    "url": "https://karriar.icagruppen.se/se/footer-JobbapainomLinkUrl",
+    "final": "https://karriar.icagruppen.se/se/sv"
+   },
+   {
+    "url": "https://karriar.icagruppen.se/se/footer-JobbaIButikPathLinkUrl",
+    "final": "https://karriar.icagruppen.se/se/sv"
+   },
+   {
+    "url": "https://karriar.icagruppen.se/se/footer-JobbaLarandeLinkUrl",
+    "final": "https://karriar.icagruppen.se/se/sv"
+   },
+   {
+    "url": "https://karriar.apotekhjartat.se/se/sv",
+    "final": "https://karriar.apotekhjartat.se/se/sv"
    }
   ]
  },
  {
   "name": "Axfood",
-  "url": "https://www.axfood.se/jobba-hos-oss/",
-  "ats": [],
-  "markers": [],
-  "final": null,
+  "url": "https://www.axfood.se/",
+  "ats": [
+   {
+    "ats": "successfactors",
+    "ids": [
+     "career5.successfactors.eu",
+     "C0000043265P"
+    ]
+   }
+  ],
+  "markers": [
+   "sf_rmk"
+  ],
+  "final": "https://www.axfood.se/karriar/din-karriarvag/axfoodakademien/",
   "pages": [
    {
-    "url": "https://www.axfood.se/jobba-hos-oss/",
-    "error": "HTTP Error 404: Not Found"
+    "url": "https://www.axfood.se/",
+    "final": "https://www.axfood.se/"
+   },
+   {
+    "url": "https://www.axfood.se/karriar/",
+    "final": "https://www.axfood.se/karriar/"
+   },
+   {
+    "url": "https://jobb.axfood.se/go/Axfood/4303301/",
+    "final": "https://jobb.axfood.se/go/Axfood/4303301/"
+   },
+   {
+    "url": "https://www.axfood.se/karriar/jobba-har/",
+    "final": "https://www.axfood.se/karriar/jobba-har/"
+   },
+   {
+    "url": "https://www.axfood.se/karriar/jobba-har/sa-gar-det-till-nar-du-soker-jobb-hos-oss/",
+    "final": "https://www.axfood.se/karriar/jobba-har/sa-gar-det-till-nar-du-soker-jobb-hos-oss/"
+   },
+   {
+    "url": "https://www.axfood.se/karriar/jobba-har/vad-kan-du-jobba-med-hos-oss/",
+    "final": "https://www.axfood.se/karriar/jobba-har/vad-kan-du-jobba-med-hos-oss/"
+   },
+   {
+    "url": "https://www.axfood.se/karriar/onboarding/",
+    "final": "https://www.axfood.se/karriar/onboarding/"
+   },
+   {
+    "url": "https://www.axfood.se/karriar/din-karriarvag/",
+    "final": "https://www.axfood.se/karriar/din-karriarvag/"
+   },
+   {
+    "url": "https://www.axfood.se/karriar/din-karriarvag/mangfald/",
+    "final": "https://www.axfood.se/karriar/din-karriarvag/mangfald/"
+   },
+   {
+    "url": "https://www.axfood.se/karriar/din-karriarvag/axfoodakademien/",
+    "final": "https://www.axfood.se/karriar/din-karriarvag/axfoodakademien/"
    }
   ]
  },
  {
   "name": "Coop Sverige",
-  "url": "https://www.coop.se/jobba-pa-coop/",
+  "url": "https://www.coop.se/",
   "ats": [],
   "markers": [],
-  "final": null,
+  "final": "https://www.coop.se/",
   "pages": [
    {
-    "url": "https://www.coop.se/jobba-pa-coop/",
-    "error": "HTTP Error 404: Not Found"
+    "url": "https://www.coop.se/",
+    "final": "https://www.coop.se/"
    }
   ]
  },
  {
   "name": "Assa Abloy",
-  "url": "https://www.assaabloy.com/group/en/careers",
+  "url": "https://www.assaabloy.com/",
   "ats": [],
   "markers": [],
-  "final": null,
+  "final": "https://www.assaabloy.com/us/en",
   "pages": [
    {
-    "url": "https://www.assaabloy.com/group/en/careers",
-    "error": "HTTP Error 404: Not Found"
+    "url": "https://www.assaabloy.com/",
+    "final": "https://www.assaabloy.com/us/en"
    }
   ]
  },
@@ -378,12 +697,18 @@
     ]
    }
   ],
-  "markers": [],
-  "final": "https://www.essity.com/careers/job-opportunities/workday-login",
+  "markers": [
+   "workday_word"
+  ],
+  "final": "https://www.essity.com/careers/experience-levels/operators",
   "pages": [
    {
     "url": "https://www.essity.com/careers/",
     "final": "https://www.essity.com/careers"
+   },
+   {
+    "url": "https://www.essity.com/",
+    "final": "https://www.essity.com/"
    },
    {
     "url": "https://www.essity.com/careers",
@@ -412,6 +737,18 @@
    {
     "url": "https://www.essity.com/careers/job-opportunities/workday-login",
     "final": "https://www.essity.com/careers/job-opportunities/workday-login"
+   },
+   {
+    "url": "https://www.essity.com/careers/life-at-essity/benefits",
+    "final": "https://www.essity.com/careers/life-at-essity/benefits"
+   },
+   {
+    "url": "https://www.essity.com/careers/life-at-essity/learning-and-leadership",
+    "final": "https://www.essity.com/careers/life-at-essity/learning-and-leadership"
+   },
+   {
+    "url": "https://www.essity.com/careers/experience-levels/operators",
+    "final": "https://www.essity.com/careers/experience-levels/operators"
    }
   ]
  },
@@ -420,11 +757,15 @@
   "url": "https://www.alfalaval.com/careers/",
   "ats": [],
   "markers": [],
-  "final": "https://career.alfalaval.com/zh/early-career",
+  "final": "https://career.alfalaval.com/fr/early-career",
   "pages": [
    {
     "url": "https://www.alfalaval.com/careers/",
     "final": "https://career.alfalaval.com/"
+   },
+   {
+    "url": "https://www.alfalaval.com/",
+    "final": "https://www.alfalaval.com/"
    },
    {
     "url": "https://d8yy0r0qfxgnb.cloudfront.net/public/uploads/5f0d61dbb57cb215fd68f77831aa7823/companies/favicons/5f0d61dbb57cb215fd68f77831aa7823/basic/Alfa-Laval-favicon-1024px-RGB-Heritage-Blue.png?1719233080",
@@ -451,8 +792,36 @@
     "final": "https://career.alfalaval.com/zh-TW/"
    },
    {
+    "url": "https://career.alfalaval.com/da/",
+    "final": "https://career.alfalaval.com/da/"
+   },
+   {
+    "url": "https://career.alfalaval.com/fi/",
+    "final": "https://career.alfalaval.com/fi/"
+   },
+   {
+    "url": "https://www.alfalaval.com/media/news/2026/trade-release-desmet-and-alfa-laval-join-forces/",
+    "final": "https://www.alfalaval.com/media/news/2026/trade-release-desmet-and-alfa-laval-join-forces/"
+   },
+   {
     "url": "https://career.alfalaval.com/zh/early-career",
     "final": "https://career.alfalaval.com/zh/early-career"
+   },
+   {
+    "url": "https://career.alfalaval.com/zh-TW/early-career",
+    "final": "https://career.alfalaval.com/zh-TW/early-career"
+   },
+   {
+    "url": "https://career.alfalaval.com/da/early-career",
+    "final": "https://career.alfalaval.com/da/early-career"
+   },
+   {
+    "url": "https://career.alfalaval.com/fi/early-career",
+    "final": "https://career.alfalaval.com/fi/early-career"
+   },
+   {
+    "url": "https://career.alfalaval.com/fr/early-career",
+    "final": "https://career.alfalaval.com/fr/early-career"
    }
   ]
  },
@@ -466,6 +835,10 @@
    {
     "url": "https://www.epirocgroup.com/en/careers",
     "error": "HTTP Error 403: Forbidden"
+   },
+   {
+    "url": "https://www.epirocgroup.com/",
+    "error": "HTTP Error 403: Forbidden"
    }
   ]
  },
@@ -474,11 +847,15 @@
   "url": "https://sebgroup.com/career",
   "ats": [],
   "markers": [],
-  "final": "https://sebgroup.com/career/find-your-new-job",
+  "final": "https://sebgroup.com/career/graduates-and-students",
   "pages": [
    {
     "url": "https://sebgroup.com/career",
     "final": "https://sebgroup.com/career"
+   },
+   {
+    "url": "https://sebgroup.com/",
+    "final": "https://sebgroup.com/"
    },
    {
     "url": "https://sebgroup.com/frontend/fonts/sebsansserif/SEBSansSerif-Regular.woff2",
@@ -505,21 +882,107 @@
     "final": "https://sebgroup.com/career/working-at-seb/meet-our-employees/meet-our-employees-in-life-and-pension/linnea-ecorcheville"
    },
    {
+    "url": "https://sebgroup.com/career/working-at-seb/meet-our-employees/meet-employees-in-tech-and-data/mala-sistla",
+    "final": "https://sebgroup.com/career/working-at-seb/meet-our-employees/meet-employees-in-tech-and-data/mala-sistla"
+   },
+   {
+    "url": "https://sebgroup.com/career/working-at-seb/meet-our-employees/meet-employees-in-finance-and-advisory/audrius-rutkauskas",
+    "final": "https://sebgroup.com/career/working-at-seb/meet-our-employees/meet-employees-in-finance-and-advisory/audrius-rutkauskas"
+   },
+   {
     "url": "https://sebgroup.com/career/find-your-new-job",
     "final": "https://sebgroup.com/career/find-your-new-job"
+   },
+   {
+    "url": "https://sebgroup.com/career/working-at-seb",
+    "final": "https://sebgroup.com/career/working-at-seb"
+   },
+   {
+    "url": "https://talent.sebgroup.com/xmlrpc.php",
+    "error": "HTTP Error 403: Forbidden"
+   },
+   {
+    "url": "https://sebgroup.com/career/graduates-and-students/international-trainee-programme",
+    "final": "https://sebgroup.com/career/graduates-and-students/international-trainee-programme"
+   },
+   {
+    "url": "https://sebgroup.com/career/graduates-and-students/tech-trainee-programme",
+    "final": "https://sebgroup.com/career/graduates-and-students/tech-trainee-programme"
+   },
+   {
+    "url": "https://sebgroup.com/career/graduates-and-students",
+    "final": "https://sebgroup.com/career/graduates-and-students"
    }
   ]
  },
  {
   "name": "Swedbank",
-  "url": "https://www.swedbank.com/about-swedbank/career.html",
-  "ats": [],
-  "markers": [],
-  "final": null,
+  "url": "https://www.swedbank.com/",
+  "ats": [
+   {
+    "ats": "teamtailor",
+    "ids": [
+     "www"
+    ]
+   }
+  ],
+  "markers": [
+   "sf_rmk",
+   "teamtailor_custom"
+  ],
+  "final": "https://www.linkedin.com/company/swedbank/jobs",
   "pages": [
    {
-    "url": "https://www.swedbank.com/about-swedbank/career.html",
-    "error": "HTTP Error 404: Not Found"
+    "url": "https://www.swedbank.com/",
+    "final": "https://www.swedbank.com/"
+   },
+   {
+    "url": "https://www.swedbank.com/work-with-us/job-areas.html",
+    "final": "https://www.swedbank.com/work-with-us/job-areas.html"
+   },
+   {
+    "url": "https://www.swedbank.com/work-with-us/join-swedbank.html",
+    "final": "https://www.swedbank.com/work-with-us/join-swedbank.html"
+   },
+   {
+    "url": "https://www.swedbank.com/work-with-us.html",
+    "final": "https://www.swedbank.com/work-with-us.html"
+   },
+   {
+    "url": "https://www.swedbank.com/content/dam/assets/favicon-32x32.png",
+    "final": "https://www.swedbank.com/content/dam/assets/favicon-32x32.png"
+   },
+   {
+    "url": "https://jobs.swedbank.com",
+    "final": "https://jobs.swedbank.com"
+   },
+   {
+    "url": "https://jobs.swedbank.com/departments/it-and-data",
+    "final": "https://jobs.swedbank.com/departments/it-and-data"
+   },
+   {
+    "url": "https://www.swedbank.com/work-with-us/job-areas/it-data.html",
+    "final": "https://www.swedbank.com/work-with-us/job-areas/it-data.html"
+   },
+   {
+    "url": "https://jobs.swedbank.com/departments/risk-management-compliance-and-legal",
+    "final": "https://jobs.swedbank.com/departments/risk-management-compliance-and-legal"
+   },
+   {
+    "url": "https://jobs.swedbank.com/departments/customer-service-and-advice",
+    "final": "https://jobs.swedbank.com/departments/customer-service-and-advice"
+   },
+   {
+    "url": "https://jobs.swedbank.com/departments/finance-and-analysis",
+    "final": "https://jobs.swedbank.com/departments/finance-and-analysis"
+   },
+   {
+    "url": "https://jobs.swedbank.com/connect",
+    "final": "https://jobs.swedbank.com/connect"
+   },
+   {
+    "url": "https://www.linkedin.com/company/swedbank/careers?trk=top_nav_careers",
+    "final": "https://www.linkedin.com/company/swedbank/jobs"
    }
   ]
  },
@@ -528,15 +991,23 @@
   "url": "https://www.handelsbanken.com/en/careers",
   "ats": [],
   "markers": [],
-  "final": "https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fhandelsbanken%2Fjobs&amp;trk=organization_guest_nav-header-join",
+  "final": "https://www.linkedin.com/legal/cookie-policy?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fhandelsbanken%2Fjobs&trk=registration-frontend_join-form-cookie-policy",
   "pages": [
    {
     "url": "https://www.handelsbanken.com/en/careers",
     "final": "https://www.handelsbanken.com/en/vacancies"
    },
    {
+    "url": "https://www.handelsbanken.com/",
+    "final": "https://www.handelsbanken.com/en/"
+   },
+   {
     "url": "https://www.linkedin.com/company/handelsbanken/jobs/",
     "final": "https://www.linkedin.com/company/handelsbanken/jobs/"
+   },
+   {
+    "url": "https://www.handelsbanken.com/en/careers/vacancies",
+    "final": "https://www.handelsbanken.com/en/vacancies"
    },
    {
     "url": "https://se.linkedin.com/company/handelsbanken/jobs",
@@ -561,6 +1032,30 @@
    {
     "url": "https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fhandelsbanken%2Fjobs&amp;trk=organization_guest_nav-header-join",
     "final": "https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fhandelsbanken%2Fjobs&amp;trk=organization_guest_nav-header-join"
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/handelsbanken-jobs-worldwide?f_C=33467609%2C25058754&amp;trk=top-card_top-card-primary-button-top-card-primary-cta",
+    "final": "https://www.linkedin.com/jobs/handelsbanken-jobs-worldwide?f_C=33467609%2C25058754&amp;trk=top-card_top-card-primary-button-top-card-primary-cta"
+   },
+   {
+    "url": "https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fhandelsbanken%2Fjobs&amp;fromSignIn=true&amp;trk=top-card_top-card-secondary-button-top-card-secondary-cta",
+    "final": "https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fhandelsbanken%2Fjobs&amp;fromSignIn=true&amp;trk=top-card_top-card-secondary-button-top-card-secondary-cta"
+   },
+   {
+    "url": "https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3FfacetCurrentCompany%3D%255B33467609%252C%2B25058754%255D&amp;trk=org-employees_cta_face-pile-cta",
+    "final": "https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fsearch%2Fresults%2Fpeople%2F%3FfacetCurrentCompany%3D%255B33467609%252C%2B25058754%255D&amp;trk=org-employees_cta_face-pile-cta"
+   },
+   {
+    "url": "https://www.linkedin.com/",
+    "final": "https://www.linkedin.com/"
+   },
+   {
+    "url": "https://www.linkedin.com/legal/privacy-policy?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fhandelsbanken%2Fjobs&trk=registration-frontend_join-form-privacy-policy",
+    "final": "https://www.linkedin.com/legal/privacy-policy?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fhandelsbanken%2Fjobs&trk=registration-frontend_join-form-privacy-policy"
+   },
+   {
+    "url": "https://www.linkedin.com/legal/cookie-policy?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fhandelsbanken%2Fjobs&trk=registration-frontend_join-form-cookie-policy",
+    "final": "https://www.linkedin.com/legal/cookie-policy?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fhandelsbanken%2Fjobs&trk=registration-frontend_join-form-cookie-policy"
    }
   ]
  },
@@ -568,12 +1063,18 @@
   "name": "Nordea",
   "url": "https://www.nordea.com/en/careers",
   "ats": [],
-  "markers": [],
-  "final": "https://www.nordea.com/en/careers/vacant-positions?fLocation=1331",
+  "markers": [
+   "workday_word"
+  ],
+  "final": "https://www.nordea.com/en/careers/open-jobs?translation=da",
   "pages": [
    {
     "url": "https://www.nordea.com/en/careers",
     "final": "https://www.nordea.com/en/careers"
+   },
+   {
+    "url": "https://www.nordea.com/",
+    "final": "https://www.nordea.com/en"
    },
    {
     "url": "https://www.nordea.com/da/karriere",
@@ -600,8 +1101,36 @@
     "final": "https://www.nordea.com/en/careers/life-at-nordea"
    },
    {
+    "url": "https://www.nordea.com/en/careers/employee-benefits",
+    "final": "https://www.nordea.com/en/careers/employee-benefits"
+   },
+   {
+    "url": "https://www.nordea.com/en/careers/a-diverse-community",
+    "final": "https://www.nordea.com/en/careers/a-diverse-community"
+   },
+   {
+    "url": "https://www.nordea.com/en/careers/people-culture",
+    "final": "https://www.nordea.com/en/careers/people-culture"
+   },
+   {
+    "url": "https://www.nordea.com/en/careers/grow-with-us",
+    "final": "https://www.nordea.com/en/careers/grow-with-us"
+   },
+   {
+    "url": "https://www.nordea.com/en/careers/meet-our-experts",
+    "final": "https://www.nordea.com/en/careers/meet-our-experts"
+   },
+   {
     "url": "https://www.nordea.com/en/careers/vacant-positions?fLocation=1331",
     "final": "https://www.nordea.com/en/careers/vacant-positions?fLocation=1331"
+   },
+   {
+    "url": "https://www.nordea.com/en/careers/people-culture?translation=da",
+    "final": "https://www.nordea.com/en/careers/people-culture?translation=da"
+   },
+   {
+    "url": "https://www.nordea.com/en/careers/open-jobs?translation=da",
+    "final": "https://www.nordea.com/en/careers/open-jobs?translation=da"
    }
   ]
  },
@@ -615,6 +1144,10 @@
    {
     "url": "https://group.skanska.com/careers/",
     "final": "https://www.skanska.com/group/en/careers"
+   },
+   {
+    "url": "https://group.skanska.com/",
+    "final": "https://www.skanska.com/group/en"
    },
    {
     "url": "https://www.skanska.com/_next/static/chunks/0o46su105wyoo.css",
@@ -644,14 +1177,74 @@
  },
  {
   "name": "NCC",
-  "url": "https://www.ncc.com/career/",
+  "url": "https://www.ncc.se/",
   "ats": [],
   "markers": [],
-  "final": null,
+  "final": "https://www.ncc.se/jobba-pa-ncc/sa-gor-vi-skillnad/",
   "pages": [
    {
-    "url": "https://www.ncc.com/career/",
-    "error": "HTTP Error 404: Not Found"
+    "url": "https://www.ncc.se/",
+    "final": "https://www.ncc.se/"
+   },
+   {
+    "url": "https://www.ncc.se/jobba-pa-ncc/",
+    "final": "https://www.ncc.se/jobba-pa-ncc/"
+   },
+   {
+    "url": "https://www.ncc.se/jobba-pa-ncc/lediga-jobb/",
+    "final": "https://www.ncc.se/jobba-pa-ncc/lediga-jobb/"
+   },
+   {
+    "url": "https://www.ncc.se/jobba-pa-ncc/lediga-jobb/lediga-jobb-i-stockholm/",
+    "final": "https://www.ncc.se/jobba-pa-ncc/lediga-jobb/lediga-jobb-i-stockholm/"
+   },
+   {
+    "url": "https://www.ncc.se/jobba-pa-ncc/lediga-jobb/lediga-jobb-i-goteborg/",
+    "final": "https://www.ncc.se/jobba-pa-ncc/lediga-jobb/lediga-jobb-i-goteborg/"
+   },
+   {
+    "url": "https://www.ncc.se/jobba-pa-ncc/lediga-jobb/lediga-jobb-i-sodra-sverige/",
+    "final": "https://www.ncc.se/jobba-pa-ncc/lediga-jobb/lediga-jobb-i-sodra-sverige/"
+   },
+   {
+    "url": "https://www.ncc.se/jobba-pa-ncc/lediga-jobb/lediga-jobb-i-norra-sverige/",
+    "final": "https://www.ncc.se/jobba-pa-ncc/lediga-jobb/lediga-jobb-i-norra-sverige/"
+   },
+   {
+    "url": "https://www.ncc.se/jobba-pa-ncc/lediga-jobb/lediga-jobb-gron-omstallning/",
+    "final": "https://www.ncc.se/jobba-pa-ncc/lediga-jobb/lediga-jobb-gron-omstallning/"
+   },
+   {
+    "url": "https://www.ncc.se/jobba-pa-ncc/lediga-jobb/rekrytering-pa-ncc/",
+    "final": "https://www.ncc.se/jobba-pa-ncc/lediga-jobb/rekrytering-pa-ncc/"
+   },
+   {
+    "url": "https://www.ncc.se/jobba-pa-ncc/det-har-ar-ncc/",
+    "final": "https://www.ncc.se/jobba-pa-ncc/det-har-ar-ncc/"
+   },
+   {
+    "url": "https://www.ncc.se/jobba-pa-ncc/det-har-ar-ncc/karriar-och-utveckling/",
+    "final": "https://www.ncc.se/jobba-pa-ncc/det-har-ar-ncc/karriar-och-utveckling/"
+   },
+   {
+    "url": "https://www.ncc.se/jobba-pa-ncc/det-har-ar-ncc/kvinnligt-natverk-stella/",
+    "final": "https://www.ncc.se/jobba-pa-ncc/det-har-ar-ncc/kvinnligt-natverk-stella/"
+   },
+   {
+    "url": "https://www.ncc.se/jobba-pa-ncc/det-har-ar-ncc/arbetsmiljo/",
+    "final": "https://www.ncc.se/jobba-pa-ncc/det-har-ar-ncc/arbetsmiljo/"
+   },
+   {
+    "url": "https://www.ncc.se/jobba-pa-ncc/det-har-ar-ncc/formaner/",
+    "final": "https://www.ncc.se/jobba-pa-ncc/det-har-ar-ncc/formaner/"
+   },
+   {
+    "url": "https://www.ncc.se/jobba-pa-ncc/det-har-ar-ncc/en-larande-kultur/",
+    "final": "https://www.ncc.se/jobba-pa-ncc/det-har-ar-ncc/en-larande-kultur/"
+   },
+   {
+    "url": "https://www.ncc.se/jobba-pa-ncc/sa-gor-vi-skillnad/",
+    "final": "https://www.ncc.se/jobba-pa-ncc/sa-gor-vi-skillnad/"
    }
   ]
  },
@@ -660,11 +1253,15 @@
   "url": "https://peab.se/jobba-hos-oss/",
   "ats": [],
   "markers": [],
-  "final": "https://peab.se/karriar/att-jobba-pa-peab/",
+  "final": "https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2FshareArticle%3Furl%3Dhttps%253a%252f%252fpeab.se%252fkarriar%252fpeab-ar-utsedd-till-karriarforetag-2026%252f",
   "pages": [
    {
     "url": "https://peab.se/jobba-hos-oss/",
     "final": "https://peab.se/karriar/"
+   },
+   {
+    "url": "https://peab.se/",
+    "final": "https://peab.se/"
    },
    {
     "url": "https://peab.se/karriar/",
@@ -693,6 +1290,34 @@
    {
     "url": "https://peab.se/karriar/att-jobba-pa-peab/",
     "final": "https://peab.se/karriar/att-jobba-pa-peab/"
+   },
+   {
+    "url": "https://peab.se/karriar/byggaret/kort-om-byggaret/",
+    "final": "https://peab.se/karriar/byggaret/kort-om-byggaret/"
+   },
+   {
+    "url": "https://peab.se/om-peab/bolagsinformation/press-och-media/livsviktigt--en-podd-om-att-inte-do-pa-jobbet/man-tanker-att-det-hander-inte-mig.-men-det-gor-det-ju.-till-slut/",
+    "final": "https://peab.se/om-peab/bolagsinformation/press-och-media/livsviktigt--en-podd-om-att-inte-do-pa-jobbet/man-tanker-att-det-hander-inte-mig.-men-det-gor-det-ju.-till-slut/"
+   },
+   {
+    "url": "https://www.facebook.com/sharer.php?u=https%3a%2f%2fpeab.se%2fkarriar%2fintresserad-av-peab%2f",
+    "error": "HTTP Error 400: Bad Request"
+   },
+   {
+    "url": "https://linkedin.com/shareArticle?url=https%3a%2f%2fpeab.se%2fkarriar%2fintresserad-av-peab%2f",
+    "final": "https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2FshareArticle%3Furl%3Dhttps%253a%252f%252fpeab.se%252fkarriar%252fintresserad-av-peab%252f"
+   },
+   {
+    "url": "https://karriarforetagen.se/foretag/peab/",
+    "final": "https://karriarforetagen.se/foretag/peab/"
+   },
+   {
+    "url": "https://www.facebook.com/sharer.php?u=https%3a%2f%2fpeab.se%2fkarriar%2fpeab-ar-utsedd-till-karriarforetag-2026%2f",
+    "error": "HTTP Error 400: Bad Request"
+   },
+   {
+    "url": "https://linkedin.com/shareArticle?url=https%3a%2f%2fpeab.se%2fkarriar%2fpeab-ar-utsedd-till-karriarforetag-2026%2f",
+    "final": "https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2FshareArticle%3Furl%3Dhttps%253a%252f%252fpeab.se%252fkarriar%252fpeab-ar-utsedd-till-karriarforetag-2026%252f"
    }
   ]
  },
@@ -701,24 +1326,60 @@
   "url": "https://www.teliacompany.com/en/careers",
   "ats": [],
   "markers": [],
-  "final": "https://www.teliacompany.com/en/careers",
+  "final": "https://www.teliacompany.com/",
   "pages": [
    {
     "url": "https://www.teliacompany.com/en/careers",
     "final": "https://www.teliacompany.com/en/careers"
+   },
+   {
+    "url": "https://www.teliacompany.com/",
+    "final": "https://www.teliacompany.com/"
    }
   ]
  },
  {
   "name": "Tele2",
-  "url": "https://www.tele2.com/careers",
+  "url": "https://www.tele2.com/",
   "ats": [],
   "markers": [],
-  "final": null,
+  "final": "https://www.tele2.com/join-us/job-categories/legal/",
   "pages": [
    {
-    "url": "https://www.tele2.com/careers",
-    "error": "HTTP Error 404: Not Found"
+    "url": "https://www.tele2.com/",
+    "final": "https://www.tele2.com/"
+   },
+   {
+    "url": "https://www.tele2.com/join-us/",
+    "final": "https://www.tele2.com/join-us/"
+   },
+   {
+    "url": "https://www.tele2.com/join-us/job-openings-sweden/",
+    "final": "https://www.tele2.com/join-us/job-openings-sweden/"
+   },
+   {
+    "url": "https://www.tele2.com/join-us/job-openings-baltics/",
+    "final": "https://www.tele2.com/join-us/job-openings-baltics/"
+   },
+   {
+    "url": "https://www.tele2.com/join-us/job-categories/",
+    "final": "https://www.tele2.com/join-us/job-categories/"
+   },
+   {
+    "url": "https://www.tele2.com/join-us/job-categories/digital-capabilities-and-technology/",
+    "final": "https://www.tele2.com/join-us/job-categories/digital-capabilities-and-technology/"
+   },
+   {
+    "url": "https://www.tele2.com/join-us/job-categories/business-development/",
+    "final": "https://www.tele2.com/join-us/job-categories/business-development/"
+   },
+   {
+    "url": "https://www.tele2.com/join-us/job-categories/marketing-communications/",
+    "final": "https://www.tele2.com/join-us/job-categories/marketing-communications/"
+   },
+   {
+    "url": "https://www.tele2.com/join-us/job-categories/legal/",
+    "final": "https://www.tele2.com/join-us/job-categories/legal/"
    }
   ]
  },
@@ -727,11 +1388,15 @@
   "url": "https://group.vattenfall.com/careers",
   "ats": [],
   "markers": [],
-  "final": null,
+  "final": "https://www.vattenfalleldistribution.se/var-verksamhet/karriar/",
   "pages": [
    {
     "url": "https://group.vattenfall.com/careers",
     "final": "https://careers.vattenfall.com:443/global/?utm_source=corporate&utm_medium=referral"
+   },
+   {
+    "url": "https://group.vattenfall.com/",
+    "final": "https://group.vattenfall.com/"
    },
    {
     "url": "https://attraxcdnprod1-freshed3dgayb7c3.z01.azurefd.net/1481235/d36db8f8-d0cb-4f79-864d-11366aec4eee/2026.9.30.16513/Blob/favicon.ico",
@@ -758,8 +1423,36 @@
     "final": "https://careers.vattenfall.com:443/global/job/net-software-engineer-backend-in-hamburg-jid-53162"
    },
    {
+    "url": "https://careers.vattenfall.com:443/global/job/net-software-engineer-backend-in-berlin-jid-53160",
+    "final": "https://careers.vattenfall.com:443/global/job/net-software-engineer-backend-in-berlin-jid-53160"
+   },
+   {
+    "url": "https://careers.vattenfall.com:443/global/job/senior-legal-counsel-in-stockholm-jid-53161",
+    "final": "https://careers.vattenfall.com:443/global/job/senior-legal-counsel-in-stockholm-jid-53161"
+   },
+   {
+    "url": "https://group.vattenfall.com/ui/261012175753/bundle/designlibrary.css",
+    "final": "https://group.vattenfall.com/ui/261012175753/bundle/designlibrary.css"
+   },
+   {
+    "url": "https://careers.vattenfall.com/global/?utm_source=corporate&amp;utm_medium=referral",
+    "final": "https://careers.vattenfall.com/global/?utm_source=corporate&amp;utm_medium=referral"
+   },
+   {
     "url": "https://careers.vattenfall.com:443/global/Workflow?workflowId=708d9dd1-b094-4560-9f14-82bdb5f17d91&amp;vacancyId=53165",
     "error": "HTTP Error 500: Internal Server Error"
+   },
+   {
+    "url": "https://www.vattenfalleldistribution.se/om-oss/jobba-hos-oss/formaner/",
+    "final": "https://www.vattenfalleldistribution.se/var-verksamhet/karriar/arbetsmiljo-och-hals/formaner/"
+   },
+   {
+    "url": "https://careers.vattenfall.com/se/sv/jobba-med-oss/mangfald-inkludering",
+    "final": "https://careers.vattenfall.com/se/sv/mangfald-jamstalldhet-inkludering"
+   },
+   {
+    "url": "https://www.vattenfalleldistribution.se/om-oss/jobba-hos-oss/",
+    "final": "https://www.vattenfalleldistribution.se/var-verksamhet/karriar/"
    }
   ]
  },
@@ -768,11 +1461,15 @@
   "url": "https://www.ssab.com/en/company/careers",
   "ats": [],
   "markers": [],
-  "final": "https://www.ssab.com/en/company/careers/explore-our-programs/european-graduate-program",
+  "final": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/jobs?location=Sweden&amp;locationId=300000000494468&amp;locationLevel=country&amp;mode=location",
   "pages": [
    {
     "url": "https://www.ssab.com/en/company/careers",
     "final": "https://www.ssab.com/en/company/careers"
+   },
+   {
+    "url": "https://www.ssab.com/",
+    "final": "https://www.ssab.com/en"
    },
    {
     "url": "https://www.ssab.com/en/company/careers/explore-our-programs",
@@ -799,21 +1496,60 @@
     "final": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/jobs?keyword=maintenance&amp;mode=location"
    },
    {
+    "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/jobs?keyword=product+development&amp;mode=location",
+    "final": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/jobs?keyword=product+development&amp;mode=location"
+   },
+   {
+    "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/jobs?keyword=process+development&amp;mode=location",
+    "final": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/jobs?keyword=process+development&amp;mode=location"
+   },
+   {
+    "url": "https://www.ssab.com/en/brands-and-products",
+    "final": "https://www.ssab.com/en/brands-and-products"
+   },
+   {
     "url": "https://www.ssab.com/en/company/careers/explore-our-programs/european-graduate-program",
     "final": "https://www.ssab.com/en/company/careers/explore-our-programs/european-graduate-program"
+   },
+   {
+    "url": "https://www.ssab.com/en/company/careers/explore-our-programs/digitalization-trainee-program",
+    "final": "https://www.ssab.com/en/company/careers/explore-our-programs/digitalization-trainee-program"
+   },
+   {
+    "url": "https://www.ssab.com/en/company/careers/explore-our-programs/business-development-program",
+    "final": "https://www.ssab.com/en/company/careers/explore-our-programs/business-development-program"
+   },
+   {
+    "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB",
+    "final": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB"
+   },
+   {
+    "url": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/jobs?location=Sweden&amp;locationId=300000000494468&amp;locationLevel=country&amp;mode=location",
+    "final": "https://iaacwm.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/SSAB/jobs?location=Sweden&amp;locationId=300000000494468&amp;locationLevel=country&amp;mode=location"
    }
   ]
  },
  {
   "name": "Boliden",
-  "url": "https://www.boliden.com/careers",
-  "ats": [],
-  "markers": [],
-  "final": null,
+  "url": "https://www.boliden.com/",
+  "ats": [
+   {
+    "ats": "workday",
+    "ids": [
+     "boliden",
+     "wd3",
+     "BolidenJobs"
+    ]
+   }
+  ],
+  "markers": [
+   "workday_word"
+  ],
+  "final": "https://www.boliden.com/",
   "pages": [
    {
-    "url": "https://www.boliden.com/careers",
-    "error": "HTTP Error 404: Not Found"
+    "url": "https://www.boliden.com/",
+    "final": "https://www.boliden.com/"
    }
   ]
  },
@@ -832,14 +1568,30 @@
     "ids": [
      "391016"
     ]
+   },
+   {
+    "ats": "jobylon",
+    "ids": [
+     "390991"
+    ]
+   },
+   {
+    "ats": "jobylon",
+    "ids": [
+     "390844"
+    ]
    }
   ],
   "markers": [],
-  "final": "https://lkab.com/jobba-med-oss/lediga-jobb/",
+  "final": "https://lkab.com/jobba-med-oss/att-jobba-pa-lkab/",
   "pages": [
    {
     "url": "https://lkab.com/en/career/",
     "final": "https://lkab.com/en/work-with-us/"
+   },
+   {
+    "url": "https://lkab.com/",
+    "final": "https://lkab.com/"
    },
    {
     "url": "https://lkab.com/wp-content/themes/bz-app-theme/assets/images/favicons/lkab/apple-touch-icon.png",
@@ -866,8 +1618,36 @@
     "final": "https://lkab.com/en/work-with-us/available-jobs/391016-en-geologi/"
    },
    {
+    "url": "https://lkab.com/en/work-with-us/available-jobs/390991-en-chefs-och-ledarroller/",
+    "final": "https://lkab.com/en/work-with-us/available-jobs/390991-en-chefs-och-ledarroller/"
+   },
+   {
+    "url": "https://lkab.com/en/work-with-us/available-jobs/390844-en-hr/",
+    "final": "https://lkab.com/en/work-with-us/available-jobs/390844-en-hr/"
+   },
+   {
+    "url": "https://lkab.com/nyheter/kulis-invigd-kirunas-forsta-tillganglighetsanpassade-lekpark/",
+    "final": "https://lkab.com/nyheter/kulis-invigd-kirunas-forsta-tillganglighetsanpassade-lekpark/"
+   },
+   {
     "url": "https://lkab.com/jobba-med-oss/lediga-jobb/",
     "final": "https://lkab.com/jobba-med-oss/lediga-jobb/"
+   },
+   {
+    "url": "https://lkab.com/jobba-med-oss/lediga-jobb/391023-sv-chefs-och-ledarroller/",
+    "final": "https://lkab.com/jobba-med-oss/lediga-jobb/391023-sv-chefs-och-ledarroller/"
+   },
+   {
+    "url": "https://lkab.com/jobba-med-oss/lediga-jobb/391016-sv-geologi/",
+    "final": "https://lkab.com/jobba-med-oss/lediga-jobb/391016-sv-geologi/"
+   },
+   {
+    "url": "https://lkab.com/jobba-med-oss/lediga-jobb/390991-sv-chefs-och-ledarroller/",
+    "final": "https://lkab.com/jobba-med-oss/lediga-jobb/390991-sv-chefs-och-ledarroller/"
+   },
+   {
+    "url": "https://lkab.com/jobba-med-oss/att-jobba-pa-lkab/",
+    "final": "https://lkab.com/jobba-med-oss/att-jobba-pa-lkab/"
    }
   ]
  },
@@ -884,12 +1664,18 @@
     ]
    }
   ],
-  "markers": [],
-  "final": "https://www.saab.com/career/job-opportunities/projektledare-support",
+  "markers": [
+   "workday_word"
+  ],
+  "final": "https://www.saab.com/career/job-opportunities/contract-responsible-underwater-systems",
   "pages": [
    {
     "url": "https://www.saab.com/career",
     "final": "https://www.saab.com/career"
+   },
+   {
+    "url": "https://www.saab.com/",
+    "final": "https://www.saab.com/"
    },
    {
     "url": "https://www.saab.com/ui/10976218534/styles/main.min.css",
@@ -916,8 +1702,36 @@
     "final": "https://www.saab.com/newsroom/stories/2023/january/meet-the-detective-of-statistics"
    },
    {
+    "url": "https://www.saab.com/newsroom/stories/2023/february/managing-the-organizations-digital-brain",
+    "final": "https://www.saab.com/newsroom/stories/2023/february/managing-the-organizations-digital-brain"
+   },
+   {
+    "url": "https://www.saab.com/products/product-search",
+    "final": "https://www.saab.com/products/product-search"
+   },
+   {
+    "url": "https://www.saab.com/newsroom/stories/2023/october/empowering-the-future-of-innovation",
+    "final": "https://www.saab.com/newsroom/stories/2023/october/empowering-the-future-of-innovation"
+   },
+   {
     "url": "https://www.saab.com/career/job-opportunities/projektledare-support",
     "final": "https://www.saab.com/career/job-opportunities/projektledare-support"
+   },
+   {
+    "url": "https://www.saab.com/career/job-opportunities/examensarbete-30-hp-utveckling-och-optimering-av-imu-kalibrering---precision-med-enklare-utrustning.",
+    "final": "https://www.saab.com/career/job-opportunities/examensarbete-30-hp-utveckling-och-optimering-av-imu-kalibrering---precision-med-enklare-utrustning."
+   },
+   {
+    "url": "https://www.saab.com/career/job-opportunities/systemingenjor-inom-positionering--navigering",
+    "final": "https://www.saab.com/career/job-opportunities/systemingenjor-inom-positionering--navigering"
+   },
+   {
+    "url": "https://www.saab.com/career/job-opportunities/produktionsledare-till-rbs15-mk4--saab-aeronautics",
+    "final": "https://www.saab.com/career/job-opportunities/produktionsledare-till-rbs15-mk4--saab-aeronautics"
+   },
+   {
+    "url": "https://www.saab.com/career/job-opportunities/contract-responsible-underwater-systems",
+    "final": "https://www.saab.com/career/job-opportunities/contract-responsible-underwater-systems"
    }
   ]
  },
@@ -945,27 +1759,108 @@
  },
  {
   "name": "Husqvarna Group",
-  "url": "https://www.husqvarnagroup.com/en/careers",
-  "ats": [],
-  "markers": [],
-  "final": null,
+  "url": "https://www.husqvarnagroup.com/",
+  "ats": [
+   {
+    "ats": "workday",
+    "ids": [
+     "husqvarnagroup",
+     "wd3",
+     "External_Career_Site"
+    ]
+   }
+  ],
+  "markers": [
+   "workday_word"
+  ],
+  "final": "https://www.husqvarnagroup.com/",
   "pages": [
    {
-    "url": "https://www.husqvarnagroup.com/en/careers",
-    "error": "HTTP Error 404: Not Found"
+    "url": "https://www.husqvarnagroup.com/",
+    "final": "https://www.husqvarnagroup.com/"
    }
   ]
  },
  {
   "name": "Getinge",
-  "url": "https://www.getinge.com/int/about-us/careers/",
-  "ats": [],
-  "markers": [],
-  "final": null,
+  "url": "https://www.getinge.com/",
+  "ats": [
+   {
+    "ats": "successfactors",
+    "ids": [
+     "career5.successfactors.eu",
+     "GetingeProd"
+    ]
+   }
+  ],
+  "markers": [
+   "sf_rmk"
+  ],
+  "final": "https://www.getinge.com/us/insights/articles/research-laboratories/bioreactor-preparation-solutions/",
   "pages": [
    {
-    "url": "https://www.getinge.com/int/about-us/careers/",
-    "error": "HTTP Error 404: Not Found"
+    "url": "https://www.getinge.com/",
+    "final": "https://www.getinge.com/us/"
+   },
+   {
+    "url": "https://www.getinge.com/us/search/",
+    "final": "https://www.getinge.com/us/search/"
+   },
+   {
+    "url": "https://www.getinge.com/us/products-and-solutions/research-laboratories/",
+    "final": "https://www.getinge.com/us/products-and-solutions/research-laboratories/"
+   },
+   {
+    "url": "https://www.getinge.com/us/company/careers/",
+    "final": "https://www.getinge.com/us/company/careers/"
+   },
+   {
+    "url": "https://www.getinge.com/us/products-and-solutions/research-laboratories/vivarium/",
+    "final": "https://www.getinge.com/us/products-and-solutions/research-laboratories/vivarium/"
+   },
+   {
+    "url": "https://www.getinge.com/us/products-and-solutions/research-laboratories/biocontainment/",
+    "final": "https://www.getinge.com/us/products-and-solutions/research-laboratories/biocontainment/"
+   },
+   {
+    "url": "https://www.getinge.com/us/products-and-solutions/research-laboratories/labware-cleaning-and-sterilization/",
+    "final": "https://www.getinge.com/us/products-and-solutions/research-laboratories/labware-cleaning-and-sterilization/"
+   },
+   {
+    "url": "https://www.getinge.com/us/products-and-solutions/research-laboratories/bioprocess-development-and-optimization/",
+    "final": "https://www.getinge.com/us/products-and-solutions/research-laboratories/bioprocess-development-and-optimization/"
+   },
+   {
+    "url": "https://www.getinge.com/us/products-and-solutions/research-laboratories/bioreactor-preparation-solution/",
+    "final": "https://www.getinge.com/us/products-and-solutions/research-laboratories/bioreactor-preparation-solution/"
+   },
+   {
+    "url": "https://www.getinge.com/us/insights/articles/research-laboratories/getinge-solutions-enable-fujirebio-to-speed-up-antibody-production/",
+    "final": "https://www.getinge.com/us/insights/articles/research-laboratories/getinge-solutions-enable-fujirebio-to-speed-up-antibody-production/"
+   },
+   {
+    "url": "https://www.getinge.com/us/insights/articles/research-laboratories/automated-bioreactor-solution-tailored-for-the-next-generation-of-science/",
+    "final": "https://www.getinge.com/us/insights/articles/research-laboratories/automated-bioreactor-solution-tailored-for-the-next-generation-of-science/"
+   },
+   {
+    "url": "https://careers.getinge.com/",
+    "final": "https://careers.getinge.com/"
+   },
+   {
+    "url": "https://www.getinge.com/us/company/careers/our-people/",
+    "final": "https://www.getinge.com/us/company/careers/our-people/"
+   },
+   {
+    "url": "https://www.getinge.com/dam/corporate/documents/ethics/english/equal-employment-opportunity-protocol-2025.03-107652-en.pdf",
+    "final": "https://www.getinge.com/dam/corporate/documents/ethics/english/equal-employment-opportunity-protocol-2025.03-107652-en.pdf"
+   },
+   {
+    "url": "https://www.getinge.com/dam/corporate/documents/ethics/english/equal-opportunity-and-affirmative-action-policy-statement-2025.04-107653-en.pdf",
+    "final": "https://www.getinge.com/dam/corporate/documents/ethics/english/equal-opportunity-and-affirmative-action-policy-statement-2025.04-107653-en.pdf"
+   },
+   {
+    "url": "https://www.getinge.com/us/insights/articles/research-laboratories/bioreactor-preparation-solutions/",
+    "final": "https://www.getinge.com/us/insights/articles/research-laboratories/bioreactor-preparation-solutions/"
    }
   ]
  },
@@ -982,19 +1877,32 @@
     ]
    }
   ],
-  "markers": [],
-  "final": "https://www.elekta.com/company/careers/",
+  "markers": [
+   "workday_word"
+  ],
+  "final": "https://www.elekta.com/",
   "pages": [
    {
     "url": "https://www.elekta.com/careers/",
     "final": "https://www.elekta.com/company/careers/"
+   },
+   {
+    "url": "https://www.elekta.com/",
+    "final": "https://www.elekta.com/"
    }
   ]
  },
  {
   "name": "Spotify",
   "url": "https://www.lifeatspotify.com/jobs",
-  "ats": [],
+  "ats": [
+   {
+    "ats": "lever",
+    "ids": [
+     "spotify"
+    ]
+   }
+  ],
   "markers": [],
   "final": "https://research.atspotify.com/research-areas",
   "pages": [
@@ -1003,8 +1911,20 @@
     "final": "https://www.lifeatspotify.com/jobs"
    },
    {
+    "url": "https://www.lifeatspotify.com/",
+    "final": "https://www.lifeatspotify.com/"
+   },
+   {
     "url": "https://research.atspotify.com/",
     "final": "https://research.atspotify.com/"
+   },
+   {
+    "url": "https://www.lifeatspotify.com/jobs/senior-product-quality-analyst-ai-voice",
+    "final": "https://www.lifeatspotify.com/jobs/senior-product-quality-analyst-ai-voice"
+   },
+   {
+    "url": "https://www.lifeatspotify.com/find-your-team/job-categories",
+    "final": "https://www.lifeatspotify.com/find-your-team/job-categories"
    },
    {
     "url": "https://research.atspotify.com/images/logo.png",
@@ -1023,10 +1943,6 @@
     "final": "https://research.atspotify.com/jobs"
    },
    {
-    "url": "https://www.lifeatspotify.com/",
-    "final": "https://www.lifeatspotify.com/"
-   },
-   {
     "url": "https://research.atspotify.com/research-areas",
     "final": "https://research.atspotify.com/research-areas"
    }
@@ -1037,11 +1953,15 @@
   "url": "https://www.klarna.com/careers/",
   "ats": [],
   "markers": [],
-  "final": "https://www.klarna.com/careers/",
+  "final": "https://www.klarna.com/",
   "pages": [
    {
     "url": "https://www.klarna.com/careers/",
     "final": "https://www.klarna.com/careers/"
+   },
+   {
+    "url": "https://www.klarna.com/",
+    "final": "https://www.klarna.com/"
    }
   ]
  },
@@ -1050,72 +1970,22 @@
   "url": "https://www.postnord.com/careers",
   "ats": [
    {
-    "ats": "jobylon",
+    "ats": "personio",
     "ids": [
-     "391038"
-    ]
-   },
-   {
-    "ats": "jobylon",
-    "ids": [
-     "391028"
-    ]
-   },
-   {
-    "ats": "jobylon",
-    "ids": [
-     "391021"
-    ]
-   },
-   {
-    "ats": "jobylon",
-    "ids": [
-     "390964"
-    ]
-   },
-   {
-    "ats": "jobylon",
-    "ids": [
-     "390957"
-    ]
-   },
-   {
-    "ats": "jobylon",
-    "ids": [
-     "390757"
+     "postnord-international-gmbh"
     ]
    }
   ],
   "markers": [],
-  "final": "https://postnord-international-gmbh.jobs.personio.de/",
+  "final": "https://www.postnord.com/",
   "pages": [
    {
     "url": "https://www.postnord.com/careers",
     "final": "https://www.postnord.com/about-us/careers/"
    },
    {
-    "url": "https://www.postnord.com/about-us/careers/",
-    "final": "https://www.postnord.com/about-us/careers/"
-   },
-   {
-    "url": "https://group.postnord.com/sv/careers/lediga-jobb/",
-    "final": "https://group.postnord.com/sv/careers/lediga-jobb/"
-   },
-   {
-    "url": "https://group.postnord.com/da/careers/ledige-job/",
-    "final": "https://group.postnord.com/da/careers/ledige-job/"
-   },
-   {
-    "url": "https://www.postnord.fi/en/about-postnord/recruitment/",
-    "error": "HTTP Error 403: Forbidden"
-   },
-   {
-    "url": "https://www.postnord.no/en/about-us/career/",
-    "error": "HTTP Error 403: Forbidden"
-   },
-   {
-    "url": "https://postnord-international-gmbh.jobs.personio.de/",
-    "final": "https://postnord-international-gmbh.jobs.personio.de/"
+    "url": "https://www.postnord.com/",
+    "final": "https://www.postnord.com/"
    }
   ]
  },
@@ -1124,11 +1994,15 @@
   "url": "https://www.sj.se/sv/om/jobba-pa-sj.html",
   "ats": [],
   "markers": [],
-  "final": "https://www.sj.se/sv/om/jobba-pa-sj.html",
+  "final": "https://www.sj.se/",
   "pages": [
    {
     "url": "https://www.sj.se/sv/om/jobba-pa-sj.html",
     "final": "https://www.sj.se/sv/om/jobba-pa-sj.html"
+   },
+   {
+    "url": "https://www.sj.se/",
+    "final": "https://www.sj.se/"
    }
   ]
  },
@@ -1142,6 +2016,10 @@
    {
     "url": "https://www.omsystembolaget.se/jobba-hos-oss/",
     "final": "https://www.omsystembolaget.se/jobba-hos-oss/"
+   },
+   {
+    "url": "https://www.omsystembolaget.se/",
+    "final": "https://www.omsystembolaget.se/"
    },
    {
     "url": "https://www.omsystembolaget.se/jobba-hos-oss/utveckling-och-larande/",
@@ -1175,32 +2053,158 @@
    {
     "url": "https://www.storaenso.com/en/careers",
     "error": "HTTP Error 403: Forbidden"
+   },
+   {
+    "url": "https://www.storaenso.com/",
+    "error": "HTTP Error 403: Forbidden"
    }
   ]
  },
  {
   "name": "SCA",
-  "url": "https://www.sca.com/en/about-us/career/",
+  "url": "https://www.sca.com/",
   "ats": [],
-  "markers": [],
-  "final": null,
+  "markers": [
+   "sf_rmk"
+  ],
+  "final": "https://www.sca.com/sv/karriar/vax-med-oss/",
   "pages": [
    {
-    "url": "https://www.sca.com/en/about-us/career/",
-    "error": "HTTP Error 404: Not Found"
+    "url": "https://www.sca.com/",
+    "final": "https://www.sca.com/sv/"
+   },
+   {
+    "url": "https://www.sca.com/sv/",
+    "final": "https://www.sca.com/sv/"
+   },
+   {
+    "url": "https://www.sca.com/sv/karriar/",
+    "final": "https://www.sca.com/sv/karriar/"
+   },
+   {
+    "url": "https://www.scasmarttimber.com/sv/inspiration/bygg-i-tra/aktivitetsbana-i-sidsjon/",
+    "final": "https://www.scasmarttimber.com/sv/inspiration/bygg-i-tra/aktivitetsbana-i-sidsjon/"
+   },
+   {
+    "url": "https://www.sca.com/sv/skog/skogliga-entreprenorer/lediga-uppdrag/",
+    "final": "https://www.sca.com/sv/skog/skogliga-entreprenorer/lediga-uppdrag/"
+   },
+   {
+    "url": "https://www.sca.com/sv/massa/vara-massabruk/for-besokare/",
+    "final": "https://www.sca.com/sv/massa/vara-massabruk/for-besokare/"
+   },
+   {
+    "url": "https://jobs.sca.com/search/?locale=sv_SE",
+    "final": "https://jobs.sca.com/search/?locale=sv_SE"
+   },
+   {
+    "url": "https://www.sca.com/sv/karriar/vad-gor-vi/",
+    "final": "https://www.sca.com/sv/karriar/vad-gor-vi/"
+   },
+   {
+    "url": "https://www.sca.com/sv/karriar/vad-gor-vi/vara-yrken/",
+    "final": "https://www.sca.com/sv/karriar/vad-gor-vi/vara-yrken/"
+   },
+   {
+    "url": "https://www.sca.com/sv/karriar/vad-gor-vi/vara-yrken/tra/",
+    "final": "https://www.sca.com/sv/karriar/vad-gor-vi/vara-yrken/tra/"
+   },
+   {
+    "url": "https://www.sca.com/karriar",
+    "final": "https://www.sca.com/karriar"
+   },
+   {
+    "url": "https://www.sca.com/sv/karriar/student-och-doktorand/examensarbete/",
+    "final": "https://www.sca.com/sv/karriar/student-och-doktorand/examensarbete/"
+   },
+   {
+    "url": "https://www.sca.com/sv/karriar/student-och-doktorand/scas-ingenjorspodd/",
+    "final": "https://www.sca.com/sv/karriar/student-och-doktorand/scas-ingenjorspodd/"
+   },
+   {
+    "url": "https://www.sca.com/sv/karriar/vax-med-oss/karriarvagar/",
+    "final": "https://www.sca.com/sv/karriar/vax-med-oss/karriarvagar/"
+   },
+   {
+    "url": "https://www.sca.com/sv/karriar/sca-som-arbetsgivare/",
+    "final": "https://www.sca.com/sv/karriar/sca-som-arbetsgivare/"
+   },
+   {
+    "url": "https://www.sca.com/sv/karriar/vax-med-oss/",
+    "final": "https://www.sca.com/sv/karriar/vax-med-oss/"
    }
   ]
  },
  {
   "name": "Trelleborg",
-  "url": "https://www.trelleborg.com/en/careers",
+  "url": "https://www.trelleborg.com/",
   "ats": [],
   "markers": [],
-  "final": null,
+  "final": "https://www.trelleborg.com/fr-fr/fluidhandling/produits-et-solutions/manchons-compensateurs/produits-chimiques",
   "pages": [
    {
-    "url": "https://www.trelleborg.com/en/careers",
-    "error": "HTTP Error 404: Not Found"
+    "url": "https://www.trelleborg.com/",
+    "final": "https://www.trelleborg.com/en"
+   },
+   {
+    "url": "https://www.trelleborg.com/-/media/foundation/trelleborg/favicon.ico?rev=ca14cc08040a458ea62290b56658872e",
+    "final": "https://www.trelleborg.com/-/media/foundation/trelleborg/favicon.ico?rev=ca14cc08040a458ea62290b56658872e"
+   },
+   {
+    "url": "https://www.trelleborg.com/en/fluidhandling",
+    "final": "https://www.trelleborg.com/en/fluidhandling"
+   },
+   {
+    "url": "https://www.trelleborg.com/en/about-us/120-year-anniversary",
+    "final": "https://www.trelleborg.com/en/about-us/120-year-anniversary"
+   },
+   {
+    "url": "https://www.trelleborg.com/en/career/meet-us",
+    "final": "https://www.trelleborg.com/en/career/meet-us"
+   },
+   {
+    "url": "https://www.trelleborg.com/fluidhandling/-/media/foundation/trelleborg/favicon.ico?rev=ca14cc08040a458ea62290b56658872e",
+    "final": "https://www.trelleborg.com/fluidhandling/-/media/foundation/trelleborg/favicon.ico?rev=ca14cc08040a458ea62290b56658872e"
+   },
+   {
+    "url": "https://www.trelleborg.com/en/fluidhandling/products-and-solutions/standard-expansion-joints",
+    "final": "https://www.trelleborg.com/en/fluidhandling/products-and-solutions/standard-expansion-joints"
+   },
+   {
+    "url": "https://www.trelleborg.com/en/fluidhandling/products-and-solutions/bridge-expansion-joints",
+    "final": "https://www.trelleborg.com/en/fluidhandling/products-and-solutions/bridge-expansion-joints"
+   },
+   {
+    "url": "https://www.trelleborg.com/de-de/career/meet-us",
+    "final": "https://www.trelleborg.com/de-de/karriere/lernen-sie-uns-kennen"
+   },
+   {
+    "url": "https://www.trelleborg.com/sv-se/career/meet-us",
+    "final": "https://www.trelleborg.com/sv-se/karriar/mot-oss"
+   },
+   {
+    "url": "https://www.trelleborg.com/en/career",
+    "final": "https://www.trelleborg.com/en/career"
+   },
+   {
+    "url": "https://www.trelleborg.com/en/career/vacancies",
+    "final": "https://www.trelleborg.com/en/career/vacancies"
+   },
+   {
+    "url": "https://www.trelleborg.com/fr-fr/fluidhandling/products-and-solutions/standard-expansion-joints",
+    "final": "https://www.trelleborg.com/fr-fr/fluidhandling/produits-et-solutions/manchons-compensateurs"
+   },
+   {
+    "url": "https://www.trelleborg.com/fluidhandling/products-and-solutions/standard-expansion-joints",
+    "final": "https://www.trelleborg.com/fr-fr/fluidhandling/produits-et-solutions/manchons-compensateurs"
+   },
+   {
+    "url": "https://www.trelleborg.com/fluidhandling/products-and-solutions/standard-expansion-joints/abrasive",
+    "final": "https://www.trelleborg.com/fr-fr/fluidhandling/produits-et-solutions/manchons-compensateurs/abrasion"
+   },
+   {
+    "url": "https://www.trelleborg.com/fluidhandling/products-and-solutions/standard-expansion-joints/chemicals",
+    "final": "https://www.trelleborg.com/fr-fr/fluidhandling/produits-et-solutions/manchons-compensateurs/produits-chimiques"
    }
   ]
  },
@@ -1209,11 +2213,15 @@
   "url": "https://hexagon.com/company/careers",
   "ats": [],
   "markers": [],
-  "final": "https://hexagon.com/es/company/careers/job-listings",
+  "final": "https://hexagon.com/it/company/careers/job-listings",
   "pages": [
    {
     "url": "https://hexagon.com/company/careers",
     "final": "https://hexagon.com/about/careers"
+   },
+   {
+    "url": "https://hexagon.com/",
+    "final": "https://hexagon.com/"
    },
    {
     "url": "https://hexagon.com/favicon-light.ico",
@@ -1232,6 +2240,26 @@
     "final": "https://hexagon.com/about/careers"
    },
    {
+    "url": "https://hexagon.com/company/research-development/ai-products",
+    "final": "https://hexagon.com/en/ai/ai-products"
+   },
+   {
+    "url": "https://hexagon.com/company/partner-directory-and-programmes",
+    "final": "https://hexagon.com/company/partner-directory-and-programmes"
+   },
+   {
+    "url": "https://hexagon.com/about/research-development",
+    "final": "https://hexagon.com/about/research-development"
+   },
+   {
+    "url": "https://go.manufacturing.hexagon.com/quality-from-microns-to-mars/?utm_source=hexagon.com&amp;utm_medium=referral&amp;utm_campaign=global-2026-ohb-awareness",
+    "final": "https://go.manufacturing.hexagon.com/quality-from-microns-to-mars/?utm_source=hexagon.com&amp;utm_medium=referral&amp;utm_campaign=global-2026-ohb-awareness"
+   },
+   {
+    "url": "https://hexagon.com/resources/customer-success-stories/shaping-discovery",
+    "final": "https://hexagon.com/resources/customer-success-stories/shaping-discovery"
+   },
+   {
     "url": "https://hexagon.com/-/media/feature/experience-accelerator/bootstrap-4/bootstrap-4/styles/pre-optimized-min.css?t=20250326T123729Z",
     "final": "https://hexagon.com/-/media/feature/experience-accelerator/bootstrap-4/bootstrap-4/styles/pre-optimized-min.css?t=20250326T123729Z"
    },
@@ -1242,6 +2270,14 @@
    {
     "url": "https://hexagon.com/es/company/careers/job-listings",
     "final": "https://hexagon.com/es/company/careers/job-listings"
+   },
+   {
+    "url": "https://hexagon.com/fr/company/careers/job-listings",
+    "final": "https://hexagon.com/fr/company/careers/job-listings"
+   },
+   {
+    "url": "https://hexagon.com/it/company/careers/job-listings",
+    "final": "https://hexagon.com/it/company/careers/job-listings"
    }
   ]
  },
@@ -1250,11 +2286,15 @@
   "url": "https://www.sweco.se/karriar/",
   "ats": [],
   "markers": [],
-  "final": "https://www.swecogroup.com/careers/vacancies/",
+  "final": "https://www.sweco.se/karriar/mot-vara-medarbetare/mustafa-al-azzawi-och-anna-nilhav/",
   "pages": [
    {
     "url": "https://www.sweco.se/karriar/",
     "final": "https://www.sweco.se/karriar/"
+   },
+   {
+    "url": "https://www.sweco.se/",
+    "final": "https://www.sweco.se/"
    },
    {
     "url": "http://gmpg.org/xfn/11",
@@ -1281,8 +2321,36 @@
     "final": "https://www.sweco.se/karriar/varfor-sweco/"
    },
    {
+    "url": "https://web103.reachmee.com/ext/I017/653/policy?site=17&amp;lang=SE&amp;validator=7df622dbbbc5035d3b28d618a26c81d4&amp;ihelper=https%3A%2F%2Fwww.sweco.se%2Fkarriar%2Fansok-har%2F&amp;policy=35",
+    "error": "HTTP Error 404: Not Found"
+   },
+   {
+    "url": "https://www.sweco.se/karriar/intresseanmalan/",
+    "final": "https://www.sweco.se/karriar/intresseanmalan/"
+   },
+   {
     "url": "https://www.swecogroup.com/careers/vacancies/",
     "final": "https://www.swecogroup.com/careers/vacancies/"
+   },
+   {
+    "url": "https://www.sweco.se/karriar/lediga-tjanster/brandkonsult-till-goteborg/",
+    "final": "https://www.sweco.se/karriar/lediga-tjanster/brandkonsult-till-goteborg/"
+   },
+   {
+    "url": "https://www.sweco.se/karriar/lediga-tjanster/gruppchef-trafikplanering-goteborg/",
+    "final": "https://www.sweco.se/karriar/lediga-tjanster/gruppchef-trafikplanering-goteborg/"
+   },
+   {
+    "url": "https://www.sweco.se/karriar/lediga-tjanster/statistiker-till-stockholm/",
+    "final": "https://www.sweco.se/karriar/lediga-tjanster/statistiker-till-stockholm/"
+   },
+   {
+    "url": "https://www.sweco.se/karriar/lediga-tjanster/uppdragsledare-inom-va-till-uppsala/",
+    "final": "https://www.sweco.se/karriar/lediga-tjanster/uppdragsledare-inom-va-till-uppsala/"
+   },
+   {
+    "url": "https://www.sweco.se/karriar/mot-vara-medarbetare/mustafa-al-azzawi-och-anna-nilhav/",
+    "final": "https://www.sweco.se/karriar/mot-vara-medarbetare/mustafa-al-azzawi-och-anna-nilhav/"
    }
   ]
  },
@@ -1291,11 +2359,15 @@
   "url": "https://afry.com/en/join-us",
   "ats": [],
   "markers": [],
-  "final": "https://afry.com/de-ch/karriere",
+  "final": "https://afry.com/en/careers/students-and-graduates",
   "pages": [
    {
     "url": "https://afry.com/en/join-us",
     "final": "https://afry.com/en/careers"
+   },
+   {
+    "url": "https://afry.com/",
+    "final": "https://afry.com/en"
    },
    {
     "url": "https://afry.com/en/careers",
@@ -1324,19 +2396,107 @@
    {
     "url": "https://afry.com/de-ch/karriere",
     "final": "https://afry.com/de-ch/karriere"
+   },
+   {
+    "url": "https://afry.com/en/industries/automotive-vehicle/automotive-research-development-rd",
+    "final": "https://afry.com/en/industries/automotive-vehicle/automotive-research-development-rd"
+   },
+   {
+    "url": "https://afry.com/en",
+    "final": "https://afry.com/en"
+   },
+   {
+    "url": "https://afry.com/en/industries/real-estate/hospitals-health-care-and-research",
+    "final": "https://afry.com/en/industries/real-estate/hospitals-health-care-and-research"
+   },
+   {
+    "url": "https://afry.com/en/careers/available-jobs",
+    "final": "https://afry.com/en/careers/available-jobs"
+   },
+   {
+    "url": "https://afry.com/en/careers/meet-our-people",
+    "final": "https://afry.com/en/careers/meet-our-people"
+   },
+   {
+    "url": "https://afry.com/en/careers/job-application-guide",
+    "final": "https://afry.com/en/careers/job-application-guide"
+   },
+   {
+    "url": "https://afry.com/en/careers/students-and-graduates",
+    "final": "https://afry.com/en/careers/students-and-graduates"
    }
   ]
  },
  {
   "name": "Bravida",
-  "url": "https://www.bravida.se/karriar/",
+  "url": "https://www.bravida.se/",
   "ats": [],
   "markers": [],
-  "final": null,
+  "final": "https://www.bravida.no/jobbe-hos-oss/start-din-karriere-i-bravida/",
   "pages": [
    {
-    "url": "https://www.bravida.se/karriar/",
-    "error": "HTTP Error 404: Not Found"
+    "url": "https://www.bravida.se/",
+    "final": "https://www.bravida.se/"
+   },
+   {
+    "url": "https://www.bravida.se/jobba-hos-oss/",
+    "final": "https://www.bravida.se/jobba-hos-oss/"
+   },
+   {
+    "url": "https://www.bravida.se/jobba-hos-oss/varfor-valja-bravida/",
+    "final": "https://www.bravida.se/jobba-hos-oss/varfor-valja-bravida/"
+   },
+   {
+    "url": "https://www.bravida.se/jobba-hos-oss/vagen-till-bravida/",
+    "final": "https://www.bravida.se/jobba-hos-oss/vagen-till-bravida/"
+   },
+   {
+    "url": "https://www.bravida.se/jobba-hos-oss/din-utveckling-hos-oss/",
+    "final": "https://www.bravida.se/jobba-hos-oss/din-utveckling-hos-oss/"
+   },
+   {
+    "url": "https://www.bravida.se/jobba-hos-oss/lediga-tjanster/",
+    "final": "https://www.bravida.se/jobba-hos-oss/lediga-tjanster/"
+   },
+   {
+    "url": "https://www.bravida.se/jobba-hos-oss/mot-nagra-av-oss/",
+    "final": "https://www.bravida.se/jobba-hos-oss/mot-nagra-av-oss/"
+   },
+   {
+    "url": "https://www.bravida.se/jobba-hos-oss/alexandra-testar-jobb/",
+    "final": "https://www.bravida.se/jobba-hos-oss/alexandra-testar-jobb/"
+   },
+   {
+    "url": "https://www.bravida.se/press/pressmeddelanden/2026/bravida-starker-sin-position-inom-el-i-stockholm-och-uppsala2/",
+    "final": "https://www.bravida.se/press/pressmeddelanden/2026/bravida-starker-sin-position-inom-el-i-stockholm-och-uppsala2/"
+   },
+   {
+    "url": "https://www.bravida.dk/job-og-karriere/",
+    "final": "https://www.bravida.dk/job-og-karriere/"
+   },
+   {
+    "url": "https://www.bravida.no/jobbe-hos-oss/",
+    "final": "https://www.bravida.no/jobbe-hos-oss/"
+   },
+   {
+    "url": "https://www.bravida.dk/job-og-karriere/hvorfor-skal-du-valge-bravida/",
+    "final": "https://www.bravida.dk/job-og-karriere/hvorfor-skal-du-valge-bravida/"
+   },
+   {
+    "url": "https://www.bravida.no/jobbe-hos-oss/hvorfor-du-bor-velge-bravida/",
+    "final": "https://www.bravida.no/jobbe-hos-oss/hvorfor-du-bor-velge-bravida/"
+   },
+   {
+    "url": "https://www.bravida.se/jobba-hos-oss/vagen-till-bravida/det-har-kan-du-jobba-med/",
+    "final": "https://www.bravida.se/jobba-hos-oss/vagen-till-bravida/det-har-kan-du-jobba-med/"
+   },
+   {
+    "url": "https://www.bravida.dk/job-og-karriere/din-karriere-hos-bravida/",
+    "final": "https://www.bravida.dk/job-og-karriere/din-karriere-hos-bravida/"
+   },
+   {
+    "url": "https://www.bravida.no/jobbe-hos-oss/start-din-karriere-i-bravida/",
+    "final": "https://www.bravida.no/jobbe-hos-oss/start-din-karriere-i-bravida/"
    }
   ]
  },
@@ -1370,11 +2530,15 @@
    }
   ],
   "markers": [],
-  "final": "https://www.coor.se/jobba-hos-oss/student/",
+  "final": "https://www.coor.se/jobba-hos-oss/medarbetare/fredrik-linder/",
   "pages": [
    {
     "url": "https://www.coor.se/jobba-hos-oss/",
     "final": "https://www.coor.se/jobba-hos-oss/"
+   },
+   {
+    "url": "https://www.coor.se/",
+    "final": "https://www.coor.se/"
    },
    {
     "url": "https://dc.services.visualstudio.com",
@@ -1399,6 +2563,14 @@
    {
     "url": "https://www.coor.se/jobba-hos-oss/student/",
     "final": "https://www.coor.se/jobba-hos-oss/student/"
+   },
+   {
+    "url": "https://www.coor.se/jobba-hos-oss/lediga-tjanster/branas-kungsberget/",
+    "final": "https://www.coor.se/jobba-hos-oss/lediga-tjanster/branas-kungsberget/"
+   },
+   {
+    "url": "https://www.coor.se/jobba-hos-oss/medarbetare/fredrik-linder/",
+    "final": "https://www.coor.se/jobba-hos-oss/medarbetare/fredrik-linder/"
    }
   ]
  },
@@ -1411,14 +2583,24 @@
     "ids": [
      "336994"
     ]
+   },
+   {
+    "ats": "jobylon",
+    "ids": [
+     "319748"
+    ]
    }
   ],
   "markers": [],
-  "final": "https://jobb.lansforsakringar.se",
+  "final": "https://jobb.lansforsakringar.se/lf-blekinge/",
   "pages": [
    {
     "url": "https://www.lansforsakringar.se/stockholm/om-oss/jobba-hos-oss/",
     "final": "https://jobb.lansforsakringar.se/"
+   },
+   {
+    "url": "https://www.lansforsakringar.se/",
+    "final": "https://www.lansforsakringar.se/stockholm/privat/"
    },
    {
     "url": "https://jobb.lansforsakringar.se/xmlrpc.php",
@@ -1445,21 +2627,109 @@
     "final": "https://jobb.lansforsakringar.se/lf-vasternorrland/"
    },
    {
+    "url": "https://jobb.lansforsakringar.se/lfab/",
+    "final": "https://jobb.lansforsakringar.se/lfab/"
+   },
+   {
+    "url": "https://jobb.lansforsakringar.se/lf-jamtland/",
+    "final": "https://jobb.lansforsakringar.se/lf-jamtland/"
+   },
+   {
+    "url": "https://cdn.cookielaw.org",
+    "error": "HTTP Error 400: Bad Request"
+   },
+   {
+    "url": "https://www.lansforsakringar.se/privat/om-oss/digitala-tjanster/appen/",
+    "final": "https://www.lansforsakringar.se/stockholm/privat/om-oss/digitala-tjanster/appen/"
+   },
+   {
+    "url": "https://www.lansforsakringar.se/privat/om-oss/jobba-hos-oss/",
+    "final": "https://jobb.lansforsakringar.se/"
+   },
+   {
     "url": "https://jobb.lansforsakringar.se",
     "final": "https://jobb.lansforsakringar.se"
+   },
+   {
+    "url": "https://jobb.lansforsakringar.se/lf-bergslagen/",
+    "final": "https://jobb.lansforsakringar.se/lf-bergslagen/"
+   },
+   {
+    "url": "https://jobb.lansforsakringar.se/lf-blekinge/",
+    "final": "https://jobb.lansforsakringar.se/lf-blekinge/"
    }
   ]
  },
  {
   "name": "Folksam",
-  "url": "https://www.folksam.se/om-folksam/jobba-hos-oss",
+  "url": "https://www.folksam.se/",
   "ats": [],
   "markers": [],
-  "final": null,
+  "final": "https://www.folksam.se/jobb-och-karriar/att-jobba-har/lar-kanna-oss",
   "pages": [
    {
-    "url": "https://www.folksam.se/om-folksam/jobba-hos-oss",
-    "error": "HTTP Error 404: Not Found"
+    "url": "https://www.folksam.se/",
+    "final": "https://www.folksam.se/"
+   },
+   {
+    "url": "https://www.folksam.se/favicon.ico",
+    "final": "https://www.folksam.se/favicon.ico"
+   },
+   {
+    "url": "https://www.folksam.se/search",
+    "final": "https://www.folksam.se/search"
+   },
+   {
+    "url": "https://www.folksam.se/forsakringar",
+    "final": "https://www.folksam.se/forsakringar"
+   },
+   {
+    "url": "https://www.folksam.se/jobb-och-karriar",
+    "final": "https://www.folksam.se/jobb-och-karriar"
+   },
+   {
+    "url": "https://www.folksam.se/jobb-och-karriar/lediga-jobb",
+    "final": "https://www.folksam.se/jobb-och-karriar/lediga-jobb"
+   },
+   {
+    "url": "https://www.folksam.se/jobb-och-karriar/att-jobba-har",
+    "final": "https://www.folksam.se/jobb-och-karriar/att-jobba-har"
+   },
+   {
+    "url": "https://www.folksam.se/jobb-och-karriar/yrken-och-karriarvagar",
+    "final": "https://www.folksam.se/jobb-och-karriar/yrken-och-karriarvagar"
+   },
+   {
+    "url": "https://www.folksam.se/jobb-och-karriar/student",
+    "final": "https://www.folksam.se/jobb-och-karriar/student"
+   },
+   {
+    "url": "https://www.folksam.se/search/",
+    "final": "https://www.folksam.se/search/"
+   },
+   {
+    "url": "https://www.folksam.se/foretag/kundservice/mina-sidor-foretag",
+    "final": "https://www.folksam.se/foretag/kundservice/mina-sidor-foretag"
+   },
+   {
+    "url": "https://pa.folksam.se",
+    "final": "https://pa.folksam.se"
+   },
+   {
+    "url": "https://www.folksam.se/jobb-och-karriar/lediga-jobb/lediga-jobb-hos-oss",
+    "final": "https://www.folksam.se/jobb-och-karriar/lediga-jobb/lediga-jobb-hos-oss"
+   },
+   {
+    "url": "https://www.folksam.se/jobb-och-karriar/lediga-jobb/lediga-jobb-hos-oss/att-soka-jobb-hos-oss",
+    "final": "https://www.folksam.se/jobb-och-karriar/lediga-jobb/lediga-jobb-hos-oss/att-soka-jobb-hos-oss"
+   },
+   {
+    "url": "https://www.folksam.se/jobb-och-karriar/att-jobba-har/lar-kanna-oss/allt-du-inte-visste-om-folksam",
+    "final": "https://www.folksam.se/jobb-och-karriar/att-jobba-har/lar-kanna-oss/allt-du-inte-visste-om-folksam"
+   },
+   {
+    "url": "https://www.folksam.se/jobb-och-karriar/att-jobba-har/lar-kanna-oss",
+    "final": "https://www.folksam.se/jobb-och-karriar/att-jobba-har/lar-kanna-oss"
    }
   ]
  },
@@ -1489,6 +2759,10 @@
    {
     "url": "https://www.apoteket.se/om-apoteket/jobba-hos-oss/",
     "final": "https://www.apoteket.se/om-apoteket/"
+   },
+   {
+    "url": "https://www.apoteket.se/",
+    "final": "https://www.apoteket.se/"
    },
    {
     "url": "https://jobb.apoteket.se/",
@@ -1522,11 +2796,15 @@
   "url": "https://northvolt.com/career/",
   "ats": [],
   "markers": [],
-  "final": "https://northvolt.com/career/life-at-northvolt/how-we-inspire/",
+  "final": "https://northvolt.com/career/categories/industrial-automation/",
   "pages": [
    {
     "url": "https://northvolt.com/career/",
     "final": "https://northvolt.com/career/"
+   },
+   {
+    "url": "https://northvolt.com/",
+    "final": "https://northvolt.com/"
    },
    {
     "url": "https://northvolt.com/styles.12107fb0a8e0851eee0a.css",
@@ -1553,8 +2831,36 @@
     "final": "https://northvolt.com/career/categories/students/"
    },
    {
+    "url": "https://northvolt.com/career/categories/production/",
+    "final": "https://northvolt.com/career/categories/production/"
+   },
+   {
+    "url": "https://northvolt.com/career/categories/factory-design-and-construction/",
+    "final": "https://northvolt.com/career/categories/factory-design-and-construction/"
+   },
+   {
+    "url": "https://northvolt.com/career/roles/",
+    "final": "https://northvolt.com/career/roles/"
+   },
+   {
     "url": "https://northvolt.com/career/life-at-northvolt/how-we-inspire/",
     "final": "https://northvolt.com/career/life-at-northvolt/how-we-inspire/"
+   },
+   {
+    "url": "https://northvolt.com/career/life-at-northvolt/how-we-act/",
+    "final": "https://northvolt.com/career/life-at-northvolt/how-we-act/"
+   },
+   {
+    "url": "https://northvolt.com/career/life-at-northvolt/how-we-grow/",
+    "final": "https://northvolt.com/career/life-at-northvolt/how-we-grow/"
+   },
+   {
+    "url": "https://northvolt.com/career/categories/manufacturing-engineering/",
+    "final": "https://northvolt.com/career/categories/manufacturing-engineering/"
+   },
+   {
+    "url": "https://northvolt.com/career/categories/industrial-automation/",
+    "final": "https://northvolt.com/career/categories/industrial-automation/"
    }
   ]
  }
