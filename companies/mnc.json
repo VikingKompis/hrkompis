@@ -1,0 +1,446 @@
+[
+ {
+  "name": "Microsoft",
+  "url": "https://careers.microsoft.com/"
+ },
+ {
+  "name": "Google",
+  "url": "https://www.google.com/about/careers/applications/jobs/results"
+ },
+ {
+  "name": "Amazon",
+  "url": "https://www.amazon.jobs/en/"
+ },
+ {
+  "name": "Apple",
+  "url": "https://jobs.apple.com/"
+ },
+ {
+  "name": "Meta",
+  "url": "https://www.metacareers.com/jobs"
+ },
+ {
+  "name": "Salesforce",
+  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site"
+ },
+ {
+  "name": "Oracle",
+  "url": "https://careers.oracle.com/"
+ },
+ {
+  "name": "IBM",
+  "url": "https://www.ibm.com/careers"
+ },
+ {
+  "name": "SAP",
+  "url": "https://jobs.sap.com/"
+ },
+ {
+  "name": "Cisco",
+  "url": "https://jobs.cisco.com/"
+ },
+ {
+  "name": "Adobe",
+  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced"
+ },
+ {
+  "name": "Workday",
+  "url": "https://workday.wd5.myworkdayjobs.com/Workday"
+ },
+ {
+  "name": "ServiceNow",
+  "url": "https://careers.servicenow.com/"
+ },
+ {
+  "name": "Nvidia",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite"
+ },
+ {
+  "name": "Intel",
+  "url": "https://intel.wd1.myworkdayjobs.com/External"
+ },
+ {
+  "name": "Dell Technologies",
+  "url": "https://dell.wd1.myworkdayjobs.com/External"
+ },
+ {
+  "name": "HP",
+  "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite"
+ },
+ {
+  "name": "Stripe",
+  "url": "https://stripe.com/jobs/search"
+ },
+ {
+  "name": "PayPal",
+  "url": "https://paypal.wd1.myworkdayjobs.com/jobs"
+ },
+ {
+  "name": "Mastercard",
+  "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers"
+ },
+ {
+  "name": "Visa",
+  "url": "https://www.visa.co.uk/careers.html"
+ },
+ {
+  "name": "American Express",
+  "url": "https://www.americanexpress.com/en-us/careers/"
+ },
+ {
+  "name": "Expedia Group",
+  "url": "https://expedia.wd5.myworkdayjobs.com/search"
+ },
+ {
+  "name": "Booking.com",
+  "url": "https://jobs.booking.com/booking/jobs"
+ },
+ {
+  "name": "Uber",
+  "url": "https://www.uber.com/global/en/careers/"
+ },
+ {
+  "name": "Airbnb",
+  "url": "https://careers.airbnb.com/"
+ },
+ {
+  "name": "LinkedIn",
+  "url": "https://careers.linkedin.com/"
+ },
+ {
+  "name": "TikTok",
+  "url": "https://careers.tiktok.com/"
+ },
+ {
+  "name": "Spotify",
+  "url": "https://www.lifeatspotify.com/jobs"
+ },
+ {
+  "name": "Klarna",
+  "url": "https://www.klarna.com/careers/"
+ },
+ {
+  "name": "King",
+  "url": "https://careers.king.com/"
+ },
+ {
+  "name": "Zalando",
+  "url": "https://jobs.zalando.com/en/"
+ },
+ {
+  "name": "Deliveroo",
+  "url": "https://careers.deliveroo.co.uk/"
+ },
+ {
+  "name": "Wise",
+  "url": "https://wise.jobs/"
+ },
+ {
+  "name": "Revolut",
+  "url": "https://www.revolut.com/careers/"
+ },
+ {
+  "name": "Monzo",
+  "url": "https://monzo.com/careers"
+ },
+ {
+  "name": "Pfizer",
+  "url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers"
+ },
+ {
+  "name": "Johnson & Johnson",
+  "url": "https://www.careers.jnj.com/"
+ },
+ {
+  "name": "Novartis",
+  "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers"
+ },
+ {
+  "name": "Sanofi",
+  "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers"
+ },
+ {
+  "name": "Takeda",
+  "url": "https://takeda.wd3.myworkdayjobs.com/External"
+ },
+ {
+  "name": "Bristol Myers Squibb",
+  "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS"
+ },
+ {
+  "name": "Abbott",
+  "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers"
+ },
+ {
+  "name": "Medtronic",
+  "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers"
+ },
+ {
+  "name": "Thermo Fisher Scientific",
+  "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers"
+ },
+ {
+  "name": "MSD",
+  "url": "https://jobs.msd.com/"
+ },
+ {
+  "name": "Roche",
+  "url": "https://careers.roche.com/"
+ },
+ {
+  "name": "Novo Nordisk",
+  "url": "https://www.novonordisk.com/careers.html"
+ },
+ {
+  "name": "Kenvue",
+  "url": "https://kenvue.wd1.myworkdayjobs.com/KenvueCareers"
+ },
+ {
+  "name": "Philips",
+  "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers"
+ },
+ {
+  "name": "Siemens",
+  "url": "https://jobs.siemens.com/"
+ },
+ {
+  "name": "Siemens Healthineers",
+  "url": "https://jobs.siemens-healthineers.com/"
+ },
+ {
+  "name": "Schneider Electric",
+  "url": "https://careers.se.com/"
+ },
+ {
+  "name": "Honeywell",
+  "url": "https://careers.honeywell.com/"
+ },
+ {
+  "name": "3M",
+  "url": "https://3m.wd1.myworkdayjobs.com/Search"
+ },
+ {
+  "name": "GE Vernova",
+  "url": "https://careers.gevernova.com/"
+ },
+ {
+  "name": "Procter & Gamble",
+  "url": "https://www.pgcareers.com/"
+ },
+ {
+  "name": "Nestlé",
+  "url": "https://www.nestle.com/jobs"
+ },
+ {
+  "name": "Mondelez",
+  "url": "https://mdlz.wd3.myworkdayjobs.com/External"
+ },
+ {
+  "name": "Coca-Cola",
+  "url": "https://coke.wd1.myworkdayjobs.com/coca-cola-careers"
+ },
+ {
+  "name": "PepsiCo",
+  "url": "https://www.pepsicojobs.com/"
+ },
+ {
+  "name": "Heineken",
+  "url": "https://careers.theheinekencompany.com/"
+ },
+ {
+  "name": "Carlsberg",
+  "url": "https://www.carlsberggroup.com/careers/"
+ },
+ {
+  "name": "L'Oréal",
+  "url": "https://careers.loreal.com/"
+ },
+ {
+  "name": "Nike",
+  "url": "https://nike.wd1.myworkdayjobs.com/nke"
+ },
+ {
+  "name": "adidas",
+  "url": "https://careers.adidas-group.com/"
+ },
+ {
+  "name": "Mars",
+  "url": "https://careers.mars.com/"
+ },
+ {
+  "name": "Kraft Heinz",
+  "url": "https://careers.kraftheinz.com/"
+ },
+ {
+  "name": "Danone",
+  "url": "https://careers.danone.com/"
+ },
+ {
+  "name": "Shell",
+  "url": "https://www.shell.com/careers.html"
+ },
+ {
+  "name": "ExxonMobil",
+  "url": "https://jobs.exxonmobil.com/"
+ },
+ {
+  "name": "Equinor",
+  "url": "https://www.equinor.com/careers"
+ },
+ {
+  "name": "HSBC",
+  "url": "https://www.hsbc.com/careers"
+ },
+ {
+  "name": "Citi",
+  "url": "https://citi.wd5.myworkdayjobs.com/2"
+ },
+ {
+  "name": "JPMorgan Chase",
+  "url": "https://careers.jpmorgan.com/"
+ },
+ {
+  "name": "Goldman Sachs",
+  "url": "https://www.goldmansachs.com/careers/"
+ },
+ {
+  "name": "Morgan Stanley",
+  "url": "https://www.morganstanley.com/careers"
+ },
+ {
+  "name": "BlackRock",
+  "url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional"
+ },
+ {
+  "name": "State Street",
+  "url": "https://statestreet.wd1.myworkdayjobs.com/Global"
+ },
+ {
+  "name": "Northern Trust",
+  "url": "https://ntrs.wd1.myworkdayjobs.com/northerntrust"
+ },
+ {
+  "name": "S&P Global",
+  "url": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers"
+ },
+ {
+  "name": "LSEG",
+  "url": "https://lseg.wd3.myworkdayjobs.com/Careers"
+ },
+ {
+  "name": "Marsh McLennan",
+  "url": "https://mmc.wd1.myworkdayjobs.com/MMC"
+ },
+ {
+  "name": "Aon",
+  "url": "https://jobs.aon.com/"
+ },
+ {
+  "name": "Zurich",
+  "url": "https://www.careers.zurich.com/"
+ },
+ {
+  "name": "AXA",
+  "url": "https://www.axa.com/en/careers"
+ },
+ {
+  "name": "Allianz",
+  "url": "https://careers.allianz.com/"
+ },
+ {
+  "name": "Deloitte",
+  "url": "https://www2.deloitte.com/uk/en/careers.html"
+ },
+ {
+  "name": "PwC",
+  "url": "https://www.pwc.com/gx/en/careers.html"
+ },
+ {
+  "name": "EY",
+  "url": "https://careers.ey.com/"
+ },
+ {
+  "name": "KPMG",
+  "url": "https://kpmg.com/xx/en/careers.html"
+ },
+ {
+  "name": "McKinsey",
+  "url": "https://www.mckinsey.com/careers"
+ },
+ {
+  "name": "Capgemini",
+  "url": "https://www.capgemini.com/careers/"
+ },
+ {
+  "name": "Vodafone",
+  "url": "https://careers.vodafone.com/"
+ },
+ {
+  "name": "Kone",
+  "url": "https://www.kone.com/en/careers/"
+ },
+ {
+  "name": "Hilton",
+  "url": "https://jobs.hilton.com/"
+ },
+ {
+  "name": "Marriott",
+  "url": "https://careers.marriott.com/"
+ },
+ {
+  "name": "Ryanair",
+  "url": "https://careers.ryanair.com/"
+ },
+ {
+  "name": "CRH",
+  "url": "https://www.crh.com/careers"
+ },
+ {
+  "name": "Kerry Group",
+  "url": "https://jobs.kerry.com/"
+ },
+ {
+  "name": "Smurfit Westrock",
+  "url": "https://www.smurfitwestrock.com/careers"
+ },
+ {
+  "name": "Glanbia",
+  "url": "https://www.glanbia.com/careers"
+ },
+ {
+  "name": "AIB",
+  "url": "https://aib.ie/careers"
+ },
+ {
+  "name": "Bank of Ireland",
+  "url": "https://careers.bankofireland.com/"
+ },
+ {
+  "name": "ESB",
+  "url": "https://esb.ie/careers"
+ },
+ {
+  "name": "Musgrave",
+  "url": "https://www.musgravegroup.com/careers"
+ },
+ {
+  "name": "Stryker",
+  "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers"
+ },
+ {
+  "name": "Boston Scientific",
+  "url": "https://bostonscientific.wd1.myworkdayjobs.com/BSCI"
+ },
+ {
+  "name": "Analog Devices",
+  "url": "https://analogdevices.wd1.myworkdayjobs.com/External"
+ },
+ {
+  "name": "Intercom",
+  "url": "https://www.intercom.com/careers"
+ },
+ {
+  "name": "Indeed",
+  "url": "https://www.indeed.jobs/"
+ }
+]

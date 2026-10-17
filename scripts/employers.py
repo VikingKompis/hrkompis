@@ -9,13 +9,15 @@ import json, re, html, time, urllib.request, urllib.parse
 from concurrent.futures import ThreadPoolExecutor
 
 UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36'
-COUNTRY = {'se': 'Sweden', 'gb': 'United Kingdom'}
+COUNTRY = {'se': 'Sweden', 'gb': 'United Kingdom', 'ie': 'Ireland'}
 GEO = {
+    'ie': re.compile(r'\b((?<!northern )ireland|éire|eire|dublin|cork|galway|limerick|waterford|kilkenny|athlone|sligo|letterkenny|drogheda|dundalk|swords|blanchardstown|sandyford|leopardstown|cherrywood|carlow|shannon|ennis|tralee|naas|maynooth|wexford|clonmel|castlebar|mullingar|carrigtwohill|ringaskiddy|little island|grange castle|leixlip|clonee)\b', re.I),
     'se': re.compile(r'\b(sweden|sverige|swe|stockholm|göteborg|gothenburg|malmö|malmo|uppsala|linköping|linkoping|västerås|vasteras|örebro|orebro|södertälje|sodertalje|sandviken|lund|umeå|umea|luleå|lulea|jönköping|jonkoping|gävle|gavle|karlskoga|kiruna|skellefteå|skelleftea|borås|boras|eskilstuna|helsingborg|norrköping|norrkoping|sundsvall|solna|sundbyberg|kista|huskvarna|mölndal|molndal|halmstad|växjö|vaxjo|trollhättan|ludvika|gällivare|boden|östersund|karlstad|falun|kalmar)\b', re.I),
     'gb': re.compile(r'\b(united kingdom|uk|u\.k\.|great britain|gb|england|scotland|wales|northern ireland|london|manchester|birmingham|leeds|glasgow|edinburgh|bristol|cardiff|belfast|liverpool|sheffield|newcastle|nottingham|leicester|reading|cambridge|oxford|coventry|derby|milton keynes|southampton|brentford|stevenage|uxbridge|hatfield|leatherhead|slough|watford|crawley|chester|warwick|gaydon|solihull|halewood|whitley|bracknell|basingstoke|swindon|york|hull|aberdeen|dundee|preston|bolton|stockport|croydon|hounslow|isleworth|chiswick|osterley|heathrow|wythenshawe|knutsford|staines|guildford|woking|maidenhead|northampton|peterborough|ipswich|norwich|exeter|plymouth|portsmouth|bradford|wakefield|doncaster|sunderland|middlesbrough)\b', re.I),
 }
 TERMS = {'se': ['HR', 'Human Resources', 'People', 'Talent', 'Recruit', 'Payroll', 'Rekryt', 'Lön', 'Personal', 'Reward', 'Learning'],
-         'gb': ['HR', 'Human Resources', 'People', 'Talent', 'Recruit', 'Payroll', 'Reward', 'Learning', 'Employee Relations', 'Resourcing']}
+         'gb': ['HR', 'Human Resources', 'People', 'Talent', 'Recruit', 'Payroll', 'Reward', 'Learning', 'Employee Relations', 'Resourcing'],
+         'ie': ['HR', 'Human Resources', 'People', 'Talent', 'Recruit', 'Payroll', 'Reward', 'Learning', 'Employee Relations', 'Resourcing']}
 
 
 def req(url, data=None, headers=None, timeout=30, method=None):
