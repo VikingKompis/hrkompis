@@ -13,6 +13,10 @@ on:
         description: "Comma-separated sources to fetch (blank = all)"
         required: false
         default: ""
+      adzuna_pages:
+        description: "Adzuna pages per country, e.g. gb:6,de:4,nl:2 (blank = default)"
+        required: false
+        default: ""
 
 permissions:
   contents: write
@@ -48,7 +52,7 @@ jobs:
           ONLY: ${{ github.event.inputs.only }}
           ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
           ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
-          ADZUNA_PAGES: ${{ vars.ADZUNA_PAGES }}
+          ADZUNA_PAGES: ${{ github.event.inputs.adzuna_pages || vars.ADZUNA_PAGES }}
         run: python scripts/fetch.py
 
       - name: Classify and build jobs.json
