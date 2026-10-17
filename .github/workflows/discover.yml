@@ -1,0 +1,29 @@
+name: Discover employer careers sites
+
+on:
+  workflow_dispatch:
+    inputs:
+      countries:
+        description: "Country lists to scan (space separated)"
+        default: "se gb"
+
+permissions:
+  contents: write
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python scripts/discover.py ${{ github.event.inputs.countries }}
+      - run: |
+          git config user.name "hrkompis-bot"
+          git config user.email "hrkompis-bot@users.noreply.github.com"
+          git pull --rebase -q
+          git add companies/*.discovered.json
+          git commit -m "Careers site discovery" || echo "No changes"
+          git push
