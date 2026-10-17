@@ -1,0 +1,4829 @@
+[
+ {
+  "name": "Microsoft",
+  "url": "https://careers.microsoft.com/",
+  "ats": [],
+  "markers": [],
+  "final": "https://careers.microsoft.com/v2/global/en/home.html",
+  "pages": [
+   {
+    "url": "https://careers.microsoft.com/",
+    "final": "https://careers.microsoft.com/v2/global/en/home.html"
+   }
+  ]
+ },
+ {
+  "name": "Google",
+  "url": "https://www.google.com/about/careers/applications/jobs/results",
+  "ats": [],
+  "markers": [],
+  "final": "https://myaccount.google.com/intro/yourdata/search?utm_source=googlemenu&amp;fg=1&amp;cctld=com",
+  "pages": [
+   {
+    "url": "https://www.google.com/about/careers/applications/jobs/results",
+    "final": "https://www.google.com/about/careers/applications/jobs/results"
+   },
+   {
+    "url": "https://www.google.com/",
+    "final": "https://www.google.com/"
+   },
+   {
+    "url": "https://www.google.com/about/careers/applications/",
+    "final": "https://www.google.com/about/careers/applications/"
+   },
+   {
+    "url": "https://support.google.com/googlecareers",
+    "final": "https://support.google.com/googlecareers"
+   },
+   {
+    "url": "https://accounts.google.com/ServiceLogin?passive=1209600&amp;continue=https://www.google.com/about/careers/applications/jobs/results&amp;followup=https://www.google.com/about/careers/applications/jobs/results&amp;ec=GAZA6QE",
+    "final": "https://accounts.google.com/v3/signin/identifier?amp;continue=https://www.google.com/about/careers/applications/jobs/results&amp;ec=GAZA6QE&amp;followup=https://www.google.com/about/careers/applications/jobs/results&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1591939353:1792267071781633"
+   },
+   {
+    "url": "https://www.linkedin.com/company/google/jobs/",
+    "final": "https://www.linkedin.com/company/google/jobs/"
+   },
+   {
+    "url": "https://www.google.com/about/careers/applications/eeo/",
+    "final": "https://www.google.com/about/careers/applications/eeo/"
+   },
+   {
+    "url": "https://careers.google.com/jobs/dist/legal/EEOC_KnowYourRights_10_20.pdf",
+    "final": "https://careers.google.com/jobs/dist/legal/EEOC_KnowYourRights_10_20.pdf"
+   },
+   {
+    "url": "https://careers.google.com/how-we-hire/",
+    "final": "https://www.google.com/about/careers/applications/how-we-hire/"
+   },
+   {
+    "url": "https://www.google.com/about/careers/applications/jobs/jobs/results/131138433534829254-senior-software-engineer-ask-google-pay",
+    "error": "HTTP Error 404: Not Found"
+   },
+   {
+    "url": "https://www.gstatic.com/images/branding/searchlogo/ico/favicon.ico",
+    "final": "https://www.gstatic.com/images/branding/searchlogo/ico/favicon.ico"
+   },
+   {
+    "url": "https://www.google.com/search?sca_esv=57d203991a0adb36&amp;sxsrf=APpeQnsOubXTYv68XE68fDS-5yOlzuee3A:1792267062924&amp;q=WNBA+Finals&amp;oi=ddle&amp;noiga=1&amp;ct=567186259&amp;hl=en&amp;si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yRf7H1EJHzvhLi_9_iqRqFuXeN3avWLfJDzskAERYyeugxr2ZwRL6IP-wgp_pyzblftqx4U%3D&amp;sa=X&amp;ved=0ahUKEwi5q4GN68GXAxUaE1kFHRiWIOEQPQgK",
+    "final": "https://www.google.com/webhp?sca_esv=57d203991a0adb36"
+   },
+   {
+    "url": "https://google.com/search/howsearchworks/?fg=1",
+    "final": "https://www.google.com/search/howsearchworks/?fg=1"
+   },
+   {
+    "url": "https://www.google.com/preferences?hl=en&amp;fg=1",
+    "final": "https://www.google.com/preferences?hl=en&amp;fg=1"
+   },
+   {
+    "url": "https://www.google.com/advanced_search?hl=en&amp;fg=1",
+    "final": "https://www.google.com/advanced_search?hl=en&amp;fg=1"
+   },
+   {
+    "url": "https://www.google.com/history/privacyadvisor/search/unauth?utm_source=googlemenu&amp;fg=1&amp;cctld=com",
+    "final": "https://myaccount.google.com/intro/yourdata/search?utm_source=googlemenu&amp;fg=1&amp;cctld=com"
+   }
+  ]
+ },
+ {
+  "name": "Amazon",
+  "url": "https://www.amazon.jobs/en/",
+  "ats": [],
+  "markers": [
+   "workday_word"
+  ],
+  "final": "https://amazon.jobs/content/en/job-categories/buying-planning-instock-management",
+  "pages": [
+   {
+    "url": "https://www.amazon.jobs/en/",
+    "final": "https://www.amazon.jobs/en/"
+   },
+   {
+    "url": "https://www.amazon.jobs/",
+    "final": "https://www.amazon.jobs/en/"
+   },
+   {
+    "url": "https://static.amazon.jobs/assets/favicon-933ee4605ae64f3181e0fcd88f9205be7b5f8a15643c342e53a9f03bb673732c.ico",
+    "final": "https://static.amazon.jobs/assets/favicon-933ee4605ae64f3181e0fcd88f9205be7b5f8a15643c342e53a9f03bb673732c.ico"
+   },
+   {
+    "url": "https://www.amazon.jobs/en/job_categories",
+    "final": "https://www.amazon.jobs/content/en/job-categories"
+   },
+   {
+    "url": "https://passport.amazon.jobs/accountInfo",
+    "final": "https://passport.amazon.jobs/"
+   },
+   {
+    "url": "https://www.facebook.com/InsideAmazon/?Amazon.jobs=footer",
+    "error": "HTTP Error 400: Bad Request"
+   },
+   {
+    "url": "https://www.linkedin.com/company/amazon?Amazon.jobs=footer",
+    "final": "https://www.linkedin.com/company/amazon?Amazon.jobs=footer"
+   },
+   {
+    "url": "https://www.instagram.com/insideamazon/?Amazon.jobs=footer",
+    "final": "https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Finsideamazon%2F%3FAmazon.jobs%3Dfooter&is_from_rle"
+   },
+   {
+    "url": "https://twitter.com/amazonnews?Amazon.jobs=footer",
+    "error": "HTTP Error 403: Forbidden"
+   },
+   {
+    "url": "https://www.amazon.jobs/content/en/job-categories",
+    "final": "https://www.amazon.jobs/content/en/job-categories"
+   },
+   {
+    "url": "https://d2pr25vnygl9ju.cloudfront.net/_next/static/css/86d57909108bbd70.css",
+    "final": "https://d2pr25vnygl9ju.cloudfront.net/_next/static/css/86d57909108bbd70.css"
+   },
+   {
+    "url": "https://amazon.jobs/content/en/job-categories/applied-science",
+    "final": "https://amazon.jobs/content/en/job-categories/applied-science"
+   },
+   {
+    "url": "https://amazon.jobs/content/en/job-categories/audio-video-photography-production",
+    "final": "https://amazon.jobs/content/en/job-categories/audio-video-photography-production"
+   },
+   {
+    "url": "https://amazon.jobs/content/en/job-categories/business-merchant-development",
+    "final": "https://amazon.jobs/content/en/job-categories/business-merchant-development"
+   },
+   {
+    "url": "https://amazon.jobs/content/en/job-categories/business-intelligence-data-engineering",
+    "final": "https://amazon.jobs/content/en/job-categories/business-intelligence-data-engineering"
+   },
+   {
+    "url": "https://amazon.jobs/content/en/job-categories/buying-planning-instock-management",
+    "final": "https://amazon.jobs/content/en/job-categories/buying-planning-instock-management"
+   }
+  ]
+ },
+ {
+  "name": "Apple",
+  "url": "https://jobs.apple.com/",
+  "ats": [],
+  "markers": [],
+  "final": "https://www.apple.com/careers/uk/",
+  "pages": [
+   {
+    "url": "https://jobs.apple.com/",
+    "final": "https://www.apple.com/careers/uk/"
+   },
+   {
+    "url": "https://www.apple.com/careers/uk/",
+    "final": "https://www.apple.com/careers/uk/"
+   },
+   {
+    "url": "https://www.apple.com/uk/search",
+    "final": "https://www.apple.com/uk/search"
+   },
+   {
+    "url": "https://www.apple.com/careers/uk/index.html",
+    "final": "https://www.apple.com/careers/uk/index.html"
+   },
+   {
+    "url": "https://www.apple.com/careers/uk/work-at-apple.html",
+    "final": "https://www.apple.com/careers/uk/work-at-apple.html"
+   },
+   {
+    "url": "https://www.apple.com/careers/uk/work-at-apple/locations.html",
+    "final": "https://www.apple.com/careers/uk/work-at-apple/locations.html"
+   },
+   {
+    "url": "https://www.apple.com/careers/uk/work-at-apple/teams.html",
+    "final": "https://www.apple.com/careers/uk/work-at-apple/teams.html"
+   },
+   {
+    "url": "https://www.apple.com/careers/uk/work-at-apple/retail.html",
+    "final": "https://www.apple.com/careers/uk/work-at-apple/retail.html"
+   },
+   {
+    "url": "https://www.apple.com/careers/uk/work-at-apple/students.html",
+    "final": "https://www.apple.com/careers/uk/work-at-apple/students.html"
+   },
+   {
+    "url": "https://www.apple.com/careers/uk/life-at-apple.html",
+    "final": "https://www.apple.com/careers/uk/life-at-apple.html"
+   },
+   {
+    "url": "https://store.storeimages.cdn-apple.com/4668/store.apple.com",
+    "error": "HTTP Error 403: Forbidden"
+   },
+   {
+    "url": "https://www.apple.com/uk/search?src=aos&amp;tab=explore",
+    "final": "https://www.apple.com/uk/search?src=aos&amp;tab=explore"
+   },
+   {
+    "url": "https://www.apple.com/uk/search?src=aos&amp;tab=accessories",
+    "final": "https://www.apple.com/uk/search?src=aos&amp;tab=accessories"
+   },
+   {
+    "url": "https://www.apple.com/uk/search?src=aos&amp;tab=support",
+    "final": "https://www.apple.com/uk/search?src=aos&amp;tab=support"
+   },
+   {
+    "url": "https://www.apple.com/uk/search?src=aos&amp;tab=retail",
+    "final": "https://www.apple.com/uk/search?src=aos&amp;tab=retail"
+   },
+   {
+    "url": "https://www.apple.com/jobs/uk/",
+    "final": "https://www.apple.com/careers/uk/"
+   }
+  ]
+ },
+ {
+  "name": "Meta",
+  "url": "https://www.metacareers.com/jobs",
+  "ats": [],
+  "markers": [],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://www.metacareers.com/jobs",
+    "error": "HTTP Error 400: Bad Request"
+   },
+   {
+    "url": "https://www.metacareers.com/",
+    "error": "HTTP Error 400: Bad Request"
+   }
+  ]
+ },
+ {
+  "name": "Salesforce",
+  "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site",
+  "ats": [
+   {
+    "ats": "workday",
+    "ids": [
+     "salesforce",
+     "wd12",
+     "External_Career_Site"
+    ]
+   }
+  ],
+  "markers": [
+   "workday_word"
+  ],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site",
+    "final": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site"
+   },
+   {
+    "url": "https://salesforce.wd12.myworkdayjobs.com/",
+    "error": "HTTP Error 406: Not Acceptable"
+   }
+  ]
+ },
+ {
+  "name": "Oracle",
+  "url": "https://careers.oracle.com/",
+  "ats": [],
+  "markers": [],
+  "final": "https://www.oracle.com/legal/privacy/life-sciences-healthcare-research-privacy-policy/",
+  "pages": [
+   {
+    "url": "https://careers.oracle.com/",
+    "final": "https://careers.oracle.com/en/sites/jobsearch"
+   },
+   {
+    "url": "https://careers.oracle.com/en/sites/jobsearch",
+    "final": "https://careers.oracle.com/en/sites/jobsearch"
+   },
+   {
+    "url": "https://www.oracle.com/corporate/careers/background-check.html",
+    "final": "https://www.oracle.com/careers/background-check/"
+   },
+   {
+    "url": "https://www.oracle.com/legal/eeo-pay-transparency/",
+    "final": "https://www.oracle.com/legal/eeo-pay-transparency/"
+   },
+   {
+    "url": "https://www.oracle.com/corporate/careers/",
+    "final": "https://www.oracle.com/careers/"
+   },
+   {
+    "url": "https://www.oracle.com/corporate/careers/terms-conditions/",
+    "final": "https://www.oracle.com/careers/terms-conditions/"
+   },
+   {
+    "url": "https://www.oracle.com/careers/background-check/",
+    "final": "https://www.oracle.com/careers/background-check/"
+   },
+   {
+    "url": "https://www.oracle.com/artificial-intelligence/",
+    "final": "https://www.oracle.com/artificial-intelligence/"
+   },
+   {
+    "url": "https://www.oracle.com/careers/",
+    "final": "https://www.oracle.com/careers/"
+   },
+   {
+    "url": "https://www.oracle.com/careers/life-at-oracle/",
+    "final": "https://www.oracle.com/careers/life-at-oracle/"
+   },
+   {
+    "url": "https://www.oracle.com/careers/life-at-oracle/benefits/",
+    "final": "https://www.oracle.com/careers/life-at-oracle/benefits/"
+   },
+   {
+    "url": "https://www.oracle.com/careers/life-at-oracle/training/",
+    "final": "https://www.oracle.com/careers/life-at-oracle/training/"
+   },
+   {
+    "url": "https://www.oracle.com/careers/life-at-oracle/veterans/",
+    "final": "https://www.oracle.com/careers/life-at-oracle/veterans/"
+   },
+   {
+    "url": "https://www.oracle.com/careers/life-at-oracle/people-with-disabilities/",
+    "final": "https://www.oracle.com/careers/life-at-oracle/people-with-disabilities/"
+   },
+   {
+    "url": "https://www.oracle.com/legal/privacy/customer-data-research-development-privacy-policy/",
+    "final": "https://www.oracle.com/legal/privacy/customer-data-research-development-privacy-policy/"
+   },
+   {
+    "url": "https://www.oracle.com/legal/privacy/life-sciences-healthcare-research-privacy-policy/",
+    "final": "https://www.oracle.com/legal/privacy/life-sciences-healthcare-research-privacy-policy/"
+   }
+  ]
+ },
+ {
+  "name": "IBM",
+  "url": "https://www.ibm.com/careers",
+  "ats": [],
+  "markers": [],
+  "final": "https://www.ibm.com/careers/cloud",
+  "pages": [
+   {
+    "url": "https://www.ibm.com/careers",
+    "final": "https://www.ibm.com/careers"
+   },
+   {
+    "url": "https://www.ibm.com/",
+    "final": "https://www.ibm.com/us-en"
+   },
+   {
+    "url": "https://www.ibm.com/content/dam/adobe-cms/default-images/icon-16x16.png",
+    "final": "https://www.ibm.com/content/dam/adobe-cms/default-images/icon-16x16.png"
+   },
+   {
+    "url": "https://www.ibm.com/careers/search",
+    "final": "https://www.ibm.com/careers/search"
+   },
+   {
+    "url": "https://www.ibm.com/careers/areas",
+    "final": "https://www.ibm.com/careers/areas"
+   },
+   {
+    "url": "https://www.ibm.com/careers/career-opportunities",
+    "final": "https://www.ibm.com/careers/career-opportunities"
+   },
+   {
+    "url": "https://www.ibm.com/careers/application-process",
+    "final": "https://www.ibm.com/careers/application-process"
+   },
+   {
+    "url": "https://www.ibm.com/careers/culture",
+    "final": "https://www.ibm.com/careers/culture"
+   },
+   {
+    "url": "https://www.ibm.com/careers/blog",
+    "final": "https://www.ibm.com/careers/blog"
+   },
+   {
+    "url": "https://www.ibm.com/careers/locations",
+    "final": "https://www.ibm.com/careers/locations"
+   },
+   {
+    "url": "https://ibm.webcasts.com/starthere.jsp?ei=1776538&tp_key=13037286ac&sti=hp&lnk=hpsl2us",
+    "final": "https://ibm.webcasts.com/starthere.jsp?ei=1776538&tp_key=13037286ac&sti=hp&lnk=hpsl2us"
+   },
+   {
+    "url": "https://newsroom.ibm.com/2026-10-14-ibm-and-siemens-collaborate-on-research-to-advance-nanostack-architecture",
+    "final": "https://newsroom.ibm.com/2026-10-14-ibm-and-siemens-collaborate-on-research-to-advance-nanostack-architecture"
+   },
+   {
+    "url": "https://www.ibm.com/marketplace/static/components/search/embedded/v2.2/styles/styles.css",
+    "final": "https://www.ibm.com/marketplace/static/components/search/embedded/v2.2/styles/styles.css"
+   },
+   {
+    "url": "https://careers.ibm.com/en_US/careers/JobAlerts?source=WEB_Search_NA",
+    "final": "https://careers.ibm.com/en_US/careers/JobAlerts?source=WEB_Search_NA"
+   },
+   {
+    "url": "https://www.ibm.com/careers/ai-and-watsonx",
+    "final": "https://www.ibm.com/careers/ai-and-watsonx"
+   },
+   {
+    "url": "https://www.ibm.com/careers/cloud",
+    "final": "https://www.ibm.com/careers/cloud"
+   }
+  ]
+ },
+ {
+  "name": "SAP",
+  "url": "https://jobs.sap.com/",
+  "ats": [
+   {
+    "ats": "greenhouse",
+    "ids": [
+     "embed"
+    ]
+   },
+   {
+    "ats": "successfactors",
+    "ids": [
+     "career5.successfactors.eu",
+     "SAP"
+    ]
+   }
+  ],
+  "markers": [
+   "sf_rmk",
+   "workday_word"
+  ],
+  "final": "https://www.linkedin.com/company/sap/jobs/",
+  "pages": [
+   {
+    "url": "https://jobs.sap.com/",
+    "final": "https://jobs.sap.com/en/"
+   },
+   {
+    "url": "https://sap-careers-cdn.happydance.website/media/zo5o05gp/latest-job-bg-svg.svg?v=639171310038330000",
+    "final": "https://sap-careers-cdn.happydance.website/media/zo5o05gp/latest-job-bg-svg.svg?v=639171310038330000"
+   },
+   {
+    "url": "https://jobs.sap.com/en/jobs/",
+    "final": "https://jobs.sap.com/en/jobs/"
+   },
+   {
+    "url": "https://jobs.sap.com/en/students-and-graduates/",
+    "final": "https://jobs.sap.com/en/students-and-graduates/"
+   },
+   {
+    "url": "https://jobs.sap.com/en/jobs/saved-jobs/",
+    "final": "https://jobs.sap.com/en/jobs/saved-jobs/"
+   },
+   {
+    "url": "https://www.dremio.com/careers/job-postings/",
+    "final": "https://www.dremio.com/careers/job-postings/"
+   },
+   {
+    "url": "https://www.reltio.com/careers/",
+    "final": "https://www.reltio.com/careers/"
+   },
+   {
+    "url": "https://www.smartrecruiterscareers.com/",
+    "final": "https://www.smartrecruiterscareers.com/"
+   },
+   {
+    "url": "https://taulia.com/company/careers/",
+    "final": "https://taulia.com/company/careers/"
+   },
+   {
+    "url": "https://sap-careers-cdn.happydance.website/media/chohpz1o/how-we-hire-icon-find-apply.svg?v=639160307889100000",
+    "final": "https://sap-careers-cdn.happydance.website/media/chohpz1o/how-we-hire-icon-find-apply.svg?v=639160307889100000"
+   },
+   {
+    "url": "https://careers.sap.com/",
+    "final": "https://careers.sap.com/"
+   },
+   {
+    "url": "https://www.walkme.com/careers/",
+    "final": "https://www.walkme.com/careers/"
+   },
+   {
+    "url": "https://sap-careers-cdn.happydance.website/media/f2pfird3/next-gen-icon-apply.svg?v=639160279176830000",
+    "final": "https://sap-careers-cdn.happydance.website/media/f2pfird3/next-gen-icon-apply.svg?v=639160279176830000"
+   },
+   {
+    "url": "https://jobs.sap.com/en/jobs/?experience=Associate&amp;experience=Entry+Level&amp;experience=Internship",
+    "final": "https://jobs.sap.com/en/jobs/?experience=Associate&amp;experience=Entry+Level&amp;experience=Internship"
+   },
+   {
+    "url": "https://jobs.sap.com/en/sap-privacy-statement-careers/?locale=en_US",
+    "final": "https://jobs.sap.com/en/sap-privacy-statement-careers/?locale=en_US"
+   },
+   {
+    "url": "https://www.linkedin.com/company/sap/jobs/",
+    "final": "https://www.linkedin.com/company/sap/jobs/"
+   }
+  ]
+ },
+ {
+  "name": "Cisco",
+  "url": "https://jobs.cisco.com/",
+  "ats": [
+   {
+    "ats": "workday",
+    "ids": [
+     "cisco",
+     "wd5",
+     "Cisco_Careers"
+    ]
+   }
+  ],
+  "markers": [
+   "phenom",
+   "workday_word"
+  ],
+  "final": "https://cdn.phenompeople.com/CareerConnectResources/CISCISGLOBAL/canvas/default/common/fontfaces/fontface-1727696536968.css",
+  "pages": [
+   {
+    "url": "https://jobs.cisco.com/",
+    "final": "https://careers.cisco.com/global/en"
+   },
+   {
+    "url": "https://cdn.phenompeople.com/CareerConnectResources/CISCISGLOBAL/en_global/desktop/assets/images/favicon.ico?v=1727777881780",
+    "final": "https://cdn.phenompeople.com/CareerConnectResources/CISCISGLOBAL/en_global/desktop/assets/images/favicon.ico?v=1727777881780"
+   },
+   {
+    "url": "https://careers.cisco.com/global/en/why-work-here",
+    "final": "https://careers.cisco.com/global/en/why-work-here"
+   },
+   {
+    "url": "https://careers.cisco.com/global/en/ai-and-innovation",
+    "final": "https://careers.cisco.com/global/en/ai-and-innovation"
+   },
+   {
+    "url": "https://careers.cisco.com/global/en/career-growth-and-learning",
+    "final": "https://careers.cisco.com/global/en/career-growth-and-learning"
+   },
+   {
+    "url": "https://careers.cisco.com/global/en/benefits-and-perks",
+    "final": "https://careers.cisco.com/global/en/benefits-and-perks"
+   },
+   {
+    "url": "https://careers.cisco.com/global/en/jointalentcommunity",
+    "final": "https://careers.cisco.com/global/en/jointalentcommunity"
+   },
+   {
+    "url": "https://cdn.phenompeople.com/CareerConnectResources/CISCISGLOBAL/en_global/desktop/assets/images/favicon.ico",
+    "final": "https://cdn.phenompeople.com/CareerConnectResources/CISCISGLOBAL/en_global/desktop/assets/images/favicon.ico"
+   },
+   {
+    "url": "https://careers.cisco.com/global/en/search-results",
+    "final": "https://careers.cisco.com/global/en/search-results"
+   },
+   {
+    "url": "https://careers.cisco.com/global/en/ai-jobs",
+    "final": "https://careers.cisco.com/global/en/ai-jobs"
+   },
+   {
+    "url": "https://www.cisco.com/site/us/en/products/software/index.html?filters=&amp;search=&amp;sort=a-z&amp;filterby=&amp;showMore=",
+    "error": "HTTP Error 403: Forbidden"
+   },
+   {
+    "url": "https://research.cisco.com/publications",
+    "final": "https://research.cisco.com/publications"
+   },
+   {
+    "url": "https://research.cisco.com/quantum-research/quantum-labs",
+    "final": "https://research.cisco.com/quantum/about-quantum-labs"
+   },
+   {
+    "url": "https://blogs.cisco.com/wearecisco/how-ciscos-focus-on-talent-transformed-my-tech-career",
+    "final": "https://blogs.cisco.com/wearecisco/how-ciscos-focus-on-talent-transformed-my-tech-career"
+   },
+   {
+    "url": "https://blogs.cisco.com/wearecisco/how-cisco-supports-balancing-fatherhood-and-a-cybersecurity-career",
+    "final": "https://blogs.cisco.com/wearecisco/how-cisco-supports-balancing-fatherhood-and-a-cybersecurity-career"
+   },
+   {
+    "url": "https://cdn.phenompeople.com/CareerConnectResources/CISCISGLOBAL/canvas/default/common/fontfaces/fontface-1727696536968.css",
+    "final": "https://cdn.phenompeople.com/CareerConnectResources/CISCISGLOBAL/canvas/default/common/fontfaces/fontface-1727696536968.css"
+   }
+  ]
+ },
+ {
+  "name": "Adobe",
+  "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced",
+  "ats": [
+   {
+    "ats": "workday",
+    "ids": [
+     "adobe",
+     "wd5",
+     "external_experienced"
+    ]
+   }
+  ],
+  "markers": [
+   "workday_word"
+  ],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced",
+    "final": "https://adobe.wd5.myworkdayjobs.com/external_experienced"
+   },
+   {
+    "url": "https://adobe.wd5.myworkdayjobs.com/",
+    "error": "HTTP Error 406: Not Acceptable"
+   }
+  ]
+ },
+ {
+  "name": "Workday",
+  "url": "https://workday.wd5.myworkdayjobs.com/Workday",
+  "ats": [
+   {
+    "ats": "workday",
+    "ids": [
+     "workday",
+     "wd5",
+     "Workday"
+    ]
+   }
+  ],
+  "markers": [
+   "workday_word"
+  ],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://workday.wd5.myworkdayjobs.com/Workday",
+    "final": "https://workday.wd5.myworkdayjobs.com/Workday"
+   },
+   {
+    "url": "https://workday.wd5.myworkdayjobs.com/",
+    "error": "HTTP Error 406: Not Acceptable"
+   }
+  ]
+ },
+ {
+  "name": "ServiceNow",
+  "url": "https://careers.servicenow.com/",
+  "ats": [
+   {
+    "ats": "smartrecruiters",
+    "ids": [
+     "ServiceNow"
+    ]
+   }
+  ],
+  "markers": [],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://careers.servicenow.com/",
+    "final": "https://careers.servicenow.com/"
+   },
+   {
+    "url": "https://cdnjs.cloudflare.com/",
+    "final": "https://cdnjs.cloudflare.com/"
+   },
+   {
+    "url": "https://careers.servicenow.com/jobs/",
+    "final": "https://careers.servicenow.com/jobs/"
+   },
+   {
+    "url": "https://careers.servicenow.com/early-careers/",
+    "final": "https://careers.servicenow.com/early-careers/"
+   },
+   {
+    "url": "https://careers.servicenow.com/jobs/saved-jobs/",
+    "final": "https://careers.servicenow.com/jobs/saved-jobs/"
+   },
+   {
+    "url": "https://talent.servicenow.com/flows/cs-talent-community",
+    "error": "HTTP Error 403: Forbidden"
+   },
+   {
+    "url": "https://careers.servicenow.com/jobs/744000156132859/senior-staff-platform-engineer-kubernetes-federal/",
+    "final": "https://careers.servicenow.com/jobs/744000156132859/senior-staff-platform-engineer-kubernetes-federal/"
+   },
+   {
+    "url": "https://careers.servicenow.com/jobs/744000156132709/senior-staff-platform-engineer-kubernetes-federal/",
+    "final": "https://careers.servicenow.com/jobs/744000156132709/senior-staff-platform-engineer-kubernetes-federal/"
+   },
+   {
+    "url": "https://careers.servicenow.com/jobs/744000156131909/director-strategy-operations-employee-experience-group/",
+    "final": "https://careers.servicenow.com/jobs/744000156131909/director-strategy-operations-employee-experience-group/"
+   },
+   {
+    "url": "https://careers.servicenow.com/jobs/744000156093019/principal-software-engineer-veza/",
+    "final": "https://careers.servicenow.com/jobs/744000156093019/principal-software-engineer-veza/"
+   },
+   {
+    "url": "https://careers.servicenow.com/jobs/744000156092899/sr-software-engineer-veza/",
+    "final": "https://careers.servicenow.com/jobs/744000156092899/sr-software-engineer-veza/"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/servicenow-early-careers_global-development-week-2025-our-biggest-activity-7397314461189144577--B5C/?utm_source=share&amp;utm_medium=member_ios&amp;rcm=ACoAAC9_K3UBXaFei4W4BotrIP4-_ixkF9IZqIY",
+    "final": "https://www.linkedin.com/posts/servicenow-early-careers_global-development-week-2025-our-biggest-activity-7397314461189144577--B5C/?utm_source=share&amp;utm_medium=member_ios&amp;rcm=ACoAAC9_K3UBXaFei4W4BotrIP4-_ixkF9IZqIY"
+   },
+   {
+    "url": "https://vault.com/best-internships-rankings-search/best-internships-by-role/engineering",
+    "final": "https://vault.com/best-internships-rankings-search/best-internships-by-role/engineering"
+   },
+   {
+    "url": "https://www.fastcompany.com/91389779/investing-in-early-in-career-talent-is-vital-to-win-the-ai-race",
+    "error": "HTTP Error 403: Forbidden"
+   },
+   {
+    "url": "https://www.linkedin.com/company/servicenow-early-careers/",
+    "error": "HTTP Error 999: <none>"
+   }
+  ]
+ },
+ {
+  "name": "Nvidia",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite",
+  "ats": [
+   {
+    "ats": "workday",
+    "ids": [
+     "nvidia",
+     "wd5",
+     "NVIDIAExternalCareerSite"
+    ]
+   }
+  ],
+  "markers": [
+   "workday_word"
+  ],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite",
+    "final": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite"
+   },
+   {
+    "url": "https://nvidia.wd5.myworkdayjobs.com/",
+    "error": "HTTP Error 406: Not Acceptable"
+   }
+  ]
+ },
+ {
+  "name": "Intel",
+  "url": "https://intel.wd1.myworkdayjobs.com/External",
+  "ats": [
+   {
+    "ats": "workday",
+    "ids": [
+     "intel",
+     "wd1",
+     "External"
+    ]
+   }
+  ],
+  "markers": [
+   "workday_word"
+  ],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://intel.wd1.myworkdayjobs.com/External",
+    "final": "https://intel.wd1.myworkdayjobs.com/External"
+   },
+   {
+    "url": "https://intel.wd1.myworkdayjobs.com/",
+    "error": "HTTP Error 406: Not Acceptable"
+   }
+  ]
+ },
+ {
+  "name": "Dell Technologies",
+  "url": "https://dell.wd1.myworkdayjobs.com/External",
+  "ats": [],
+  "markers": [],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://dell.wd1.myworkdayjobs.com/External",
+    "error": "HTTP Error 500: Internal Server Error"
+   },
+   {
+    "url": "https://dell.wd1.myworkdayjobs.com/",
+    "error": "HTTP Error 406: Not Acceptable"
+   }
+  ]
+ },
+ {
+  "name": "HP",
+  "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite",
+  "ats": [
+   {
+    "ats": "workday",
+    "ids": [
+     "hp",
+     "wd5",
+     "ExternalCareerSite"
+    ]
+   }
+  ],
+  "markers": [
+   "workday_word"
+  ],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite",
+    "final": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite"
+   },
+   {
+    "url": "https://hp.wd5.myworkdayjobs.com/",
+    "error": "HTTP Error 406: Not Acceptable"
+   }
+  ]
+ },
+ {
+  "name": "Stripe",
+  "url": "https://stripe.com/jobs/search",
+  "ats": [
+   {
+    "ats": "greenhouse",
+    "ids": [
+     "embed"
+    ]
+   }
+  ],
+  "markers": [
+   "workday_word"
+  ],
+  "final": "https://stripe.com/careers/apply/aeo-and-geo-marketing-manager/7844214",
+  "pages": [
+   {
+    "url": "https://stripe.com/jobs/search",
+    "final": "https://stripe.com/careers/search"
+   },
+   {
+    "url": "https://stripe.com/",
+    "final": "https://stripe.com/"
+   },
+   {
+    "url": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/media/Sohne.cb178166.woff2",
+    "final": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/media/Sohne.cb178166.woff2"
+   },
+   {
+    "url": "https://stripe.com/careers",
+    "final": "https://stripe.com/careers"
+   },
+   {
+    "url": "https://stripe.com/careers/compatibility",
+    "final": "https://stripe.com/careers/compatibility"
+   },
+   {
+    "url": "https://stripe.com/careers/emerging-talent",
+    "final": "https://stripe.com/careers/emerging-talent"
+   },
+   {
+    "url": "https://stripe.com/careers/search",
+    "final": "https://stripe.com/careers/search"
+   },
+   {
+    "url": "https://stripe.com/careers/listing/aeo-and-geo-marketing-manager/7844214",
+    "final": "https://stripe.com/careers/listing/aeo-and-geo-marketing-manager/7844214"
+   },
+   {
+    "url": "https://stripe.com/careers/listing/ai-engineer/8144196",
+    "final": "https://stripe.com/careers/listing/ai-engineer/8144196"
+   },
+   {
+    "url": "https://stripe.com/careers/listing/ai-solutions-program-manager-finance/8221776",
+    "final": "https://stripe.com/careers/listing/ai-solutions-program-manager-finance/8221776"
+   },
+   {
+    "url": "https://stripe.com/customers/jobber",
+    "final": "https://stripe.com/customers/jobber"
+   },
+   {
+    "url": "https://stripe.com/careers/search?teams=University",
+    "final": "https://stripe.com/careers/search?teams=University"
+   },
+   {
+    "url": "https://stripe.com/careers/listing/ar-analyst/8247127",
+    "final": "https://stripe.com/careers/listing/ar-analyst/8247127"
+   },
+   {
+    "url": "https://stripe.com/careers/listing/abuse-investigator/8172510",
+    "final": "https://stripe.com/careers/listing/abuse-investigator/8172510"
+   },
+   {
+    "url": "https://stripe.com/careers/listing/abuse-investigator/8172508",
+    "final": "https://stripe.com/careers/listing/abuse-investigator/8172508"
+   },
+   {
+    "url": "https://stripe.com/careers/apply/aeo-and-geo-marketing-manager/7844214",
+    "final": "https://stripe.com/careers/apply/aeo-and-geo-marketing-manager/7844214"
+   }
+  ]
+ },
+ {
+  "name": "PayPal",
+  "url": "https://paypal.wd1.myworkdayjobs.com/jobs",
+  "ats": [
+   {
+    "ats": "workday",
+    "ids": [
+     "paypal",
+     "wd1",
+     "jobs"
+    ]
+   }
+  ],
+  "markers": [
+   "workday_word"
+  ],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://paypal.wd1.myworkdayjobs.com/jobs",
+    "final": "https://paypal.wd1.myworkdayjobs.com/jobs"
+   },
+   {
+    "url": "https://paypal.wd1.myworkdayjobs.com/",
+    "error": "HTTP Error 406: Not Acceptable"
+   }
+  ]
+ },
+ {
+  "name": "Mastercard",
+  "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers",
+  "ats": [
+   {
+    "ats": "workday",
+    "ids": [
+     "mastercard",
+     "wd1",
+     "CorporateCareers"
+    ]
+   }
+  ],
+  "markers": [
+   "workday_word"
+  ],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers",
+    "final": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers"
+   },
+   {
+    "url": "https://mastercard.wd1.myworkdayjobs.com/",
+    "error": "HTTP Error 406: Not Acceptable"
+   }
+  ]
+ },
+ {
+  "name": "Visa",
+  "url": "https://www.visa.co.uk/careers.html",
+  "ats": [],
+  "markers": [],
+  "final": "https://corporate.visa.com/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/list/lists.css",
+  "pages": [
+   {
+    "url": "https://www.visa.co.uk/careers.html",
+    "error": "HTTP Error 403: Forbidden"
+   },
+   {
+    "url": "https://www.visa.co.uk/",
+    "final": "https://www.visa.co.uk/"
+   },
+   {
+    "url": "https://cdn.visa.com",
+    "error": "HTTP Error 404: Not Found"
+   },
+   {
+    "url": "https://www.visa.co.uk/about-visa/social-impact.html",
+    "final": "https://corporate.visa.com/en/about-visa/social-impact.html"
+   },
+   {
+    "url": "https://corporate.visa.com/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/list/lists.css",
+    "final": "https://corporate.visa.com/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/list/lists.css"
+   }
+  ]
+ },
+ {
+  "name": "American Express",
+  "url": "https://www.americanexpress.com/en-us/careers/",
+  "ats": [
+   {
+    "ats": "eightfold",
+    "ids": [
+     "aexp"
+    ]
+   }
+  ],
+  "markers": [],
+  "final": "https://www.americanexpress.com/",
+  "pages": [
+   {
+    "url": "https://www.americanexpress.com/en-us/careers/",
+    "final": "https://www.americanexpress.com/en-us/careers/"
+   },
+   {
+    "url": "https://www.americanexpress.com/",
+    "final": "https://www.americanexpress.com/"
+   }
+  ]
+ },
+ {
+  "name": "Expedia Group",
+  "url": "https://expedia.wd5.myworkdayjobs.com/search",
+  "ats": [],
+  "markers": [],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://expedia.wd5.myworkdayjobs.com/search",
+    "error": "HTTP Error 500: Internal Server Error"
+   },
+   {
+    "url": "https://expedia.wd5.myworkdayjobs.com/",
+    "error": "HTTP Error 406: Not Acceptable"
+   }
+  ]
+ },
+ {
+  "name": "Booking.com",
+  "url": "https://jobs.booking.com/booking/jobs",
+  "ats": [
+   {
+    "ats": "icims",
+    "ids": [
+     "employees-holdings-workingatbooking"
+    ]
+   },
+   {
+    "ats": "icims",
+    "ids": [
+     "www"
+    ]
+   },
+   {
+    "ats": "icims",
+    "ids": [
+     "internal-workingatbooking"
+    ]
+   },
+   {
+    "ats": "icims",
+    "ids": [
+     "external-workingatbooking"
+    ]
+   }
+  ],
+  "markers": [],
+  "final": "https://jobs.booking.com/booking/jobs",
+  "pages": [
+   {
+    "url": "https://jobs.booking.com/booking/jobs",
+    "final": "https://jobs.booking.com/booking/jobs"
+   },
+   {
+    "url": "https://jobs.booking.com/",
+    "final": "https://jobs.booking.com/booking/jobs"
+   }
+  ]
+ },
+ {
+  "name": "Uber",
+  "url": "https://www.uber.com/global/en/careers/",
+  "ats": [
+   {
+    "ats": "oracle",
+    "ids": [
+     "iaziqy.fa.ocs.oraclecloud.com",
+     "UberCareers"
+    ]
+   }
+  ],
+  "markers": [],
+  "final": "https://www.uber.com/",
+  "pages": [
+   {
+    "url": "https://www.uber.com/global/en/careers/",
+    "final": "https://jobs.uber.com/en/"
+   },
+   {
+    "url": "https://www.uber.com/",
+    "final": "https://www.uber.com/"
+   }
+  ]
+ },
+ {
+  "name": "Airbnb",
+  "url": "https://careers.airbnb.com/",
+  "ats": [
+   {
+    "ats": "greenhouse",
+    "ids": [
+     "embed"
+    ]
+   }
+  ],
+  "markers": [],
+  "final": "https://careers.airbnb.com/positions/8242459/",
+  "pages": [
+   {
+    "url": "https://careers.airbnb.com/",
+    "final": "https://careers.airbnb.com/"
+   },
+   {
+    "url": "https://careers.airbnb.com/wp-content/themes/airbnb-careers/favicon.ico",
+    "final": "https://careers.airbnb.com/wp-content/themes/airbnb-careers/favicon.ico"
+   },
+   {
+    "url": "https://careers.airbnb.com/life-at-airbnb/",
+    "final": "https://careers.airbnb.com/life-at-airbnb/"
+   },
+   {
+    "url": "https://careers.airbnb.com/positions",
+    "final": "https://careers.airbnb.com/positions/"
+   },
+   {
+    "url": "https://careers.airbnb.com/connect-engineering-apprenticeship/",
+    "final": "https://careers.airbnb.com/connect-engineering-apprenticeship/"
+   },
+   {
+    "url": "https://careers.airbnb.com/internship-programs/",
+    "final": "https://careers.airbnb.com/internship-programs/"
+   },
+   {
+    "url": "https://careers.airbnb.com/customer-supporting-roles/",
+    "final": "https://careers.airbnb.com/customer-supporting-roles/"
+   },
+   {
+    "url": "https://careers.airbnb.com/faq/",
+    "final": "https://careers.airbnb.com/faq/"
+   },
+   {
+    "url": "https://careers.airbnb.com/candidate-privacy/",
+    "final": "https://careers.airbnb.com/candidate-privacy/"
+   },
+   {
+    "url": "https://www.anthem.com/ca/machine-readable-file/search/",
+    "final": "https://www.anthem.com/ca/machine-readable-file/search/"
+   },
+   {
+    "url": "https://careers.airbnb.com/fr/le-quotidien-chez-airbnb/",
+    "final": "https://careers.airbnb.com/fr/le-quotidien-chez-airbnb/"
+   },
+   {
+    "url": "https://careers.airbnb.com/positions/8184174/",
+    "final": "https://careers.airbnb.com/positions/8184174/"
+   },
+   {
+    "url": "https://careers.airbnb.com/positions/7789554/",
+    "final": "https://careers.airbnb.com/positions/7789554/"
+   },
+   {
+    "url": "https://careers.airbnb.com/positions/8231416/",
+    "final": "https://careers.airbnb.com/positions/8231416/"
+   },
+   {
+    "url": "https://careers.airbnb.com/positions/7995153/",
+    "final": "https://careers.airbnb.com/positions/7995153/"
+   },
+   {
+    "url": "https://careers.airbnb.com/positions/8242459/",
+    "final": "https://careers.airbnb.com/positions/8242459/"
+   }
+  ]
+ },
+ {
+  "name": "LinkedIn",
+  "url": "https://careers.linkedin.com/",
+  "ats": [
+   {
+    "ats": "smartrecruiters",
+    "ids": [
+     "LinkedIn3"
+    ]
+   }
+  ],
+  "markers": [
+   "workday_word"
+  ],
+  "final": "https://careers.linkedin.com/diversity-and-inclusion/our-partners",
+  "pages": [
+   {
+    "url": "https://careers.linkedin.com/",
+    "final": "https://careers.linkedin.com/"
+   },
+   {
+    "url": "https://careers.linkedin.com/WhyLinkedIn",
+    "final": "https://careers.linkedin.com/WhyLinkedIn"
+   },
+   {
+    "url": "https://careers.linkedin.com/culture-and-values",
+    "final": "https://careers.linkedin.com/culture-and-values"
+   },
+   {
+    "url": "https://careers.linkedin.com/benefits",
+    "final": "https://careers.linkedin.com/benefits"
+   },
+   {
+    "url": "https://careers.linkedin.com/belonging",
+    "final": "https://careers.linkedin.com/belonging"
+   },
+   {
+    "url": "https://careers.linkedin.com/Locations",
+    "final": "https://careers.linkedin.com/Locations"
+   },
+   {
+    "url": "https://careers.linkedin.com/ResourceLibrary",
+    "final": "https://careers.linkedin.com/ResourceLibrary"
+   },
+   {
+    "url": "https://careers.linkedin.com/pathways-programs",
+    "final": "https://careers.linkedin.com/pathways-programs"
+   },
+   {
+    "url": "https://careers.linkedin.com/pathways-programs/internships",
+    "final": "https://careers.linkedin.com/pathways-programs/internships"
+   },
+   {
+    "url": "https://careers.linkedin.com/pathways-programs/entry-level",
+    "final": "https://careers.linkedin.com/pathways-programs/entry-level"
+   },
+   {
+    "url": "https://static.licdn.com/sc/h/413gphjmquu9edbn2negq413a",
+    "final": "https://static.licdn.com/sc/h/413gphjmquu9edbn2negq413a"
+   },
+   {
+    "url": "https://www.linkedin.com/company/linkedin/jobs/",
+    "final": "https://www.linkedin.com/company/linkedin/jobs/"
+   },
+   {
+    "url": "https://www.linkedin.com/company/linkedin/jobs/?viewAsMember=true",
+    "error": "HTTP Error 999: <none>"
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/linkedin-launches-green-skills-fund-help-jobseekers-gain-brannigan/?trackingId=0eWQCcWnje4oZcjFLgJrqg%3D%3D",
+    "final": "https://www.linkedin.com/pulse/linkedin-launches-green-skills-fund-help-jobseekers-gain-brannigan/?trackingId=0eWQCcWnje4oZcjFLgJrqg%3D%3D"
+   },
+   {
+    "url": "https://www.linkedin.com/business/talent/blog/product-tips/linkedin-members-spotlight-career-breaks-on-profiles",
+    "final": "https://www.linkedin.com/business/talent/blog/product-tips/linkedin-members-spotlight-career-breaks-on-profiles"
+   },
+   {
+    "url": "https://careers.linkedin.com/diversity-and-inclusion/our-partners",
+    "final": "https://careers.linkedin.com/diversity-and-inclusion/our-partners"
+   }
+  ]
+ },
+ {
+  "name": "TikTok",
+  "url": "https://careers.tiktok.com/",
+  "ats": [],
+  "markers": [],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://careers.tiktok.com/",
+    "final": "https://lifeattiktok.com/"
+   },
+   {
+    "url": "https://lf16-tiktok-common.ttwstatic.com/obj/tiktok-web-common-sg/tt-career-site/public/_next/static/css/9c3a882c0009e06d.css",
+    "final": "https://lf16-tiktok-common.ttwstatic.com/obj/tiktok-web-common-sg/tt-career-site/public/_next/static/css/9c3a882c0009e06d.css"
+   },
+   {
+    "url": "https://lifeattiktok.com/teams/usds-jv",
+    "error": "IncompleteRead(104850 bytes read)"
+   },
+   {
+    "url": "https://lifeattiktok.com/earlycareers",
+    "final": "https://lifeattiktok.com/earlycareers"
+   },
+   {
+    "url": "https://lifeattiktok.com/earlycareers/ams",
+    "final": "https://lifeattiktok.com/earlycareers/ams"
+   },
+   {
+    "url": "https://lifeattiktok.com/earlycareers/apac",
+    "final": "https://lifeattiktok.com/earlycareers/apac"
+   },
+   {
+    "url": "https://lifeattiktok.com/earlycareers/emea",
+    "final": "https://lifeattiktok.com/earlycareers/emea"
+   },
+   {
+    "url": "https://lifeattiktok.com/earlycareers/frontiertechprogram",
+    "final": "https://lifeattiktok.com/earlycareers/frontiertechprogram"
+   },
+   {
+    "url": "https://lifeattiktok.com/earlycareers/phd",
+    "error": "IncompleteRead(267073 bytes read)"
+   },
+   {
+    "url": "https://lifeattiktok.com/earlycareers/faq",
+    "error": "IncompleteRead(225885 bytes read)"
+   },
+   {
+    "url": "https://lifeattiktok.com/search",
+    "final": "https://lifeattiktok.com/search"
+   },
+   {
+    "url": "https://careers.tiktok.com/position/application",
+    "final": "https://lifeattiktok.com/position/application"
+   },
+   {
+    "url": "https://lifeattiktok.com/search?recruitment_id_list=202%2C301%2C201&amp;keyword=&amp;limit=12&amp;job_category_id_list=&amp;location_code_list=CT_100762%2CCT_247%2CCT_100764%2CCT_221%2CCT_100747%2CCT_101443%2CCT_94%2CCT_243%2CCT_104%2CCT_114%2CCT_75%2CCT_130%2CCT_157%2CCT_242%2CCT_233%2CCT_1103355%2CCT_103%2CCT_1000001%2CCT_148%2CCT_100769%2CCT_1103348%2CCT_223%2CCT_203&amp;subject_id_list=&amp;offset=0",
+    "error": "HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error messag"
+   },
+   {
+    "url": "https://lifeattiktok.com/search?recruitment_id_list=202%2C301%2C201&amp;keyword=&amp;limit=12&amp;job_category_id_list=&amp;location_code_list=CT_163%2CCT_244%2CCT_169%2CCT_65%2CCT_60%2CCT_97%2CCT_34%2CCT_98%2CCT_134%2CCT_101459%2CCT_1102494%2CCT_1102314%2CCT_101457&amp;subject_id_list=&amp;offset=0",
+    "error": "HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error messag"
+   },
+   {
+    "url": "https://lifeattiktok.com/search?recruitment_id_list=&amp;job_category_id_list=&amp;subject_id_list=7626270100032063797%2C7626270266902989061&amp;location_code_list=CT_163%2CCT_244&amp;keyword=&amp;limit=12&amp;offset=0",
+    "error": "HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error messag"
+   },
+   {
+    "url": "https://lifeattiktok.com/search?recruitment_id_list=202%2C301%2C201&amp;keyword=&amp;limit=12&amp;job_category_id_list=&amp;location_code_list=CT_226%2CCT_204%2CCT_96%2CCT_6%2CCT_100766%2CCT_33%2CCT_37%2CCT_93%2CCT_77%2CCT_206&amp;subject_id_list=&amp;offset=0",
+    "error": "HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error messag"
+   }
+  ]
+ },
+ {
+  "name": "Spotify",
+  "url": "https://www.lifeatspotify.com/jobs",
+  "ats": [
+   {
+    "ats": "lever",
+    "ids": [
+     "spotify"
+    ]
+   }
+  ],
+  "markers": [],
+  "final": "https://research.atspotify.com/research-areas",
+  "pages": [
+   {
+    "url": "https://www.lifeatspotify.com/jobs",
+    "final": "https://www.lifeatspotify.com/jobs"
+   },
+   {
+    "url": "https://www.lifeatspotify.com/",
+    "final": "https://www.lifeatspotify.com/"
+   },
+   {
+    "url": "https://research.atspotify.com/",
+    "final": "https://research.atspotify.com/"
+   },
+   {
+    "url": "https://www.lifeatspotify.com/jobs/senior-product-quality-analyst-ai-voice",
+    "final": "https://www.lifeatspotify.com/jobs/senior-product-quality-analyst-ai-voice"
+   },
+   {
+    "url": "https://www.lifeatspotify.com/find-your-team/job-categories",
+    "final": "https://www.lifeatspotify.com/find-your-team/job-categories"
+   },
+   {
+    "url": "https://research.atspotify.com/images/logo.png",
+    "final": "https://research.atspotify.com/images/logo.png"
+   },
+   {
+    "url": "https://research.atspotify.com/category/search-recommendations",
+    "error": "HTTP Error 500: Internal Server Error"
+   },
+   {
+    "url": "https://research.atspotify.com/publications/robust-fusion-of-semantic-and-behavioural-signals-for-llm-reranking-in-personalised-search",
+    "final": "https://research.atspotify.com/publications/robust-fusion-of-semantic-and-behavioural-signals-for-llm-reranking-in-personalised-search"
+   },
+   {
+    "url": "https://research.atspotify.com/jobs",
+    "final": "https://research.atspotify.com/jobs"
+   },
+   {
+    "url": "https://research.atspotify.com/research-areas",
+    "final": "https://research.atspotify.com/research-areas"
+   }
+  ]
+ },
+ {
+  "name": "Klarna",
+  "url": "https://www.klarna.com/careers/",
+  "ats": [],
+  "markers": [],
+  "final": "https://www.klarna.com/",
+  "pages": [
+   {
+    "url": "https://www.klarna.com/careers/",
+    "final": "https://www.klarna.com/careers/"
+   },
+   {
+    "url": "https://www.klarna.com/",
+    "final": "https://www.klarna.com/"
+   }
+  ]
+ },
+ {
+  "name": "King",
+  "url": "https://careers.king.com/",
+  "ats": [
+   {
+    "ats": "eightfold",
+    "ids": [
+     "activision"
+    ]
+   }
+  ],
+  "markers": [
+   "phenom"
+  ],
+  "final": "https://careers.king.com/us/en",
+  "pages": [
+   {
+    "url": "https://careers.king.com/",
+    "final": "https://careers.king.com/us/en"
+   }
+  ]
+ },
+ {
+  "name": "Zalando",
+  "url": "https://jobs.zalando.com/en/",
+  "ats": [],
+  "markers": [
+   "workday_word"
+  ],
+  "final": "https://jobs.zalando.com/en/what-we-do/customer-care",
+  "pages": [
+   {
+    "url": "https://jobs.zalando.com/en/",
+    "final": "https://jobs.zalando.com/en"
+   },
+   {
+    "url": "https://jobs.zalando.com/",
+    "final": "https://jobs.zalando.com/en"
+   },
+   {
+    "url": "https://jobs.zalando.com/images/logos/Zalando_Wordmark_Black.svg",
+    "final": "https://jobs.zalando.com/images/logos/Zalando_Wordmark_Black.svg"
+   },
+   {
+    "url": "https://jobs.zalando.com/en/jobs",
+    "final": "https://jobs.zalando.com/en/jobs"
+   },
+   {
+    "url": "https://jobs.zalando.com/en",
+    "final": "https://jobs.zalando.com/en"
+   },
+   {
+    "url": "https://jobs.zalando.com/en/what-we-do/early-careers",
+    "final": "https://jobs.zalando.com/en/what-we-do/early-careers"
+   },
+   {
+    "url": "https://jobs.zalando.com/en/what-we-do",
+    "final": "https://jobs.zalando.com/en/what-we-do"
+   },
+   {
+    "url": "https://jobs.zalando.com/de/jobs",
+    "final": "https://jobs.zalando.com/de/jobs"
+   },
+   {
+    "url": "https://jobs.zalando.com/en/jobs/2725806-Senior-Manager%2C-(Indirect)-Tax-Compliance-and-Stra",
+    "final": "https://jobs.zalando.com/en/jobs/2725806-Senior-Manager%2C-(Indirect)-Tax-Compliance-and-Stra"
+   },
+   {
+    "url": "https://jobs.zalando.com/en/jobs/2725822-Prozessmanager-(all-genders)-Warehouse-Operations-",
+    "final": "https://jobs.zalando.com/en/jobs/2725822-Prozessmanager-(all-genders)-Warehouse-Operations-"
+   },
+   {
+    "url": "https://jobs.zalando.com/en/jobs/2725795-Senior-Principal-Applied-Scientist-(all-genders)",
+    "final": "https://jobs.zalando.com/en/jobs/2725795-Senior-Principal-Applied-Scientist-(all-genders)"
+   },
+   {
+    "url": "https://jobs.zalando.com/en/jobs/2725974-Senior-Applied-Scientist---Warehouse-Fulfillment-Q",
+    "final": "https://jobs.zalando.com/en/jobs/2725974-Senior-Applied-Scientist---Warehouse-Fulfillment-Q"
+   },
+   {
+    "url": "https://jobs.zalando.com/de/what-we-do/early-careers",
+    "final": "https://jobs.zalando.com/de/what-we-do/early-careers"
+   },
+   {
+    "url": "https://jobs.zalando.com/en/what-we-do/applied-science-and-research",
+    "final": "https://jobs.zalando.com/en/what-we-do/applied-science-and-research"
+   },
+   {
+    "url": "https://jobs.zalando.com/en/what-we-do/buying-and-merchandising",
+    "final": "https://jobs.zalando.com/en/what-we-do/buying-and-merchandising"
+   },
+   {
+    "url": "https://jobs.zalando.com/en/what-we-do/customer-care",
+    "final": "https://jobs.zalando.com/en/what-we-do/customer-care"
+   }
+  ]
+ },
+ {
+  "name": "Deliveroo",
+  "url": "https://careers.deliveroo.co.uk/",
+  "ats": [],
+  "markers": [],
+  "final": "https://careers.deliveroo.co.uk/interview-guide-for-engineers/",
+  "pages": [
+   {
+    "url": "https://careers.deliveroo.co.uk/",
+    "final": "https://careers.deliveroo.co.uk/"
+   },
+   {
+    "url": "https://careers.deliveroo.co.uk/app/themes/deliveroo-careers/assets/favicon/apple-touch-icon.png",
+    "final": "https://careers.deliveroo.co.uk/app/themes/deliveroo-careers/assets/favicon/apple-touch-icon.png"
+   },
+   {
+    "url": "https://careers.deliveroo.co.uk",
+    "final": "https://careers.deliveroo.co.uk"
+   },
+   {
+    "url": "https://deliveroo.co.uk/?utm_source=careers-site",
+    "final": "https://deliveroo.co.uk/?utm_source=careers-site"
+   },
+   {
+    "url": "https://riders.deliveroo.co.uk/en/apply",
+    "final": "https://rider.deliveroo.co.uk/apply"
+   },
+   {
+    "url": "https://careers.deliveroo.co.uk/our-values/",
+    "final": "https://careers.deliveroo.co.uk/our-values/"
+   },
+   {
+    "url": "https://careers.deliveroo.co.uk/diversity-equity-inclusion/",
+    "final": "https://careers.deliveroo.co.uk/diversity-equity-inclusion/"
+   },
+   {
+    "url": "https://careers.deliveroo.co.uk/community-sustainability/",
+    "final": "https://careers.deliveroo.co.uk/community-sustainability/"
+   },
+   {
+    "url": "https://careers.deliveroo.co.uk/career-possibilities/",
+    "final": "https://careers.deliveroo.co.uk/career-possibilities/"
+   },
+   {
+    "url": "https://careers.deliveroo.co.uk/rewards-and-benefits/",
+    "final": "https://careers.deliveroo.co.uk/rewards-and-benefits/"
+   },
+   {
+    "url": "https://careers.deliveroo.co.uk/teams/",
+    "final": "https://careers.deliveroo.co.uk/teams/"
+   },
+   {
+    "url": "https://deliveroo.co.uk/app/?utm_source=careers-site&amp;platform=ios&amp;home_page=true&amp;home_page_variant=homepage_variant_d&amp;mobile_banner=false&amp;af_dp=deliveroo%3A%2F%2Frestaurants&amp;deep_link_value=deliveroo%3A%2F%2Frestaurants",
+    "final": "https://deliveroo.co.uk/app-download?af_web_dp=https%3A%2F%2Fdeliveroo.co.uk%2Fen%2Fapp%3Fdesktop%3D1"
+   },
+   {
+    "url": "https://deliveroo.co.uk/app/?utm_source=careers-site&amp;platform=android&amp;home_page=true&amp;home_page_variant=homepage_variant_d&amp;mobile_banner=false&amp;af_dp=deliveroo%3A%2F%2Frestaurants&amp;deep_link_value=deliveroo%3A%2F%2Frestaurants",
+    "final": "https://deliveroo.co.uk/app-download?af_web_dp=https%3A%2F%2Fdeliveroo.co.uk%2Fen%2Fapp%3Fdesktop%3D1"
+   },
+   {
+    "url": "https://careers.deliveroo.co.uk/locations/",
+    "final": "https://careers.deliveroo.co.uk/locations/"
+   },
+   {
+    "url": "https://careers.deliveroo.co.uk/how-we-hire/",
+    "final": "https://careers.deliveroo.co.uk/how-we-hire/"
+   },
+   {
+    "url": "https://careers.deliveroo.co.uk/interview-guide-for-engineers/",
+    "final": "https://careers.deliveroo.co.uk/interview-guide-for-engineers/"
+   }
+  ]
+ },
+ {
+  "name": "Wise",
+  "url": "https://wise.jobs/",
+  "ats": [],
+  "markers": [
+   "workday_word"
+  ],
+  "final": "https://wise.jobs/jobs",
+  "pages": [
+   {
+    "url": "https://wise.jobs/",
+    "final": "https://wise.jobs/"
+   },
+   {
+    "url": "https://attraxcdnprod1-freshed3dgayb7c3.z01.azurefd.net/1481206/dd8bf376-7a75-43b5-8223-2248b4dcd27d/2023.17000.2078-cdn/Blob/favicon.ico",
+    "final": "https://attraxcdnprod1-freshed3dgayb7c3.z01.azurefd.net/1481206/dd8bf376-7a75-43b5-8223-2248b4dcd27d/2023.17000.2078-cdn/Blob/favicon.ico"
+   },
+   {
+    "url": "https://wise.jobs/job/fincrime-operations-senior-analyst-rfi-in-sao-paulo-jid-4344",
+    "final": "https://wise.jobs/job/fincrime-operations-senior-analyst-rfi-in-sao-paulo-jid-4344"
+   },
+   {
+    "url": "https://wise.jobs/job/senior-finance-manager-in-sao-paulo-jid-3842",
+    "final": "https://wise.jobs/job/senior-finance-manager-in-sao-paulo-jid-3842"
+   },
+   {
+    "url": "https://wise.jobs/job/senior-ios-engineer-ii-account-mobile-in-london-jid-3903",
+    "final": "https://wise.jobs/job/senior-ios-engineer-ii-account-mobile-in-london-jid-3903"
+   },
+   {
+    "url": "https://wise.jobs/job/senior-staff-product-engineer-risk-and-control-governance-in-london-jid-4099",
+    "final": "https://wise.jobs/job/senior-staff-product-engineer-risk-and-control-governance-in-london-jid-4099"
+   },
+   {
+    "url": "https://wise.jobs/job/fullstack-engineer-treasury-money-movement-in-tallinn-jid-3968",
+    "final": "https://wise.jobs/job/fullstack-engineer-treasury-money-movement-in-tallinn-jid-3968"
+   },
+   {
+    "url": "https://wise.jobs/job/senior-software-engineer-i-risk-control-and-governance-in-london-jid-4209",
+    "final": "https://wise.jobs/job/senior-software-engineer-i-risk-control-and-governance-in-london-jid-4209"
+   },
+   {
+    "url": "https://wise.jobs/job/senior-software-engineer-global-kyc-and-onboarding-in-london-jid-4038",
+    "final": "https://wise.jobs/job/senior-software-engineer-global-kyc-and-onboarding-in-london-jid-4038"
+   },
+   {
+    "url": "https://wise.jobs/Workflow?workflowId=e845dd41-c192-48c4-80f2-85eafdf6039b&amp;vacancyId=4344",
+    "error": "HTTP Error 500: Internal Server Error"
+   },
+   {
+    "url": "https://wise.jobs/our-mission",
+    "final": "https://wise.jobs/our-mission"
+   },
+   {
+    "url": "https://wise.jobs/what-we-offer",
+    "final": "https://wise.jobs/what-we-offer"
+   },
+   {
+    "url": "https://www.wise.jobs/",
+    "final": "https://wise.jobs/"
+   },
+   {
+    "url": "https://www.instagram.com/wisecareers/",
+    "final": "https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fwisecareers%2F&is_from_rle"
+   },
+   {
+    "url": "https://wise.jobs/EmailToFriend?id=4344&amp;pagetype=job",
+    "error": "HTTP Error 404: Not Found"
+   },
+   {
+    "url": "https://wise.jobs/jobs",
+    "final": "https://wise.jobs/jobs"
+   }
+  ]
+ },
+ {
+  "name": "Revolut",
+  "url": "https://www.revolut.com/careers/",
+  "ats": [],
+  "markers": [],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://www.revolut.com/careers/",
+    "error": "HTTP Error 403: Forbidden"
+   },
+   {
+    "url": "https://www.revolut.com/",
+    "error": "HTTP Error 403: Forbidden"
+   }
+  ]
+ },
+ {
+  "name": "Monzo",
+  "url": "https://monzo.com/careers",
+  "ats": [
+   {
+    "ats": "greenhouse",
+    "ids": [
+     "monzo"
+    ]
+   }
+  ],
+  "markers": [],
+  "final": "https://monzo.com/",
+  "pages": [
+   {
+    "url": "https://monzo.com/careers",
+    "final": "https://monzo.com/careers"
+   },
+   {
+    "url": "https://monzo.com/",
+    "final": "https://monzo.com/"
+   }
+  ]
+ },
+ {
+  "name": "Pfizer",
+  "url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers",
+  "ats": [
+   {
+    "ats": "workday",
+    "ids": [
+     "pfizer",
+     "wd1",
+     "PfizerCareers"
+    ]
+   }
+  ],
+  "markers": [
+   "workday_word"
+  ],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers",
+    "final": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers"
+   },
+   {
+    "url": "https://pfizer.wd1.myworkdayjobs.com/",
+    "error": "HTTP Error 406: Not Acceptable"
+   }
+  ]
+ },
+ {
+  "name": "Johnson & Johnson",
+  "url": "https://www.careers.jnj.com/",
+  "ats": [
+   {
+    "ats": "workday",
+    "ids": [
+     "jj",
+     "wd5",
+     "JJ"
+    ]
+   }
+  ],
+  "markers": [
+   "workday_word"
+  ],
+  "final": "https://www.careers.jnj.com/en/",
+  "pages": [
+   {
+    "url": "https://www.careers.jnj.com/",
+    "final": "https://www.careers.jnj.com/en/"
+   }
+  ]
+ },
+ {
+  "name": "Novartis",
+  "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers",
+  "ats": [
+   {
+    "ats": "workday",
+    "ids": [
+     "novartis",
+     "wd3",
+     "Novartis_Careers"
+    ]
+   }
+  ],
+  "markers": [
+   "workday_word"
+  ],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers",
+    "final": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers"
+   },
+   {
+    "url": "https://novartis.wd3.myworkdayjobs.com/",
+    "error": "HTTP Error 406: Not Acceptable"
+   }
+  ]
+ },
+ {
+  "name": "Sanofi",
+  "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers",
+  "ats": [
+   {
+    "ats": "workday",
+    "ids": [
+     "sanofi",
+     "wd3",
+     "SanofiCareers"
+    ]
+   }
+  ],
+  "markers": [
+   "workday_word"
+  ],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers",
+    "final": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers"
+   },
+   {
+    "url": "https://sanofi.wd3.myworkdayjobs.com/",
+    "error": "HTTP Error 406: Not Acceptable"
+   }
+  ]
+ },
+ {
+  "name": "Takeda",
+  "url": "https://takeda.wd3.myworkdayjobs.com/External",
+  "ats": [],
+  "markers": [],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://takeda.wd3.myworkdayjobs.com/External",
+    "error": "HTTP Error 500: Internal Server Error"
+   },
+   {
+    "url": "https://takeda.wd3.myworkdayjobs.com/",
+    "error": "HTTP Error 406: Not Acceptable"
+   }
+  ]
+ },
+ {
+  "name": "Bristol Myers Squibb",
+  "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS",
+  "ats": [
+   {
+    "ats": "workday",
+    "ids": [
+     "bristolmyerssquibb",
+     "wd5",
+     "BMS"
+    ]
+   }
+  ],
+  "markers": [
+   "workday_word"
+  ],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS",
+    "final": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS"
+   },
+   {
+    "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/",
+    "error": "HTTP Error 406: Not Acceptable"
+   }
+  ]
+ },
+ {
+  "name": "Abbott",
+  "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers",
+  "ats": [
+   {
+    "ats": "workday",
+    "ids": [
+     "abbott",
+     "wd5",
+     "abbottcareers"
+    ]
+   }
+  ],
+  "markers": [
+   "workday_word"
+  ],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers",
+    "final": "https://abbott.wd5.myworkdayjobs.com/abbottcareers"
+   },
+   {
+    "url": "https://abbott.wd5.myworkdayjobs.com/",
+    "error": "HTTP Error 406: Not Acceptable"
+   }
+  ]
+ },
+ {
+  "name": "Medtronic",
+  "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers",
+  "ats": [
+   {
+    "ats": "workday",
+    "ids": [
+     "medtronic",
+     "wd1",
+     "MedtronicCareers"
+    ]
+   }
+  ],
+  "markers": [
+   "workday_word"
+  ],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers",
+    "final": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers"
+   },
+   {
+    "url": "https://medtronic.wd1.myworkdayjobs.com/",
+    "error": "HTTP Error 406: Not Acceptable"
+   }
+  ]
+ },
+ {
+  "name": "Thermo Fisher Scientific",
+  "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers",
+  "ats": [
+   {
+    "ats": "workday",
+    "ids": [
+     "thermofisher",
+     "wd5",
+     "ThermoFisherCareers"
+    ]
+   }
+  ],
+  "markers": [
+   "workday_word"
+  ],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers",
+    "final": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers"
+   },
+   {
+    "url": "https://thermofisher.wd5.myworkdayjobs.com/",
+    "error": "HTTP Error 406: Not Acceptable"
+   }
+  ]
+ },
+ {
+  "name": "MSD",
+  "url": "https://jobs.msd.com/",
+  "ats": [
+   {
+    "ats": "workday",
+    "ids": [
+     "msd",
+     "wd5",
+     "SearchJobs"
+    ]
+   }
+  ],
+  "markers": [
+   "phenom",
+   "workday_word"
+  ],
+  "final": "https://jobs.msd.com/gb/en",
+  "pages": [
+   {
+    "url": "https://jobs.msd.com/",
+    "final": "https://jobs.msd.com/gb/en"
+   }
+  ]
+ },
+ {
+  "name": "Roche",
+  "url": "https://careers.roche.com/",
+  "ats": [
+   {
+    "ats": "workday",
+    "ids": [
+     "roche",
+     "wd3",
+     "roche-ext"
+    ]
+   }
+  ],
+  "markers": [
+   "phenom",
+   "workday_word"
+  ],
+  "final": "https://careers.roche.com/global/en/digital-technology-jobs",
+  "pages": [
+   {
+    "url": "https://careers.roche.com/",
+    "final": "https://careers.roche.com/global/en"
+   },
+   {
+    "url": "https://cdn.phenompeople.com/CareerConnectResources/common/js/globalplatform/1781270809227_globalstyles.css",
+    "final": "https://cdn.phenompeople.com/CareerConnectResources/common/js/globalplatform/1781270809227_globalstyles.css"
+   },
+   {
+    "url": "https://careers.roche.com/global/en/area-of-expertise",
+    "final": "https://careers.roche.com/global/en/area-of-expertise"
+   },
+   {
+    "url": "https://careers.roche.com/global/en/why-join-us",
+    "final": "https://careers.roche.com/global/en/why-join-us"
+   },
+   {
+    "url": "https://careers.roche.com/global/en/student-and-graduate-programs",
+    "final": "https://careers.roche.com/global/en/student-and-graduate-programs"
+   },
+   {
+    "url": "https://careers.roche.com/global/en/we-are-roche",
+    "final": "https://careers.roche.com/global/en/we-are-roche"
+   },
+   {
+    "url": "https://careers.roche.com/global/Cw4WUu-h7mOXS-ph-media-large-testimonial-left-cc-slider-view3-option2-savedView-1737640858316-savedView-1712740670391-savedView-1705941913723-savedView-1683556377199-savedView-1625669156963-savedView-1624965674900-primary-link-href",
+    "final": "https://careers.roche.com/global/en"
+   },
+   {
+    "url": "https://careers.roche.com/global/Cw4WUu-4Fi0b2-ph-media-large-testimonial-left-cc-slider-view3-option2-savedView-1737640858316-savedView-1712740670391-savedView-1705941913723-savedView-1683556377199-savedView-1625669156963-savedView-1624965674900-primary-link-href",
+    "final": "https://careers.roche.com/global/en"
+   },
+   {
+    "url": "https://careers.roche.com/global/Cw4WUu-34cm5T-ph-media-large-testimonial-left-cc-slider-view3-option2-savedView-1737640858316-savedView-1712740670391-savedView-1705941913723-savedView-1683556377199-savedView-1625669156963-savedView-1624965674900-primary-link-href",
+    "final": "https://careers.roche.com/global/en"
+   },
+   {
+    "url": "https://careers.roche.com/global/en/jobs-at-roche",
+    "final": "https://careers.roche.com/global/en/jobs-at-roche"
+   },
+   {
+    "url": "https://careers.roche.com/global/en/c/research-development-jobs",
+    "final": "https://careers.roche.com/global/en/c/research-development-jobs"
+   },
+   {
+    "url": "https://careers.roche.com/global/en/c/people-culture-jobs",
+    "final": "https://careers.roche.com/global/en/c/people-culture-jobs"
+   },
+   {
+    "url": "https://careers.roche.com/global/en/manufacturing-supply-jobs",
+    "final": "https://careers.roche.com/global/en/manufacturing-supply-jobs"
+   },
+   {
+    "url": "https://careers.roche.com/global/en/c/engineering-jobs",
+    "final": "https://careers.roche.com/global/en/c/engineering-jobs"
+   },
+   {
+    "url": "https://careers.roche.com/global/en/tech4life",
+    "final": "https://careers.roche.com/global/en/tech4life"
+   },
+   {
+    "url": "https://careers.roche.com/global/en/digital-technology-jobs",
+    "final": "https://careers.roche.com/global/en/digital-technology-jobs"
+   }
+  ]
+ },
+ {
+  "name": "Novo Nordisk",
+  "url": "https://www.novonordisk.com/careers.html",
+  "ats": [
+   {
+    "ats": "successfactors",
+    "ids": [
+     "career2.successfactors.eu",
+     "novonordisk"
+    ]
+   }
+  ],
+  "markers": [],
+  "final": "https://www.novonordisk.com/etc.clientlibs/nncorp/components/content/search/clientlibs/clientlib-search.lc-cc0090590efba473d0a1f6115bf17b1b-lc.min.css",
+  "pages": [
+   {
+    "url": "https://www.novonordisk.com/careers.html",
+    "final": "https://www.novonordisk.com/careers.html"
+   },
+   {
+    "url": "https://www.novonordisk.com/",
+    "final": "https://www.novonordisk.com/"
+   },
+   {
+    "url": "https://www.novonordisk.com/search.html",
+    "final": "https://www.novonordisk.com/search.html"
+   },
+   {
+    "url": "https://www.novonordisk.com/etc.clientlibs/nncorp/components/content/navigationlandingpage/clientlib.lc-4e4517d42ce5cf8cd4d5271de17d6781-lc.min.css",
+    "final": "https://www.novonordisk.com/etc.clientlibs/nncorp/components/content/navigationlandingpage/clientlib.lc-4e4517d42ce5cf8cd4d5271de17d6781-lc.min.css"
+   },
+   {
+    "url": "https://www.novonordisk.com/careers/find-a-job.html",
+    "final": "https://www.novonordisk.com/careers/find-a-job.html"
+   },
+   {
+    "url": "https://www.novonordisk.com/careers/job-agent.html",
+    "final": "https://www.novonordisk.com/careers/job-agent.html"
+   },
+   {
+    "url": "https://www.novonordisk.com/careers/early-career-programmes.html",
+    "final": "https://www.novonordisk.com/careers/early-career-programmes.html"
+   },
+   {
+    "url": "https://www.novonordisk.com/careers/career-areas.html",
+    "final": "https://www.novonordisk.com/careers/career-areas.html"
+   },
+   {
+    "url": "https://www.novonordisk.com/careers/our-recruitment-process.html",
+    "final": "https://www.novonordisk.com/careers/our-recruitment-process.html"
+   },
+   {
+    "url": "https://www.novonordisk.com/careers/notice-on-recruitment-fraud.html",
+    "final": "https://www.novonordisk.com/careers/notice-on-recruitment-fraud.html"
+   },
+   {
+    "url": "https://www.novonordisk.com/sustainable-business/esg-portal/principles-positions-and-policies/falsified-medicines-position.html",
+    "final": "https://www.novonordisk.com/sustainable-business/esg-portal/principles-positions-and-policies/falsified-medicines-position.html"
+   },
+   {
+    "url": "https://www.novonordisk.com/sustainable-business/esg-portal/principles-positions-and-policies/illicit-compounding-position.html",
+    "final": "https://www.novonordisk.com/sustainable-business/esg-portal/principles-positions-and-policies/illicit-compounding-position.html"
+   },
+   {
+    "url": "https://www.novonordisk.com/etc.clientlibs/nncorp/components/content/search/clientlibs/clientlib-search.lc-cc0090590efba473d0a1f6115bf17b1b-lc.min.css",
+    "final": "https://www.novonordisk.com/etc.clientlibs/nncorp/components/content/search/clientlibs/clientlib-search.lc-cc0090590efba473d0a1f6115bf17b1b-lc.min.css"
+   }
+  ]
+ },
+ {
+  "name": "Kenvue",
+  "url": "https://kenvue.wd1.myworkdayjobs.com/KenvueCareers",
+  "ats": [],
+  "markers": [],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://kenvue.wd1.myworkdayjobs.com/KenvueCareers",
+    "error": "HTTP Error 500: Internal Server Error"
+   },
+   {
+    "url": "https://kenvue.wd1.myworkdayjobs.com/",
+    "error": "HTTP Error 406: Not Acceptable"
+   }
+  ]
+ },
+ {
+  "name": "Philips",
+  "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers",
+  "ats": [
+   {
+    "ats": "workday",
+    "ids": [
+     "philips",
+     "wd3",
+     "jobs-and-careers"
+    ]
+   }
+  ],
+  "markers": [
+   "workday_word"
+  ],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers",
+    "final": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers"
+   },
+   {
+    "url": "https://philips.wd3.myworkdayjobs.com/",
+    "error": "HTTP Error 406: Not Acceptable"
+   }
+  ]
+ },
+ {
+  "name": "Siemens",
+  "url": "https://jobs.siemens.com/",
+  "ats": [],
+  "markers": [],
+  "final": "https://jobs.siemens.com/pt_PT/externaljobs/Home",
+  "pages": [
+   {
+    "url": "https://jobs.siemens.com/",
+    "final": "https://jobs.siemens.com/en_US/externaljobs"
+   },
+   {
+    "url": "https://jobs.siemens.com/ASSET/portal/jquery/UI/1.13.2/jquery-ui.min.css?version=10.84.113-stable",
+    "final": "https://jobs.siemens.com/ASSET/portal/jquery/UI/1.13.2/jquery-ui.min.css?version=10.84.113-stable"
+   },
+   {
+    "url": "https://jobs.siemens.com/en_US/externaljobs",
+    "final": "https://jobs.siemens.com/en_US/externaljobs"
+   },
+   {
+    "url": "https://jobs.siemens.com/en_US/externaljobs/Home",
+    "final": "https://jobs.siemens.com/en_US/externaljobs/Home"
+   },
+   {
+    "url": "https://jobs.siemens.com/en_US/externaljobs/SearchJobs",
+    "final": "https://jobs.siemens.com/en_US/externaljobs/SearchJobs"
+   },
+   {
+    "url": "https://jobs.siemens.com/en_US/externaljobs/AIRecommendations",
+    "final": "https://jobs.siemens.com/en_US/externaljobs/RecommendationMethods"
+   },
+   {
+    "url": "https://www.siemens.com/global/en/company/jobs/faq.html",
+    "final": "https://www.siemens.com/en-us/company/jobs/faq/"
+   },
+   {
+    "url": "https://jobs.siemens.com/de_DE/externaljobs",
+    "final": "https://jobs.siemens.com/de_DE/externaljobs"
+   },
+   {
+    "url": "https://jobs.siemens.com/es_ES/externaljobs",
+    "final": "https://jobs.siemens.com/es_ES/externaljobs"
+   },
+   {
+    "url": "https://jobs.siemens.com/fr_FR/externaljobs",
+    "final": "https://jobs.siemens.com/fr_FR/externaljobs"
+   },
+   {
+    "url": "https://jobs.siemens.com/nl_NL/externaljobs",
+    "final": "https://jobs.siemens.com/nl_NL/externaljobs"
+   },
+   {
+    "url": "https://jobs.siemens.com/de_DE/externaljobs/Home",
+    "final": "https://jobs.siemens.com/de_DE/externaljobs/Home"
+   },
+   {
+    "url": "https://jobs.siemens.com/es_ES/externaljobs/Home",
+    "final": "https://jobs.siemens.com/es_ES/externaljobs/Home"
+   },
+   {
+    "url": "https://jobs.siemens.com/fr_FR/externaljobs/Home",
+    "final": "https://jobs.siemens.com/fr_FR/externaljobs/Home"
+   },
+   {
+    "url": "https://jobs.siemens.com/nl_NL/externaljobs/Home",
+    "final": "https://jobs.siemens.com/nl_NL/externaljobs/Home"
+   },
+   {
+    "url": "https://jobs.siemens.com/pt_PT/externaljobs/Home",
+    "final": "https://jobs.siemens.com/pt_PT/externaljobs/Home"
+   }
+  ]
+ },
+ {
+  "name": "Siemens Healthineers",
+  "url": "https://jobs.siemens-healthineers.com/",
+  "ats": [
+   {
+    "ats": "workday",
+    "ids": [
+     "onehealthineers",
+     "wd3",
+     "SHSJB"
+    ]
+   }
+  ],
+  "markers": [
+   "phenom",
+   "workday_word"
+  ],
+  "final": "https://careers.siemens-healthineers.com/global/en/emailpersonalinfo",
+  "pages": [
+   {
+    "url": "https://jobs.siemens-healthineers.com/",
+    "final": "https://careers.siemens-healthineers.com/global/en"
+   },
+   {
+    "url": "https://cdn.phenompeople.com/CareerConnectResources/common/js/globalplatform/1781270809227_globalstyles.css",
+    "final": "https://cdn.phenompeople.com/CareerConnectResources/common/js/globalplatform/1781270809227_globalstyles.css"
+   },
+   {
+    "url": "https://careers.siemens-healthineers.com/global/en/home",
+    "final": "https://careers.siemens-healthineers.com/global/en/home"
+   },
+   {
+    "url": "https://careers.siemens-healthineers.com/global/en/radiopharma-jobs",
+    "final": "https://careers.siemens-healthineers.com/global/en/radiopharma-jobs"
+   },
+   {
+    "url": "https://careers.siemens-healthineers.com/global/en/c/clinical-jobs",
+    "final": "https://careers.siemens-healthineers.com/global/en/c/clinical-jobs"
+   },
+   {
+    "url": "https://careers.siemens-healthineers.com/global/en/c/manufacturing-jobs",
+    "final": "https://careers.siemens-healthineers.com/global/en/c/manufacturing-jobs"
+   },
+   {
+    "url": "https://careers.siemens-healthineers.com/global/en/jointalentcommunity",
+    "final": "https://careers.siemens-healthineers.com/global/en/jointalentcommunity"
+   },
+   {
+    "url": "https://www.siemens-healthineers.com/en-us/careers/accommodation-for-disability",
+    "final": "https://www.siemens-healthineers.com/en-us/careers/accommodation-for-disability"
+   },
+   {
+    "url": "https://careers.siemens-healthineers.com/global/en/cookiesettings",
+    "final": "https://careers.siemens-healthineers.com/global/en/cookiesettings"
+   },
+   {
+    "url": "https://careers.siemens-healthineers.com/global/en/emailpersonalinfo",
+    "final": "https://careers.siemens-healthineers.com/global/en/emailpersonalinfo"
+   }
+  ]
+ },
+ {
+  "name": "Schneider Electric",
+  "url": "https://careers.se.com/",
+  "ats": [
+   {
+    "ats": "icims",
+    "ids": [
+     "www"
+    ]
+   },
+   {
+    "ats": "icims",
+    "ids": [
+     "careers-se"
+    ]
+   },
+   {
+    "ats": "taleo",
+    "ids": [
+     "schneiderele"
+    ]
+   }
+  ],
+  "markers": [],
+  "final": "https://careers.se.com/life-at-schneider",
+  "pages": [
+   {
+    "url": "https://careers.se.com/",
+    "final": "https://careers.se.com/life-at-schneider"
+   }
+  ]
+ },
+ {
+  "name": "Honeywell",
+  "url": "https://careers.honeywell.com/",
+  "ats": [
+   {
+    "ats": "oracle",
+    "ids": [
+     "ibqbjb.fa.ocs.oraclecloud.com",
+     "Honeywell"
+    ]
+   }
+  ],
+  "markers": [
+   "phenom"
+  ],
+  "final": "https://careers.honeywell.com/en/sites/Honeywell/pages/manage-cookies",
+  "pages": [
+   {
+    "url": "https://careers.honeywell.com/",
+    "final": "https://careers.honeywell.com/en/sites/Honeywell"
+   },
+   {
+    "url": "https://careers.honeywell.com/en/sites/Honeywell",
+    "final": "https://careers.honeywell.com/en/sites/Honeywell"
+   },
+   {
+    "url": "https://careers.honeywell.com/en/sites/HoneywellCareerSite/my-profile/sign-in",
+    "final": "https://careers.honeywell.com/en/sites/Honeywell/my-profile/sign-in"
+   },
+   {
+    "url": "https://www.honeywell.com/us/en/careers",
+    "final": "https://www.honeywell.com/us/en/careers"
+   },
+   {
+    "url": "https://www.honeywell.com/us/en/careers/life-at-honeywell",
+    "final": "https://www.honeywell.com/us/en/careers/life-at-honeywell"
+   },
+   {
+    "url": "https://www.honeywell.com/us/en/careers/your-career-journey",
+    "final": "https://www.honeywell.com/us/en/careers/your-career-journey"
+   },
+   {
+    "url": "https://www.honeywell.com/us/en/careers/community",
+    "final": "https://www.honeywell.com/us/en/careers/community"
+   },
+   {
+    "url": "https://www.honeywell.com/us/en/careers/locations",
+    "final": "https://www.honeywell.com/us/en/careers/locations"
+   },
+   {
+    "url": "https://www.honeywell.com/us/en/careers/meet-our-people",
+    "final": "https://www.honeywell.com/us/en/careers/meet-our-people"
+   },
+   {
+    "url": "https://careers.honeywell.com/en/sites/honeywellCareerSite/pages/recruitment-fraud",
+    "final": "https://careers.honeywell.com/en/sites/Honeywell/pages/recruitment-fraud"
+   },
+   {
+    "url": "https://careers.honeywell.com/en/sites/honeywellCareerSite/pages/manage-cookies",
+    "final": "https://careers.honeywell.com/en/sites/Honeywell/pages/manage-cookies"
+   }
+  ]
+ },
+ {
+  "name": "3M",
+  "url": "https://3m.wd1.myworkdayjobs.com/Search",
+  "ats": [
+   {
+    "ats": "workday",
+    "ids": [
+     "3m",
+     "wd1",
+     "Search"
+    ]
+   }
+  ],
+  "markers": [
+   "workday_word"
+  ],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://3m.wd1.myworkdayjobs.com/Search",
+    "final": "https://3m.wd1.myworkdayjobs.com/Search"
+   },
+   {
+    "url": "https://3m.wd1.myworkdayjobs.com/",
+    "error": "HTTP Error 406: Not Acceptable"
+   }
+  ]
+ },
+ {
+  "name": "GE Vernova",
+  "url": "https://careers.gevernova.com/",
+  "ats": [
+   {
+    "ats": "workday",
+    "ids": [
+     "gevernova",
+     "wd5",
+     "Vernova_ExternalSite"
+    ]
+   }
+  ],
+  "markers": [
+   "workday_word"
+  ],
+  "final": "https://careers.gevernova.com/",
+  "pages": [
+   {
+    "url": "https://careers.gevernova.com/",
+    "final": "https://careers.gevernova.com/"
+   }
+  ]
+ },
+ {
+  "name": "Procter & Gamble",
+  "url": "https://www.pgcareers.com/",
+  "ats": [],
+  "markers": [
+   "phenom"
+  ],
+  "final": "https://www.pgcareers.com/us/en",
+  "pages": [
+   {
+    "url": "https://www.pgcareers.com/",
+    "final": "https://www.pgcareers.com/us/en"
+   },
+   {
+    "url": "https://cdn.phenompeople.com/CareerConnectResources/common/js/globalplatform/1781270809227_globalstyles.css",
+    "final": "https://cdn.phenompeople.com/CareerConnectResources/common/js/globalplatform/1781270809227_globalstyles.css"
+   },
+   {
+    "url": "https://www.pgcareers.com/us/en",
+    "final": "https://www.pgcareers.com/us/en"
+   },
+   {
+    "url": "https://www.pgcareers.com/us/E6lawV-8YQWKN-ph-media-cc-slider-view1-option14-savedView-1742949434021-savedView-1739893457199-savedView-1730395286630-primary-link-href-XaP02i",
+    "final": "https://www.pgcareers.com/us/en"
+   },
+   {
+    "url": "https://www.pgcareers.com/us/E6lawV-WMuZ1n-ph-media-cc-slider-view1-option14-savedView-1742949434021-savedView-1739893457199-savedView-1730395286630-primary-link-href-XaP02i",
+    "final": "https://www.pgcareers.com/us/en"
+   },
+   {
+    "url": "https://www.pgcareers.com/us/E6lawV-KJIQ14-ph-media-cc-slider-view1-option14-savedView-1742949434021-savedView-1739893457199-savedView-1730395286630-primary-link-href-XaP02i",
+    "final": "https://www.pgcareers.com/us/en"
+   },
+   {
+    "url": "https://www.pgcareers.com/us/E6lawV-po44pC-ph-media-cc-slider-view1-option14-savedView-1742949434021-savedView-1739893457199-savedView-1730395286630-primary-link-href-XaP02i",
+    "final": "https://www.pgcareers.com/us/en"
+   },
+   {
+    "url": "https://www.pgcareers.com/us/E6lawV-ntuKia-ph-media-cc-slider-view1-option14-savedView-1742949434021-savedView-1739893457199-savedView-1730395286630-primary-link-href-XaP02i",
+    "final": "https://www.pgcareers.com/us/en"
+   },
+   {
+    "url": "https://www.pgcareers.com/us/E6lawV-pjEpMD-ph-media-cc-slider-view1-option14-savedView-1742949434021-savedView-1739893457199-savedView-1730395286630-primary-link-href-XaP02i",
+    "final": "https://www.pgcareers.com/us/en"
+   },
+   {
+    "url": "https://www.pgcareers.com/us/E6lawV-4Tui7j-ph-media-cc-slider-view1-option14-savedView-1742949434021-savedView-1739893457199-savedView-1730395286630-primary-link-href-XaP02i",
+    "final": "https://www.pgcareers.com/us/en"
+   },
+   {
+    "url": "https://www.pgcareers.com/us/E6lawV-6emsvo-ph-media-cc-slider-view1-option14-savedView-1742949434021-savedView-1739893457199-savedView-1730395286630-primary-link-href-XaP02i",
+    "final": "https://www.pgcareers.com/us/en"
+   },
+   {
+    "url": "https://www.pgcareers.com/us/E6lawV-vD1gvR-ph-media-cc-slider-view1-option14-savedView-1742949434021-savedView-1739893457199-savedView-1730395286630-primary-link-href-XaP02i",
+    "final": "https://www.pgcareers.com/us/en"
+   },
+   {
+    "url": "https://www.pgcareers.com/us/E6lawV-guCdts-ph-media-cc-slider-view1-option14-savedView-1742949434021-savedView-1739893457199-savedView-1730395286630-primary-link-href-XaP02i",
+    "final": "https://www.pgcareers.com/us/en"
+   },
+   {
+    "url": "https://www.pgcareers.com/us/E6lawV-pI5lTH-ph-media-cc-slider-view1-option14-savedView-1742949434021-savedView-1739893457199-savedView-1730395286630-primary-link-href-XaP02i",
+    "final": "https://www.pgcareers.com/us/en"
+   },
+   {
+    "url": "https://www.pgcareers.com/us/E6lawV-i5nP26-ph-media-cc-slider-view1-option14-savedView-1742949434021-savedView-1739893457199-savedView-1730395286630-primary-link-href-XaP02i",
+    "final": "https://www.pgcareers.com/us/en"
+   },
+   {
+    "url": "https://www.pgcareers.com/us/E6lawV-a7YnJp-ph-media-cc-slider-view1-option14-savedView-1742949434021-savedView-1739893457199-savedView-1730395286630-primary-link-href-XaP02i",
+    "final": "https://www.pgcareers.com/us/en"
+   }
+  ]
+ },
+ {
+  "name": "Nestlé",
+  "url": "https://www.nestle.com/jobs",
+  "ats": [],
+  "markers": [],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://www.nestle.com/jobs",
+    "error": "HTTP Error 403: Forbidden"
+   },
+   {
+    "url": "https://www.nestle.com/",
+    "error": "HTTP Error 403: Forbidden"
+   }
+  ]
+ },
+ {
+  "name": "Mondelez",
+  "url": "https://mdlz.wd3.myworkdayjobs.com/External",
+  "ats": [
+   {
+    "ats": "workday",
+    "ids": [
+     "mdlz",
+     "wd3",
+     "External"
+    ]
+   }
+  ],
+  "markers": [
+   "workday_word"
+  ],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://mdlz.wd3.myworkdayjobs.com/External",
+    "final": "https://mdlz.wd3.myworkdayjobs.com/External"
+   },
+   {
+    "url": "https://mdlz.wd3.myworkdayjobs.com/",
+    "error": "HTTP Error 406: Not Acceptable"
+   }
+  ]
+ },
+ {
+  "name": "Coca-Cola",
+  "url": "https://coke.wd1.myworkdayjobs.com/coca-cola-careers",
+  "ats": [
+   {
+    "ats": "workday",
+    "ids": [
+     "coke",
+     "wd1",
+     "coca-cola-careers"
+    ]
+   }
+  ],
+  "markers": [
+   "workday_word"
+  ],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://coke.wd1.myworkdayjobs.com/coca-cola-careers",
+    "final": "https://coke.wd1.myworkdayjobs.com/coca-cola-careers"
+   },
+   {
+    "url": "https://coke.wd1.myworkdayjobs.com/",
+    "error": "HTTP Error 406: Not Acceptable"
+   }
+  ]
+ },
+ {
+  "name": "PepsiCo",
+  "url": "https://www.pepsicojobs.com/",
+  "ats": [
+   {
+    "ats": "icims",
+    "ids": [
+     "pepjobs-pepsico"
+    ]
+   },
+   {
+    "ats": "icims",
+    "ids": [
+     "www"
+    ]
+   },
+   {
+    "ats": "icims",
+    "ids": [
+     "uscareers-pepsico"
+    ]
+   },
+   {
+    "ats": "icims",
+    "ids": [
+     "pepsico"
+    ]
+   },
+   {
+    "ats": "avature",
+    "ids": [
+     "sandboxpepsi.avature.net"
+    ]
+   }
+  ],
+  "markers": [],
+  "final": "https://www.pepsicojobs.com/main/",
+  "pages": [
+   {
+    "url": "https://www.pepsicojobs.com/",
+    "final": "https://www.pepsicojobs.com/main/"
+   }
+  ]
+ },
+ {
+  "name": "Heineken",
+  "url": "https://careers.theheinekencompany.com/",
+  "ats": [
+   {
+    "ats": "successfactors",
+    "ids": [
+     "career5.successfactors.eu",
+     "C0000032666P"
+    ]
+   }
+  ],
+  "markers": [],
+  "final": "https://careers.theheinekencompany.com/",
+  "pages": [
+   {
+    "url": "https://careers.theheinekencompany.com/",
+    "final": "https://careers.theheinekencompany.com/"
+   }
+  ]
+ },
+ {
+  "name": "Carlsberg",
+  "url": "https://www.carlsberggroup.com/careers/",
+  "ats": [
+   {
+    "ats": "successfactors",
+    "ids": [
+     "career2.successfactors.eu",
+     "carlsbergg"
+    ]
+   }
+  ],
+  "markers": [
+   "sf_rmk"
+  ],
+  "final": "https://www.carlsberggroup.com/",
+  "pages": [
+   {
+    "url": "https://www.carlsberggroup.com/careers/",
+    "final": "https://careers.carlsberg.com/"
+   },
+   {
+    "url": "https://www.carlsberggroup.com/",
+    "final": "https://www.carlsberggroup.com/"
+   }
+  ]
+ },
+ {
+  "name": "L'Oréal",
+  "url": "https://careers.loreal.com/",
+  "ats": [],
+  "markers": [
+   "radancy"
+  ],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://careers.loreal.com/",
+    "final": "https://careers.loreal.com/en"
+   },
+   {
+    "url": "https://cdn.radancy.eu/company/3456/v2/css/fancybox/fancybox.min.css",
+    "final": "https://cdn.radancy.eu/company/3456/v2/css/fancybox/fancybox.min.css"
+   },
+   {
+    "url": "https://careers.loreal.com/en/commercial-careers",
+    "final": "https://careers.loreal.com/en/commercial-careers"
+   },
+   {
+    "url": "https://careers.loreal.com/en/corporate-and-engagement-careers",
+    "final": "https://careers.loreal.com/en/corporate-and-engagement-careers"
+   },
+   {
+    "url": "https://careers.loreal.com/en/medical-career",
+    "final": "https://careers.loreal.com/en/medical-career"
+   },
+   {
+    "url": "https://careers.loreal.com/en/digital-ecommerce-career",
+    "final": "https://careers.loreal.com/en/digital-ecommerce-career"
+   },
+   {
+    "url": "https://careers.loreal.com/en/research-innovation-careers",
+    "final": "https://careers.loreal.com/en/research-innovation-careers"
+   },
+   {
+    "url": "https://careers.loreal.com/en/tech-careers",
+    "final": "https://careers.loreal.com/en/tech-careers"
+   },
+   {
+    "url": "https://careers.loreal.com/en/finance-and-legal-careers",
+    "final": "https://careers.loreal.com/en/finance-and-legal-careers"
+   },
+   {
+    "url": "https://careers.loreal.com/en/human-relations-careers",
+    "final": "https://careers.loreal.com/en/human-relations-careers"
+   },
+   {
+    "url": "https://careers.loreal.com/en/get-ready-to-join",
+    "final": "https://careers.loreal.com/en/get-ready-to-join"
+   },
+   {
+    "url": "https://careers.loreal.com/fr/corporate-and-engagement-careers",
+    "final": "https://careers.loreal.com/fr/corporate-and-engagement-careers"
+   },
+   {
+    "url": "https://careers.loreal.com/fr/medical-career",
+    "final": "https://careers.loreal.com/fr/medical-career"
+   },
+   {
+    "url": "https://careers.loreal.com/en/saved-jobs",
+    "final": "https://careers.loreal.com/en/saved-jobs"
+   },
+   {
+    "url": "https://careers.loreal.com/fr/digital-ecommerce-career",
+    "final": "https://careers.loreal.com/fr/digital-ecommerce-career"
+   },
+   {
+    "url": "https://careers-apply.loreal.com/en_US/job/Login",
+    "error": "HTTP Error 403: Forbidden"
+   }
+  ]
+ },
+ {
+  "name": "Nike",
+  "url": "https://nike.wd1.myworkdayjobs.com/nke",
+  "ats": [
+   {
+    "ats": "workday",
+    "ids": [
+     "nike",
+     "wd1",
+     "nke"
+    ]
+   }
+  ],
+  "markers": [
+   "workday_word"
+  ],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://nike.wd1.myworkdayjobs.com/nke",
+    "final": "https://nike.wd1.myworkdayjobs.com/nke"
+   },
+   {
+    "url": "https://nike.wd1.myworkdayjobs.com/",
+    "error": "HTTP Error 406: Not Acceptable"
+   }
+  ]
+ },
+ {
+  "name": "adidas",
+  "url": "https://careers.adidas-group.com/",
+  "ats": [],
+  "markers": [
+   "sf_rmk",
+   "workday_word"
+  ],
+  "final": "https://jobs.adidas-group.com/job/Rostock-SALES-ASSISTANT-%28-MFD%29-20HWOCHE-FO-ROSTOCK-MV/1448421333/?feedId=301201&amp;utm_source=j2w",
+  "pages": [
+   {
+    "url": "https://careers.adidas-group.com/",
+    "final": "https://careers.adidas-group.com/"
+   },
+   {
+    "url": "https://careers.adidas-group.com/fonts/adihausdin-regular.woff",
+    "error": "The read operation timed out"
+   },
+   {
+    "url": "https://careers.adidas-group.com/teams/makers/research-development?locale=en",
+    "final": "https://careers.adidas-group.com/teams/makers/research-development?locale=en"
+   },
+   {
+    "url": "https://careers.adidas-group.com/teams/retailers/career-oportunities?locale=en",
+    "final": "https://careers.adidas-group.com/teams/retailers/career-oportunities?locale=en"
+   },
+   {
+    "url": "https://careers.adidas-group.com/jobs?locale=en",
+    "final": "https://careers.adidas-group.com/jobs?locale=en"
+   },
+   {
+    "url": "https://jobs.adidas-group.com/talentcommunity/login/?returnurl=/talentcommunity/profile/",
+    "final": "https://jobs.adidas-group.com/"
+   },
+   {
+    "url": "https://bit.ly/4kAcavH",
+    "final": "https://careers.adidas-group.com/jobs?brand=&team=&type=&keywords=&location=[{\"region\":\"Europe,+Middle+East+%26+Africa\"}]&sort=&locale=en&offset=0&utm_source=YouTube&utm_medium=Video&utm_campaign=EB-Europe-video"
+   },
+   {
+    "url": "https://bit.ly/3FkV4Qf",
+    "final": "https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fadidascareers%2F&is_from_rle"
+   },
+   {
+    "url": "https://jobs.adidas-group.com/job/New-York-City-Retail-Supervisor-New-York-Broadway%2C-6508%2C-New-York%2C-NY-NY/1448617733/?feedId=301201&amp;utm_source=j2w",
+    "final": "https://jobs.adidas-group.com/job/New-York-City-Retail-Supervisor-New-York-Broadway%2C-6508%2C-New-York%2C-NY-NY/1448617733/?feedId=301201&amp;utm_source=j2w"
+   },
+   {
+    "url": "https://careers.adidas-group.com/jobs",
+    "final": "https://careers.adidas-group.com/jobs"
+   },
+   {
+    "url": "https://www.instagram.com/adidascareers/",
+    "final": "https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fadidascareers%2F&is_from_rle"
+   },
+   {
+    "url": "https://www.facebook.com/adidascareers",
+    "error": "HTTP Error 400: Bad Request"
+   },
+   {
+    "url": "https://careers.adidas-group.com/jobs/feed.xml",
+    "final": "https://careers.adidas-group.com/jobs/feed.xml"
+   },
+   {
+    "url": "https://jobs.adidas-group.com/job/Mebane-Seasonal-Retail-Store-Associate-Mebane%2C-6113%2C-Mebane%2C-NC-NC/1448675133/?feedId=301201&amp;utm_source=j2w",
+    "final": "https://jobs.adidas-group.com/job/Mebane-Seasonal-Retail-Store-Associate-Mebane%2C-6113%2C-Mebane%2C-NC-NC/1448675133/?feedId=301201&amp;utm_source=j2w"
+   },
+   {
+    "url": "https://jobs.adidas-group.com/job/Kolkata-Store-Manager-WB/1448320433/?feedId=301201&amp;utm_source=j2w",
+    "final": "https://jobs.adidas-group.com/job/Kolkata-Store-Manager-WB/1448320433/?feedId=301201&amp;utm_source=j2w"
+   },
+   {
+    "url": "https://jobs.adidas-group.com/job/Rostock-SALES-ASSISTANT-%28-MFD%29-20HWOCHE-FO-ROSTOCK-MV/1448421333/?feedId=301201&amp;utm_source=j2w",
+    "final": "https://jobs.adidas-group.com/job/Rostock-SALES-ASSISTANT-%28-MFD%29-20HWOCHE-FO-ROSTOCK-MV/1448421333/?feedId=301201&amp;utm_source=j2w"
+   }
+  ]
+ },
+ {
+  "name": "Mars",
+  "url": "https://careers.mars.com/",
+  "ats": [],
+  "markers": [
+   "phenom",
+   "sf_rmk"
+  ],
+  "final": "https://jobs.kellanova.com/search/?createNewAlert=false&amp;amp;q=&amp;amp;locationsearch=&amp;locale=ar_SA",
+  "pages": [
+   {
+    "url": "https://careers.mars.com/",
+    "final": "https://careers.mars.com/us/en"
+   },
+   {
+    "url": "https://cdn.phenompeople.com/CareerConnectResources/common/js/globalplatform/1781270809227_globalstyles.css",
+    "final": "https://cdn.phenompeople.com/CareerConnectResources/common/js/globalplatform/1781270809227_globalstyles.css"
+   },
+   {
+    "url": "https://careers.mars.com/us/en/",
+    "final": "https://careers.mars.com/us/en/"
+   },
+   {
+    "url": "https://jobs.kellanova.com/go/View-All-Jobs/9476800/",
+    "final": "https://jobs.kellanova.com/go/View-All-Jobs/9476800/"
+   },
+   {
+    "url": "https://careers.mars.com/us/MarsCareersfooterLinkpath-two",
+    "final": "https://careers.mars.com/us/en"
+   },
+   {
+    "url": "https://careers.mars.com/us/en/sitemap.xml",
+    "final": "https://careers.mars.com/us/en/sitemap.xml"
+   },
+   {
+    "url": "https://careers.mars.com/us/en/MarsCareersfooterLinkpath-two",
+    "error": "HTTP Error 404: Not Found"
+   },
+   {
+    "url": "https://jobs.kellanova.com/platform/bootstrap/3.4.8_NES/css/bootstrap.min.css",
+    "final": "https://jobs.kellanova.com/platform/bootstrap/3.4.8_NES/css/bootstrap.min.css"
+   },
+   {
+    "url": "https://jobs.kellanova.com/search/?createNewAlert=false&amp;q=&amp;locationsearch=",
+    "final": "https://jobs.kellanova.com/search/?createNewAlert=false&amp;q=&amp;locationsearch="
+   },
+   {
+    "url": "https://www.kellanovacareers.com/en/who-we-are/brands.html",
+    "error": "HTTP Error 405: Method Not Allowed"
+   },
+   {
+    "url": "https://www.kellanovacareers.com/en/working-here/hiring-process.html",
+    "error": "HTTP Error 405: Method Not Allowed"
+   },
+   {
+    "url": "https://jobs.kellanova.com/go/Research%2C-Quality%2C-Nutrition%2C-and-Technology/9471700/",
+    "final": "https://jobs.kellanova.com/go/Research%2C-Quality%2C-Nutrition%2C-and-Technology/9471700/"
+   },
+   {
+    "url": "https://kellanova.greatjob.net/",
+    "final": "https://kellanova.greatjob.net/"
+   },
+   {
+    "url": "https://jobs.kellanova.com?locale=ar_SA",
+    "final": "https://jobs.kellanova.com?locale=ar_SA"
+   },
+   {
+    "url": "https://jobs.kellanova.com?locale=de_DE",
+    "final": "https://jobs.kellanova.com?locale=de_DE"
+   },
+   {
+    "url": "https://jobs.kellanova.com/search/?createNewAlert=false&amp;amp;q=&amp;amp;locationsearch=&amp;locale=ar_SA",
+    "final": "https://jobs.kellanova.com/search/?createNewAlert=false&amp;amp;q=&amp;amp;locationsearch=&amp;locale=ar_SA"
+   }
+  ]
+ },
+ {
+  "name": "Kraft Heinz",
+  "url": "https://careers.kraftheinz.com/",
+  "ats": [],
+  "markers": [],
+  "final": "https://careers.kraftheinzcompany.com/",
+  "pages": [
+   {
+    "url": "https://careers.kraftheinz.com/",
+    "final": "https://careers.kraftheinzcompany.com/"
+   }
+  ]
+ },
+ {
+  "name": "Danone",
+  "url": "https://careers.danone.com/",
+  "ats": [
+   {
+    "ats": "icims",
+    "ids": [
+     "www"
+    ]
+   },
+   {
+    "ats": "icims",
+    "ids": [
+     "esapply-danone"
+    ]
+   },
+   {
+    "ats": "icims",
+    "ids": [
+     "deapply-danone"
+    ]
+   },
+   {
+    "ats": "icims",
+    "ids": [
+     "idapply-danone"
+    ]
+   },
+   {
+    "ats": "icims",
+    "ids": [
+     "plapply-danone"
+    ]
+   },
+   {
+    "ats": "icims",
+    "ids": [
+     "nlapply-danone"
+    ]
+   }
+  ],
+  "markers": [],
+  "final": "https://careers.danone.com/content/dam/corp/global/hr/global/My%20Accounts%20iCIMS.pdf",
+  "pages": [
+   {
+    "url": "https://careers.danone.com/",
+    "final": "https://careers.danone.com/en-global/home.html"
+   },
+   {
+    "url": "https://careers.danone.com/en-global/home.html",
+    "final": "https://careers.danone.com/en-global/home.html"
+   },
+   {
+    "url": "https://notifications.careers.danone.com/notifications/jobs?page=1",
+    "final": "https://notifications.careers.danone.com/notifications/jobs?page=1"
+   },
+   {
+    "url": "https://careers.danone.com/en-global/my-account-job-alerts.html",
+    "final": "https://careers.danone.com/en-global/my-account-job-alerts.html"
+   },
+   {
+    "url": "https://careers.danone.com/en-global/jobs.html",
+    "final": "https://careers.danone.com/en-global/jobs.html"
+   },
+   {
+    "url": "https://www.evian.com/en_int",
+    "final": "https://www.evian.com/en_int"
+   },
+   {
+    "url": "https://www.facebook.com/DanoneCareers",
+    "error": "HTTP Error 400: Bad Request"
+   },
+   {
+    "url": "https://careers.danone.com/content/dam/corp/global/hr/global/My%20Accounts%20iCIMS.pdf",
+    "final": "https://careers.danone.com/content/dam/corp/global/hr/global/My%20Accounts%20iCIMS.pdf"
+   }
+  ]
+ },
+ {
+  "name": "Shell",
+  "url": "https://www.shell.com/careers.html",
+  "ats": [],
+  "markers": [],
+  "final": "https://www.shell.com/",
+  "pages": [
+   {
+    "url": "https://www.shell.com/careers.html",
+    "final": "https://www.shell.com/careers.html"
+   },
+   {
+    "url": "https://www.shell.com/",
+    "final": "https://www.shell.com/"
+   }
+  ]
+ },
+ {
+  "name": "ExxonMobil",
+  "url": "https://jobs.exxonmobil.com/",
+  "ats": [
+   {
+    "ats": "successfactors",
+    "ids": [
+     "career4.successfactors.com",
+     "exxonmobilP"
+    ]
+   }
+  ],
+  "markers": [
+   "sf_rmk"
+  ],
+  "final": "https://jobs.exxonmobil.com/",
+  "pages": [
+   {
+    "url": "https://jobs.exxonmobil.com/",
+    "final": "https://jobs.exxonmobil.com/"
+   }
+  ]
+ },
+ {
+  "name": "Equinor",
+  "url": "https://www.equinor.com/careers",
+  "ats": [
+   {
+    "ats": "workday",
+    "ids": [
+     "equinor",
+     "wd3",
+     "EQNR"
+    ]
+   }
+  ],
+  "markers": [
+   "workday_word"
+  ],
+  "final": "https://www.equinor.com/",
+  "pages": [
+   {
+    "url": "https://www.equinor.com/careers",
+    "final": "https://www.equinor.com/careers"
+   },
+   {
+    "url": "https://www.equinor.com/",
+    "final": "https://www.equinor.com/"
+   }
+  ]
+ },
+ {
+  "name": "HSBC",
+  "url": "https://www.hsbc.com/careers",
+  "ats": [],
+  "markers": [],
+  "final": "https://www.hsbc.com/careers/life-at-hsbc/welcoming-diversity",
+  "pages": [
+   {
+    "url": "https://www.hsbc.com/careers",
+    "final": "https://www.hsbc.com/careers"
+   },
+   {
+    "url": "https://www.hsbc.com/",
+    "final": "https://www.hsbc.com/"
+   },
+   {
+    "url": "https://www.hsbc.com/who-we-are/hsbc-and-digital/hsbc-patents-and-research-papers",
+    "final": "https://www.hsbc.com/who-we-are/hsbc-and-digital/hsbc-patents-and-research-papers"
+   },
+   {
+    "url": "https://www.hsbc.com/who-we-are/our-strategy-and-values",
+    "final": "https://www.hsbc.com/who-we-are/our-strategy-and-values"
+   },
+   {
+    "url": "https://www.hsbc.com/careers/students-and-graduates",
+    "final": "https://www.hsbc.com/careers/students-and-graduates"
+   },
+   {
+    "url": "https://www.hsbc.com/careers/students-and-graduates/university-students-and-graduates",
+    "final": "https://www.hsbc.com/careers/students-and-graduates/university-students-and-graduates"
+   },
+   {
+    "url": "https://www.hsbc.com/careers/students-and-graduates/schools-and-apprenticeships",
+    "final": "https://www.hsbc.com/careers/students-and-graduates/schools-and-apprenticeships"
+   },
+   {
+    "url": "https://www.hsbc.com/careers/students-and-graduates/events",
+    "final": "https://www.hsbc.com/careers/students-and-graduates/events"
+   },
+   {
+    "url": "https://www.hsbc.com/careers/students-and-graduates/application-guide",
+    "final": "https://www.hsbc.com/careers/students-and-graduates/application-guide"
+   },
+   {
+    "url": "https://www.hsbc.com/careers/students-and-graduates/faqs",
+    "final": "https://www.hsbc.com/careers/students-and-graduates/faqs"
+   },
+   {
+    "url": "https://www.hsbc.com/who-we-are/hsbc-and-digital/papers-patents-and-partnerships",
+    "error": "HTTP Error 404: Not Found"
+   },
+   {
+    "url": "https://www.hsbc.com/careers/students-and-graduates/find-a-programme",
+    "final": "https://www.hsbc.com/careers/students-and-graduates/find-a-programme"
+   },
+   {
+    "url": "https://www.hsbc.com/careers/life-at-hsbc",
+    "final": "https://www.hsbc.com/careers/life-at-hsbc"
+   },
+   {
+    "url": "https://www.hsbc.com/careers/life-at-hsbc/meet-our-people",
+    "final": "https://www.hsbc.com/careers/life-at-hsbc/meet-our-people"
+   },
+   {
+    "url": "https://www.hsbc.com/careers/life-at-hsbc/career-development",
+    "final": "https://www.hsbc.com/careers/life-at-hsbc/career-development"
+   },
+   {
+    "url": "https://www.hsbc.com/careers/life-at-hsbc/welcoming-diversity",
+    "final": "https://www.hsbc.com/careers/life-at-hsbc/welcoming-diversity"
+   }
+  ]
+ },
+ {
+  "name": "Citi",
+  "url": "https://citi.wd5.myworkdayjobs.com/2",
+  "ats": [
+   {
+    "ats": "workday",
+    "ids": [
+     "citi",
+     "wd5",
+     "2"
+    ]
+   }
+  ],
+  "markers": [
+   "workday_word"
+  ],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://citi.wd5.myworkdayjobs.com/2",
+    "final": "https://citi.wd5.myworkdayjobs.com/2"
+   },
+   {
+    "url": "https://citi.wd5.myworkdayjobs.com/",
+    "error": "HTTP Error 406: Not Acceptable"
+   }
+  ]
+ },
+ {
+  "name": "JPMorgan Chase",
+  "url": "https://careers.jpmorgan.com/",
+  "ats": [],
+  "markers": [],
+  "final": "https://www.jpmorganchase.com/careers",
+  "pages": [
+   {
+    "url": "https://careers.jpmorgan.com/",
+    "final": "https://www.jpmorganchase.com/careers?redirect=careers_jpm"
+   },
+   {
+    "url": "https://www.jpmorganchase.com/etc.clientlibs/cws/clientlibs/clientlib-base/resources/jpmc/images/jpmc-favicon.ico",
+    "final": "https://www.jpmorganchase.com/etc.clientlibs/cws/clientlibs/clientlib-base/resources/jpmc/images/jpmc-favicon.ico"
+   },
+   {
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions",
+    "final": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs"
+   },
+   {
+    "url": "https://www.jpmorganchase.com/about/diversity-opportunity-and-inclusion",
+    "final": "https://www.jpmorganchase.com/about/diversity-opportunity-and-inclusion"
+   },
+   {
+    "url": "https://www.jpmorganchase.com/careers",
+    "final": "https://www.jpmorganchase.com/careers"
+   },
+   {
+    "url": "https://www.jpmorganchase.com/careers/work-with-us",
+    "final": "https://www.jpmorganchase.com/careers/work-with-us"
+   },
+   {
+    "url": "https://www.jpmorganchase.com/careers/grow-with-us",
+    "final": "https://www.jpmorganchase.com/careers/grow-with-us"
+   },
+   {
+    "url": "https://www.jpmorganchase.com/careers/how-we-hire",
+    "final": "https://www.jpmorganchase.com/careers/how-we-hire"
+   },
+   {
+    "url": "https://www.jpmorganchase.com/careers/explore-opportunities",
+    "final": "https://www.jpmorganchase.com/careers/explore-opportunities"
+   },
+   {
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001",
+    "final": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001"
+   },
+   {
+    "url": "https://careers.jpmorgan.com/us/en/recruitment-scams-warning",
+    "final": "https://www.jpmorganchase.com/careers?redirect=careers_jpm"
+   },
+   {
+    "url": "https://careers.jpmorgan.com/us/en/equal-opportunities",
+    "final": "https://www.jpmorganchase.com/careers?redirect=careers_jpm"
+   },
+   {
+    "url": "https://www.careersatchase.com/content/index",
+    "final": "https://www.jpmorganchase.com/careers"
+   },
+   {
+    "url": "https://careers.jpmorgan.com/global/en/about-us/locations/manila",
+    "final": "https://www.jpmorganchase.com/careers?redirect=careers_jpm"
+   },
+   {
+    "url": "https://careers.jpmorgan.com",
+    "final": "https://www.jpmorganchase.com/careers?redirect=careers_jpm"
+   },
+   {
+    "url": "https://careers.jpmorgan.com/jp/ja/home",
+    "final": "https://www.jpmorganchase.com/careers"
+   }
+  ]
+ },
+ {
+  "name": "Goldman Sachs",
+  "url": "https://www.goldmansachs.com/careers/",
+  "ats": [
+   {
+    "ats": "avature",
+    "ids": [
+     "recruiting360.avature.net"
+    ]
+   }
+  ],
+  "markers": [],
+  "final": "https://www.goldmansachs.com/careers/programs-for-professionals",
+  "pages": [
+   {
+    "url": "https://www.goldmansachs.com/careers/",
+    "final": "https://www.goldmansachs.com/careers/"
+   },
+   {
+    "url": "https://www.goldmansachs.com/",
+    "final": "https://www.goldmansachs.com/"
+   },
+   {
+    "url": "https://cdn.gs.com/fonts/gs-sans/v3/gs-sans-variable.woff2",
+    "final": "https://cdn.gs.com/fonts/gs-sans/v3/gs-sans-variable.woff2"
+   },
+   {
+    "url": "https://www.goldmansachs.com/what-we-do/research",
+    "final": "https://www.goldmansachs.com/what-we-do/research"
+   },
+   {
+    "url": "https://www.goldmansachs.com/careers",
+    "final": "https://www.goldmansachs.com/careers"
+   },
+   {
+    "url": "https://www.goldmansachs.com/careers/students",
+    "final": "https://www.goldmansachs.com/careers/students"
+   },
+   {
+    "url": "https://www.goldmansachs.com/careers/life-at-goldman-sachs",
+    "final": "https://www.goldmansachs.com/careers/life-at-goldman-sachs"
+   },
+   {
+    "url": "https://www.goldmansachs.com/careers/benefits",
+    "final": "https://www.goldmansachs.com/careers/benefits"
+   },
+   {
+    "url": "https://www.goldmansachs.com/careers/featured-offices",
+    "final": "https://www.goldmansachs.com/careers/featured-offices"
+   },
+   {
+    "url": "https://higher.gs.com/",
+    "final": "https://higher.gs.com/results"
+   },
+   {
+    "url": "https://www.goldmansachs.com/insights/goldman-sachs-research",
+    "final": "https://www.goldmansachs.com/insights/goldman-sachs-research"
+   },
+   {
+    "url": "https://www.goldmansachs.com/what-we-do/research/the-history-of-goldman-sachs-research.pdf",
+    "final": "https://www.goldmansachs.com/what-we-do/research/the-history-of-goldman-sachs-research.pdf"
+   },
+   {
+    "url": "https://higher.gs.com/results?&amp;page=1&amp;sort=RELEVANCE",
+    "final": "https://higher.gs.com/results?&amp;page=1&amp;sort=RELEVANCE"
+   },
+   {
+    "url": "https://www.goldmansachs.com/careers/students/programs-and-internships",
+    "final": "https://www.goldmansachs.com/careers/students/programs-and-internships"
+   },
+   {
+    "url": "https://www.goldmansachs.com/careers/programs-for-professionals",
+    "final": "https://www.goldmansachs.com/careers/programs-for-professionals"
+   }
+  ]
+ },
+ {
+  "name": "Morgan Stanley",
+  "url": "https://www.morganstanley.com/careers",
+  "ats": [
+   {
+    "ats": "eightfold",
+    "ids": [
+     "morganstanley"
+    ]
+   }
+  ],
+  "markers": [],
+  "final": "https://www.morganstanley.com/careers/events-aggregate",
+  "pages": [
+   {
+    "url": "https://www.morganstanley.com/careers",
+    "final": "https://www.morganstanley.com/people"
+   },
+   {
+    "url": "https://www.morganstanley.com/",
+    "final": "https://www.morganstanley.com/"
+   },
+   {
+    "url": "https://www.morganstanley.com/people",
+    "final": "https://www.morganstanley.com/people"
+   },
+   {
+    "url": "https://matrix.ms.com/research",
+    "final": "https://login.matrix.ms.com/public/login-email/webapp/entry?uri=/eqr/research/webapp/routerequest/PortalRouterServlet&query=panel%3dnavigate&failedauth=login&denymsg=No%20such%20user&method=GET&msuniqueid=1O7EZeKSAilINvulc3A"
+   },
+   {
+    "url": "https://www.morganstanley.com/what-we-do/research",
+    "final": "https://www.morganstanley.com/what-we-do/research"
+   },
+   {
+    "url": "https://advisor.morganstanley.com/search?icid=ms-nav-whatwedo-wm-featured-getmatchedwithafa",
+    "error": "The read operation timed out"
+   },
+   {
+    "url": "https://www.morganstanley.com/people-opportunities/students-graduates",
+    "final": "https://www.morganstanley.com/people-opportunities/students-graduates"
+   },
+   {
+    "url": "https://www.morganstanley.com/careers/career-opportunities-search?opportunity=sg",
+    "final": "https://www.morganstanley.com/careers/career-opportunities-search?opportunity=sg"
+   },
+   {
+    "url": "https://www.morganstanley.com/careers/career-opportunities-search",
+    "final": "https://www.morganstanley.com/careers/career-opportunities-search"
+   },
+   {
+    "url": "https://www.morganstanley.com/people-opportunities/students-graduates/culture",
+    "final": "https://www.morganstanley.com/people-opportunities/students-graduates/culture"
+   },
+   {
+    "url": "https://www.morganstanley.com/etc.clientlibs/msdotcomr4/components/common/text/v1/text/clientlibs/site.min.645a36a608bf3cd1985ff8c5789a366b.css",
+    "final": "https://www.morganstanley.com/etc.clientlibs/msdotcomr4/components/common/text/v1/text/clientlibs/site.min.645a36a608bf3cd1985ff8c5789a366b.css"
+   },
+   {
+    "url": "https://login.matrix.ms.com/public/login-email/webapp/entry?uri=/eqr/research/webapp/routerequest/PortalRouterServlet&lang=ja&query=panel=navigate",
+    "final": "https://login.matrix.ms.com/public/login-email/webapp/entry?uri=/eqr/research/webapp/routerequest/PortalRouterServlet&lang=ja&query=panel=navigate"
+   },
+   {
+    "url": "https://www.morganstanley.com/insights/articles/healthcare-consumerism-drives-26-b-opportunity-2026",
+    "final": "https://www.morganstanley.com/insights/articles/healthcare-consumerism-drives-26-b-opportunity-2026"
+   },
+   {
+    "url": "https://www.morganstanley.com/insights/articles/china-next-industrial-revolution-industry-5-outlook",
+    "final": "https://www.morganstanley.com/insights/articles/china-next-industrial-revolution-industry-5-outlook"
+   },
+   {
+    "url": "https://www.morganstanley.com/insights/articles/healthcare-industry-trends-global-healthcare-conference-2026",
+    "final": "https://www.morganstanley.com/insights/articles/healthcare-industry-trends-global-healthcare-conference-2026"
+   },
+   {
+    "url": "https://www.morganstanley.com/careers/events-aggregate",
+    "final": "https://www.morganstanley.com/careers/events-aggregate"
+   }
+  ]
+ },
+ {
+  "name": "BlackRock",
+  "url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional",
+  "ats": [
+   {
+    "ats": "workday",
+    "ids": [
+     "blackrock",
+     "wd1",
+     "BlackRock_Professional"
+    ]
+   }
+  ],
+  "markers": [
+   "workday_word"
+  ],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional",
+    "final": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional"
+   },
+   {
+    "url": "https://blackrock.wd1.myworkdayjobs.com/",
+    "error": "HTTP Error 406: Not Acceptable"
+   }
+  ]
+ },
+ {
+  "name": "State Street",
+  "url": "https://statestreet.wd1.myworkdayjobs.com/Global",
+  "ats": [
+   {
+    "ats": "workday",
+    "ids": [
+     "statestreet",
+     "wd1",
+     "Global"
+    ]
+   }
+  ],
+  "markers": [
+   "workday_word"
+  ],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://statestreet.wd1.myworkdayjobs.com/Global",
+    "final": "https://statestreet.wd1.myworkdayjobs.com/Global"
+   },
+   {
+    "url": "https://statestreet.wd1.myworkdayjobs.com/",
+    "error": "HTTP Error 406: Not Acceptable"
+   }
+  ]
+ },
+ {
+  "name": "Northern Trust",
+  "url": "https://ntrs.wd1.myworkdayjobs.com/northerntrust",
+  "ats": [
+   {
+    "ats": "workday",
+    "ids": [
+     "ntrs",
+     "wd1",
+     "northerntrust"
+    ]
+   }
+  ],
+  "markers": [
+   "workday_word"
+  ],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://ntrs.wd1.myworkdayjobs.com/northerntrust",
+    "final": "https://ntrs.wd1.myworkdayjobs.com/northerntrust"
+   },
+   {
+    "url": "https://ntrs.wd1.myworkdayjobs.com/",
+    "error": "HTTP Error 406: Not Acceptable"
+   }
+  ]
+ },
+ {
+  "name": "S&P Global",
+  "url": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers",
+  "ats": [
+   {
+    "ats": "workday",
+    "ids": [
+     "spgi",
+     "wd5",
+     "SPGI_Careers"
+    ]
+   }
+  ],
+  "markers": [
+   "workday_word"
+  ],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers",
+    "final": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers"
+   },
+   {
+    "url": "https://spgi.wd5.myworkdayjobs.com/",
+    "error": "HTTP Error 406: Not Acceptable"
+   }
+  ]
+ },
+ {
+  "name": "LSEG",
+  "url": "https://lseg.wd3.myworkdayjobs.com/Careers",
+  "ats": [
+   {
+    "ats": "workday",
+    "ids": [
+     "lseg",
+     "wd3",
+     "Careers"
+    ]
+   }
+  ],
+  "markers": [
+   "workday_word"
+  ],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://lseg.wd3.myworkdayjobs.com/Careers",
+    "final": "https://lseg.wd3.myworkdayjobs.com/Careers"
+   },
+   {
+    "url": "https://lseg.wd3.myworkdayjobs.com/",
+    "error": "HTTP Error 406: Not Acceptable"
+   }
+  ]
+ },
+ {
+  "name": "Marsh McLennan",
+  "url": "https://mmc.wd1.myworkdayjobs.com/MMC",
+  "ats": [
+   {
+    "ats": "workday",
+    "ids": [
+     "mmc",
+     "wd1",
+     "MMC"
+    ]
+   }
+  ],
+  "markers": [
+   "workday_word"
+  ],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://mmc.wd1.myworkdayjobs.com/MMC",
+    "final": "https://mmc.wd1.myworkdayjobs.com/MMC"
+   },
+   {
+    "url": "https://mmc.wd1.myworkdayjobs.com/",
+    "error": "HTTP Error 406: Not Acceptable"
+   }
+  ]
+ },
+ {
+  "name": "Aon",
+  "url": "https://jobs.aon.com/",
+  "ats": [
+   {
+    "ats": "icims",
+    "ids": [
+     "cookie-policy-scripts"
+    ]
+   },
+   {
+    "ats": "icims",
+    "ids": [
+     "aon"
+    ]
+   },
+   {
+    "ats": "icims",
+    "ids": [
+     "unitedstates-aon"
+    ]
+   },
+   {
+    "ats": "icims",
+    "ids": [
+     "www"
+    ]
+   }
+  ],
+  "markers": [],
+  "final": "https://jobs.aon.com/",
+  "pages": [
+   {
+    "url": "https://jobs.aon.com/",
+    "final": "https://jobs.aon.com/"
+   }
+  ]
+ },
+ {
+  "name": "Zurich",
+  "url": "https://www.careers.zurich.com/",
+  "ats": [
+   {
+    "ats": "successfactors",
+    "ids": [
+     "career2.successfactors.eu",
+     "SF2013"
+    ]
+   }
+  ],
+  "markers": [
+   "sf_rmk"
+  ],
+  "final": "https://www.careers.zurich.com/",
+  "pages": [
+   {
+    "url": "https://www.careers.zurich.com/",
+    "final": "https://www.careers.zurich.com/"
+   }
+  ]
+ },
+ {
+  "name": "AXA",
+  "url": "https://www.axa.com/en/careers",
+  "ats": [
+   {
+    "ats": "icims",
+    "ids": [
+     "cookie-policy-scripts"
+    ]
+   },
+   {
+    "ats": "icims",
+    "ids": [
+     "move-en-axa"
+    ]
+   },
+   {
+    "ats": "icims",
+    "ids": [
+     "www"
+    ]
+   },
+   {
+    "ats": "icims",
+    "ids": [
+     "careers-en-axa"
+    ]
+   }
+  ],
+  "markers": [],
+  "final": "https://www.axa.com/en/news/research",
+  "pages": [
+   {
+    "url": "https://www.axa.com/en/careers",
+    "final": "https://www.axa.com/en"
+   },
+   {
+    "url": "https://www.axa.com/",
+    "final": "https://www.axa.com/"
+   },
+   {
+    "url": "https://www.axa.com/favicon.ico?version=4.21.14",
+    "final": "https://www.axa.com/favicon.ico?version=4.21.14"
+   },
+   {
+    "url": "https://careers.axa.com/careers-home/?lang=en-US",
+    "final": "https://careers.axa.com/careers-home/?lang=en-US"
+   },
+   {
+    "url": "https://www.axa.com/en/news/research",
+    "final": "https://www.axa.com/en/news/research"
+   }
+  ]
+ },
+ {
+  "name": "Allianz",
+  "url": "https://careers.allianz.com/",
+  "ats": [
+   {
+    "ats": "successfactors",
+    "ids": [
+     "career5.successfactors.eu",
+     "AZGROUPPROD"
+    ]
+   }
+  ],
+  "markers": [
+   "phenom"
+  ],
+  "final": "https://careers.allianz.com/global/en/investment-management-jobs",
+  "pages": [
+   {
+    "url": "https://careers.allianz.com/",
+    "final": "https://careers.allianz.com/global/en"
+   },
+   {
+    "url": "https://cdn.phenompeople.com/CareerConnectResources/AISAIPGB/en_global/desktop/assets/images/favicon.ico?v=1729081188339",
+    "final": "https://cdn.phenompeople.com/CareerConnectResources/AISAIPGB/en_global/desktop/assets/images/favicon.ico?v=1729081188339"
+   },
+   {
+    "url": "https://careers.allianz.com/global/en/students",
+    "final": "https://careers.allianz.com/global/en/students"
+   },
+   {
+    "url": "https://careers.allianz.com/global/en/entry-level",
+    "final": "https://careers.allianz.com/global/en/entry-level"
+   },
+   {
+    "url": "https://careers.allianz.com/global/en/professionals",
+    "final": "https://careers.allianz.com/global/en/professionals"
+   },
+   {
+    "url": "https://careers.allianz.com/global/en/actuarial-jobs",
+    "final": "https://careers.allianz.com/global/en/actuarial-jobs"
+   },
+   {
+    "url": "https://careers.allianz.com/global/en/audit-compliance-risk-jobs",
+    "final": "https://careers.allianz.com/global/en/audit-compliance-risk-jobs"
+   },
+   {
+    "url": "https://careers.allianz.com/global/en/consulting-jobs",
+    "final": "https://careers.allianz.com/global/en/consulting-jobs"
+   },
+   {
+    "url": "https://careers.allianz.com/global/en/investment-management-jobs",
+    "final": "https://careers.allianz.com/global/en/investment-management-jobs"
+   }
+  ]
+ },
+ {
+  "name": "Deloitte",
+  "url": "https://www2.deloitte.com/uk/en/careers.html",
+  "ats": [
+   {
+    "ats": "avature",
+    "ids": [
+     "deloitteuk.avature.net"
+    ]
+   }
+  ],
+  "markers": [
+   "workday_word"
+  ],
+  "final": "https://www.deloitte.com/us/en/careers/student-careers.html?icid=top_student-careers",
+  "pages": [
+   {
+    "url": "https://www2.deloitte.com/uk/en/careers.html",
+    "final": "https://www.deloitte.com/uk/en/careers.html"
+   },
+   {
+    "url": "https://www2.deloitte.com/",
+    "final": "https://www.deloitte.com/us/en.html"
+   },
+   {
+    "url": "https://fonts.googleapis.com",
+    "error": "HTTP Error 404: Not Found"
+   },
+   {
+    "url": "https://www.deloitte.com/uk/en/careers.html?icid=top_careers",
+    "final": "https://www.deloitte.com/uk/en/careers.html?icid=top_careers"
+   },
+   {
+    "url": "https://www.deloitte.com/uk/en/careers/early-careers.html?icid=top_early-careers",
+    "final": "https://www.deloitte.com/uk/en/careers/early-careers.html?icid=top_early-careers"
+   },
+   {
+    "url": "https://www.deloitte.com/uk/en/careers/professional-careers.html?icid=top_professional-careers",
+    "final": "https://www.deloitte.com/uk/en/careers/professional-careers.html?icid=top_professional-careers"
+   },
+   {
+    "url": "https://www.deloitte.com/uk/en/careers/contracting-at-deloitte.html?icid=top_contracting-at-deloitte",
+    "final": "https://www.deloitte.com/uk/en/careers/contracting-at-deloitte.html?icid=top_contracting-at-deloitte"
+   },
+   {
+    "url": "https://www.deloitte.com/uk/en/careers/meet-our-people.html?icid=top_meet-our-people",
+    "final": "https://www.deloitte.com/uk/en/careers/meet-our-people.html?icid=top_meet-our-people"
+   },
+   {
+    "url": "https://www.deloitte.com/uk/en/careers/search-jobs.html?icid=top_search-jobs",
+    "final": "https://www.deloitte.com/uk/en/careers/search-jobs.html?icid=top_search-jobs"
+   },
+   {
+    "url": "https://www.deloitte.com/uk/en/careers/discover-deloitte/careers-diversity-and-inclusion.html",
+    "final": "https://www.deloitte.com/uk/en/careers/discover-deloitte/careers-diversity-and-inclusion.html"
+   },
+   {
+    "url": "https://www.deloitte.com/us/en/careers/deloitte-life/awards-and-recognition.html?icid=top_awards-and-recognition",
+    "final": "https://www.deloitte.com/us/en/careers/deloitte-life/awards-and-recognition.html?icid=top_awards-and-recognition"
+   },
+   {
+    "url": "https://www.deloitte.com/us/en/insights/research-centers.html?icid=top_research-centers",
+    "final": "https://www.deloitte.com/us/en/insights/research-centers.html?icid=top_research-centers"
+   },
+   {
+    "url": "https://www.deloitte.com/us/en/careers/careers.html?icid=top_careers",
+    "final": "https://www.deloitte.com/us/en/careers/careers.html?icid=top_careers"
+   },
+   {
+    "url": "https://apply.deloitte.com",
+    "final": "https://apply.deloitte.com/en_US/careers"
+   },
+   {
+    "url": "https://www.deloitte.com/us/en/careers/alumni.html?icid=top_alumni",
+    "final": "https://www.deloitte.com/us/en/careers/alumni.html?icid=top_alumni"
+   },
+   {
+    "url": "https://www.deloitte.com/us/en/careers/student-careers.html?icid=top_student-careers",
+    "final": "https://www.deloitte.com/us/en/careers/student-careers.html?icid=top_student-careers"
+   }
+  ]
+ },
+ {
+  "name": "PwC",
+  "url": "https://www.pwc.com/gx/en/careers.html",
+  "ats": [],
+  "markers": [],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://www.pwc.com/gx/en/careers.html",
+    "error": "HTTP Error 403: Forbidden"
+   },
+   {
+    "url": "https://www.pwc.com/",
+    "error": "HTTP Error 403: Forbidden"
+   }
+  ]
+ },
+ {
+  "name": "EY",
+  "url": "https://careers.ey.com/",
+  "ats": [],
+  "markers": [
+   "sf_rmk"
+  ],
+  "final": "https://careers.ey.com/?locale=zh_TW",
+  "pages": [
+   {
+    "url": "https://careers.ey.com/",
+    "final": "https://careers.ey.com/"
+   },
+   {
+    "url": "https://careers.ey.com/platform/bootstrap/3.4.8_NES/css/bootstrap.min.css",
+    "final": "https://careers.ey.com/platform/bootstrap/3.4.8_NES/css/bootstrap.min.css"
+   },
+   {
+    "url": "https://rmkcdn.successfactors.com/bcfdbc8a/013850a8-6899-42b9-89b8-9.ico",
+    "final": "https://rmkcdn.successfactors.com/bcfdbc8a/013850a8-6899-42b9-89b8-9.ico"
+   },
+   {
+    "url": "https://careers.ey.com/?locale=en_US",
+    "final": "https://careers.ey.com/?locale=en_US"
+   },
+   {
+    "url": "https://careers.ey.com/?locale=de_DE",
+    "final": "https://careers.ey.com/?locale=de_DE"
+   },
+   {
+    "url": "https://careers.ey.com/?locale=en_GB",
+    "final": "https://careers.ey.com/?locale=en_GB"
+   },
+   {
+    "url": "https://careers.ey.com/?locale=es_MX",
+    "final": "https://careers.ey.com/?locale=es_MX"
+   },
+   {
+    "url": "https://careers.ey.com/?locale=fr_CA",
+    "final": "https://careers.ey.com/?locale=fr_CA"
+   },
+   {
+    "url": "https://careers.ey.com/?locale=fr_FR",
+    "final": "https://careers.ey.com/?locale=fr_FR"
+   },
+   {
+    "url": "https://careers.ey.com/?locale=he_IL",
+    "final": "https://careers.ey.com/?locale=he_IL"
+   },
+   {
+    "url": "https://careers.ey.com/?locale=ja_JP",
+    "final": "https://careers.ey.com/?locale=ja_JP"
+   },
+   {
+    "url": "https://careers.ey.com/?locale=ko_KR",
+    "final": "https://careers.ey.com/?locale=ko_KR"
+   },
+   {
+    "url": "https://careers.ey.com",
+    "final": "https://careers.ey.com"
+   },
+   {
+    "url": "https://careers.ey.com/?locale=pt_BR",
+    "final": "https://careers.ey.com/?locale=pt_BR"
+   },
+   {
+    "url": "https://careers.ey.com/?locale=zh_CN",
+    "final": "https://careers.ey.com/?locale=zh_CN"
+   },
+   {
+    "url": "https://careers.ey.com/?locale=zh_TW",
+    "final": "https://careers.ey.com/?locale=zh_TW"
+   }
+  ]
+ },
+ {
+  "name": "KPMG",
+  "url": "https://kpmg.com/xx/en/careers.html",
+  "ats": [],
+  "markers": [
+   "workday_word"
+  ],
+  "final": "https://kpmg.com/xx/en/careers/what-we-do.html",
+  "pages": [
+   {
+    "url": "https://kpmg.com/xx/en/careers.html",
+    "final": "https://kpmg.com/xx/en/careers.html"
+   },
+   {
+    "url": "https://kpmg.com/",
+    "final": "https://kpmg.com/xx/en.html"
+   },
+   {
+    "url": "https://assets.kpmg.com",
+    "error": "HTTP Error 404: Not Found"
+   },
+   {
+    "url": "https://kpmg.com/xx/en/about/industry-analyst-accolades/kpmg-most-well-known-firm-in-financial-services.html",
+    "final": "https://kpmg.com/xx/en/about/industry-analyst-accolades/kpmg-most-well-known-firm-in-financial-services.html"
+   },
+   {
+    "url": "https://kpmg.com/xx/en/careers/job-search.html",
+    "final": "https://kpmg.com/xx/en/careers/job-search.html"
+   },
+   {
+    "url": "https://kpmg.com/xx/en/careers/working-at-kpmg.html",
+    "final": "https://kpmg.com/xx/en/careers/working-at-kpmg.html"
+   },
+   {
+    "url": "https://kpmg.com/xx/en/careers/who-we-are.html",
+    "final": "https://kpmg.com/xx/en/careers/who-we-are.html"
+   },
+   {
+    "url": "https://kpmg.com/xx/en/careers/what-we-do.html",
+    "final": "https://kpmg.com/xx/en/careers/what-we-do.html"
+   }
+  ]
+ },
+ {
+  "name": "McKinsey",
+  "url": "https://www.mckinsey.com/careers",
+  "ats": [],
+  "markers": [],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://www.mckinsey.com/careers",
+    "error": "The read operation timed out"
+   },
+   {
+    "url": "https://www.mckinsey.com/",
+    "error": "The read operation timed out"
+   }
+  ]
+ },
+ {
+  "name": "Capgemini",
+  "url": "https://www.capgemini.com/careers/",
+  "ats": [],
+  "markers": [],
+  "final": "https://www.capgemini.com/insights/research-library/what-matters-to-todays-consumer-2026/",
+  "pages": [
+   {
+    "url": "https://www.capgemini.com/careers/",
+    "final": "https://www.capgemini.com/careers/"
+   },
+   {
+    "url": "https://www.capgemini.com/",
+    "final": "https://www.capgemini.com/"
+   },
+   {
+    "url": "https://www.capgemini.com/feed/",
+    "final": "https://www.capgemini.com/feed/"
+   },
+   {
+    "url": "https://www.capgemini.com/insights/research-institute/conversations-for-tomorrow/",
+    "final": "https://www.capgemini.com/insights/research-institute/conversations-for-tomorrow/"
+   },
+   {
+    "url": "https://www.capgemini.com/insights/initiatives-and-research-with-wef/",
+    "final": "https://www.capgemini.com/insights/initiatives-and-research-with-wef/"
+   },
+   {
+    "url": "https://www.capgemini.com/insights/research-library/",
+    "final": "https://www.capgemini.com/insights/research-library/"
+   },
+   {
+    "url": "https://www.capgemini.com/careers/why-join-capgemini/",
+    "final": "https://www.capgemini.com/careers/why-join-capgemini/"
+   },
+   {
+    "url": "https://www.capgemini.com/careers/life-at-capgemini/",
+    "final": "https://www.capgemini.com/careers/life-at-capgemini/"
+   },
+   {
+    "url": "https://www.capgemini.com/careers/meet-our-people/",
+    "final": "https://www.capgemini.com/careers/meet-our-people/"
+   },
+   {
+    "url": "https://www.capgemini.com/careers/career-paths/",
+    "final": "https://www.capgemini.com/careers/career-paths/"
+   },
+   {
+    "url": "https://www.capgemini.com/wp-content/uploads/2026/09/NEW-Capgemini-MondialAuto-WebSite-Banner.jpg",
+    "final": "https://www.capgemini.com/wp-content/uploads/2026/09/NEW-Capgemini-MondialAuto-WebSite-Banner.jpg"
+   },
+   {
+    "url": "https://www.prnewswire.com/news-releases/sixty-five-percent-of-consumers-will-use-ai-to-shop-this-holiday-season-but-only-8-of-retailers-say-theyre-ready-302857040.html",
+    "final": "https://www.prnewswire.com/news-releases/sixty-five-percent-of-consumers-will-use-ai-to-shop-this-holiday-season-but-only-8-of-retailers-say-theyre-ready-302857040.html"
+   },
+   {
+    "url": "https://www.searchenginejournal.com/ai-tools-recommend-brands-but-cite-other-sites-data-shows/587160/",
+    "final": "https://www.searchenginejournal.com/ai-tools-recommend-brands-but-cite-other-sites-data-shows/587160/"
+   },
+   {
+    "url": "https://www.capgemini.com/insights/research-library/agentic-commerce-consumer-products-retail/",
+    "final": "https://www.capgemini.com/insights/research-library/agentic-commerce-consumer-products-retail/"
+   },
+   {
+    "url": "https://www.capgemini.com/insights/research-library/human-led-ai-powered-cx-transformation/",
+    "final": "https://www.capgemini.com/insights/research-library/human-led-ai-powered-cx-transformation/"
+   },
+   {
+    "url": "https://www.capgemini.com/insights/research-library/what-matters-to-todays-consumer-2026/",
+    "final": "https://www.capgemini.com/insights/research-library/what-matters-to-todays-consumer-2026/"
+   }
+  ]
+ },
+ {
+  "name": "Vodafone",
+  "url": "https://careers.vodafone.com/",
+  "ats": [],
+  "markers": [],
+  "final": "https://careers.vodafone.com/our-teams/technology/",
+  "pages": [
+   {
+    "url": "https://careers.vodafone.com/",
+    "final": "https://careers.vodafone.com/"
+   },
+   {
+    "url": "https://careers.vodafone.com/wp-content/themes/vodafone/assets/img/favicon.ico",
+    "final": "https://careers.vodafone.com/wp-content/themes/vodafone/assets/img/favicon.ico"
+   },
+   {
+    "url": "https://careers.vodafone.com",
+    "final": "https://careers.vodafone.com"
+   },
+   {
+    "url": "https://careers.vodafone.com/life-at-vodafone/",
+    "final": "https://careers.vodafone.com/life-at-vodafone/"
+   },
+   {
+    "url": "https://careers.vodafone.com/life-at-vodafone/belong-at-vodafone/",
+    "final": "https://careers.vodafone.com/life-at-vodafone/belong-at-vodafone/"
+   },
+   {
+    "url": "https://careers.vodafone.com/life-at-vodafone/belong-at-vodafone/gender-equality/",
+    "final": "https://careers.vodafone.com/life-at-vodafone/belong-at-vodafone/gender-equality/"
+   },
+   {
+    "url": "https://careers.vodafone.com/life-at-vodafone/belong-at-vodafone/lgbt/",
+    "final": "https://careers.vodafone.com/life-at-vodafone/belong-at-vodafone/lgbt/"
+   },
+   {
+    "url": "https://careers.vodafone.com/life-at-vodafone/belong-at-vodafone/disability/",
+    "final": "https://careers.vodafone.com/life-at-vodafone/belong-at-vodafone/disability/"
+   },
+   {
+    "url": "https://careers.vodafone.com/life-at-vodafone/belong-at-vodafone/reach/",
+    "final": "https://careers.vodafone.com/life-at-vodafone/belong-at-vodafone/reach/"
+   },
+   {
+    "url": "https://careers.vodafone.com/life-at-vodafone/grow-with-us/",
+    "final": "https://careers.vodafone.com/life-at-vodafone/grow-with-us/"
+   },
+   {
+    "url": "https://careers.vodafone.com/life-at-vodafone/impact/",
+    "final": "https://careers.vodafone.com/life-at-vodafone/impact/"
+   },
+   {
+    "url": "https://careers.vodafone.com/life-at-vodafone/leadership/",
+    "final": "https://careers.vodafone.com/life-at-vodafone/leadership/"
+   },
+   {
+    "url": "https://careers.vodafone.com/life-at-vodafone/benefits/",
+    "final": "https://careers.vodafone.com/life-at-vodafone/benefits/"
+   },
+   {
+    "url": "https://careers.vodafone.com/life-at-vodafone/hear-from-our-people/",
+    "final": "https://careers.vodafone.com/life-at-vodafone/hear-from-our-people/"
+   },
+   {
+    "url": "https://careers.vodafone.com/our-teams/",
+    "final": "https://careers.vodafone.com/our-teams/"
+   },
+   {
+    "url": "https://careers.vodafone.com/our-teams/technology/",
+    "final": "https://careers.vodafone.com/our-teams/technology/"
+   }
+  ]
+ },
+ {
+  "name": "Kone",
+  "url": "https://www.kone.com/en/careers/",
+  "ats": [
+   {
+    "ats": "workday",
+    "ids": [
+     "kone",
+     "wd3",
+     "Careers"
+    ]
+   }
+  ],
+  "markers": [
+   "workday_word"
+  ],
+  "final": "https://www.kone.com/global/en.html",
+  "pages": [
+   {
+    "url": "https://www.kone.com/en/careers/",
+    "final": "https://www.kone.com/global/en/careers.html"
+   },
+   {
+    "url": "https://www.kone.com/",
+    "final": "https://www.kone.com/global/en.html"
+   }
+  ]
+ },
+ {
+  "name": "Hilton",
+  "url": "https://jobs.hilton.com/",
+  "ats": [
+   {
+    "ats": "oracle",
+    "ids": [
+     "efet.fa.us2.oraclecloud.com",
+     "CX_1"
+    ]
+   }
+  ],
+  "markers": [],
+  "final": "https://jobs.hilton.com/",
+  "pages": [
+   {
+    "url": "https://jobs.hilton.com/",
+    "final": "https://jobs.hilton.com/"
+   }
+  ]
+ },
+ {
+  "name": "Marriott",
+  "url": "https://careers.marriott.com/",
+  "ats": [
+   {
+    "ats": "oracle",
+    "ids": [
+     "ejwl.fa.us2.oraclecloud.com",
+     "CX"
+    ]
+   }
+  ],
+  "markers": [],
+  "final": "https://careers.marriott.com/",
+  "pages": [
+   {
+    "url": "https://careers.marriott.com/",
+    "final": "https://careers.marriott.com/"
+   }
+  ]
+ },
+ {
+  "name": "Ryanair",
+  "url": "https://careers.ryanair.com/",
+  "ats": [
+   {
+    "ats": "successfactors",
+    "ids": [
+     "career2.successfactors.eu",
+     "ryanairdac"
+    ]
+   }
+  ],
+  "markers": [],
+  "final": "https://careers.ryanair.com/",
+  "pages": [
+   {
+    "url": "https://careers.ryanair.com/",
+    "final": "https://careers.ryanair.com/"
+   }
+  ]
+ },
+ {
+  "name": "CRH",
+  "url": "https://www.crh.com/careers",
+  "ats": [],
+  "markers": [
+   "sf_rmk"
+  ],
+  "final": "https://www.crh.com/careers/americas-careers/military-careers/",
+  "pages": [
+   {
+    "url": "https://www.crh.com/careers",
+    "final": "https://www.crh.com/careers/"
+   },
+   {
+    "url": "https://www.crh.com/",
+    "final": "https://www.crh.com/"
+   },
+   {
+    "url": "https://www.crh.com/careers/",
+    "final": "https://www.crh.com/careers/"
+   },
+   {
+    "url": "https://www.crh.com/careers/europe-finance-graduate-program/",
+    "final": "https://www.crh.com/careers/europe-finance-graduate-program/"
+   },
+   {
+    "url": "https://jobs.crh.com/go/CRH-Americas/9763701/",
+    "final": "https://jobs.crh.com/go/CRH-Americas/9763701/"
+   },
+   {
+    "url": "https://www.crh.com/careers/americas-careers/",
+    "final": "https://www.crh.com/careers/americas-careers/"
+   },
+   {
+    "url": "https://jobs.crh.com/go/CRH-International/9763801/",
+    "final": "https://jobs.crh.com/go/CRH-International/9763801/"
+   },
+   {
+    "url": "https://www.crh.com/news-and-insights/innovation/texas-the-infrastructure-challenge-and-opportunity/",
+    "final": "https://www.crh.com/news-and-insights/innovation/texas-the-infrastructure-challenge-and-opportunity/"
+   },
+   {
+    "url": "https://jobs.crh.com/job/Finance-Graduate/529211-en_US/",
+    "final": "https://jobs.crh.com/job/Finance-Graduate/529211-en_US/"
+   },
+   {
+    "url": "https://jobs.crh.com/platform/bootstrap/3.4.8_NES/css/bootstrap.min.css",
+    "final": "https://jobs.crh.com/platform/bootstrap/3.4.8_NES/css/bootstrap.min.css"
+   },
+   {
+    "url": "https://jobs.crh.com?locale=en_US",
+    "final": "https://jobs.crh.com?locale=en_US"
+   },
+   {
+    "url": "https://jobs.crh.com?locale=fr_CA",
+    "final": "https://jobs.crh.com?locale=fr_CA"
+   },
+   {
+    "url": "https://jobs.crh.com/talentcommunity/subscribe/?locale=en_US",
+    "final": "https://jobs.crh.com/talentcommunity/subscribe/?locale=en_US"
+   },
+   {
+    "url": "https://www.crhamericas.com/careers",
+    "final": "https://www.crh.com/careers/americas-careers/"
+   },
+   {
+    "url": "https://www.crh.com/careers/americas/benefits/",
+    "final": "https://www.crh.com/careers/americas-careers/employee-benefits/"
+   },
+   {
+    "url": "https://www.crh.com/careers/americas/military",
+    "final": "https://www.crh.com/careers/americas-careers/military-careers/"
+   }
+  ]
+ },
+ {
+  "name": "Kerry Group",
+  "url": "https://jobs.kerry.com/",
+  "ats": [
+   {
+    "ats": "successfactors",
+    "ids": [
+     "career5.successfactors.eu",
+     "kerryluxemP"
+    ]
+   }
+  ],
+  "markers": [
+   "phenom"
+  ],
+  "final": "https://jobs.kerry.com/us/en/home",
+  "pages": [
+   {
+    "url": "https://jobs.kerry.com/",
+    "final": "https://jobs.kerry.com/us/en"
+   },
+   {
+    "url": "https://cdn.phenompeople.com/CareerConnectResources/KGUKGRGLOBAL/en_us/desktop/assets/images/favicon.ico?v=1765201360906",
+    "final": "https://cdn.phenompeople.com/CareerConnectResources/KGUKGRGLOBAL/en_us/desktop/assets/images/favicon.ico?v=1765201360906"
+   },
+   {
+    "url": "https://jobs.kerry.com/us/en/search-results",
+    "final": "https://jobs.kerry.com/us/en/search-results"
+   },
+   {
+    "url": "https://jobs.kerry.com/us/en/jointalentcommunity",
+    "final": "https://jobs.kerry.com/us/en/jointalentcommunity"
+   },
+   {
+    "url": "https://jobs.kerry.com/us/en/working-here",
+    "final": "https://jobs.kerry.com/us/en/working-here"
+   },
+   {
+    "url": "https://jobs.kerry.com/us/en/diversity",
+    "final": "https://jobs.kerry.com/us/en/diversity"
+   },
+   {
+    "url": "https://jobs.kerry.com/us/en/sustainability",
+    "final": "https://jobs.kerry.com/us/en/sustainability"
+   },
+   {
+    "url": "https://jobs.kerry.com/us/en/early-careers",
+    "final": "https://jobs.kerry.com/us/en/early-careers"
+   },
+   {
+    "url": "https://jobs.kerry.com/us/en/home",
+    "final": "https://jobs.kerry.com/us/en/home"
+   }
+  ]
+ },
+ {
+  "name": "Smurfit Westrock",
+  "url": "https://www.smurfitwestrock.com/careers",
+  "ats": [
+   {
+    "ats": "avature",
+    "ids": [
+     "westrockta.avature.net"
+    ]
+   }
+  ],
+  "markers": [],
+  "final": "https://www.smurfitwestrock.com/careers/our-shared-values",
+  "pages": [
+   {
+    "url": "https://www.smurfitwestrock.com/careers",
+    "final": "https://www.smurfitwestrock.com/careers"
+   },
+   {
+    "url": "https://www.smurfitwestrock.com/",
+    "final": "https://www.smurfitwestrock.com/"
+   },
+   {
+    "url": "https://www.smurfitwestrock.com/areas/digitalmarketingplatform/assets/fonts/e_w_rg.woff2",
+    "final": "https://www.smurfitwestrock.com/areas/digitalmarketingplatform/assets/fonts/e_w_rg.woff2"
+   },
+   {
+    "url": "https://www.smurfitwestrock.com/careers/jobs",
+    "final": "https://www.smurfitwestrock.com/careers/jobs"
+   },
+   {
+    "url": "https://www.smurfitwestrock.com/careers/our-shared-values",
+    "final": "https://www.smurfitwestrock.com/careers/our-shared-values"
+   }
+  ]
+ },
+ {
+  "name": "Glanbia",
+  "url": "https://www.glanbia.com/careers",
+  "ats": [
+   {
+    "ats": "successfactors",
+    "ids": [
+     "career2.successfactors.eu",
+     "glanbiaplc"
+    ]
+   }
+  ],
+  "markers": [
+   "sf_rmk"
+  ],
+  "final": "https://www.glanbia.com/",
+  "pages": [
+   {
+    "url": "https://www.glanbia.com/careers",
+    "final": "https://careers.glanbia.com/"
+   },
+   {
+    "url": "https://www.glanbia.com/",
+    "final": "https://www.glanbia.com/"
+   }
+  ]
+ },
+ {
+  "name": "AIB",
+  "url": "https://aib.ie/careers",
+  "ats": [],
+  "markers": [],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://aib.ie/careers",
+    "error": "HTTP Error 403: Forbidden"
+   },
+   {
+    "url": "https://aib.ie/",
+    "error": "HTTP Error 403: Forbidden"
+   }
+  ]
+ },
+ {
+  "name": "Bank of Ireland",
+  "url": "https://careers.bankofireland.com/",
+  "ats": [],
+  "markers": [],
+  "final": "https://careers.bankofireland.com/jobs/search",
+  "pages": [
+   {
+    "url": "https://careers.bankofireland.com/",
+    "final": "https://careers.bankofireland.com/"
+   },
+   {
+    "url": "https://d8yy0r0qfxgnb.cloudfront.net/public/uploads/6eb031be31dff20c1b5d/companies/favicons/6eb031be31dff20c1b5d/basic/favicon-16x16.png?1651845315",
+    "final": "https://d8yy0r0qfxgnb.cloudfront.net/public/uploads/6eb031be31dff20c1b5d/companies/favicons/6eb031be31dff20c1b5d/basic/favicon-16x16.png?1651845315"
+   },
+   {
+    "url": "https://careers.bankofireland.com/blogs/all-blogs/search",
+    "final": "https://careers.bankofireland.com/blogs/all-blogs/search"
+   },
+   {
+    "url": "https://careers.bankofireland.com/neuroinclusion",
+    "final": "https://careers.bankofireland.com/neuroinclusion"
+   },
+   {
+    "url": "https://careers.bankofireland.com/inclusion-and-diversity",
+    "final": "https://careers.bankofireland.com/inclusion-and-diversity"
+   },
+   {
+    "url": "https://careers.bankofireland.com/work-with-us",
+    "final": "https://careers.bankofireland.com/work-with-us"
+   },
+   {
+    "url": "https://careers.bankofireland.com/home",
+    "final": "https://careers.bankofireland.com/home"
+   },
+   {
+    "url": "https://careers.bankofireland.com/blogs/all-blogs/search?tag=%23AI",
+    "final": "https://careers.bankofireland.com/blogs/all-blogs/search?tag=%23AI"
+   },
+   {
+    "url": "https://careers.bankofireland.com/blogs/all-blogs/search?tag=%23ColleagueStories",
+    "final": "https://careers.bankofireland.com/blogs/all-blogs/search?tag=%23ColleagueStories"
+   },
+   {
+    "url": "https://careers.bankofireland.com/blogs/all-blogs/search?tag=%23Culture",
+    "final": "https://careers.bankofireland.com/blogs/all-blogs/search?tag=%23Culture"
+   },
+   {
+    "url": "https://careers.bankofireland.com/blogs/all-blogs/search?tag=%23Diversity",
+    "final": "https://careers.bankofireland.com/blogs/all-blogs/search?tag=%23Diversity"
+   },
+   {
+    "url": "https://careers.bankofireland.com/blogs/all-blogs/search?tag=%23Graduates",
+    "final": "https://careers.bankofireland.com/blogs/all-blogs/search?tag=%23Graduates"
+   },
+   {
+    "url": "https://careers.bankofireland.com/blogs/all-blogs/search?tag=%23Inclusion",
+    "final": "https://careers.bankofireland.com/blogs/all-blogs/search?tag=%23Inclusion"
+   },
+   {
+    "url": "https://careers.bankofireland.com/blogs/all-blogs/search?tag=%23interviewing",
+    "final": "https://careers.bankofireland.com/blogs/all-blogs/search?tag=%23interviewing"
+   },
+   {
+    "url": "https://careers.bankofireland.com/blogs/all-blogs/search?tag=%23SupportHub",
+    "final": "https://careers.bankofireland.com/blogs/all-blogs/search?tag=%23SupportHub"
+   },
+   {
+    "url": "https://careers.bankofireland.com/jobs/search",
+    "final": "https://careers.bankofireland.com/jobs/search"
+   }
+  ]
+ },
+ {
+  "name": "ESB",
+  "url": "https://esb.ie/careers",
+  "ats": [],
+  "markers": [
+   "sf_rmk"
+  ],
+  "final": "https://careers.esb.ie/go/All-Jobs/882102/?q=&amp;sortColumn=referencedate&amp;sortDirection=desc",
+  "pages": [
+   {
+    "url": "https://esb.ie/careers",
+    "final": "https://esb.ie/careers"
+   },
+   {
+    "url": "https://esb.ie/",
+    "final": "https://esb.ie/"
+   },
+   {
+    "url": "https://esb.ie/careers/apply-now",
+    "final": "https://esb.ie/careers/apply-now"
+   },
+   {
+    "url": "https://esb.ie/careers/our-people-promise",
+    "final": "https://esb.ie/careers/our-people-promise"
+   },
+   {
+    "url": "https://esb.ie/careers/professionals",
+    "final": "https://esb.ie/careers/professionals"
+   },
+   {
+    "url": "https://esb.ie/careers/esb-early-careers",
+    "final": "https://esb.ie/careers/esb-early-careers"
+   },
+   {
+    "url": "https://esb.ie/careers/diversity-equity-and-inclusion",
+    "final": "https://esb.ie/careers/diversity-equity-and-inclusion"
+   },
+   {
+    "url": "https://esb.ie/investors/our-investment-proposition",
+    "final": "https://esb.ie/investors/our-investment-proposition"
+   },
+   {
+    "url": "https://careers.esb.ie/go/All-Jobs/882102/?locale=en_GB/",
+    "final": "https://careers.esb.ie/go/All-Jobs/882102/?locale=en_GB/"
+   },
+   {
+    "url": "https://www.facebook.com/ESBCareers/",
+    "error": "HTTP Error 400: Bad Request"
+   },
+   {
+    "url": "https://esb.ie/careers/esb-early-careers/esb-graduate-programme",
+    "final": "https://esb.ie/careers/esb-early-careers/esb-graduate-programme"
+   },
+   {
+    "url": "https://esb.ie/careers/esb-early-careers/undergraduate-programme",
+    "final": "https://esb.ie/careers/esb-early-careers/undergraduate-programme"
+   },
+   {
+    "url": "https://www.esbnetworks.ie/about-us/careers/apprenticeship",
+    "final": "https://www.esbnetworks.ie/about-us/careers/apprenticeship"
+   },
+   {
+    "url": "https://careers.esb.ie/platform/bootstrap/3.4.8_NES/css/bootstrap.min.css",
+    "final": "https://careers.esb.ie/platform/bootstrap/3.4.8_NES/css/bootstrap.min.css"
+   },
+   {
+    "url": "https://careers.esb.ie/go/All-Jobs/882102/?locale=en_GB",
+    "final": "https://careers.esb.ie/go/All-Jobs/882102/?locale=en_GB"
+   },
+   {
+    "url": "https://careers.esb.ie/go/All-Jobs/882102/?q=&amp;sortColumn=referencedate&amp;sortDirection=desc",
+    "final": "https://careers.esb.ie/go/All-Jobs/882102/?q=&amp;sortColumn=referencedate&amp;sortDirection=desc"
+   }
+  ]
+ },
+ {
+  "name": "Musgrave",
+  "url": "https://www.musgravegroup.com/careers",
+  "ats": [],
+  "markers": [],
+  "final": "https://supervalu.ie/authorise?to=/careers/&register=true",
+  "pages": [
+   {
+    "url": "https://www.musgravegroup.com/careers",
+    "final": "https://musgravegroup.com/careers/"
+   },
+   {
+    "url": "https://www.musgravegroup.com/",
+    "final": "https://musgravegroup.com/"
+   },
+   {
+    "url": "https://gmpg.org/xfn/11",
+    "final": "https://gmpg.org/xfn/11"
+   },
+   {
+    "url": "https://musgravegroup.com/careers/",
+    "final": "https://musgravegroup.com/careers/"
+   },
+   {
+    "url": "https://musgravegroup.com/careers/vacancies/",
+    "final": "https://musgravegroup.com/careers/vacancies/"
+   },
+   {
+    "url": "https://supervalu.ie/careers/",
+    "final": "https://supervalu.ie/careers/"
+   },
+   {
+    "url": "https://centra.ie/careers/",
+    "final": "https://centra.ie/careers/"
+   },
+   {
+    "url": "https://musgravegroup.com/careers/supply-chain/",
+    "final": "https://musgravegroup.com/careers/supply-chain/"
+   },
+   {
+    "url": "https://musgravegroup.com/careers/technology-innovation-design/",
+    "final": "https://musgravegroup.com/careers/technology-innovation-design/"
+   },
+   {
+    "url": "https://musgravegroup.com/careers/sales-operations/",
+    "final": "https://musgravegroup.com/careers/sales-operations/"
+   },
+   {
+    "url": "https://musgravegroup.com/careers/commercial/",
+    "final": "https://musgravegroup.com/careers/commercial/"
+   },
+   {
+    "url": "https://musgravegroup.com/careers/finance/",
+    "final": "https://musgravegroup.com/careers/finance/"
+   },
+   {
+    "url": "https://musgravegroup.com/careers/vacancies/job.permalink",
+    "error": "HTTP Error 404: Not Found"
+   },
+   {
+    "url": "https://supervalu.ie/favicon.ico",
+    "final": "https://supervalu.ie/favicon.ico"
+   },
+   {
+    "url": "https://supervalu.ie/authorise?to=/careers/",
+    "final": "https://supervalu.ie/authorise?to=/careers/"
+   },
+   {
+    "url": "https://supervalu.ie/authorise?to=/careers/&register=true",
+    "final": "https://supervalu.ie/authorise?to=/careers/&register=true"
+   }
+  ]
+ },
+ {
+  "name": "Stryker",
+  "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers",
+  "ats": [
+   {
+    "ats": "workday",
+    "ids": [
+     "stryker",
+     "wd1",
+     "StrykerCareers"
+    ]
+   }
+  ],
+  "markers": [
+   "workday_word"
+  ],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers",
+    "final": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers"
+   },
+   {
+    "url": "https://stryker.wd1.myworkdayjobs.com/",
+    "error": "HTTP Error 406: Not Acceptable"
+   }
+  ]
+ },
+ {
+  "name": "Boston Scientific",
+  "url": "https://bostonscientific.wd1.myworkdayjobs.com/BSCI",
+  "ats": [],
+  "markers": [],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://bostonscientific.wd1.myworkdayjobs.com/BSCI",
+    "error": "HTTP Error 500: Internal Server Error"
+   },
+   {
+    "url": "https://bostonscientific.wd1.myworkdayjobs.com/",
+    "error": "HTTP Error 406: Not Acceptable"
+   }
+  ]
+ },
+ {
+  "name": "Analog Devices",
+  "url": "https://analogdevices.wd1.myworkdayjobs.com/External",
+  "ats": [
+   {
+    "ats": "workday",
+    "ids": [
+     "analogdevices",
+     "wd1",
+     "External"
+    ]
+   }
+  ],
+  "markers": [
+   "workday_word"
+  ],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/External",
+    "final": "https://analogdevices.wd1.myworkdayjobs.com/External"
+   },
+   {
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/",
+    "error": "HTTP Error 406: Not Acceptable"
+   }
+  ]
+ },
+ {
+  "name": "Intercom",
+  "url": "https://www.intercom.com/careers",
+  "ats": [],
+  "markers": [],
+  "final": "https://fin.ai/research/low-rank-key-value-attention-reducing-kv-cache-memory-and-maintaining-head-diversity",
+  "pages": [
+   {
+    "url": "https://www.intercom.com/careers",
+    "final": "https://fin.ai/careers"
+   },
+   {
+    "url": "https://www.intercom.com/",
+    "final": "https://www.intercom.com/"
+   },
+   {
+    "url": "https://fin.ai/",
+    "final": "https://fin.ai/"
+   },
+   {
+    "url": "https://fin.ai/research/",
+    "final": "https://fin.ai/research"
+   },
+   {
+    "url": "https://fin.ai/careers",
+    "final": "https://fin.ai/careers"
+   },
+   {
+    "url": "https://fin.ai/careers/listings",
+    "final": "https://fin.ai/careers/listings"
+   },
+   {
+    "url": "https://fin.ai/careers/listings?loc=berlin",
+    "final": "https://fin.ai/careers/listings?loc=berlin"
+   },
+   {
+    "url": "https://fin.ai/careers/listings?loc=chicago",
+    "final": "https://fin.ai/careers/listings?loc=chicago"
+   },
+   {
+    "url": "https://fin.ai/careers/listings?loc=dublin",
+    "final": "https://fin.ai/careers/listings?loc=dublin"
+   },
+   {
+    "url": "https://fin.ai/careers/listings?loc=london",
+    "final": "https://fin.ai/careers/listings?loc=london"
+   },
+   {
+    "url": "https://vercel.intercom.com/_next/static/immutable/chunks/44u7dsj03sn5a.css https://vercel.intercom.com/_next/static/immutable/chunks/3jrikijy97xza.css https://vercel.intercom.com/_next/static/immutable/chunks/1c2_-_e0pjrff.css",
+    "error": "URL can't contain control characters. '/_next/static/immutable/chunks/44u7dsj03sn5a.css https://vercel.intercom.com/_nex"
+   },
+   {
+    "url": "https://fin.ai/_next/static/immutable/chunks/34ymxdy3jqw3r.css /_next/static/immutable/chunks/3f--6o2tzdlbc.css /_next/static/immutable/chunks/1wt1o0-z1150k.css /_next/static/immutable/chunks/2ooa7u9f6p_e9.css /_next/static/immutable/chunks/2s7pur_ut9_zu.css /_next/static/immutable/chunks/1v3g3bg92g9lo.css",
+    "error": "URL can't contain control characters. '/_next/static/immutable/chunks/34ymxdy3jqw3r.css /_next/static/immutable/chunks/3"
+   },
+   {
+    "url": "https://fin.ai/research/how-fin-scales-customer-defined-behaviour",
+    "final": "https://fin.ai/research/how-fin-scales-customer-defined-behaviour"
+   },
+   {
+    "url": "https://fin.ai/research/what-does-it-mean-for-a-model-to-think-reasoning-recursion-and-the-operator-design-space",
+    "final": "https://fin.ai/research/what-does-it-mean-for-a-model-to-think-reasoning-recursion-and-the-operator-design-space"
+   },
+   {
+    "url": "https://fin.ai/research/structured-agentic-rag-for-e-commerce",
+    "final": "https://fin.ai/research/structured-agentic-rag-for-e-commerce"
+   },
+   {
+    "url": "https://fin.ai/research/low-rank-key-value-attention-reducing-kv-cache-memory-and-maintaining-head-diversity",
+    "final": "https://fin.ai/research/low-rank-key-value-attention-reducing-kv-cache-memory-and-maintaining-head-diversity"
+   }
+  ]
+ },
+ {
+  "name": "Indeed",
+  "url": "https://www.indeed.jobs/",
+  "ats": [],
+  "markers": [],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://www.indeed.jobs/",
+    "error": "HTTP Error 403: Forbidden"
+   }
+  ]
+ }
+]
