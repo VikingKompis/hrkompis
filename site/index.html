@@ -289,8 +289,8 @@ function aboutFill(p){
 }
 
 
-// Data is refreshed every day at 05:00 Stockholm time by GitHub Actions.
-const DATA_URL = "https://raw.githubusercontent.com/VikingKompis/hrkompis/main/data/jobs.json";
+// Data is refreshed every day at 05:00 Stockholm time by GitHub Actions; Cloudflare Pages rebuilds the site on each refresh.
+const DATA_URL = "/jobs.json";
 const CNAME = {gb:"United Kingdom",ie:"Ireland",dk:"Denmark",de:"Germany",nl:"Netherlands",se:"Sweden"};
 const SRC = {af:"Arbetsförmedlingen",eures:"EURES",jobnet:"Jobnet",nhs:"NHS Jobs",workhub:"UK Work Hub",career:"Employer careers site",publicjobs:"publicjobs.ie",adzuna:"Jobs by Adzuna"};
 const FILTERS = [

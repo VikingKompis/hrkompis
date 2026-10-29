@@ -7,7 +7,7 @@ refreshed every day at 05:00 Stockholm time by GitHub Actions.
   the UK Work Hub, publicjobs.ie and employer career sites (Greenhouse, Lever, SmartRecruiters).
 - `scripts/process.py` keeps HR roles only and tags each with country, sector, ad language,
   HR job family and level, then writes `data/jobs.json`.
-- `site/` is the hrkompis.com front end. It reads `data/jobs.json` from this repository.
+- `site/` is the hrkompis.com front end, hosted on Cloudflare Pages. Every push to main (including the daily refresh) rebuilds the site: the build copies `site/index.html` and `data/jobs.json` into `_site/`.
 
 If a source fails, yesterday's data for that source is kept and the run is marked failed,
 which sends an email alert. Run it by hand from the Actions tab with "Run workflow".
