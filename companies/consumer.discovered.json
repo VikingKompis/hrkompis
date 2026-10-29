@@ -1,0 +1,1919 @@
+[
+ {
+  "name": "BSH",
+  "url": "https://www.bsh-group.com/careers",
+  "ats": [],
+  "markers": [],
+  "final": "https://www.bosch-home.com.au/store/resources/0ab58b8de1d262ba219974f92e6c70f194164bdf/mbmd/a01-rebrush/css.min/style.min.css",
+  "pages": [
+   {
+    "url": "https://www.bsh-group.com/careers",
+    "error": "HTTP Error 404: Not Found"
+   },
+   {
+    "url": "https://www.bsh-group.com/",
+    "final": "https://www.bsh-group.com/"
+   },
+   {
+    "url": "https://www.bsh-group.com/career/welcome-at-bsh/",
+    "final": "https://www.bsh-group.com/career/welcome-at-bsh/"
+   },
+   {
+    "url": "https://www.bsh-group.com/career/our-jobs/",
+    "final": "https://www.bsh-group.com/career/our-jobs/"
+   },
+   {
+    "url": "https://www.bsh-group.com/career/why-bsh/",
+    "final": "https://www.bsh-group.com/career/why-bsh/"
+   },
+   {
+    "url": "https://www.bsh-group.com/career/start-your-career/",
+    "final": "https://www.bsh-group.com/career/start-your-career/"
+   },
+   {
+    "url": "https://www.bsh-group.com/career/corporate-philosophy/",
+    "final": "https://www.bsh-group.com/career/corporate-philosophy/"
+   },
+   {
+    "url": "https://www.bsh-group.com/_next/static/media/dc6d2a64e9dbf3bc-s.p.3mjzw95c0-_52.woff2",
+    "final": "https://www.bsh-group.com/_next/static/media/dc6d2a64e9dbf3bc-s.p.3mjzw95c0-_52.woff2"
+   },
+   {
+    "url": "https://www.bosch-home.com.au/careers",
+    "final": "https://www.bosch-home.com.au/careers"
+   },
+   {
+    "url": "https://jobs.bsh-group.de/index/at",
+    "final": "https://jobs.bsh-group.de/index/at"
+   },
+   {
+    "url": "https://jobs.bsh-group.de/index/bel?persist_lang=en",
+    "final": "https://jobs.bsh-group.de/index/bel?persist_lang=en"
+   },
+   {
+    "url": "https://phh.tbe.taleo.net/phh04/ats/careers/v2/jobSearch?act=redirectCwsV2&amp;cws=43&amp;org=BSHHOME",
+    "error": "HTTP Error 500: 500"
+   },
+   {
+    "url": "https://jobs.bsh-group.de/index/egy",
+    "final": "https://jobs.bsh-group.de/index/egy"
+   },
+   {
+    "url": "https://jobs.bsh-group.de/index/fra",
+    "final": "https://jobs.bsh-group.de/index/fra"
+   },
+   {
+    "url": "https://jobs.bsh-group.de/index",
+    "final": "https://jobs.bsh-group.de/index"
+   },
+   {
+    "url": "https://www.bosch-home.com.au/store/resources/0ab58b8de1d262ba219974f92e6c70f194164bdf/mbmd/a01-rebrush/css.min/style.min.css",
+    "final": "https://www.bosch-home.com.au/store/resources/0ab58b8de1d262ba219974f92e6c70f194164bdf/mbmd/a01-rebrush/css.min/style.min.css"
+   }
+  ]
+ },
+ {
+  "name": "Haier Europe",
+  "url": "https://corporate.haier-europe.com/careers/",
+  "ats": [],
+  "markers": [],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://corporate.haier-europe.com/careers/",
+    "error": "HTTP Error 403: Forbidden"
+   },
+   {
+    "url": "https://corporate.haier-europe.com/",
+    "error": "HTTP Error 403: Forbidden"
+   }
+  ]
+ },
+ {
+  "name": "Beko",
+  "url": "https://www.bekoeurope.com/careers",
+  "ats": [],
+  "markers": [],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://www.bekoeurope.com/careers",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl."
+   },
+   {
+    "url": "https://www.bekoeurope.com/",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl."
+   }
+  ]
+ },
+ {
+  "name": "Arçelik",
+  "url": "https://www.arcelikglobal.com/en/career/",
+  "ats": [
+   {
+    "ats": "successfactors",
+    "ids": [
+     "career5.successfactors.eu",
+     "Koc"
+    ]
+   }
+  ],
+  "markers": [
+   "sf_rmk"
+  ],
+  "final": "https://www.koccareers.com/beko/",
+  "pages": [
+   {
+    "url": "https://www.arcelikglobal.com/en/career/",
+    "error": "HTTP Error 404: Not Found"
+   },
+   {
+    "url": "https://www.arcelikglobal.com/",
+    "final": "https://www.arcelikglobal.com/"
+   },
+   {
+    "url": "https://www.bekocorporate.com/career/",
+    "final": "https://www.koccareers.com/beko/"
+   },
+   {
+    "url": "https://www.koccareers.com/beko/",
+    "final": "https://www.koccareers.com/beko/"
+   }
+  ]
+ },
+ {
+  "name": "Samsung",
+  "url": "https://www.samsung.com/uk/about-us/careers/",
+  "ats": [
+   {
+    "ats": "workday",
+    "ids": [
+     "sec",
+     "wd3",
+     "Samsung_Careers"
+    ]
+   }
+  ],
+  "markers": [
+   "workday_word"
+  ],
+  "final": "https://www.samsung.com/us/careers/",
+  "pages": [
+   {
+    "url": "https://www.samsung.com/uk/about-us/careers/",
+    "final": "https://www.samsung.com/uk/about-us/careers/"
+   },
+   {
+    "url": "https://www.samsung.com/",
+    "final": "https://www.samsung.com/us/"
+   },
+   {
+    "url": "https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/manifest/uk.json",
+    "error": "HTTP Error 404: Not Found"
+   },
+   {
+    "url": "https://www.samsung.com/uk/about-us/careers/life-at-samsung/",
+    "final": "https://www.samsung.com/uk/about-us/careers/life-at-samsung/"
+   },
+   {
+    "url": "https://www.samsung.com/uk/about-us/careers/whoweare/",
+    "final": "https://www.samsung.com/uk/about-us/careers/whoweare/"
+   },
+   {
+    "url": "https://www.samsung.com/uk/aboutsamsung/careers/emerging-talent/",
+    "final": "https://www.samsung.com/uk/aboutsamsung/careers/emerging-talent/"
+   },
+   {
+    "url": "https://www.samsung.com/uk/about-us/careers/joinourteam/",
+    "final": "https://www.samsung.com/uk/about-us/careers/joinourteam/"
+   },
+   {
+    "url": "https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/pwa/manifest/us.json",
+    "error": "HTTP Error 404: Not Found"
+   },
+   {
+    "url": "https://www.samsung.com/us/careers/",
+    "final": "https://www.samsung.com/us/careers/"
+   }
+  ]
+ },
+ {
+  "name": "LG Electronics",
+  "url": "https://www.lg.com/global/careers",
+  "ats": [],
+  "markers": [],
+  "final": "https://www.lg.com/us/",
+  "pages": [
+   {
+    "url": "https://www.lg.com/global/careers",
+    "final": "https://globalcareers.lge.com/"
+   },
+   {
+    "url": "https://www.lg.com/",
+    "final": "https://www.lg.com/us/"
+   },
+   {
+    "url": "https://globalcareers.lge.com/_next/static/media/d98238e5710b7657-s.p.woff",
+    "final": "https://globalcareers.lge.com/_next/static/media/d98238e5710b7657-s.p.woff"
+   },
+   {
+    "url": "https://globalcareers.lge.com/jobs",
+    "final": "https://globalcareers.lge.com/jobs"
+   },
+   {
+    "url": "https://www.lg.com/us/",
+    "final": "https://www.lg.com/us/"
+   }
+  ]
+ },
+ {
+  "name": "Whirlpool",
+  "url": "https://www.whirlpoolcareers.com/",
+  "ats": [
+   {
+    "ats": "eightfold",
+    "ids": [
+     "whirlpool"
+    ]
+   },
+   {
+    "ats": "eightfold",
+    "ids": [
+     "app"
+    ]
+   }
+  ],
+  "markers": [],
+  "final": "https://jobs.whirlpool.com/careers",
+  "pages": [
+   {
+    "url": "https://www.whirlpoolcareers.com/",
+    "final": "https://www.whirlpoolcareers.com/"
+   },
+   {
+    "url": "https://www.whirlpoolcareers.com/get-to-know-whirlpool-corporation/your-opportunity.html",
+    "final": "https://www.whirlpoolcareers.com/get-to-know-whirlpool-corporation/your-opportunity.html"
+   },
+   {
+    "url": "https://jobs.whirlpool.com/",
+    "final": "https://jobs.whirlpool.com/careers"
+   },
+   {
+    "url": "https://www.whirlpoolcareers.com/etc.clientlibs/digital-platform/components/content/common/contentCardV2/v2/contentCard/clientlibs.min.f787c09c0262613e0605592a8bb02801.css",
+    "final": "https://www.whirlpoolcareers.com/etc.clientlibs/digital-platform/components/content/common/contentCardV2/v2/contentCard/clientlibs.min.f787c09c0262613e0605592a8bb02801.css"
+   },
+   {
+    "url": "https://jobs.whirlpool.com/careers",
+    "final": "https://jobs.whirlpool.com/careers"
+   }
+  ]
+ },
+ {
+  "name": "Miele",
+  "url": "https://www.miele.com/en/com/career-2433.htm",
+  "ats": [
+   {
+    "ats": "workday",
+    "ids": [
+     "miele",
+     "wd3",
+     "miele-jobs"
+    ]
+   }
+  ],
+  "markers": [
+   "workday_word"
+  ],
+  "final": "https://career.miele.com/asia",
+  "pages": [
+   {
+    "url": "https://www.miele.com/en/com/career-2433.htm",
+    "error": "HTTP Error 404: Not Found"
+   },
+   {
+    "url": "https://www.miele.com/",
+    "final": "https://www.miele.com/en/com/index.htm"
+   },
+   {
+    "url": "https://www.miele.com/en/com/index.htm",
+    "final": "https://www.miele.com/en/com/index.htm"
+   },
+   {
+    "url": "https://career.miele.com/",
+    "final": "https://career.miele.com/"
+   },
+   {
+    "url": "https://www.miele.com/en/com/5648.htm",
+    "final": "https://www.miele.com/en/com/5648.htm"
+   },
+   {
+    "url": "https://cdn.job-shop.com/fonts/MieleElements/style.css",
+    "final": "https://cdn.job-shop.com/fonts/MieleElements/style.css"
+   },
+   {
+    "url": "https://career.miele.com/americas/",
+    "final": "https://career.miele.com/americas/"
+   },
+   {
+    "url": "https://career.miele.com/asia/",
+    "final": "https://career.miele.com/asia/"
+   },
+   {
+    "url": "https://career.miele.com/anz/",
+    "final": "https://career.miele.com/anz/"
+   },
+   {
+    "url": "https://karriere.miele.de/",
+    "final": "https://karriere.miele.de/"
+   },
+   {
+    "url": "https://career.miele.com/eastern-europe/",
+    "final": "https://career.miele.com/eastern-europe/"
+   },
+   {
+    "url": "https://miele.job-shop.com/nordics/",
+    "final": "https://career.miele.com/nordics/"
+   },
+   {
+    "url": "https://career.miele.com/western-europe/",
+    "final": "https://career.miele.com/western-europe/"
+   },
+   {
+    "url": "https://career.miele.com",
+    "final": "https://career.miele.com"
+   },
+   {
+    "url": "https://career.miele.com/americas",
+    "final": "https://career.miele.com/americas"
+   },
+   {
+    "url": "https://career.miele.com/asia",
+    "final": "https://career.miele.com/asia"
+   }
+  ]
+ },
+ {
+  "name": "Groupe SEB",
+  "url": "https://www.groupeseb.com/en/career",
+  "ats": [],
+  "markers": [],
+  "final": "https://www.groupeseb-careers.com/en/Opportunities/Our-jobs",
+  "pages": [
+   {
+    "url": "https://www.groupeseb.com/en/career",
+    "error": "HTTP Error 404: Not Found"
+   },
+   {
+    "url": "https://www.groupeseb.com/",
+    "final": "https://www.groupeseb.com/fr"
+   },
+   {
+    "url": "https://www.groupeseb.com/fr",
+    "final": "https://www.groupeseb.com/fr"
+   },
+   {
+    "url": "https://www.groupeseb.com/en/collaborative-research",
+    "final": "https://www.groupeseb.com/en/collaborative-research"
+   },
+   {
+    "url": "https://www.groupeseb.com/fr/proposition-innovation",
+    "final": "https://www.groupeseb.com/fr/proposition-innovation"
+   },
+   {
+    "url": "http://www.groupeseb-careers.com/",
+    "final": "https://www.groupeseb-careers.com/en"
+   },
+   {
+    "url": "https://www.groupeseb-careers.com/",
+    "final": "https://www.groupeseb-careers.com/en"
+   },
+   {
+    "url": "https://www.groupeseb.com/sites/default/files/2026-07/CP-GroupeSEB-Mise_%C3%A0_disposition_Rapport_Financier_Semestriel_2026.pdf",
+    "final": "https://www.groupeseb.com/sites/default/files/2026-07/CP-GroupeSEB-Mise_%C3%A0_disposition_Rapport_Financier_Semestriel_2026.pdf"
+   },
+   {
+    "url": "https://www.groupeseb.com/fr/collaborations-recherche",
+    "final": "https://www.groupeseb.com/fr/collaborations-recherche"
+   },
+   {
+    "url": "https://www.groupeseb.com/en/news/tefal-and-paul-bocuse-launch-iconic-new-collection-embodies-excellence",
+    "final": "https://www.groupeseb.com/en/news/tefal-and-paul-bocuse-launch-iconic-new-collection-embodies-excellence"
+   },
+   {
+    "url": "https://www.groupeseb.com/en/innovation-contact",
+    "final": "https://www.groupeseb.com/en/innovation-contact"
+   },
+   {
+    "url": "https://www.groupeseb.com/en/contact-careers",
+    "final": "https://www.groupeseb.com/en/contact-careers"
+   },
+   {
+    "url": "https://www.groupeseb.com/index.php/fr/proposition-innovation",
+    "final": "https://www.groupeseb.com/index.php/fr/proposition-innovation"
+   },
+   {
+    "url": "https://www.groupeseb-careers.com/en/",
+    "final": "https://www.groupeseb-careers.com/en/"
+   },
+   {
+    "url": "https://www.groupeseb-careers.com/en/Opportunities",
+    "final": "https://www.groupeseb-careers.com/en/Opportunities/Our-jobs"
+   },
+   {
+    "url": "https://www.groupeseb-careers.com/en/Opportunities/Our-jobs",
+    "final": "https://www.groupeseb-careers.com/en/Opportunities/Our-jobs"
+   }
+  ]
+ },
+ {
+  "name": "Dyson",
+  "url": "https://careers.dyson.com/",
+  "ats": [],
+  "markers": [],
+  "final": "https://careers.dyson.com/en-gb/what-you-can-do/early-careers/united-states/",
+  "pages": [
+   {
+    "url": "https://careers.dyson.com/",
+    "final": "https://careers.dyson.com/en-gb/"
+   },
+   {
+    "url": "https://careers.dyson.com/en-gb/home/",
+    "final": "https://careers.dyson.com/en-gb/home/"
+   },
+   {
+    "url": "http://careers.dyson.com",
+    "final": "https://careers.dyson.com/en-gb/"
+   },
+   {
+    "url": "https://careers.dyson.com/en-gb/what-you-can-do/engineer/",
+    "final": "https://careers.dyson.com/en-gb/what-you-can-do/engineer/"
+   },
+   {
+    "url": "https://careers.dyson.com/en-gb/what-you-can-do/engineer/research/",
+    "final": "https://careers.dyson.com/en-gb/what-you-can-do/engineer/research/"
+   },
+   {
+    "url": "https://careers.dyson.com/en-gb/what-you-can-do/create/",
+    "final": "https://careers.dyson.com/en-gb/what-you-can-do/create/"
+   },
+   {
+    "url": "https://careers.dyson.com/en-gb/what-you-can-do/support/",
+    "final": "https://careers.dyson.com/en-gb/what-you-can-do/support/"
+   },
+   {
+    "url": "https://careers.dyson.com/en-gb/what-you-can-do/retail/",
+    "final": "https://careers.dyson.com/en-gb/what-you-can-do/retail/"
+   },
+   {
+    "url": "https://careers.dyson.com/en-gb/what-you-can-do/early-careers/",
+    "final": "https://careers.dyson.com/en-gb/what-you-can-do/early-careers/"
+   },
+   {
+    "url": "https://careers.dyson.com/en-gb/what-you-can-do/early-careers/china/",
+    "final": "https://careers.dyson.com/en-gb/what-you-can-do/early-careers/china/"
+   },
+   {
+    "url": "https://careers.dyson.com/en-gb/what-you-can-do/early-careers/europe/",
+    "final": "https://careers.dyson.com/en-gb/what-you-can-do/early-careers/europe/"
+   },
+   {
+    "url": "https://careers.dyson.com/en-gb/what-you-can-do/early-careers/malaysia/",
+    "final": "https://careers.dyson.com/en-gb/what-you-can-do/early-careers/malaysia/"
+   },
+   {
+    "url": "https://careers.dyson.com/en-gb/what-you-can-do/early-careers/philippines/",
+    "final": "https://careers.dyson.com/en-gb/what-you-can-do/early-careers/philippines/"
+   },
+   {
+    "url": "https://careers.dyson.com/en-gb/what-you-can-do/early-careers/singapore/",
+    "final": "https://careers.dyson.com/en-gb/what-you-can-do/early-careers/singapore/"
+   },
+   {
+    "url": "https://careers.dyson.com/en-gb/what-you-can-do/early-careers/united-kingdom/",
+    "final": "https://careers.dyson.com/en-gb/what-you-can-do/early-careers/united-kingdom/"
+   },
+   {
+    "url": "https://careers.dyson.com/en-gb/what-you-can-do/early-careers/united-states/",
+    "final": "https://careers.dyson.com/en-gb/what-you-can-do/early-careers/united-states/"
+   }
+  ]
+ },
+ {
+  "name": "De'Longhi",
+  "url": "https://www.delonghigroup.com/en/careers",
+  "ats": [],
+  "markers": [],
+  "final": "https://www.delonghigroup.com/it/persone/careers?f%5B0%5D=job_country%3A183",
+  "pages": [
+   {
+    "url": "https://www.delonghigroup.com/en/careers",
+    "error": "HTTP Error 404: Not Found"
+   },
+   {
+    "url": "https://www.delonghigroup.com/",
+    "final": "https://www.delonghigroup.com/en"
+   },
+   {
+    "url": "https://www.delonghigroup.com/en/people/careers",
+    "final": "https://www.delonghigroup.com/en/people/careers"
+   },
+   {
+    "url": "https://www.delonghigroup.com/it/persone/careers",
+    "final": "https://www.delonghigroup.com/it/persone/careers"
+   },
+   {
+    "url": "https://www.delonghigroup.com/en/people/careers?f%5B0%5D=job_country%3A102",
+    "final": "https://www.delonghigroup.com/en/people/careers?f%5B0%5D=job_country%3A102"
+   },
+   {
+    "url": "https://www.delonghigroup.com/en/people/careers?f%5B0%5D=job_country%3A157",
+    "final": "https://www.delonghigroup.com/en/people/careers?f%5B0%5D=job_country%3A157"
+   },
+   {
+    "url": "https://www.delonghigroup.com/en/people/careers?f%5B0%5D=job_country%3A113",
+    "final": "https://www.delonghigroup.com/en/people/careers?f%5B0%5D=job_country%3A113"
+   },
+   {
+    "url": "https://www.delonghigroup.com/en/people/careers?f%5B0%5D=job_country%3A184",
+    "final": "https://www.delonghigroup.com/en/people/careers?f%5B0%5D=job_country%3A184"
+   },
+   {
+    "url": "https://www.delonghigroup.com/en/people/careers?f%5B0%5D=job_country%3A183",
+    "final": "https://www.delonghigroup.com/en/people/careers?f%5B0%5D=job_country%3A183"
+   },
+   {
+    "url": "https://www.delonghigroup.com/en/people/careers?f%5B0%5D=job_country%3A163",
+    "final": "https://www.delonghigroup.com/en/people/careers?f%5B0%5D=job_country%3A163"
+   },
+   {
+    "url": "https://www.delonghigroup.com/en/people/careers?f%5B0%5D=job_country%3A173",
+    "final": "https://www.delonghigroup.com/en/people/careers?f%5B0%5D=job_country%3A173"
+   },
+   {
+    "url": "https://www.delonghigroup.com/it/persone/careers?f%5B0%5D=job_country%3A102",
+    "final": "https://www.delonghigroup.com/it/persone/careers?f%5B0%5D=job_country%3A102"
+   },
+   {
+    "url": "https://www.delonghigroup.com/it/persone/careers?f%5B0%5D=job_country%3A157",
+    "final": "https://www.delonghigroup.com/it/persone/careers?f%5B0%5D=job_country%3A157"
+   },
+   {
+    "url": "https://www.delonghigroup.com/it/persone/careers?f%5B0%5D=job_country%3A113",
+    "final": "https://www.delonghigroup.com/it/persone/careers?f%5B0%5D=job_country%3A113"
+   },
+   {
+    "url": "https://www.delonghigroup.com/it/persone/careers?f%5B0%5D=job_country%3A184",
+    "final": "https://www.delonghigroup.com/it/persone/careers?f%5B0%5D=job_country%3A184"
+   },
+   {
+    "url": "https://www.delonghigroup.com/it/persone/careers?f%5B0%5D=job_country%3A183",
+    "final": "https://www.delonghigroup.com/it/persone/careers?f%5B0%5D=job_country%3A183"
+   }
+  ]
+ },
+ {
+  "name": "Versuni",
+  "url": "https://www.versuni.com/careers/",
+  "ats": [],
+  "markers": [
+   "phenom"
+  ],
+  "final": "https://careers.versuni.com/gb/en/home",
+  "pages": [
+   {
+    "url": "https://www.versuni.com/careers/",
+    "final": "https://www.versuni.com/careers/"
+   },
+   {
+    "url": "https://www.versuni.com/",
+    "final": "https://www.versuni.com/"
+   },
+   {
+    "url": "https://careers.versuni.com/",
+    "final": "https://careers.versuni.com/gb/en"
+   },
+   {
+    "url": "https://careers.versuni.com",
+    "final": "https://careers.versuni.com/gb/en"
+   },
+   {
+    "url": "https://cdn.phenompeople.com/CareerConnectResources/VUFVERGB/en_gb/desktop/assets/images/favicon.ico?v=1715012761299",
+    "final": "https://cdn.phenompeople.com/CareerConnectResources/VUFVERGB/en_gb/desktop/assets/images/favicon.ico?v=1715012761299"
+   },
+   {
+    "url": "https://careers.versuni.com/gb/en/home",
+    "final": "https://careers.versuni.com/gb/en/home"
+   }
+  ]
+ },
+ {
+  "name": "Liebherr",
+  "url": "https://www.liebherr.com/en/int/career/career.html",
+  "ats": [
+   {
+    "ats": "successfactors",
+    "ids": [
+     "career5.successfactors.eu",
+     "LiMySLive"
+    ]
+   }
+  ],
+  "markers": [],
+  "final": "https://www.liebherr.com/en-us/careers/professionals-4294648",
+  "pages": [
+   {
+    "url": "https://www.liebherr.com/en/int/career/career.html",
+    "final": "https://www.liebherr.com/en-int/careers/careers-5370600"
+   },
+   {
+    "url": "https://www.liebherr.com/",
+    "final": "https://www.liebherr.com/en-us/group/start-page-3782471"
+   },
+   {
+    "url": "https://www.liebherr.com/_public/static/favicon.ico",
+    "final": "https://www.liebherr.com/_public/static/favicon.ico"
+   },
+   {
+    "url": "https://www.liebherr.com/en-int/careers/careers-5370600",
+    "final": "https://www.liebherr.com/en-int/careers/careers-5370600"
+   },
+   {
+    "url": "https://www.liebherr.com/en-int/careers/job-vacancies-5370609",
+    "final": "https://www.liebherr.com/en-int/careers/job-vacancies-5370609"
+   },
+   {
+    "url": "https://www.liebherr.com/en-int/careers/professionals-5370612",
+    "final": "https://www.liebherr.com/en-int/careers/professionals-5370612"
+   },
+   {
+    "url": "https://www.liebherr.com/en-int/careers/professionals/sales-5370614",
+    "final": "https://www.liebherr.com/en-int/careers/professionals/sales-5370614"
+   },
+   {
+    "url": "https://www.liebherr.com/en-int/careers/professionals/customer-service-5370616",
+    "final": "https://www.liebherr.com/en-int/careers/professionals/customer-service-5370616"
+   },
+   {
+    "url": "https://www.liebherr.com/en-int/careers/professionals/service-technicians-5370618",
+    "final": "https://www.liebherr.com/en-int/careers/professionals/service-technicians-5370618"
+   },
+   {
+    "url": "https://www.liebherr.com/en-int/careers/professionals/edevelopment-and-software-5370620",
+    "final": "https://www.liebherr.com/en-int/careers/professionals/edevelopment-and-software-5370620"
+   },
+   {
+    "url": "https://www.liebherr.com/en-us/careers/careers-4294637",
+    "final": "https://www.liebherr.com/en-us/careers/careers-4294637"
+   },
+   {
+    "url": "https://www.liebherr.com/en-us/careers/job-vacancies-4294645",
+    "final": "https://www.liebherr.com/en-us/careers/job-vacancies-4294645"
+   },
+   {
+    "url": "https://www.liebherr.com/en-us/careers/contact-4294769",
+    "final": "https://www.liebherr.com/en-us/careers/contact-4294769"
+   },
+   {
+    "url": "https://www.liebherr.com/en-us/careers/we-as-an-employer-4294694",
+    "final": "https://www.liebherr.com/en-us/careers/we-as-an-employer-4294694"
+   },
+   {
+    "url": "https://www.liebherr.com/en-us/careers/we-as-an-employer/employee-experiences-4294698",
+    "final": "https://www.liebherr.com/en-us/careers/we-as-an-employer/employee-experiences-4294698"
+   },
+   {
+    "url": "https://www.liebherr.com/en-us/careers/professionals-4294648",
+    "final": "https://www.liebherr.com/en-us/careers/professionals-4294648"
+   }
+  ]
+ },
+ {
+  "name": "Heineken",
+  "url": "https://careers.theheinekencompany.com/",
+  "ats": [
+   {
+    "ats": "successfactors",
+    "ids": [
+     "career5.successfactors.eu",
+     "C0000032666P"
+    ]
+   }
+  ],
+  "markers": [],
+  "final": "https://careers.theheinekencompany.com/",
+  "pages": [
+   {
+    "url": "https://careers.theheinekencompany.com/",
+    "final": "https://careers.theheinekencompany.com/"
+   }
+  ]
+ },
+ {
+  "name": "AB InBev",
+  "url": "https://www.ab-inbev.com/careers/",
+  "ats": [],
+  "markers": [],
+  "final": "https://www.linkedin.com/jobs/search?trk=organization_guest_guest_nav_menu_jobs",
+  "pages": [
+   {
+    "url": "https://www.ab-inbev.com/careers/",
+    "final": "https://www.ab-inbev.com/careers"
+   },
+   {
+    "url": "https://www.ab-inbev.com/",
+    "final": "https://www.ab-inbev.com/"
+   },
+   {
+    "url": "https://www.ab-inbev.com/favicon.png",
+    "final": "https://www.ab-inbev.com/favicon.png"
+   },
+   {
+    "url": "https://www.ab-inbev.com/careers/job-search",
+    "error": "HTTP Error 404: Not Found"
+   },
+   {
+    "url": "https://www.ab-inbev.com/our-locations",
+    "final": "https://www.ab-inbev.com/our-locations"
+   },
+   {
+    "url": "https://www.ab-inbev.com/careers/meet-our-people/",
+    "error": "HTTP Error 404: Not Found"
+   },
+   {
+    "url": "https://www.ab-inbev.com/careers/meet-our-people/angel-quiroz",
+    "final": "https://www.ab-inbev.com/careers/meet-our-people/angel-quiroz"
+   },
+   {
+    "url": "https://www.ab-inbev.com/careers/meet-our-people/caio-mendes",
+    "final": "https://www.ab-inbev.com/careers/meet-our-people/caio-mendes"
+   },
+   {
+    "url": "https://www.ab-inbev.com/careers/meet-our-people/shay-bergman",
+    "final": "https://www.ab-inbev.com/careers/meet-our-people/shay-bergman"
+   },
+   {
+    "url": "https://www.ab-inbev.com/careers",
+    "final": "https://www.ab-inbev.com/careers"
+   },
+   {
+    "url": "https://www.linkedin.com/company/ab-inbev/jobs/",
+    "final": "https://www.linkedin.com/company/ab-inbev/jobs/"
+   },
+   {
+    "url": "https://www.ab-inbev.com/careers/meet-our-people",
+    "error": "HTTP Error 404: Not Found"
+   },
+   {
+    "url": "https://www.linkedin.com/company/ab-inbev/jobs",
+    "error": "HTTP Error 999: <none>"
+   },
+   {
+    "url": "https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fab-inbev%2Fjobs&trk=organization_guest_contextual-sign-in-modal_join-link",
+    "final": "https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fcompany%2Fab-inbev%2Fjobs&trk=organization_guest_contextual-sign-in-modal_join-link"
+   },
+   {
+    "url": "https://www.linkedin.com/learning/search?trk=organization_guest_guest_nav_menu_learning",
+    "final": "https://www.linkedin.com/learning/search?trk=organization_guest_guest_nav_menu_learning"
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/search?trk=organization_guest_guest_nav_menu_jobs",
+    "final": "https://www.linkedin.com/jobs/search?trk=organization_guest_guest_nav_menu_jobs"
+   }
+  ]
+ },
+ {
+  "name": "Pernod Ricard",
+  "url": "https://www.pernod-ricard.com/en/careers",
+  "ats": [
+   {
+    "ats": "workday",
+    "ids": [
+     "pernodricard",
+     "wd3",
+     "pernod-ricard"
+    ]
+   }
+  ],
+  "markers": [
+   "workday_word"
+  ],
+  "final": "https://www.pernod-ricard.com/en",
+  "pages": [
+   {
+    "url": "https://www.pernod-ricard.com/en/careers",
+    "final": "https://www.pernod-ricard.com/en/careers"
+   },
+   {
+    "url": "https://www.pernod-ricard.com/",
+    "final": "https://www.pernod-ricard.com/en"
+   }
+  ]
+ },
+ {
+  "name": "Coca-Cola HBC",
+  "url": "https://www.coca-colahellenic.com/en/careers",
+  "ats": [],
+  "markers": [],
+  "final": "https://www.coca-colahellenic.com/",
+  "pages": [
+   {
+    "url": "https://www.coca-colahellenic.com/en/careers",
+    "final": "https://www.coca-colahellenic.com/en/careers"
+   },
+   {
+    "url": "https://www.coca-colahellenic.com/",
+    "final": "https://www.coca-colahellenic.com/"
+   }
+  ]
+ },
+ {
+  "name": "Procter & Gamble",
+  "url": "https://www.pgcareers.com/",
+  "ats": [],
+  "markers": [
+   "phenom"
+  ],
+  "final": "https://www.pgcareers.com/us/en",
+  "pages": [
+   {
+    "url": "https://www.pgcareers.com/",
+    "final": "https://www.pgcareers.com/us/en"
+   },
+   {
+    "url": "https://cdn.phenompeople.com/CareerConnectResources/common/js/globalplatform/1781270809227_globalstyles.css",
+    "final": "https://cdn.phenompeople.com/CareerConnectResources/common/js/globalplatform/1781270809227_globalstyles.css"
+   },
+   {
+    "url": "https://www.pgcareers.com/us/en",
+    "final": "https://www.pgcareers.com/us/en"
+   },
+   {
+    "url": "https://www.pgcareers.com/us/E6lawV-8YQWKN-ph-media-cc-slider-view1-option14-savedView-1742949434021-savedView-1739893457199-savedView-1730395286630-primary-link-href-XaP02i",
+    "final": "https://www.pgcareers.com/us/en"
+   },
+   {
+    "url": "https://www.pgcareers.com/us/E6lawV-WMuZ1n-ph-media-cc-slider-view1-option14-savedView-1742949434021-savedView-1739893457199-savedView-1730395286630-primary-link-href-XaP02i",
+    "final": "https://www.pgcareers.com/us/en"
+   },
+   {
+    "url": "https://www.pgcareers.com/us/E6lawV-KJIQ14-ph-media-cc-slider-view1-option14-savedView-1742949434021-savedView-1739893457199-savedView-1730395286630-primary-link-href-XaP02i",
+    "final": "https://www.pgcareers.com/us/en"
+   },
+   {
+    "url": "https://www.pgcareers.com/us/E6lawV-po44pC-ph-media-cc-slider-view1-option14-savedView-1742949434021-savedView-1739893457199-savedView-1730395286630-primary-link-href-XaP02i",
+    "final": "https://www.pgcareers.com/us/en"
+   },
+   {
+    "url": "https://www.pgcareers.com/us/E6lawV-ntuKia-ph-media-cc-slider-view1-option14-savedView-1742949434021-savedView-1739893457199-savedView-1730395286630-primary-link-href-XaP02i",
+    "final": "https://www.pgcareers.com/us/en"
+   },
+   {
+    "url": "https://www.pgcareers.com/us/E6lawV-pjEpMD-ph-media-cc-slider-view1-option14-savedView-1742949434021-savedView-1739893457199-savedView-1730395286630-primary-link-href-XaP02i",
+    "final": "https://www.pgcareers.com/us/en"
+   },
+   {
+    "url": "https://www.pgcareers.com/us/E6lawV-4Tui7j-ph-media-cc-slider-view1-option14-savedView-1742949434021-savedView-1739893457199-savedView-1730395286630-primary-link-href-XaP02i",
+    "final": "https://www.pgcareers.com/us/en"
+   },
+   {
+    "url": "https://www.pgcareers.com/us/E6lawV-6emsvo-ph-media-cc-slider-view1-option14-savedView-1742949434021-savedView-1739893457199-savedView-1730395286630-primary-link-href-XaP02i",
+    "final": "https://www.pgcareers.com/us/en"
+   },
+   {
+    "url": "https://www.pgcareers.com/us/E6lawV-vD1gvR-ph-media-cc-slider-view1-option14-savedView-1742949434021-savedView-1739893457199-savedView-1730395286630-primary-link-href-XaP02i",
+    "final": "https://www.pgcareers.com/us/en"
+   },
+   {
+    "url": "https://www.pgcareers.com/us/E6lawV-guCdts-ph-media-cc-slider-view1-option14-savedView-1742949434021-savedView-1739893457199-savedView-1730395286630-primary-link-href-XaP02i",
+    "final": "https://www.pgcareers.com/us/en"
+   },
+   {
+    "url": "https://www.pgcareers.com/us/E6lawV-pI5lTH-ph-media-cc-slider-view1-option14-savedView-1742949434021-savedView-1739893457199-savedView-1730395286630-primary-link-href-XaP02i",
+    "final": "https://www.pgcareers.com/us/en"
+   },
+   {
+    "url": "https://www.pgcareers.com/us/E6lawV-i5nP26-ph-media-cc-slider-view1-option14-savedView-1742949434021-savedView-1739893457199-savedView-1730395286630-primary-link-href-XaP02i",
+    "final": "https://www.pgcareers.com/us/en"
+   },
+   {
+    "url": "https://www.pgcareers.com/us/E6lawV-a7YnJp-ph-media-cc-slider-view1-option14-savedView-1742949434021-savedView-1739893457199-savedView-1730395286630-primary-link-href-XaP02i",
+    "final": "https://www.pgcareers.com/us/en"
+   }
+  ]
+ },
+ {
+  "name": "Nestlé",
+  "url": "https://www.nestle.com/jobs",
+  "ats": [],
+  "markers": [],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://www.nestle.com/jobs",
+    "error": "HTTP Error 403: Forbidden"
+   },
+   {
+    "url": "https://www.nestle.com/",
+    "error": "HTTP Error 403: Forbidden"
+   }
+  ]
+ },
+ {
+  "name": "Henkel",
+  "url": "https://www.henkel.com/careers",
+  "ats": [],
+  "markers": [],
+  "final": "https://www.henkel.com/careers?view=",
+  "pages": [
+   {
+    "url": "https://www.henkel.com/careers",
+    "final": "https://www.henkel.com/careers"
+   },
+   {
+    "url": "https://www.henkel.com/",
+    "final": "https://www.henkel.com/"
+   },
+   {
+    "url": "https://www.henkel.com/company/henkel-researchers-world",
+    "final": "https://www.henkel.com/company/henkel-researchers-world"
+   },
+   {
+    "url": "https://www.henkel.com/company/150-years-of-henkel",
+    "final": "https://www.henkel.com/company/150-years-of-henkel"
+   },
+   {
+    "url": "https://www.henkel.com/our-businesses/adhesive-technologies/research-and-development",
+    "final": "https://www.henkel.com/our-businesses/adhesive-technologies/research-and-development"
+   },
+   {
+    "url": "https://www.henkel.com/our-businesses/henkel-consumer-brands/research-and-development",
+    "final": "https://www.henkel.com/our-businesses/henkel-consumer-brands/research-and-development"
+   },
+   {
+    "url": "https://www.henkel.com/sustainability/positions",
+    "final": "https://www.henkel.com/sustainability/positions"
+   },
+   {
+    "url": "https://www.henkel.com/careers/careers-faq",
+    "final": "https://www.henkel.com/careers/careers-faq"
+   },
+   {
+    "url": "https://www.henkel.com/careers/find-your-job-apply",
+    "final": "https://www.henkel.com/careers/find-your-job-apply"
+   },
+   {
+    "url": "https://www.henkel.com/careers/why-henkel",
+    "final": "https://www.henkel.com/careers/why-henkel"
+   },
+   {
+    "url": "https://www.henkel.com/careers/life-at-henkel",
+    "final": "https://www.henkel.com/careers/life-at-henkel"
+   },
+   {
+    "url": "https://www.henkel.com/careers/career-opportunities",
+    "final": "https://www.henkel.com/careers/career-opportunities"
+   },
+   {
+    "url": "https://www.henkel.com/careers/talent-programs",
+    "final": "https://www.henkel.com/careers/talent-programs"
+   },
+   {
+    "url": "https://www.henkel.com/careers/application-process",
+    "final": "https://www.henkel.com/careers/application-process"
+   },
+   {
+    "url": "https://www.henkel.com/investors-and-analysts/creditor-relations/development-of-net-financial-position",
+    "final": "https://www.henkel.com/investors-and-analysts/creditor-relations/development-of-net-financial-position"
+   },
+   {
+    "url": "https://www.henkel.com/careers?view=",
+    "final": "https://www.henkel.com/careers?view="
+   }
+  ]
+ },
+ {
+  "name": "Grundfos",
+  "url": "https://www.grundfos.com/about-us/careers",
+  "ats": [],
+  "markers": [],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://www.grundfos.com/about-us/careers",
+    "error": "The read operation timed out"
+   },
+   {
+    "url": "https://www.grundfos.com/",
+    "error": "The read operation timed out"
+   }
+  ]
+ },
+ {
+  "name": "Danfoss",
+  "url": "https://www.danfoss.com/en/about-danfoss/careers/",
+  "ats": [],
+  "markers": [
+   "phenom",
+   "sf_rmk"
+  ],
+  "final": "https://jobs.danfoss.com/search/?locale=en_GB",
+  "pages": [
+   {
+    "url": "https://www.danfoss.com/en/about-danfoss/careers/",
+    "final": "https://www.danfoss.com/en/about-danfoss/careers/"
+   },
+   {
+    "url": "https://www.danfoss.com/",
+    "final": "https://www.danfoss.com/en/"
+   },
+   {
+    "url": "https://www.danfoss.com/manifest.json",
+    "final": "https://www.danfoss.com/manifest.json"
+   },
+   {
+    "url": "https://jobs.danfoss.com/search/",
+    "final": "https://jobs.danfoss.com/search/"
+   },
+   {
+    "url": "https://www.danfoss.com/en/about-danfoss/careers/life-at-danfoss/",
+    "final": "https://www.danfoss.com/en/about-danfoss/careers/life-at-danfoss/"
+   },
+   {
+    "url": "https://www.danfoss.com/en/about-danfoss/careers/areas-of-work/professionals/",
+    "final": "https://www.danfoss.com/en/about-danfoss/careers/areas-of-work/professionals/"
+   },
+   {
+    "url": "https://www.danfoss.com/en/about-danfoss/careers/areas-of-work/students-and-graduates/",
+    "final": "https://www.danfoss.com/en/about-danfoss/careers/areas-of-work/students-and-graduates/"
+   },
+   {
+    "url": "https://www.danfoss.com/en/about-danfoss/careers/application-process/",
+    "final": "https://www.danfoss.com/en/about-danfoss/careers/application-process/"
+   },
+   {
+    "url": "https://www.danfoss.com/en/about-danfoss/careers/stay-alert-to-fraudulent-job-offers/",
+    "final": "https://www.danfoss.com/en/about-danfoss/careers/stay-alert-to-fraudulent-job-offers/"
+   },
+   {
+    "url": "https://jobs.danfoss.com/platform/bootstrap/3.4.8_NES/css/bootstrap.min.css",
+    "final": "https://jobs.danfoss.com/platform/bootstrap/3.4.8_NES/css/bootstrap.min.css"
+   },
+   {
+    "url": "https://jobs.danfoss.com/go/Research-&amp;-Development%2C-Engineering%2C-IT/9810857/",
+    "final": "https://jobs.danfoss.com/go/Research-&amp;-Development%2C-Engineering%2C-IT/9810857/"
+   },
+   {
+    "url": "https://www.danfoss.com/en/about-danfoss/careers/areas-of-work/students-and-graduates/postgraduate-program/",
+    "final": "https://www.danfoss.com/en/about-danfoss/careers/areas-of-work/students-and-graduates/postgraduate-program/"
+   },
+   {
+    "url": "https://joincommunity-stg.danfoss.com/",
+    "final": "https://joincommunity-stg.danfoss.com/gb/en"
+   },
+   {
+    "url": "https://jobs.danfoss.com/search/?locale=da_DK",
+    "final": "https://jobs.danfoss.com/search/?locale=da_DK"
+   },
+   {
+    "url": "https://jobs.danfoss.com/search/?locale=de_DE",
+    "final": "https://jobs.danfoss.com/search/?locale=de_DE"
+   },
+   {
+    "url": "https://jobs.danfoss.com/search/?locale=en_GB",
+    "final": "https://jobs.danfoss.com/search/?locale=en_GB"
+   }
+  ]
+ },
+ {
+  "name": "Signify",
+  "url": "https://www.careers.signify.com/",
+  "ats": [
+   {
+    "ats": "workday",
+    "ids": [
+     "lighting",
+     "wd3",
+     "jobs-and-careers"
+    ]
+   }
+  ],
+  "markers": [
+   "phenom",
+   "workday_word"
+  ],
+  "final": "https://www.careers.signify.com/global/en",
+  "pages": [
+   {
+    "url": "https://www.careers.signify.com/",
+    "final": "https://www.careers.signify.com/global/en"
+   }
+  ]
+ },
+ {
+  "name": "Dometic",
+  "url": "https://www.dometicgroup.com/en/careers",
+  "ats": [
+   {
+    "ats": "jobylon",
+    "ids": [
+     "2664"
+    ]
+   }
+  ],
+  "markers": [],
+  "final": "https://careers.dometic.com/",
+  "pages": [
+   {
+    "url": "https://www.dometicgroup.com/en/careers",
+    "error": "HTTP Error 404: Not Found"
+   },
+   {
+    "url": "https://www.dometicgroup.com/",
+    "final": "https://www.dometicgroup.com/"
+   },
+   {
+    "url": "https://careers.dometic.com/",
+    "final": "https://careers.dometic.com/"
+   }
+  ]
+ },
+ {
+  "name": "Assa Abloy",
+  "url": "https://www.assaabloy.com/group/en/careers",
+  "ats": [],
+  "markers": [],
+  "final": "https://www.assaabloy.com/us/en",
+  "pages": [
+   {
+    "url": "https://www.assaabloy.com/group/en/careers",
+    "error": "HTTP Error 404: Not Found"
+   },
+   {
+    "url": "https://www.assaabloy.com/",
+    "final": "https://www.assaabloy.com/us/en"
+   }
+  ]
+ },
+ {
+  "name": "SKF",
+  "url": "https://www.skf.com/group/careers",
+  "ats": [],
+  "markers": [],
+  "final": "https://www.skf.com/us",
+  "pages": [
+   {
+    "url": "https://www.skf.com/group/careers",
+    "final": "https://www.skf.com/group/careers"
+   },
+   {
+    "url": "https://www.skf.com/",
+    "final": "https://www.skf.com/us"
+   }
+  ]
+ },
+ {
+  "name": "Epiroc",
+  "url": "https://www.epirocgroup.com/en/careers",
+  "ats": [],
+  "markers": [],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://www.epirocgroup.com/en/careers",
+    "error": "HTTP Error 403: Forbidden"
+   },
+   {
+    "url": "https://www.epirocgroup.com/",
+    "error": "HTTP Error 403: Forbidden"
+   }
+  ]
+ },
+ {
+  "name": "Alfa Laval",
+  "url": "https://www.alfalaval.com/careers/",
+  "ats": [],
+  "markers": [],
+  "final": "https://www.alfalaval.com/",
+  "pages": [
+   {
+    "url": "https://www.alfalaval.com/careers/",
+    "error": "HTTP Error 404: Not Found"
+   },
+   {
+    "url": "https://www.alfalaval.com/",
+    "final": "https://www.alfalaval.com/"
+   }
+  ]
+ },
+ {
+  "name": "Tetra Pak",
+  "url": "https://www.tetrapak.com/about-tetra-pak/careers",
+  "ats": [],
+  "markers": [],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://www.tetrapak.com/about-tetra-pak/careers",
+    "error": "HTTP Error 403: Forbidden"
+   },
+   {
+    "url": "https://www.tetrapak.com/",
+    "error": "HTTP Error 403: Forbidden"
+   }
+  ]
+ },
+ {
+  "name": "Ericsson",
+  "url": "https://www.ericsson.com/en/careers",
+  "ats": [],
+  "markers": [],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://www.ericsson.com/en/careers",
+    "error": "HTTP Error 403: Forbidden"
+   },
+   {
+    "url": "https://www.ericsson.com/",
+    "error": "HTTP Error 403: Forbidden"
+   }
+  ]
+ },
+ {
+  "name": "H&M Group",
+  "url": "https://career.hm.com/",
+  "ats": [],
+  "markers": [],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://career.hm.com/",
+    "error": "HTTP Error 403: Forbidden"
+   }
+  ]
+ },
+ {
+  "name": "Under Armour",
+  "url": "https://careers.underarmour.com/",
+  "ats": [
+   {
+    "ats": "successfactors",
+    "ids": [
+     "career8.successfactors.com",
+     "ua"
+    ]
+   }
+  ],
+  "markers": [
+   "sf_rmk"
+  ],
+  "final": "https://careers.underarmour.com/",
+  "pages": [
+   {
+    "url": "https://careers.underarmour.com/",
+    "final": "https://careers.underarmour.com/"
+   }
+  ]
+ },
+ {
+  "name": "PVH",
+  "url": "https://careers.pvh.com/",
+  "ats": [
+   {
+    "ats": "workday",
+    "ids": [
+     "pvh",
+     "wd1",
+     "PVH_Careers"
+    ]
+   }
+  ],
+  "markers": [
+   "phenom",
+   "workday_word"
+  ],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://careers.pvh.com/",
+    "final": "https://careers.pvh.com/us/en"
+   },
+   {
+    "url": "https://cdn.phenompeople.com/CareerConnectResources/PCAPCAUS/en_us/desktop/assets/images/favicon.ico?v=1783951501384",
+    "final": "https://cdn.phenompeople.com/CareerConnectResources/PCAPCAUS/en_us/desktop/assets/images/favicon.ico?v=1783951501384"
+   },
+   {
+    "url": "https://careers.pvh.com/us/en",
+    "final": "https://careers.pvh.com/us/en"
+   },
+   {
+    "url": "https://careers.pvh.com/us/en/retail-careers-us",
+    "final": "https://careers.pvh.com/us/en/retail-careers-us"
+   },
+   {
+    "url": "https://careers.pvh.com/us/en/corporate-careers",
+    "final": "https://careers.pvh.com/us/en/corporate-careers"
+   },
+   {
+    "url": "https://careers.pvh.com/us/en/search-results",
+    "final": "https://careers.pvh.com/us/en/search-results"
+   },
+   {
+    "url": "https://careers.pvh.com/us/en/jointalentcommunity",
+    "final": "https://careers.pvh.com/us/en/jointalentcommunity"
+   },
+   {
+    "url": "https://cdn.phenompeople.com/CareerConnectResources/PCAPCAUS/en_us/desktop/assets/images/favicon.ico?v=1783951412490",
+    "final": "https://cdn.phenompeople.com/CareerConnectResources/PCAPCAUS/en_us/desktop/assets/images/favicon.ico?v=1783951412490"
+   },
+   {
+    "url": "https://pvhcorp.phenompeople.net/us/en/cookiesettings",
+    "error": "<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)>"
+   }
+  ]
+ },
+ {
+  "name": "Booking.com",
+  "url": "https://jobs.booking.com/",
+  "ats": [
+   {
+    "ats": "icims",
+    "ids": [
+     "employees-holdings-workingatbooking"
+    ]
+   },
+   {
+    "ats": "icims",
+    "ids": [
+     "www"
+    ]
+   },
+   {
+    "ats": "icims",
+    "ids": [
+     "internal-workingatbooking"
+    ]
+   },
+   {
+    "ats": "icims",
+    "ids": [
+     "external-workingatbooking"
+    ]
+   }
+  ],
+  "markers": [],
+  "final": "https://jobs.booking.com/booking/jobs",
+  "pages": [
+   {
+    "url": "https://jobs.booking.com/",
+    "final": "https://jobs.booking.com/booking/jobs"
+   }
+  ]
+ },
+ {
+  "name": "Ahold Delhaize",
+  "url": "https://www.aholddelhaize.com/careers/",
+  "ats": [],
+  "markers": [
+   "phenom"
+  ],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://www.aholddelhaize.com/careers/",
+    "final": "https://aholddelhaize.com/careers/"
+   },
+   {
+    "url": "https://www.aholddelhaize.com/",
+    "final": "https://aholddelhaize.com/"
+   },
+   {
+    "url": "https://aholddelhaize.com/careers/",
+    "final": "https://aholddelhaize.com/careers/"
+   },
+   {
+    "url": "https://careers.aholddelhaize.com/vacancies/global-brands/ahold-delhaize-1",
+    "final": "https://careers.aholddelhaize.com/vacancies/global-brands/ahold-delhaize-1"
+   },
+   {
+    "url": "https://albert.jobs.cz/",
+    "final": "https://albert.jobs.cz/"
+   },
+   {
+    "url": "https://careers.ab.gr/",
+    "final": "https://careers.ab.gr/"
+   },
+   {
+    "url": "https://careers.bol.com/nl/",
+    "final": "https://careers.bol.com/nl/"
+   },
+   {
+    "url": "https://jobs.delhaize.be/be/nl",
+    "final": "https://jobs.delhaize.be/be/nl"
+   },
+   {
+    "url": "https://careers.aholddelhaize.com/vacancies/global-brands/ahold-delhaize-1/country/usa?v=ADUSArms",
+    "final": "https://careers.aholddelhaize.com/vacancies/global-brands/ahold-delhaize-1/country/usa?v=ADUSArms"
+   },
+   {
+    "url": "https://adusadistribution.careerswithus.com/",
+    "final": "https://adusadistribution.careerswithus.com/"
+   },
+   {
+    "url": "https://foodlion.careerswithus.com/",
+    "final": "https://foodlion.careerswithus.com/"
+   },
+   {
+    "url": "https://careers.aholddelhaize.com/vacancies",
+    "final": "https://careers.aholddelhaize.com/vacancies"
+   },
+   {
+    "url": "https://careers.aholddelhaize.com/job%20alert",
+    "final": "https://careers.aholddelhaize.com/job%20alert"
+   },
+   {
+    "url": "https://careers.aholddelhaize.com/vacancies?_locale=en",
+    "final": "https://careers.aholddelhaize.com/vacancies?_locale=en"
+   },
+   {
+    "url": "https://careers.aholddelhaize.com/vacancies/location/<%:address%>/range/10/latitude/<%:latitude%>/longitude/<%:longitude%>",
+    "error": "HTTP Error 400: Bad Request"
+   },
+   {
+    "url": "https://careers.aholddelhaize.com/jobalert",
+    "error": "HTTP Error 404: Not Found"
+   }
+  ]
+ },
+ {
+  "name": "AkzoNobel",
+  "url": "https://careers.akzonobel.com/",
+  "ats": [],
+  "markers": [
+   "phenom",
+   "workday_word"
+  ],
+  "final": "https://careers.akzonobel.com/gb/en/c/human-resources-jobs",
+  "pages": [
+   {
+    "url": "https://careers.akzonobel.com/",
+    "final": "https://careers.akzonobel.com/gb/en"
+   },
+   {
+    "url": "https://cdn.phenompeople.com/CareerConnectResources/ANDANAGB/en_gb/desktop/assets/images/favicon.ico?v=1778849862067",
+    "final": "https://cdn.phenompeople.com/CareerConnectResources/ANDANAGB/en_gb/desktop/assets/images/favicon.ico?v=1778849862067"
+   },
+   {
+    "url": "https://careers.akzonobel.com/gb/en/home",
+    "final": "https://careers.akzonobel.com/gb/en/home"
+   },
+   {
+    "url": "https://careers.akzonobel.com/gb/en/search-results",
+    "final": "https://careers.akzonobel.com/gb/en/search-results"
+   },
+   {
+    "url": "https://careers.akzonobel.com/gb/en/c/production-jobs",
+    "final": "https://careers.akzonobel.com/gb/en/c/production-jobs"
+   },
+   {
+    "url": "https://careers.akzonobel.com/gb/en/office-jobs",
+    "final": "https://careers.akzonobel.com/gb/en/office-jobs"
+   },
+   {
+    "url": "https://careers.akzonobel.com/gb/en/c/research-development-innovation-jobs",
+    "final": "https://careers.akzonobel.com/gb/en/c/research-development-innovation-jobs"
+   },
+   {
+    "url": "https://careers.akzonobel.com/gb/en/c/sales-jobs",
+    "final": "https://careers.akzonobel.com/gb/en/c/sales-jobs"
+   },
+   {
+    "url": "https://careers.akzonobel.com/gb/en/benefits",
+    "final": "https://careers.akzonobel.com/gb/en/benefits"
+   },
+   {
+    "url": "https://careers.akzonobel.com/gb/en/jointalentcommunity",
+    "final": "https://careers.akzonobel.com/gb/en/jointalentcommunity"
+   },
+   {
+    "url": "https://careers.akzonobel.com/gb/en/search-results?from=10&s=1",
+    "final": "https://careers.akzonobel.com/gb/en/search-results?from=10&s=1"
+   },
+   {
+    "url": "https://careers.akzonobel.com/gb/en/c/production-jobs?from=10&s=1",
+    "final": "https://careers.akzonobel.com/gb/en/c/production-jobs?from=10&s=1"
+   },
+   {
+    "url": "https://cdn.phenompeople.com/CareerConnectResources/ANDANAGB/en_gb/desktop/assets/images/favicon.ico",
+    "final": "https://cdn.phenompeople.com/CareerConnectResources/ANDANAGB/en_gb/desktop/assets/images/favicon.ico"
+   },
+   {
+    "url": "https://careers.akzonobel.com/gb/en/c/communications-jobs",
+    "final": "https://careers.akzonobel.com/gb/en/c/communications-jobs"
+   },
+   {
+    "url": "https://careers.akzonobel.com/gb/en/c/corporate-strategy-jobs",
+    "final": "https://careers.akzonobel.com/gb/en/c/corporate-strategy-jobs"
+   },
+   {
+    "url": "https://careers.akzonobel.com/gb/en/c/human-resources-jobs",
+    "final": "https://careers.akzonobel.com/gb/en/c/human-resources-jobs"
+   }
+  ]
+ },
+ {
+  "name": "dsm-firmenich",
+  "url": "https://www.dsm-firmenich.com/corporate/careers.html",
+  "ats": [
+   {
+    "ats": "eightfold",
+    "ids": [
+     "app"
+    ]
+   }
+  ],
+  "markers": [],
+  "final": "https://careers.dsm-firmenich.com/ko-kr/careers/why-dsm-firmenich.html",
+  "pages": [
+   {
+    "url": "https://www.dsm-firmenich.com/corporate/careers.html",
+    "final": "https://careers.dsm-firmenich.com/en/careers.html"
+   },
+   {
+    "url": "https://www.dsm-firmenich.com/",
+    "final": "https://www.dsm-firmenich.com/en/home.html"
+   },
+   {
+    "url": "https://careers.dsm-firmenich.com/en/careers.html",
+    "final": "https://careers.dsm-firmenich.com/en/careers.html"
+   },
+   {
+    "url": "https://our-company.dsm-firmenich.com/en/our-company/science-research.html",
+    "final": "https://our-company.dsm-firmenich.com/en/our-company/science-research.html"
+   },
+   {
+    "url": "https://our-company.dsm-firmenich.com/en/our-company/responsible-business/position-statements.html",
+    "final": "https://our-company.dsm-firmenich.com/en/our-company/responsible-business/position-statements.html"
+   },
+   {
+    "url": "https://careers.dsm-firmenich.com/en/careers/why-dsm-firmenich.html",
+    "final": "https://careers.dsm-firmenich.com/en/careers/why-dsm-firmenich.html"
+   },
+   {
+    "url": "https://careers.dsm-firmenich.com/en/careers/jobs-at-dsm-firmenich.html",
+    "final": "https://jobs.dsm-firmenich.com/careers"
+   },
+   {
+    "url": "https://careers.dsm-firmenich.com/en/careers/career-stories.html",
+    "final": "https://careers.dsm-firmenich.com/en/careers/career-stories.html"
+   },
+   {
+    "url": "https://careers.dsm-firmenich.com/en/careers/learning.html",
+    "final": "https://careers.dsm-firmenich.com/en/careers/learning.html"
+   },
+   {
+    "url": "https://careers.dsm-firmenich.com/en/careers/inclusion-and-belonging.html",
+    "final": "https://careers.dsm-firmenich.com/en/careers/inclusion-and-belonging.html"
+   },
+   {
+    "url": "https://careers.dsm-firmenich.com/en/careers/early-career.html",
+    "final": "https://careers.dsm-firmenich.com/en/careers/early-career.html"
+   },
+   {
+    "url": "https://our-company.dsm-firmenich.com/ja-jp/our-company/science-research.html",
+    "final": "https://our-company.dsm-firmenich.com/ja-jp/our-company/science-research.html"
+   },
+   {
+    "url": "https://our-company.dsm-firmenich.com/ja-jp/our-company/responsible-business/position-statements.html",
+    "final": "https://our-company.dsm-firmenich.com/ja-jp/our-company/responsible-business/position-statements.html"
+   },
+   {
+    "url": "https://our-company.dsm-firmenich.com/ko-kr/our-company/responsible-business/position-statements.html",
+    "final": "https://our-company.dsm-firmenich.com/ko-kr/our-company/responsible-business/position-statements.html"
+   },
+   {
+    "url": "https://careers.dsm-firmenich.com/ja-jp/careers/why-dsm-firmenich.html",
+    "final": "https://careers.dsm-firmenich.com/ja-jp/careers/why-dsm-firmenich.html"
+   },
+   {
+    "url": "https://careers.dsm-firmenich.com/ko-kr/careers/why-dsm-firmenich.html",
+    "final": "https://careers.dsm-firmenich.com/ko-kr/careers/why-dsm-firmenich.html"
+   }
+  ]
+ },
+ {
+  "name": "Anglo American",
+  "url": "https://www.angloamerican.com/careers",
+  "ats": [
+   {
+    "ats": "smartrecruiters",
+    "ids": [
+     "my-applications"
+    ]
+   }
+  ],
+  "markers": [],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://www.angloamerican.com/careers",
+    "final": "https://www.angloamerican.com/careers"
+   },
+   {
+    "url": "https://www.angloamerican.com/",
+    "final": "https://www.angloamerican.com/"
+   },
+   {
+    "url": "https://www.angloamerican.com/~/media/63DC1EDD23B84D5B8A9CE10B87006B3A.png",
+    "final": "https://www.angloamerican.com/~/media/63DC1EDD23B84D5B8A9CE10B87006B3A.png"
+   },
+   {
+    "url": "https://www.angloamerican.com/careers/why-anglo-american",
+    "final": "https://www.angloamerican.com/careers/why-anglo-american"
+   },
+   {
+    "url": "https://www.angloamerican.com/careers/how-we-hire",
+    "final": "https://www.angloamerican.com/careers/how-we-hire"
+   },
+   {
+    "url": "https://www.angloamerican.com/careers/how-we-hire/including-you",
+    "final": "https://www.angloamerican.com/careers/how-we-hire/including-you"
+   },
+   {
+    "url": "https://www.angloamerican.com/careers/how-we-hire/frequently-asked-questions",
+    "final": "https://www.angloamerican.com/careers/how-we-hire/frequently-asked-questions"
+   },
+   {
+    "url": "https://www.angloamerican.com/careers/how-we-hire/tips-for-writing-your-cv",
+    "final": "https://www.angloamerican.com/careers/how-we-hire/tips-for-writing-your-cv"
+   },
+   {
+    "url": "https://www.angloamerican.com/careers/how-we-hire/advice-on-recruitment-fraud",
+    "final": "https://www.angloamerican.com/careers/how-we-hire/advice-on-recruitment-fraud"
+   },
+   {
+    "url": "https://www.angloamerican.com/media/our-position-on-kabwe",
+    "final": "https://www.angloamerican.com/media/our-position-on-kabwe"
+   },
+   {
+    "url": "https://www.angloamerican.com/careers/~/media/63DC1EDD23B84D5B8A9CE10B87006B3A.png",
+    "final": "https://www.angloamerican.com/careers/~/media/63DC1EDD23B84D5B8A9CE10B87006B3A.png"
+   },
+   {
+    "url": "https://www.angloamerican.com/careers/job-opportunities/apply",
+    "final": "https://www.angloamerican.com/careers/job-opportunities/apply"
+   },
+   {
+    "url": "https://twitter.com/share?url=https://www.angloamerican.com/careers/how-we-hire&amp;text=How we hire&amp;via=AngloAmerican",
+    "error": "URL can't contain control characters. '/share?url=https://www.angloamerican.com/careers/how-we-hire&amp;text=How we hire"
+   },
+   {
+    "url": "https://www.angloamerican.com/careers/how-we-hire/~/media/63DC1EDD23B84D5B8A9CE10B87006B3A.png",
+    "final": "https://www.angloamerican.com/careers/how-we-hire/~/media/63DC1EDD23B84D5B8A9CE10B87006B3A.png"
+   },
+   {
+    "url": "https://twitter.com/share?url=https://www.angloamerican.com/careers/how-we-hire/including-you&amp;text=Including you&amp;via=AngloAmerican",
+    "error": "URL can't contain control characters. '/share?url=https://www.angloamerican.com/careers/how-we-hire/including-you&amp;te"
+   },
+   {
+    "url": "https://www.facebook.com/sharer.php?u=https://www.angloamerican.com/careers/how-we-hire/including-you",
+    "error": "HTTP Error 400: Bad Request"
+   }
+  ]
+ },
+ {
+  "name": "Maersk",
+  "url": "https://www.maersk.com/careers",
+  "ats": [],
+  "markers": [],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://www.maersk.com/careers",
+    "final": "https://www.maersk.com/careers"
+   },
+   {
+    "url": "https://www.maersk.com/",
+    "final": "https://www.maersk.com/"
+   },
+   {
+    "url": "https://assets.maerskline.com",
+    "error": "HTTP Error 404: Not Found"
+   },
+   {
+    "url": "https://facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.maersk.com%2fcareers",
+    "error": "HTTP Error 400: Bad Request"
+   },
+   {
+    "url": "https://x.com/intent/post?text=Careers%0a&amp;url=https%3a%2f%2fwww.maersk.com%2fcareers",
+    "final": "https://x.com/i/jf/onboarding/web?redirect_after_login=%2Fintent%2Fpost%3Ftext%3DCareers%250A%26amp%253Burl%3Dhttps%253A%252F%252Fwww.maersk.com%252Fcareers&mode=login"
+   },
+   {
+    "url": "https://www.maersk.com/share-via-wechat?url=https%3a%2f%2fwww.maersk.com%2fcareers",
+    "final": "https://www.maersk.com/share-via-wechat?url=https%3a%2f%2fwww.maersk.com%2fcareers"
+   },
+   {
+    "url": "https://www.maersk.com/careers/work-with-us/workplace-culture",
+    "final": "https://www.maersk.com/careers/work-with-us/workplace-culture"
+   },
+   {
+    "url": "https://www.maersk.com/careers/work-with-us/professional-development",
+    "final": "https://www.maersk.com/careers/work-with-us/professional-development"
+   },
+   {
+    "url": "https://www.maersk.com/careers/work-with-us/benefits",
+    "final": "https://www.maersk.com/careers/work-with-us/benefits"
+   },
+   {
+    "url": "https://www.maersk.com/careers/culture-inclusion-and-belonging",
+    "final": "https://www.maersk.com/careers/culture-inclusion-and-belonging"
+   },
+   {
+    "url": "https://facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.maersk.com%2fcareers%2fwork-with-us%2fworkplace-culture",
+    "error": "HTTP Error 400: Bad Request"
+   },
+   {
+    "url": "https://x.com/intent/post?text=Our+workplace+and+culture%0a&amp;url=https%3a%2f%2fwww.maersk.com%2fcareers%2fwork-with-us%2fworkplace-culture",
+    "final": "https://x.com/i/jf/onboarding/web?redirect_after_login=%2Fintent%2Fpost%3Ftext%3DOur%2Bworkplace%2Band%2Bculture%250A%26amp%253Burl%3Dhttps%253A%252F%252Fwww.maersk.com%252Fcareers%252Fwork-with-us%252Fworkplace-culture&mode=login"
+   },
+   {
+    "url": "https://www.maersk.com/share-via-wechat?url=https%3a%2f%2fwww.maersk.com%2fcareers%2fwork-with-us%2fworkplace-culture",
+    "final": "https://www.maersk.com/share-via-wechat?url=https%3a%2f%2fwww.maersk.com%2fcareers%2fwork-with-us%2fworkplace-culture"
+   },
+   {
+    "url": "https://www.maersk.com/careers/work-with-us",
+    "final": "https://www.maersk.com/careers/work-with-us"
+   },
+   {
+    "url": "https://www.maersk.com/news/articles/2019/08/21/cleaning-up-the-nile",
+    "final": "https://www.maersk.com/news/articles/2019/08/21/cleaning-up-the-nile"
+   },
+   {
+    "url": "https://facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.maersk.com%2fcareers%2fwork-with-us%2fprofessional-development",
+    "error": "HTTP Error 400: Bad Request"
+   }
+  ]
+ },
+ {
+  "name": "LEGO",
+  "url": "https://www.lego.com/en-us/careers",
+  "ats": [
+   {
+    "ats": "workday",
+    "ids": [
+     "lego",
+     "wd103",
+     "LEGO_External"
+    ]
+   }
+  ],
+  "markers": [
+   "workday_word"
+  ],
+  "final": null,
+  "pages": [
+   {
+    "url": "https://www.lego.com/en-us/careers",
+    "final": "https://www.lego.com/en-us/careers"
+   },
+   {
+    "url": "https://www.lego.com/",
+    "error": "HTTP Error 403: Forbidden"
+   }
+  ]
+ },
+ {
+  "name": "Novo Nordisk",
+  "url": "https://www.novonordisk.com/careers.html",
+  "ats": [
+   {
+    "ats": "successfactors",
+    "ids": [
+     "career2.successfactors.eu",
+     "novonordisk"
+    ]
+   }
+  ],
+  "markers": [],
+  "final": "https://www.novonordisk.com/etc.clientlibs/nncorp/components/content/search/clientlibs/clientlib-search.lc-cc0090590efba473d0a1f6115bf17b1b-lc.min.css",
+  "pages": [
+   {
+    "url": "https://www.novonordisk.com/careers.html",
+    "final": "https://www.novonordisk.com/careers.html"
+   },
+   {
+    "url": "https://www.novonordisk.com/",
+    "final": "https://www.novonordisk.com/"
+   },
+   {
+    "url": "https://www.novonordisk.com/search.html",
+    "final": "https://www.novonordisk.com/search.html"
+   },
+   {
+    "url": "https://www.novonordisk.com/etc.clientlibs/nncorp/components/content/navigationlandingpage/clientlib.lc-4e4517d42ce5cf8cd4d5271de17d6781-lc.min.css",
+    "final": "https://www.novonordisk.com/etc.clientlibs/nncorp/components/content/navigationlandingpage/clientlib.lc-4e4517d42ce5cf8cd4d5271de17d6781-lc.min.css"
+   },
+   {
+    "url": "https://www.novonordisk.com/careers/find-a-job.html",
+    "final": "https://www.novonordisk.com/careers/find-a-job.html"
+   },
+   {
+    "url": "https://www.novonordisk.com/careers/job-agent.html",
+    "final": "https://www.novonordisk.com/careers/job-agent.html"
+   },
+   {
+    "url": "https://www.novonordisk.com/careers/early-career-programmes.html",
+    "final": "https://www.novonordisk.com/careers/early-career-programmes.html"
+   },
+   {
+    "url": "https://www.novonordisk.com/careers/career-areas.html",
+    "final": "https://www.novonordisk.com/careers/career-areas.html"
+   },
+   {
+    "url": "https://www.novonordisk.com/careers/our-recruitment-process.html",
+    "final": "https://www.novonordisk.com/careers/our-recruitment-process.html"
+   },
+   {
+    "url": "https://www.novonordisk.com/careers/notice-on-recruitment-fraud.html",
+    "final": "https://www.novonordisk.com/careers/notice-on-recruitment-fraud.html"
+   },
+   {
+    "url": "https://www.novonordisk.com/sustainable-business/esg-portal/principles-positions-and-policies/falsified-medicines-position.html",
+    "final": "https://www.novonordisk.com/sustainable-business/esg-portal/principles-positions-and-policies/falsified-medicines-position.html"
+   },
+   {
+    "url": "https://www.novonordisk.com/sustainable-business/esg-portal/principles-positions-and-policies/illicit-compounding-position.html",
+    "final": "https://www.novonordisk.com/sustainable-business/esg-portal/principles-positions-and-policies/illicit-compounding-position.html"
+   },
+   {
+    "url": "https://www.novonordisk.com/etc.clientlibs/nncorp/components/content/search/clientlibs/clientlib-search.lc-cc0090590efba473d0a1f6115bf17b1b-lc.min.css",
+    "final": "https://www.novonordisk.com/etc.clientlibs/nncorp/components/content/search/clientlibs/clientlib-search.lc-cc0090590efba473d0a1f6115bf17b1b-lc.min.css"
+   }
+  ]
+ },
+ {
+  "name": "Kraft Heinz",
+  "url": "https://www.kraftheinz.com/careers",
+  "ats": [],
+  "markers": [],
+  "final": "https://careers.kraftheinzcompany.com/",
+  "pages": [
+   {
+    "url": "https://www.kraftheinz.com/careers",
+    "error": "HTTP Error 404: Not Found"
+   },
+   {
+    "url": "https://www.kraftheinz.com/",
+    "final": "https://www.kraftheinz.com/"
+   },
+   {
+    "url": "https://www.kraftheinz.com/search?query=Claussen Pickles",
+    "error": "URL can't contain control characters. '/search?query=Claussen Pickles' (found at least ' ')"
+   },
+   {
+    "url": "https://www.kraftheinz.com/search?query=JELL-O Desserts",
+    "error": "URL can't contain control characters. '/search?query=JELL-O Desserts' (found at least ' ')"
+   },
+   {
+    "url": "https://www.kraftheinz.com/search?query=Kraft Sauces",
+    "error": "URL can't contain control characters. '/search?query=Kraft Sauces' (found at least ' ')"
+   },
+   {
+    "url": "https://www.lunchables.com/parents/search?query=Cheese%20Cracker",
+    "final": "https://www.lunchables.com/parents/search?query=Cheese%20Cracker"
+   },
+   {
+    "url": "https://www.kraftheinz.com/search?query=Mio Energy Water Enhancer",
+    "error": "URL can't contain control characters. '/search?query=Mio Energy Water Enhancer' (found at least ' ')"
+   },
+   {
+    "url": "https://www.kraftheinz.com/search?query=Philadelphia Cream Cheese",
+    "error": "URL can't contain control characters. '/search?query=Philadelphia Cream Cheese' (found at least ' ')"
+   },
+   {
+    "url": "https://www.lunchables.com/parents/search?query=PB%26J%20Bundle&amp;",
+    "final": "https://www.lunchables.com/parents/search?query=PB%26J%20Bundle&amp;"
+   },
+   {
+    "url": "https://www.kraftheinz.com/auth/login?returnTo=/taste-vip/for-you",
+    "final": "https://account.kraftheinz.com/u/login?state=hKFo2SBGX2JVMTVINUs2VjlmYk0xd3F6cFBpVDlVUmFwVW9EZKFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIG9WdnVnU1lrNGhCWEgzd1BhTF80TlB1azlQTlhOS3ppo2NpZNkgSTJyaDFvOTJ1ZVl0bHI0ZVZYaW9UMktxSzFVUllPSDE"
+   },
+   {
+    "url": "https://www.lunchables.com/parents/search",
+    "final": "https://www.lunchables.com/parents/search"
+   },
+   {
+    "url": "https://www.kraftheinz.com/tastevip",
+    "final": "https://www.kraftheinz.com/tastevip"
+   },
+   {
+    "url": "https://cdn.allotta.io/image/upload/v1743617775/favicon_ayrxda.ico",
+    "final": "https://cdn.allotta.io/image/upload/v1743617775/favicon_ayrxda.ico"
+   },
+   {
+    "url": "https://careers.kraftheinz.com",
+    "final": "https://careers.kraftheinzcompany.com/"
+   }
+  ]
+ }
+]
