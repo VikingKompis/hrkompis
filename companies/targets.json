@@ -551,6 +551,92 @@
    "tenant": "analogdevices",
    "wd": "wd1",
    "site": "External"
+  },
+  {
+   "name": "Samsung",
+   "type": "workday",
+   "tenant": "sec",
+   "wd": "wd3",
+   "site": "Samsung_Careers"
+  },
+  {
+   "name": "Miele",
+   "type": "workday",
+   "tenant": "miele",
+   "wd": "wd3",
+   "site": "miele-jobs"
+  },
+  {
+   "name": "Pernod Ricard",
+   "type": "workday",
+   "tenant": "pernodricard",
+   "wd": "wd3",
+   "site": "pernod-ricard"
+  },
+  {
+   "name": "Signify",
+   "type": "workday",
+   "tenant": "lighting",
+   "wd": "wd3",
+   "site": "jobs-and-careers"
+  },
+  {
+   "name": "PVH",
+   "type": "workday",
+   "tenant": "pvh",
+   "wd": "wd1",
+   "site": "PVH_Careers"
+  },
+  {
+   "name": "LEGO",
+   "type": "workday",
+   "tenant": "lego",
+   "wd": "wd103",
+   "site": "LEGO_External"
+  },
+  {
+   "name": "Maersk",
+   "type": "workday",
+   "tenant": "maersk",
+   "wd": "wd3",
+   "site": "Maersk_Careers"
+  },
+  {
+   "name": "Grundfos",
+   "type": "rmk",
+   "host": "jobs.grundfos.com"
+  },
+  {
+   "name": "Nestlé",
+   "type": "rmk",
+   "host": "jobdetails.nestle.com"
+  },
+  {
+   "name": "Danfoss",
+   "type": "rmk",
+   "host": "jobs.danfoss.com"
+  },
+  {
+   "name": "Novo Nordisk",
+   "type": "rmk",
+   "host": "careers.novonordisk.com"
+  },
+  {
+   "name": "Tetra Pak",
+   "type": "rmk",
+   "host": "jobs.tetrapak.com"
+  },
+  {
+   "name": "Under Armour",
+   "type": "rmk",
+   "host": "careers.underarmour.com"
+  },
+  {
+   "name": "Versuni",
+   "type": "phenom",
+   "host": "careers.versuni.com",
+   "locale": "en_gb",
+   "country": "gb"
   }
  ],
  "gb": [
@@ -1106,6 +1192,92 @@
    "tenant": "analogdevices",
    "wd": "wd1",
    "site": "External"
+  },
+  {
+   "name": "Samsung",
+   "type": "workday",
+   "tenant": "sec",
+   "wd": "wd3",
+   "site": "Samsung_Careers"
+  },
+  {
+   "name": "Miele",
+   "type": "workday",
+   "tenant": "miele",
+   "wd": "wd3",
+   "site": "miele-jobs"
+  },
+  {
+   "name": "Pernod Ricard",
+   "type": "workday",
+   "tenant": "pernodricard",
+   "wd": "wd3",
+   "site": "pernod-ricard"
+  },
+  {
+   "name": "Signify",
+   "type": "workday",
+   "tenant": "lighting",
+   "wd": "wd3",
+   "site": "jobs-and-careers"
+  },
+  {
+   "name": "PVH",
+   "type": "workday",
+   "tenant": "pvh",
+   "wd": "wd1",
+   "site": "PVH_Careers"
+  },
+  {
+   "name": "LEGO",
+   "type": "workday",
+   "tenant": "lego",
+   "wd": "wd103",
+   "site": "LEGO_External"
+  },
+  {
+   "name": "Maersk",
+   "type": "workday",
+   "tenant": "maersk",
+   "wd": "wd3",
+   "site": "Maersk_Careers"
+  },
+  {
+   "name": "Grundfos",
+   "type": "rmk",
+   "host": "jobs.grundfos.com"
+  },
+  {
+   "name": "Nestlé",
+   "type": "rmk",
+   "host": "jobdetails.nestle.com"
+  },
+  {
+   "name": "Danfoss",
+   "type": "rmk",
+   "host": "jobs.danfoss.com"
+  },
+  {
+   "name": "Novo Nordisk",
+   "type": "rmk",
+   "host": "careers.novonordisk.com"
+  },
+  {
+   "name": "Tetra Pak",
+   "type": "rmk",
+   "host": "jobs.tetrapak.com"
+  },
+  {
+   "name": "Under Armour",
+   "type": "rmk",
+   "host": "careers.underarmour.com"
+  },
+  {
+   "name": "Versuni",
+   "type": "phenom",
+   "host": "careers.versuni.com",
+   "locale": "en_gb",
+   "country": "gb"
   }
  ],
  "ie": [
@@ -1590,6 +1762,578 @@
    "tenant": "analogdevices",
    "wd": "wd1",
    "site": "External"
+  },
+  {
+   "name": "Samsung",
+   "type": "workday",
+   "tenant": "sec",
+   "wd": "wd3",
+   "site": "Samsung_Careers"
+  },
+  {
+   "name": "Miele",
+   "type": "workday",
+   "tenant": "miele",
+   "wd": "wd3",
+   "site": "miele-jobs"
+  },
+  {
+   "name": "Pernod Ricard",
+   "type": "workday",
+   "tenant": "pernodricard",
+   "wd": "wd3",
+   "site": "pernod-ricard"
+  },
+  {
+   "name": "Signify",
+   "type": "workday",
+   "tenant": "lighting",
+   "wd": "wd3",
+   "site": "jobs-and-careers"
+  },
+  {
+   "name": "PVH",
+   "type": "workday",
+   "tenant": "pvh",
+   "wd": "wd1",
+   "site": "PVH_Careers"
+  },
+  {
+   "name": "LEGO",
+   "type": "workday",
+   "tenant": "lego",
+   "wd": "wd103",
+   "site": "LEGO_External"
+  },
+  {
+   "name": "Maersk",
+   "type": "workday",
+   "tenant": "maersk",
+   "wd": "wd3",
+   "site": "Maersk_Careers"
+  },
+  {
+   "name": "Grundfos",
+   "type": "rmk",
+   "host": "jobs.grundfos.com"
+  },
+  {
+   "name": "Nestlé",
+   "type": "rmk",
+   "host": "jobdetails.nestle.com"
+  },
+  {
+   "name": "Danfoss",
+   "type": "rmk",
+   "host": "jobs.danfoss.com"
+  },
+  {
+   "name": "Novo Nordisk",
+   "type": "rmk",
+   "host": "careers.novonordisk.com"
+  },
+  {
+   "name": "Tetra Pak",
+   "type": "rmk",
+   "host": "jobs.tetrapak.com"
+  },
+  {
+   "name": "Under Armour",
+   "type": "rmk",
+   "host": "careers.underarmour.com"
+  },
+  {
+   "name": "Versuni",
+   "type": "phenom",
+   "host": "careers.versuni.com",
+   "locale": "en_gb",
+   "country": "gb"
+  }
+ ],
+ "nl": [
+  {
+   "name": "Samsung",
+   "type": "workday",
+   "tenant": "sec",
+   "wd": "wd3",
+   "site": "Samsung_Careers"
+  },
+  {
+   "name": "Miele",
+   "type": "workday",
+   "tenant": "miele",
+   "wd": "wd3",
+   "site": "miele-jobs"
+  },
+  {
+   "name": "Pernod Ricard",
+   "type": "workday",
+   "tenant": "pernodricard",
+   "wd": "wd3",
+   "site": "pernod-ricard"
+  },
+  {
+   "name": "Signify",
+   "type": "workday",
+   "tenant": "lighting",
+   "wd": "wd3",
+   "site": "jobs-and-careers"
+  },
+  {
+   "name": "PVH",
+   "type": "workday",
+   "tenant": "pvh",
+   "wd": "wd1",
+   "site": "PVH_Careers"
+  },
+  {
+   "name": "LEGO",
+   "type": "workday",
+   "tenant": "lego",
+   "wd": "wd103",
+   "site": "LEGO_External"
+  },
+  {
+   "name": "Maersk",
+   "type": "workday",
+   "tenant": "maersk",
+   "wd": "wd3",
+   "site": "Maersk_Careers"
+  },
+  {
+   "name": "Grundfos",
+   "type": "rmk",
+   "host": "jobs.grundfos.com"
+  },
+  {
+   "name": "Nestlé",
+   "type": "rmk",
+   "host": "jobdetails.nestle.com"
+  },
+  {
+   "name": "Danfoss",
+   "type": "rmk",
+   "host": "jobs.danfoss.com"
+  },
+  {
+   "name": "Novo Nordisk",
+   "type": "rmk",
+   "host": "careers.novonordisk.com"
+  },
+  {
+   "name": "Tetra Pak",
+   "type": "rmk",
+   "host": "jobs.tetrapak.com"
+  },
+  {
+   "name": "Under Armour",
+   "type": "rmk",
+   "host": "careers.underarmour.com"
+  },
+  {
+   "name": "Versuni",
+   "type": "phenom",
+   "host": "careers.versuni.com",
+   "locale": "en_gb",
+   "country": "gb"
+  },
+  {
+   "name": "Carlsberg",
+   "type": "rmk",
+   "host": "www.carlsberggroup.com"
+  },
+  {
+   "name": "adidas",
+   "type": "rmk",
+   "host": "jobs.adidas-group.com"
+  },
+  {
+   "name": "Nike",
+   "type": "workday",
+   "tenant": "nike",
+   "wd": "wd1",
+   "site": "nke"
+  },
+  {
+   "name": "Unilever",
+   "type": "workday",
+   "tenant": "unilever",
+   "wd": "wd3",
+   "site": "Unilever_Experienced_Professionals"
+  },
+  {
+   "name": "Diageo",
+   "type": "workday",
+   "tenant": "diageo",
+   "wd": "wd3",
+   "site": "Diageo_Careers"
+  },
+  {
+   "name": "Philips",
+   "type": "workday",
+   "tenant": "philips",
+   "wd": "wd3",
+   "site": "jobs-and-careers"
+  },
+  {
+   "name": "Mondelez",
+   "type": "workday",
+   "tenant": "mdlz",
+   "wd": "wd3",
+   "site": "External"
+  },
+  {
+   "name": "Coca-Cola",
+   "type": "workday",
+   "tenant": "coke",
+   "wd": "wd1",
+   "site": "coca-cola-careers"
+  },
+  {
+   "name": "Mars",
+   "type": "rmk",
+   "host": "jobs.kellanova.com"
+  },
+  {
+   "name": "L'Oréal",
+   "type": "radancy",
+   "host": "careers.loreal.com",
+   "lang": "en"
+  },
+  {
+   "name": "Reckitt",
+   "type": "rmk",
+   "host": "careers.reckitt.com"
+  },
+  {
+   "name": "IKEA",
+   "type": "radancy",
+   "host": "jobs.ikea.com",
+   "lang": "en"
+  }
+ ],
+ "dk": [
+  {
+   "name": "Samsung",
+   "type": "workday",
+   "tenant": "sec",
+   "wd": "wd3",
+   "site": "Samsung_Careers"
+  },
+  {
+   "name": "Miele",
+   "type": "workday",
+   "tenant": "miele",
+   "wd": "wd3",
+   "site": "miele-jobs"
+  },
+  {
+   "name": "Pernod Ricard",
+   "type": "workday",
+   "tenant": "pernodricard",
+   "wd": "wd3",
+   "site": "pernod-ricard"
+  },
+  {
+   "name": "Signify",
+   "type": "workday",
+   "tenant": "lighting",
+   "wd": "wd3",
+   "site": "jobs-and-careers"
+  },
+  {
+   "name": "PVH",
+   "type": "workday",
+   "tenant": "pvh",
+   "wd": "wd1",
+   "site": "PVH_Careers"
+  },
+  {
+   "name": "LEGO",
+   "type": "workday",
+   "tenant": "lego",
+   "wd": "wd103",
+   "site": "LEGO_External"
+  },
+  {
+   "name": "Maersk",
+   "type": "workday",
+   "tenant": "maersk",
+   "wd": "wd3",
+   "site": "Maersk_Careers"
+  },
+  {
+   "name": "Grundfos",
+   "type": "rmk",
+   "host": "jobs.grundfos.com"
+  },
+  {
+   "name": "Nestlé",
+   "type": "rmk",
+   "host": "jobdetails.nestle.com"
+  },
+  {
+   "name": "Danfoss",
+   "type": "rmk",
+   "host": "jobs.danfoss.com"
+  },
+  {
+   "name": "Novo Nordisk",
+   "type": "rmk",
+   "host": "careers.novonordisk.com"
+  },
+  {
+   "name": "Tetra Pak",
+   "type": "rmk",
+   "host": "jobs.tetrapak.com"
+  },
+  {
+   "name": "Under Armour",
+   "type": "rmk",
+   "host": "careers.underarmour.com"
+  },
+  {
+   "name": "Versuni",
+   "type": "phenom",
+   "host": "careers.versuni.com",
+   "locale": "en_gb",
+   "country": "gb"
+  },
+  {
+   "name": "Carlsberg",
+   "type": "rmk",
+   "host": "www.carlsberggroup.com"
+  },
+  {
+   "name": "adidas",
+   "type": "rmk",
+   "host": "jobs.adidas-group.com"
+  },
+  {
+   "name": "Nike",
+   "type": "workday",
+   "tenant": "nike",
+   "wd": "wd1",
+   "site": "nke"
+  },
+  {
+   "name": "Unilever",
+   "type": "workday",
+   "tenant": "unilever",
+   "wd": "wd3",
+   "site": "Unilever_Experienced_Professionals"
+  },
+  {
+   "name": "Diageo",
+   "type": "workday",
+   "tenant": "diageo",
+   "wd": "wd3",
+   "site": "Diageo_Careers"
+  },
+  {
+   "name": "Philips",
+   "type": "workday",
+   "tenant": "philips",
+   "wd": "wd3",
+   "site": "jobs-and-careers"
+  },
+  {
+   "name": "Mondelez",
+   "type": "workday",
+   "tenant": "mdlz",
+   "wd": "wd3",
+   "site": "External"
+  },
+  {
+   "name": "Coca-Cola",
+   "type": "workday",
+   "tenant": "coke",
+   "wd": "wd1",
+   "site": "coca-cola-careers"
+  },
+  {
+   "name": "Mars",
+   "type": "rmk",
+   "host": "jobs.kellanova.com"
+  },
+  {
+   "name": "L'Oréal",
+   "type": "radancy",
+   "host": "careers.loreal.com",
+   "lang": "en"
+  },
+  {
+   "name": "Reckitt",
+   "type": "rmk",
+   "host": "careers.reckitt.com"
+  },
+  {
+   "name": "IKEA",
+   "type": "radancy",
+   "host": "jobs.ikea.com",
+   "lang": "en"
+  }
+ ],
+ "de": [
+  {
+   "name": "Samsung",
+   "type": "workday",
+   "tenant": "sec",
+   "wd": "wd3",
+   "site": "Samsung_Careers"
+  },
+  {
+   "name": "Miele",
+   "type": "workday",
+   "tenant": "miele",
+   "wd": "wd3",
+   "site": "miele-jobs"
+  },
+  {
+   "name": "Pernod Ricard",
+   "type": "workday",
+   "tenant": "pernodricard",
+   "wd": "wd3",
+   "site": "pernod-ricard"
+  },
+  {
+   "name": "Signify",
+   "type": "workday",
+   "tenant": "lighting",
+   "wd": "wd3",
+   "site": "jobs-and-careers"
+  },
+  {
+   "name": "PVH",
+   "type": "workday",
+   "tenant": "pvh",
+   "wd": "wd1",
+   "site": "PVH_Careers"
+  },
+  {
+   "name": "LEGO",
+   "type": "workday",
+   "tenant": "lego",
+   "wd": "wd103",
+   "site": "LEGO_External"
+  },
+  {
+   "name": "Maersk",
+   "type": "workday",
+   "tenant": "maersk",
+   "wd": "wd3",
+   "site": "Maersk_Careers"
+  },
+  {
+   "name": "Grundfos",
+   "type": "rmk",
+   "host": "jobs.grundfos.com"
+  },
+  {
+   "name": "Nestlé",
+   "type": "rmk",
+   "host": "jobdetails.nestle.com"
+  },
+  {
+   "name": "Danfoss",
+   "type": "rmk",
+   "host": "jobs.danfoss.com"
+  },
+  {
+   "name": "Novo Nordisk",
+   "type": "rmk",
+   "host": "careers.novonordisk.com"
+  },
+  {
+   "name": "Tetra Pak",
+   "type": "rmk",
+   "host": "jobs.tetrapak.com"
+  },
+  {
+   "name": "Under Armour",
+   "type": "rmk",
+   "host": "careers.underarmour.com"
+  },
+  {
+   "name": "Versuni",
+   "type": "phenom",
+   "host": "careers.versuni.com",
+   "locale": "en_gb",
+   "country": "gb"
+  },
+  {
+   "name": "Carlsberg",
+   "type": "rmk",
+   "host": "www.carlsberggroup.com"
+  },
+  {
+   "name": "adidas",
+   "type": "rmk",
+   "host": "jobs.adidas-group.com"
+  },
+  {
+   "name": "Nike",
+   "type": "workday",
+   "tenant": "nike",
+   "wd": "wd1",
+   "site": "nke"
+  },
+  {
+   "name": "Unilever",
+   "type": "workday",
+   "tenant": "unilever",
+   "wd": "wd3",
+   "site": "Unilever_Experienced_Professionals"
+  },
+  {
+   "name": "Diageo",
+   "type": "workday",
+   "tenant": "diageo",
+   "wd": "wd3",
+   "site": "Diageo_Careers"
+  },
+  {
+   "name": "Philips",
+   "type": "workday",
+   "tenant": "philips",
+   "wd": "wd3",
+   "site": "jobs-and-careers"
+  },
+  {
+   "name": "Mondelez",
+   "type": "workday",
+   "tenant": "mdlz",
+   "wd": "wd3",
+   "site": "External"
+  },
+  {
+   "name": "Coca-Cola",
+   "type": "workday",
+   "tenant": "coke",
+   "wd": "wd1",
+   "site": "coca-cola-careers"
+  },
+  {
+   "name": "Mars",
+   "type": "rmk",
+   "host": "jobs.kellanova.com"
+  },
+  {
+   "name": "L'Oréal",
+   "type": "radancy",
+   "host": "careers.loreal.com",
+   "lang": "en"
+  },
+  {
+   "name": "Reckitt",
+   "type": "rmk",
+   "host": "careers.reckitt.com"
+  },
+  {
+   "name": "IKEA",
+   "type": "radancy",
+   "host": "jobs.ikea.com",
+   "lang": "en"
   }
  ]
 }
