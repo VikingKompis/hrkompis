@@ -1,479 +1,479 @@
 {
-  "nl": [
-    {
-      "name": "Samsung",
-      "type": "workday",
-      "tenant": "sec",
-      "wd": "wd3",
-      "site": "Samsung_Careers"
-    },
-    {
-      "name": "Whirlpool",
-      "type": "eightfold",
-      "host": "whirlpool.eightfold.ai",
-      "domain": "whirlpool.com"
-    },
-    {
-      "name": "Miele",
-      "type": "workday",
-      "tenant": "miele",
-      "wd": "wd3",
-      "site": "miele-jobs"
-    },
-    {
-      "name": "Pernod Ricard",
-      "type": "workday",
-      "tenant": "pernodricard",
-      "wd": "wd3",
-      "site": "pernod-ricard"
-    },
-    {
-      "name": "Signify",
-      "type": "workday",
-      "tenant": "lighting",
-      "wd": "wd3",
-      "site": "jobs-and-careers"
-    },
-    {
-      "name": "PVH",
-      "type": "workday",
-      "tenant": "pvh",
-      "wd": "wd1",
-      "site": "PVH_Careers"
-    },
-    {
-      "name": "LEGO",
-      "type": "workday",
-      "tenant": "lego",
-      "wd": "wd103",
-      "site": "LEGO_External"
-    },
-    {
-      "name": "Maersk",
-      "type": "workday",
-      "tenant": "maersk",
-      "wd": "wd3",
-      "site": "Maersk_Careers"
-    },
-    {
-      "name": "Kraft Heinz",
-      "type": "workday",
-      "tenant": "kraftheinz",
-      "wd": "wd1",
-      "site": "KraftHeinz_Careers"
-    },
-    {
-      "name": "Heineken",
-      "type": "rmk",
-      "host": "careers.theheinekencompany.com"
-    },
-    {
-      "name": "Beko",
-      "type": "rmk",
-      "host": "www.koccareers.com"
-    },
-    {
-      "name": "Under Armour",
-      "type": "rmk",
-      "host": "careers.underarmour.com"
-    },
-    {
-      "name": "Danfoss",
-      "type": "rmk",
-      "host": "jobs.danfoss.com"
-    },
-    {
-      "name": "BSH",
-      "type": "rmk",
-      "host": "jobs.bsh-group.com"
-    },
-    {
-      "name": "Nestlé",
-      "type": "rmk",
-      "host": "jobdetails.nestle.com"
-    },
-    {
-      "name": "Coca-Cola HBC",
-      "type": "rmk",
-      "host": "careers.coca-colahellenic.com"
-    },
-    {
-      "name": "Tetra Pak",
-      "type": "rmk",
-      "host": "jobs.tetrapak.com"
-    },
-    {
-      "name": "Grundfos",
-      "type": "rmk",
-      "host": "jobs.grundfos.com"
-    },
-    {
-      "name": "Novo Nordisk",
-      "type": "rmk",
-      "host": "careers.novonordisk.com"
-    },
-    {
-      "name": "Versuni",
-      "type": "phenom",
-      "host": "careers.versuni.com",
-      "locale": "en_gb",
-      "country": "gb"
-    },
-    {
-      "name": "Procter & Gamble",
-      "type": "phenom",
-      "host": "www.pgcareers.com",
-      "locale": "en_us",
-      "country": "us"
-    },
-    {
-      "name": "AkzoNobel",
-      "type": "phenom",
-      "host": "careers.akzonobel.com",
-      "locale": "en_gb",
-      "country": "gb"
-    },
-    {
-      "name": "Ahold Delhaize",
-      "type": "phenom",
-      "host": "careers.aholddelhaize.com",
-      "locale": "en_global",
-      "country": "global"
-    },
-    {
-      "name": "Ericsson",
-      "type": "eightfold",
-      "host": "jobs.ericsson.com",
-      "domain": "ericsson.com"
-    },
-    {
-      "name": "dsm-firmenich",
-      "type": "eightfold",
-      "host": "dsm-firmenich.eightfold.ai",
-      "domain": "dsm-firmenich.com"
-    },
-    {
-      "name": "Anglo American",
-      "type": "smartrecruiters",
-      "id": "AngloAmerican"
-    }
-  ],
-  "gb": [
-    {
-      "name": "Samsung",
-      "type": "workday",
-      "tenant": "sec",
-      "wd": "wd3",
-      "site": "Samsung_Careers"
-    },
-    {
-      "name": "Whirlpool",
-      "type": "eightfold",
-      "host": "whirlpool.eightfold.ai",
-      "domain": "whirlpool.com"
-    },
-    {
-      "name": "Miele",
-      "type": "workday",
-      "tenant": "miele",
-      "wd": "wd3",
-      "site": "miele-jobs"
-    },
-    {
-      "name": "Pernod Ricard",
-      "type": "workday",
-      "tenant": "pernodricard",
-      "wd": "wd3",
-      "site": "pernod-ricard"
-    },
-    {
-      "name": "Signify",
-      "type": "workday",
-      "tenant": "lighting",
-      "wd": "wd3",
-      "site": "jobs-and-careers"
-    },
-    {
-      "name": "PVH",
-      "type": "workday",
-      "tenant": "pvh",
-      "wd": "wd1",
-      "site": "PVH_Careers"
-    },
-    {
-      "name": "LEGO",
-      "type": "workday",
-      "tenant": "lego",
-      "wd": "wd103",
-      "site": "LEGO_External"
-    },
-    {
-      "name": "Maersk",
-      "type": "workday",
-      "tenant": "maersk",
-      "wd": "wd3",
-      "site": "Maersk_Careers"
-    },
-    {
-      "name": "Kraft Heinz",
-      "type": "workday",
-      "tenant": "kraftheinz",
-      "wd": "wd1",
-      "site": "KraftHeinz_Careers"
-    },
-    {
-      "name": "Heineken",
-      "type": "rmk",
-      "host": "careers.theheinekencompany.com"
-    },
-    {
-      "name": "Beko",
-      "type": "rmk",
-      "host": "www.koccareers.com"
-    },
-    {
-      "name": "Under Armour",
-      "type": "rmk",
-      "host": "careers.underarmour.com"
-    },
-    {
-      "name": "Danfoss",
-      "type": "rmk",
-      "host": "jobs.danfoss.com"
-    },
-    {
-      "name": "BSH",
-      "type": "rmk",
-      "host": "jobs.bsh-group.com"
-    },
-    {
-      "name": "Nestlé",
-      "type": "rmk",
-      "host": "jobdetails.nestle.com"
-    },
-    {
-      "name": "Coca-Cola HBC",
-      "type": "rmk",
-      "host": "careers.coca-colahellenic.com"
-    },
-    {
-      "name": "Tetra Pak",
-      "type": "rmk",
-      "host": "jobs.tetrapak.com"
-    },
-    {
-      "name": "Grundfos",
-      "type": "rmk",
-      "host": "jobs.grundfos.com"
-    },
-    {
-      "name": "Novo Nordisk",
-      "type": "rmk",
-      "host": "careers.novonordisk.com"
-    },
-    {
-      "name": "Versuni",
-      "type": "phenom",
-      "host": "careers.versuni.com",
-      "locale": "en_gb",
-      "country": "gb"
-    },
-    {
-      "name": "Procter & Gamble",
-      "type": "phenom",
-      "host": "www.pgcareers.com",
-      "locale": "en_us",
-      "country": "us"
-    },
-    {
-      "name": "AkzoNobel",
-      "type": "phenom",
-      "host": "careers.akzonobel.com",
-      "locale": "en_gb",
-      "country": "gb"
-    },
-    {
-      "name": "Ahold Delhaize",
-      "type": "phenom",
-      "host": "careers.aholddelhaize.com",
-      "locale": "en_global",
-      "country": "global"
-    },
-    {
-      "name": "Ericsson",
-      "type": "eightfold",
-      "host": "jobs.ericsson.com",
-      "domain": "ericsson.com"
-    },
-    {
-      "name": "dsm-firmenich",
-      "type": "eightfold",
-      "host": "dsm-firmenich.eightfold.ai",
-      "domain": "dsm-firmenich.com"
-    },
-    {
-      "name": "Anglo American",
-      "type": "smartrecruiters",
-      "id": "AngloAmerican"
-    }
-  ],
-  "se": [
-    {
-      "name": "Samsung",
-      "type": "workday",
-      "tenant": "sec",
-      "wd": "wd3",
-      "site": "Samsung_Careers"
-    },
-    {
-      "name": "Whirlpool",
-      "type": "eightfold",
-      "host": "whirlpool.eightfold.ai",
-      "domain": "whirlpool.com"
-    },
-    {
-      "name": "Miele",
-      "type": "workday",
-      "tenant": "miele",
-      "wd": "wd3",
-      "site": "miele-jobs"
-    },
-    {
-      "name": "Pernod Ricard",
-      "type": "workday",
-      "tenant": "pernodricard",
-      "wd": "wd3",
-      "site": "pernod-ricard"
-    },
-    {
-      "name": "Signify",
-      "type": "workday",
-      "tenant": "lighting",
-      "wd": "wd3",
-      "site": "jobs-and-careers"
-    },
-    {
-      "name": "PVH",
-      "type": "workday",
-      "tenant": "pvh",
-      "wd": "wd1",
-      "site": "PVH_Careers"
-    },
-    {
-      "name": "LEGO",
-      "type": "workday",
-      "tenant": "lego",
-      "wd": "wd103",
-      "site": "LEGO_External"
-    },
-    {
-      "name": "Maersk",
-      "type": "workday",
-      "tenant": "maersk",
-      "wd": "wd3",
-      "site": "Maersk_Careers"
-    },
-    {
-      "name": "Kraft Heinz",
-      "type": "workday",
-      "tenant": "kraftheinz",
-      "wd": "wd1",
-      "site": "KraftHeinz_Careers"
-    },
-    {
-      "name": "Heineken",
-      "type": "rmk",
-      "host": "careers.theheinekencompany.com"
-    },
-    {
-      "name": "Beko",
-      "type": "rmk",
-      "host": "www.koccareers.com"
-    },
-    {
-      "name": "Under Armour",
-      "type": "rmk",
-      "host": "careers.underarmour.com"
-    },
-    {
-      "name": "Danfoss",
-      "type": "rmk",
-      "host": "jobs.danfoss.com"
-    },
-    {
-      "name": "BSH",
-      "type": "rmk",
-      "host": "jobs.bsh-group.com"
-    },
-    {
-      "name": "Nestlé",
-      "type": "rmk",
-      "host": "jobdetails.nestle.com"
-    },
-    {
-      "name": "Coca-Cola HBC",
-      "type": "rmk",
-      "host": "careers.coca-colahellenic.com"
-    },
-    {
-      "name": "Tetra Pak",
-      "type": "rmk",
-      "host": "jobs.tetrapak.com"
-    },
-    {
-      "name": "Grundfos",
-      "type": "rmk",
-      "host": "jobs.grundfos.com"
-    },
-    {
-      "name": "Novo Nordisk",
-      "type": "rmk",
-      "host": "careers.novonordisk.com"
-    },
-    {
-      "name": "Versuni",
-      "type": "phenom",
-      "host": "careers.versuni.com",
-      "locale": "en_gb",
-      "country": "gb"
-    },
-    {
-      "name": "Procter & Gamble",
-      "type": "phenom",
-      "host": "www.pgcareers.com",
-      "locale": "en_us",
-      "country": "us"
-    },
-    {
-      "name": "AkzoNobel",
-      "type": "phenom",
-      "host": "careers.akzonobel.com",
-      "locale": "en_gb",
-      "country": "gb"
-    },
-    {
-      "name": "Ahold Delhaize",
-      "type": "phenom",
-      "host": "careers.aholddelhaize.com",
-      "locale": "en_global",
-      "country": "global"
-    },
-    {
-      "name": "Ericsson",
-      "type": "eightfold",
-      "host": "jobs.ericsson.com",
-      "domain": "ericsson.com"
-    },
-    {
-      "name": "dsm-firmenich",
-      "type": "eightfold",
-      "host": "dsm-firmenich.eightfold.ai",
-      "domain": "dsm-firmenich.com"
-    },
-    {
-      "name": "Anglo American",
-      "type": "smartrecruiters",
-      "id": "AngloAmerican"
-    }
-  ]
+ "nl": [
+  {
+   "name": "Samsung",
+   "type": "workday",
+   "tenant": "sec",
+   "wd": "wd3",
+   "site": "Samsung_Careers"
+  },
+  {
+   "name": "Whirlpool",
+   "type": "eightfold",
+   "host": "whirlpool.eightfold.ai",
+   "domain": "whirlpool.com"
+  },
+  {
+   "name": "Miele",
+   "type": "workday",
+   "tenant": "miele",
+   "wd": "wd3",
+   "site": "miele-jobs"
+  },
+  {
+   "name": "Pernod Ricard",
+   "type": "workday",
+   "tenant": "pernodricard",
+   "wd": "wd3",
+   "site": "pernod-ricard"
+  },
+  {
+   "name": "Signify",
+   "type": "workday",
+   "tenant": "lighting",
+   "wd": "wd3",
+   "site": "jobs-and-careers"
+  },
+  {
+   "name": "PVH",
+   "type": "workday",
+   "tenant": "pvh",
+   "wd": "wd1",
+   "site": "PVH_Careers"
+  },
+  {
+   "name": "LEGO",
+   "type": "workday",
+   "tenant": "lego",
+   "wd": "wd103",
+   "site": "LEGO_External"
+  },
+  {
+   "name": "Maersk",
+   "type": "workday",
+   "tenant": "maersk",
+   "wd": "wd3",
+   "site": "Maersk_Careers"
+  },
+  {
+   "name": "Kraft Heinz",
+   "type": "workday",
+   "tenant": "kraftheinz",
+   "wd": "wd1",
+   "site": "KraftHeinz_Careers"
+  },
+  {
+   "name": "Heineken",
+   "type": "rmk",
+   "host": "careers.theheinekencompany.com"
+  },
+  {
+   "name": "Beko",
+   "type": "rmk",
+   "host": "www.koccareers.com"
+  },
+  {
+   "name": "Under Armour",
+   "type": "rmk",
+   "host": "careers.underarmour.com"
+  },
+  {
+   "name": "Danfoss",
+   "type": "rmk",
+   "host": "jobs.danfoss.com"
+  },
+  {
+   "name": "BSH",
+   "type": "rmk",
+   "host": "jobs.bsh-group.com"
+  },
+  {
+   "name": "Nestlé",
+   "type": "rmk",
+   "host": "jobdetails.nestle.com"
+  },
+  {
+   "name": "Coca-Cola HBC",
+   "type": "rmk",
+   "host": "careers.coca-colahellenic.com"
+  },
+  {
+   "name": "Tetra Pak",
+   "type": "rmk",
+   "host": "jobs.tetrapak.com"
+  },
+  {
+   "name": "Grundfos",
+   "type": "rmk",
+   "host": "jobs.grundfos.com"
+  },
+  {
+   "name": "Novo Nordisk",
+   "type": "rmk",
+   "host": "careers.novonordisk.com"
+  },
+  {
+   "name": "Versuni",
+   "type": "phenom",
+   "host": "careers.versuni.com",
+   "locale": "en_gb",
+   "country": "gb"
+  },
+  {
+   "name": "Procter & Gamble",
+   "type": "phenom",
+   "host": "www.pgcareers.com",
+   "locale": "en_us",
+   "country": "us"
+  },
+  {
+   "name": "AkzoNobel",
+   "type": "phenom",
+   "host": "careers.akzonobel.com",
+   "locale": "en_gb",
+   "country": "gb"
+  },
+  {
+   "name": "Ahold Delhaize",
+   "type": "phenom",
+   "host": "careers.aholddelhaize.com",
+   "locale": "en_global",
+   "country": "global"
+  },
+  {
+   "name": "Ericsson",
+   "type": "eightfold",
+   "host": "jobs.ericsson.com",
+   "domain": "ericsson.com"
+  },
+  {
+   "name": "dsm-firmenich",
+   "type": "eightfold",
+   "host": "dsm-firmenich.eightfold.ai",
+   "domain": "dsm-firmenich.com"
+  },
+  {
+   "name": "Anglo American",
+   "type": "smartrecruiters",
+   "id": "AngloAmerican"
+  }
+ ],
+ "gb": [
+  {
+   "name": "Samsung",
+   "type": "workday",
+   "tenant": "sec",
+   "wd": "wd3",
+   "site": "Samsung_Careers"
+  },
+  {
+   "name": "Whirlpool",
+   "type": "eightfold",
+   "host": "whirlpool.eightfold.ai",
+   "domain": "whirlpool.com"
+  },
+  {
+   "name": "Miele",
+   "type": "workday",
+   "tenant": "miele",
+   "wd": "wd3",
+   "site": "miele-jobs"
+  },
+  {
+   "name": "Pernod Ricard",
+   "type": "workday",
+   "tenant": "pernodricard",
+   "wd": "wd3",
+   "site": "pernod-ricard"
+  },
+  {
+   "name": "Signify",
+   "type": "workday",
+   "tenant": "lighting",
+   "wd": "wd3",
+   "site": "jobs-and-careers"
+  },
+  {
+   "name": "PVH",
+   "type": "workday",
+   "tenant": "pvh",
+   "wd": "wd1",
+   "site": "PVH_Careers"
+  },
+  {
+   "name": "LEGO",
+   "type": "workday",
+   "tenant": "lego",
+   "wd": "wd103",
+   "site": "LEGO_External"
+  },
+  {
+   "name": "Maersk",
+   "type": "workday",
+   "tenant": "maersk",
+   "wd": "wd3",
+   "site": "Maersk_Careers"
+  },
+  {
+   "name": "Kraft Heinz",
+   "type": "workday",
+   "tenant": "kraftheinz",
+   "wd": "wd1",
+   "site": "KraftHeinz_Careers"
+  },
+  {
+   "name": "Heineken",
+   "type": "rmk",
+   "host": "careers.theheinekencompany.com"
+  },
+  {
+   "name": "Beko",
+   "type": "rmk",
+   "host": "www.koccareers.com"
+  },
+  {
+   "name": "Under Armour",
+   "type": "rmk",
+   "host": "careers.underarmour.com"
+  },
+  {
+   "name": "Danfoss",
+   "type": "rmk",
+   "host": "jobs.danfoss.com"
+  },
+  {
+   "name": "BSH",
+   "type": "rmk",
+   "host": "jobs.bsh-group.com"
+  },
+  {
+   "name": "Nestlé",
+   "type": "rmk",
+   "host": "jobdetails.nestle.com"
+  },
+  {
+   "name": "Coca-Cola HBC",
+   "type": "rmk",
+   "host": "careers.coca-colahellenic.com"
+  },
+  {
+   "name": "Tetra Pak",
+   "type": "rmk",
+   "host": "jobs.tetrapak.com"
+  },
+  {
+   "name": "Grundfos",
+   "type": "rmk",
+   "host": "jobs.grundfos.com"
+  },
+  {
+   "name": "Novo Nordisk",
+   "type": "rmk",
+   "host": "careers.novonordisk.com"
+  },
+  {
+   "name": "Versuni",
+   "type": "phenom",
+   "host": "careers.versuni.com",
+   "locale": "en_gb",
+   "country": "gb"
+  },
+  {
+   "name": "Procter & Gamble",
+   "type": "phenom",
+   "host": "www.pgcareers.com",
+   "locale": "en_us",
+   "country": "us"
+  },
+  {
+   "name": "AkzoNobel",
+   "type": "phenom",
+   "host": "careers.akzonobel.com",
+   "locale": "en_gb",
+   "country": "gb"
+  },
+  {
+   "name": "Ahold Delhaize",
+   "type": "phenom",
+   "host": "careers.aholddelhaize.com",
+   "locale": "en_global",
+   "country": "global"
+  },
+  {
+   "name": "Ericsson",
+   "type": "eightfold",
+   "host": "jobs.ericsson.com",
+   "domain": "ericsson.com"
+  },
+  {
+   "name": "dsm-firmenich",
+   "type": "eightfold",
+   "host": "dsm-firmenich.eightfold.ai",
+   "domain": "dsm-firmenich.com"
+  },
+  {
+   "name": "Anglo American",
+   "type": "smartrecruiters",
+   "id": "AngloAmerican"
+  }
+ ],
+ "se": [
+  {
+   "name": "Samsung",
+   "type": "workday",
+   "tenant": "sec",
+   "wd": "wd3",
+   "site": "Samsung_Careers"
+  },
+  {
+   "name": "Whirlpool",
+   "type": "eightfold",
+   "host": "whirlpool.eightfold.ai",
+   "domain": "whirlpool.com"
+  },
+  {
+   "name": "Miele",
+   "type": "workday",
+   "tenant": "miele",
+   "wd": "wd3",
+   "site": "miele-jobs"
+  },
+  {
+   "name": "Pernod Ricard",
+   "type": "workday",
+   "tenant": "pernodricard",
+   "wd": "wd3",
+   "site": "pernod-ricard"
+  },
+  {
+   "name": "Signify",
+   "type": "workday",
+   "tenant": "lighting",
+   "wd": "wd3",
+   "site": "jobs-and-careers"
+  },
+  {
+   "name": "PVH",
+   "type": "workday",
+   "tenant": "pvh",
+   "wd": "wd1",
+   "site": "PVH_Careers"
+  },
+  {
+   "name": "LEGO",
+   "type": "workday",
+   "tenant": "lego",
+   "wd": "wd103",
+   "site": "LEGO_External"
+  },
+  {
+   "name": "Maersk",
+   "type": "workday",
+   "tenant": "maersk",
+   "wd": "wd3",
+   "site": "Maersk_Careers"
+  },
+  {
+   "name": "Kraft Heinz",
+   "type": "workday",
+   "tenant": "kraftheinz",
+   "wd": "wd1",
+   "site": "KraftHeinz_Careers"
+  },
+  {
+   "name": "Heineken",
+   "type": "rmk",
+   "host": "careers.theheinekencompany.com"
+  },
+  {
+   "name": "Beko",
+   "type": "rmk",
+   "host": "www.koccareers.com"
+  },
+  {
+   "name": "Under Armour",
+   "type": "rmk",
+   "host": "careers.underarmour.com"
+  },
+  {
+   "name": "Danfoss",
+   "type": "rmk",
+   "host": "jobs.danfoss.com"
+  },
+  {
+   "name": "BSH",
+   "type": "rmk",
+   "host": "jobs.bsh-group.com"
+  },
+  {
+   "name": "Nestlé",
+   "type": "rmk",
+   "host": "jobdetails.nestle.com"
+  },
+  {
+   "name": "Coca-Cola HBC",
+   "type": "rmk",
+   "host": "careers.coca-colahellenic.com"
+  },
+  {
+   "name": "Tetra Pak",
+   "type": "rmk",
+   "host": "jobs.tetrapak.com"
+  },
+  {
+   "name": "Grundfos",
+   "type": "rmk",
+   "host": "jobs.grundfos.com"
+  },
+  {
+   "name": "Novo Nordisk",
+   "type": "rmk",
+   "host": "careers.novonordisk.com"
+  },
+  {
+   "name": "Versuni",
+   "type": "phenom",
+   "host": "careers.versuni.com",
+   "locale": "en_gb",
+   "country": "gb"
+  },
+  {
+   "name": "Procter & Gamble",
+   "type": "phenom",
+   "host": "www.pgcareers.com",
+   "locale": "en_us",
+   "country": "us"
+  },
+  {
+   "name": "AkzoNobel",
+   "type": "phenom",
+   "host": "careers.akzonobel.com",
+   "locale": "en_gb",
+   "country": "gb"
+  },
+  {
+   "name": "Ahold Delhaize",
+   "type": "phenom",
+   "host": "careers.aholddelhaize.com",
+   "locale": "en_global",
+   "country": "global"
+  },
+  {
+   "name": "Ericsson",
+   "type": "eightfold",
+   "host": "jobs.ericsson.com",
+   "domain": "ericsson.com"
+  },
+  {
+   "name": "dsm-firmenich",
+   "type": "eightfold",
+   "host": "dsm-firmenich.eightfold.ai",
+   "domain": "dsm-firmenich.com"
+  },
+  {
+   "name": "Anglo American",
+   "type": "smartrecruiters",
+   "id": "AngloAmerican"
+  }
+ ]
 }
