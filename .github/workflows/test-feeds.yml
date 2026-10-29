@@ -3,6 +3,8 @@ name: Test employer feeds
 # Try candidate careers-site feeds without touching the live data.
 # Reads companies/candidates.json ({country: [employer, ...]}) and prints jobs found / errors per employer.
 on:
+  push:
+    paths: ["companies/candidates.json"]
   workflow_dispatch:
     inputs:
       file:
@@ -21,7 +23,7 @@ jobs:
       - run: |
           cd scripts && python -c "
           import json, employers as em
-          data, status = em.run_all('../${{ github.event.inputs.file }}')
+          data, status = em.run_all('../${{ github.event.inputs.file || 'companies/candidates.json' }}')
           for s in sorted(status, key=lambda s: (s['name'], s['c'])):
               print(f\"RESULT {s['c']} | {s['name']} | {s['type']} | jobs={s['jobs']} | {s['error'] or 'ok'} | {s['secs']}s\")
           for d in data[:400]:
