@@ -280,6 +280,16 @@ for r in final:
     for k in ('s', 'x', 'p', 'l', 'r'): r.setdefault(k, '')
     for k in ('h', 'n'): r.setdefault(k, 0)
 
+# First-seen date per ad, carried over from the previous jobs.json, so "new today" can be spotted
+prev_fs = {}
+try:
+    for r in json.load(open(OUT, encoding='utf-8')).get('jobs', []):
+        if r.get('fs'): prev_fs[(r.get('o'), r.get('i'))] = r['fs']
+except Exception:
+    pass
+for r in final:
+    r['fs'] = prev_fs.get((r.get('o'), r.get('i'))) or (r.get('p') if not prev_fs and r.get('p') else TODAY.isoformat())
+
 stats = {'total': len(final), 'by_country': dict(collections.Counter(r['c'] for r in final)), 'by_source': dict(collections.Counter(r['o'] for r in final))}
 print(json.dumps(stats, indent=1))
 os.makedirs(os.path.dirname(OUT) or '.', exist_ok=True)

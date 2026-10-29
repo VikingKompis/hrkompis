@@ -9,15 +9,21 @@ import datetime, json, re, html, time, urllib.request, urllib.parse
 from concurrent.futures import ThreadPoolExecutor
 
 UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36'
-COUNTRY = {'se': 'Sweden', 'gb': 'United Kingdom', 'ie': 'Ireland'}
+COUNTRY = {'se': 'Sweden', 'gb': 'United Kingdom', 'ie': 'Ireland', 'nl': 'Netherlands', 'dk': 'Denmark', 'de': 'Germany'}
 GEO = {
     'ie': re.compile(r'\b((?<!northern )ireland|éire|eire|dublin|cork|galway|limerick|waterford|kilkenny|athlone|sligo|letterkenny|drogheda|dundalk|swords|blanchardstown|sandyford|leopardstown|cherrywood|carlow|shannon|ennis|tralee|naas|maynooth|wexford|clonmel|castlebar|mullingar|carrigtwohill|ringaskiddy|little island|grange castle|leixlip|clonee)\b', re.I),
     'se': re.compile(r'\b(sweden|sverige|swe|stockholm|göteborg|gothenburg|malmö|malmo|uppsala|linköping|linkoping|västerås|vasteras|örebro|orebro|södertälje|sodertalje|sandviken|lund|umeå|umea|luleå|lulea|jönköping|jonkoping|gävle|gavle|karlskoga|kiruna|skellefteå|skelleftea|borås|boras|eskilstuna|helsingborg|norrköping|norrkoping|sundsvall|solna|sundbyberg|kista|huskvarna|mölndal|molndal|halmstad|växjö|vaxjo|trollhättan|ludvika|gällivare|boden|östersund|karlstad|falun|kalmar)\b', re.I),
     'gb': re.compile(r'\b(united kingdom|uk|u\.k\.|great britain|gb|england|scotland|wales|northern ireland|london|manchester|birmingham|leeds|glasgow|edinburgh|bristol|cardiff|belfast|liverpool|sheffield|newcastle|nottingham|leicester|reading|cambridge|oxford|coventry|derby|milton keynes|southampton|brentford|stevenage|uxbridge|hatfield|leatherhead|slough|watford|crawley|chester|warwick|gaydon|solihull|halewood|whitley|bracknell|basingstoke|swindon|york|hull|aberdeen|dundee|preston|bolton|stockport|croydon|hounslow|isleworth|chiswick|osterley|heathrow|wythenshawe|knutsford|staines|guildford|woking|maidenhead|northampton|peterborough|ipswich|norwich|exeter|plymouth|portsmouth|bradford|wakefield|doncaster|sunderland|middlesbrough)\b', re.I),
+    'nl': re.compile(r'\b(netherlands|nederland|holland|amsterdam|rotterdam|utrecht|eindhoven|den haag|the hague|den bosch|hilversum|amstelveen|schiphol|hoofddorp|haarlem|leiden|delft|zwolle|arnhem|nijmegen|groningen|maastricht|breda|tilburg|almere|zoetermeer|venlo|heerlen|nld)\b', re.I),
+    'dk': re.compile(r'\b(denmark|danmark|copenhagen|københavn|kobenhavn|aarhus|odense|aalborg|bjerringbro|nordborg|billund|kolding|vejle|esbjerg|horsens|randers|herning|lyngby|ballerup|valby|hellerup|søborg|kastrup|dnk)\b', re.I),
+    'de': re.compile(r'\b(germany|deutschland|berlin|munich|münchen|muenchen|hamburg|frankfurt|cologne|köln|koeln|düsseldorf|duesseldorf|stuttgart|leipzig|dresden|hannover|nürnberg|nuremberg|herzogenaurach|bremen|essen|dortmund|bonn|mannheim|karlsruhe|wiesbaden|mainz|gütersloh|guetersloh|bielefeld|ulm|augsburg|regensburg|ingolstadt|wolfsburg|deu)\b', re.I),
 }
 TERMS = {'se': ['HR', 'Human Resources', 'People', 'Talent', 'Recruit', 'Payroll', 'Rekryt', 'Lön', 'Personal', 'Reward', 'Learning'],
          'gb': ['HR', 'Human Resources', 'People', 'Talent', 'Recruit', 'Payroll', 'Reward', 'Learning', 'Employee Relations', 'Resourcing'],
-         'ie': ['HR', 'Human Resources', 'People', 'Talent', 'Recruit', 'Payroll', 'Reward', 'Learning', 'Employee Relations', 'Resourcing']}
+         'ie': ['HR', 'Human Resources', 'People', 'Talent', 'Recruit', 'Payroll', 'Reward', 'Learning', 'Employee Relations', 'Resourcing'],
+         'nl': ['HR', 'Human Resources', 'People', 'Talent', 'Recruit', 'Reward', 'Learning', 'Personeel', 'P&O'],
+         'dk': ['HR', 'Human Resources', 'People', 'Talent', 'Recruit', 'Reward', 'Learning', 'Personale', 'Løn'],
+         'de': ['HR', 'Human Resources', 'People', 'Talent', 'Recruit', 'Reward', 'Learning', 'Personal', 'Recruiting']}
 
 
 import threading, urllib.error
@@ -259,7 +265,7 @@ def phenom(c, cc):
 
 
 # ---------------- Amazon (amazon.jobs public search feed) ----------------
-ISO3 = {'se': 'SWE', 'gb': 'GBR', 'ie': 'IRL'}
+ISO3 = {'se': 'SWE', 'gb': 'GBR', 'ie': 'IRL', 'nl': 'NLD', 'dk': 'DNK', 'de': 'DEU'}
 def amazon(c, cc):
     out = {}
     for term in ['HR', 'Human Resources', 'People', 'Recruit', 'Talent', 'Payroll', 'Learning']:
