@@ -1,0 +1,29 @@
+name: Test employer feeds
+
+# Try candidate careers-site feeds without touching the live data.
+# Reads companies/candidates.json ({country: [employer, ...]}) and prints jobs found / errors per employer.
+on:
+  workflow_dispatch:
+    inputs:
+      file:
+        description: "Candidate file"
+        default: "companies/candidates.json"
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: |
+          cd scripts && python -c "
+          import json, employers as em
+          data, status = em.run_all('../${{ github.event.inputs.file }}')
+          for s in sorted(status, key=lambda s: (s['name'], s['c'])):
+              print(f\"RESULT {s['c']} | {s['name']} | {s['type']} | jobs={s['jobs']} | {s['error'] or 'ok'} | {s['secs']}s\")
+          for d in data[:400]:
+              print('JOB', d['c'], '|', d['co'], '|', d['t'], '|', d['loc'])
+          "
