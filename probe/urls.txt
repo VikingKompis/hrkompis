@@ -1,6 +1,7 @@
-https://pmjobs.cipd.co.uk/jobs/
-https://pmjobs.cipd.co.uk/jobs/2/
-https://pmjobs.cipd.co.uk/jobsrss/
-https://www.annapurnarecruitment.com/jobs/page/2/
-https://www.frazerjones.com/jobs/page/2/
-https://www.chapmancg.com/jobs/10614
+https://europa.eu/eures/api/jv-searchengine/public/jv/id/MTAwMDAtMTIwNzA1ODU4MS1TIDE?requestLang=en
+https://europa.eu/eures/eures-apps/searchengine/page/jv/id/MTAwMDAtMTIwNzA1ODU4MS1TIDE?requestLang=en
+https://europa.eu/eures/api/jv-searchengine/public/jv/id/MTExMTItMTMyODgtMTc4MjE3NC0wLVMgMQ?requestLang=en
+https://europa.eu/eures/eures-apps/searchengine/page/jv/id/MTExMTItMTMyODgtMTc4MjE3NC0wLVMgMQ?requestLang=en
+https://europa.eu/eures/api/jv-searchengine/public/jv/id/NWVmM2JkZDYtNWY4Yi1lZmIyLWUwNjMtNjg5M2IyMGFmODJkIDQy?requestLang=en
+https://europa.eu/eures/eures-apps/searchengine/page/jv/id/NWVmM2JkZDYtNWY4Yi1lZmIyLWUwNjMtNjg5M2IyMGFmODJkIDQy?requestLang=en
+https://europa.eu/eures/api/jv-searchengine/public/jv/id/AAAAinvalid000?requestLang=en
