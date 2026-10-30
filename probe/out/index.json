@@ -1,100 +1,41 @@
 [
  {
   "n": 0,
-  "url": "https://jobs.personneltoday.com/jobs?page=2",
+  "url": "https://pmjobs.cipd.co.uk/jobs/",
   "status": 200,
-  "final": "https://jobs.personneltoday.com/jobs?page=2",
+  "final": "https://jp.peoplemanagement.co.uk/jobs/",
   "type": "text/html; charset=utf-8",
-  "size": 118138
+  "size": 148935
  },
  {
   "n": 1,
-  "url": "https://jobs.personneltoday.com/jobs",
-  "status": 200,
-  "final": "https://jobs.personneltoday.com/jobs",
-  "type": "text/html; charset=utf-8",
-  "size": 117507
+  "url": "https://pmjobs.cipd.co.uk/jobs/2/",
+  "error": "The read operation timed out"
  },
  {
   "n": 2,
-  "url": "https://www.annapurnarecruitment.com/jobs/feed/",
-  "status": 200,
-  "final": "https://www.annapurnarecruitment.com/jobs/feed/",
-  "type": "application/rss+xml; charset=UTF-8",
-  "size": 708
+  "url": "https://pmjobs.cipd.co.uk/jobsrss/",
+  "status": 404
  },
  {
   "n": 3,
-  "url": "https://www.annapurnarecruitment.com/wp-json/wp/v2/job?per_page=100",
-  "status": 404
+  "url": "https://www.annapurnarecruitment.com/jobs/page/2/",
+  "status": 200,
+  "final": "https://www.annapurnarecruitment.com/jobs/page/2/",
+  "type": "text/html; charset=UTF-8",
+  "size": 84556
  },
  {
   "n": 4,
-  "url": "https://www.frazerjones.com/jobs/feed/",
+  "url": "https://www.frazerjones.com/jobs/page/2/",
   "status": 200,
-  "final": "https://www.frazerjones.com/jobs/feed/",
-  "type": "application/rss+xml; charset=UTF-8",
-  "size": 749
+  "final": "https://www.frazerjones.com/jobs/page/2/",
+  "type": "text/html; charset=UTF-8",
+  "size": 269070
  },
  {
   "n": 5,
-  "url": "https://www.frazerjones.com/wp-json/wp/v2/job?per_page=100",
+  "url": "https://www.chapmancg.com/jobs/10614",
   "status": 404
- },
- {
-  "n": 6,
-  "url": "https://www.chapmancg.com/jobs?page=2",
-  "status": 200,
-  "final": "https://www.chapmancg.com/jobs?page=2",
-  "type": "text/html; charset=utf-8",
-  "size": 173290
- },
- {
-  "n": 7,
-  "url": "https://www.chapmancg.com/sitemap.xml",
-  "status": 200,
-  "final": "https://www.chapmancg.com/sitemap.xml",
-  "type": "application/xml",
-  "size": 303825
- },
- {
-  "n": 8,
-  "url": "https://www.odgers.com/en-gb/opportunities/",
-  "status": 200,
-  "final": "https://www.odgers.com/en-us/opportunities/",
-  "type": "text/html; charset=utf-8",
-  "size": 122494
- },
- {
-  "n": 9,
-  "url": "https://www.odgers.com/en-ie/opportunities/",
-  "status": 200,
-  "final": "https://www.odgers.com/en-ie/opportunities/",
-  "type": "text/html; charset=utf-8",
-  "size": 107835
- },
- {
-  "n": 10,
-  "url": "https://www.odgers.com/en-se/opportunities/",
-  "status": 200,
-  "final": "https://www.odgers.com/en-se/opportunities/",
-  "type": "text/html; charset=utf-8",
-  "size": 108058
- },
- {
-  "n": 11,
-  "url": "https://www.kennedyfitch.com/sitemap.xml",
-  "status": 200,
-  "final": "https://www.kennedyfitch.com/sitemap_index.xml",
-  "type": "text/xml; charset=UTF-8",
-  "size": 1222
- },
- {
-  "n": 12,
-  "url": "https://www.kennedyfitch.com/wp-json/wp/v2/pages?search=job&per_page=20",
-  "status": 200,
-  "final": "https://www.kennedyfitch.com/wp-json/wp/v2/pages?search=job&per_page=20",
-  "type": "application/json; charset=UTF-8",
-  "size": 600000
  }
 ]
