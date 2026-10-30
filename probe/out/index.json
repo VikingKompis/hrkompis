@@ -1,41 +1,46 @@
 [
  {
   "n": 0,
-  "url": "https://pmjobs.cipd.co.uk/jobs/",
+  "url": "https://europa.eu/eures/api/jv-searchengine/public/jv/id/MTAwMDAtMTIwNzA1ODU4MS1TIDE?requestLang=en",
   "status": 200,
-  "final": "https://jp.peoplemanagement.co.uk/jobs/",
-  "type": "text/html; charset=utf-8",
-  "size": 148935
+  "final": "https://europa.eu/eures/api/jv-searchengine/public/jv/id/MTAwMDAtMTIwNzA1ODU4MS1TIDE?requestLang=en",
+  "type": "application/json",
+  "size": 6487
  },
  {
   "n": 1,
-  "url": "https://pmjobs.cipd.co.uk/jobs/2/",
-  "error": "The read operation timed out"
- },
- {
-  "n": 2,
-  "url": "https://pmjobs.cipd.co.uk/jobsrss/",
+  "url": "https://europa.eu/eures/eures-apps/searchengine/page/jv/id/MTAwMDAtMTIwNzA1ODU4MS1TIDE?requestLang=en",
   "status": 404
  },
  {
-  "n": 3,
-  "url": "https://www.annapurnarecruitment.com/jobs/page/2/",
+  "n": 2,
+  "url": "https://europa.eu/eures/api/jv-searchengine/public/jv/id/MTExMTItMTMyODgtMTc4MjE3NC0wLVMgMQ?requestLang=en",
   "status": 200,
-  "final": "https://www.annapurnarecruitment.com/jobs/page/2/",
-  "type": "text/html; charset=UTF-8",
-  "size": 84556
+  "final": "https://europa.eu/eures/api/jv-searchengine/public/jv/id/MTExMTItMTMyODgtMTc4MjE3NC0wLVMgMQ?requestLang=en",
+  "type": "application/json",
+  "size": 3898
+ },
+ {
+  "n": 3,
+  "url": "https://europa.eu/eures/eures-apps/searchengine/page/jv/id/MTExMTItMTMyODgtMTc4MjE3NC0wLVMgMQ?requestLang=en",
+  "status": 404
  },
  {
   "n": 4,
-  "url": "https://www.frazerjones.com/jobs/page/2/",
+  "url": "https://europa.eu/eures/api/jv-searchengine/public/jv/id/NWVmM2JkZDYtNWY4Yi1lZmIyLWUwNjMtNjg5M2IyMGFmODJkIDQy?requestLang=en",
   "status": 200,
-  "final": "https://www.frazerjones.com/jobs/page/2/",
-  "type": "text/html; charset=UTF-8",
-  "size": 269070
+  "final": "https://europa.eu/eures/api/jv-searchengine/public/jv/id/NWVmM2JkZDYtNWY4Yi1lZmIyLWUwNjMtNjg5M2IyMGFmODJkIDQy?requestLang=en",
+  "type": "application/json",
+  "size": 4298
  },
  {
   "n": 5,
-  "url": "https://www.chapmancg.com/jobs/10614",
+  "url": "https://europa.eu/eures/eures-apps/searchengine/page/jv/id/NWVmM2JkZDYtNWY4Yi1lZmIyLWUwNjMtNjg5M2IyMGFmODJkIDQy?requestLang=en",
+  "status": 404
+ },
+ {
+  "n": 6,
+  "url": "https://europa.eu/eures/api/jv-searchengine/public/jv/id/AAAAinvalid000?requestLang=en",
   "status": 404
  }
 ]
