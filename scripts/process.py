@@ -292,6 +292,45 @@ def _k(r): return (r['c'], re.sub(r'\W+', '', r['t'].lower())[:60], re.sub(r'\W+
 direct = {_k(r) for r in final if r['o'] != 'adzuna' and r['e'] != 'Employer not named'}
 final = [r for r in final if r['o'] != 'adzuna' or _k(r) not in direct]
 
+# ---------------- quality control: dead links, duplicates, multi-location postings ----------------
+AUDIT = {'before_qc': len(final)}
+try:
+    LC = json.load(open(os.path.join(RAW, 'linkcheck.json'), encoding='utf-8'))
+except Exception:
+    LC = {}
+dead = {k for k, v in LC.items() if v.get('ok') is False}
+n0 = len(final); final = [r for r in final if r['i'] not in dead]; AUDIT['dead_links_removed'] = n0 - len(final)
+
+PRIO = {'career': 0, 'af': 1, 'jobnet': 1, 'nhs': 1, 'workhub': 1, 'publicjobs': 1, 'eures': 2,
+        'pt': 3, 'cipd': 3, 'fj': 3, 'anna': 3, 'ccg': 3, 'adzuna': 4}
+STOPW = re.compile(r'\((?:m/w/d|w/m/d|m/f/d|f/m/d|all genders?|gn|d/m/w|m/w/x|w/m/x)\)|\b(m/w/d|w/m/d|m/f/d|f/m/d|all genders)\b|\b(remote|hybrid|ftc|fixed[- ]term|permanent|full[- ]time|part[- ]time|vollzeit|teilzeit)\b', re.I)
+def _nt(t): return re.sub(r'[^a-z0-9äöüåæøß]+', ' ', STOPW.sub(' ', t.lower())).strip()
+def _ne(e): return re.sub(r'\b(ltd|limited|plc|gmbh|ab|bv|b\.v\.|ag|se|group|holding|uk|nv|a/s|as|inc|llc|co|kg)\b|[^a-z0-9äöüåæøß]+', '', e.lower())
+def _city(l): return re.sub(r'[^a-zäöüåæø]', '', (l or '').lower().split(',')[0])[:12]
+groups = collections.OrderedDict()
+for r in final:
+    named = r['e'] != 'Employer not named'
+    k = (r['c'], _nt(r['t']), _ne(r['e']) if named else '?' + _city(r.get('l')))
+    groups.setdefault(k, []).append(r)
+kept, cross, multi = [], 0, 0
+for k, g in groups.items():
+    if len(g) == 1:
+        kept.append(g[0]); continue
+    g.sort(key=lambda r: (PRIO.get(r['o'], 5), -(int((r.get('p') or '0000-00-00').replace('-', '')))))
+    best = g[0]
+    if len({r['o'] for r in g}) > 1: cross += 1
+    locs = []
+    for r in g[1:]:
+        loc = r.get('l') or r.get('r') or ''
+        if loc and loc != best.get('l') and loc not in locs: locs.append(loc)
+    regs = sorted({r.get('r') for r in g[1:] if r.get('r') and r.get('r') != best.get('r')})
+    if locs:
+        best['ml'] = locs[:40]; best['mc'] = len(locs); multi += 1
+    if regs: best['mr'] = regs
+    kept.append(best)
+AUDIT['duplicates_merged'] = len(final) - len(kept); AUDIT['cross_source_groups'] = cross; AUDIT['multi_location_listings'] = multi
+final = kept
+
 for r in final:
     r['lg'] = lang_of(r, r.pop('hint', ''))
     r['n'] = 1 if r['lg'] == 'en' else 0
@@ -308,7 +347,11 @@ except Exception:
 for r in final:
     r['fs'] = prev_fs.get((r.get('o'), r.get('i'))) or (r.get('p') if not prev_fs and r.get('p') else TODAY.isoformat())
 
-stats = {'total': len(final), 'by_country': dict(collections.Counter(r['c'] for r in final)), 'by_source': dict(collections.Counter(r['o'] for r in final))}
+AUDIT['after_qc'] = len(final)
+_ages = [(TODAY - datetime.date.fromisoformat(r['p'])).days for r in final if r.get('p')]
+AUDIT['older_than_45_days'] = sum(1 for a in _ages if a > 45)
+AUDIT['no_date'] = sum(1 for r in final if not r.get('p'))
+stats = {'audit': AUDIT, 'total': len(final), 'by_country': dict(collections.Counter(r['c'] for r in final)), 'by_source': dict(collections.Counter(r['o'] for r in final))}
 print(json.dumps(stats, indent=1))
 os.makedirs(os.path.dirname(OUT) or '.', exist_ok=True)
 asof = datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')

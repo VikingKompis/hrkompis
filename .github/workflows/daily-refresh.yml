@@ -57,14 +57,18 @@ jobs:
 
       - name: Classify and build jobs.json
         if: steps.gate.outputs.go == 'true'
-        run: python scripts/process.py
+        run: |
+          python scripts/process.py
+          python scripts/linkcheck.py || echo 'link check failed, continuing'
+          python scripts/process.py
+          python scripts/linkcheck.py --report-only 2>/dev/null || true
 
       - name: Publish today's data
         if: steps.gate.outputs.go == 'true'
         run: |
           git config user.name "hrkompis-bot"
           git config user.email "hrkompis-bot@users.noreply.github.com"
-          git add data/jobs.json raw/*.json
+          git add data/jobs.json raw/*.json AUDIT.md
           git commit -m "Daily refresh $(TZ=Europe/Stockholm date +%Y-%m-%d)" || echo "No changes"
           for i in 1 2 3; do git pull --rebase -X theirs -q && git push && break; sleep 5; done
 
