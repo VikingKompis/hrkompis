@@ -1,0 +1,21 @@
+name: Probe URLs
+# Fetches probe/urls.txt from GitHub's network and commits the responses to probe/out/ (for building new feeds).
+on:
+  push:
+    paths: ["probe/urls.txt"]
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 scripts/probe.py
+      - run: |
+          git config user.name "hrkompis-bot"
+          git config user.email "hrkompis-bot@users.noreply.github.com"
+          git add probe/out
+          git commit -m "Probe results" || echo "No changes"
+          git pull --rebase -q && git push
