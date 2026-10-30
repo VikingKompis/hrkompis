@@ -337,7 +337,7 @@ def smartrecruiters():
 # Needs the ADZUNA_APP_ID / ADZUNA_APP_KEY repository secrets. Searches Adzuna's own
 # "HR & Recruitment" category (hr-jobs), newest first, ads from the last 2 days. Each page is
 # one API call (50 ads); ADZUNA_PAGES sets pages per country. Results are merged with the
-# previous days' file and kept for 30 days, so the list builds up over time.
+# previous days' file and kept for 14 days (ADZUNA_KEEP_DAYS): the API can't tell us when an ad closes.
 # Listings must be shown as "Jobs by Adzuna" and link through Adzuna's redirect URL.
 def adzuna():
     aid, key = os.environ.get('ADZUNA_APP_ID'), os.environ.get('ADZUNA_APP_KEY')
@@ -347,7 +347,7 @@ def adzuna():
     days = int(os.environ.get('ADZUNA_DAYS') or 2)
     seen, calls, stopped, new = {}, 0, '', 0
     path = os.path.join(RAW, 'adzuna.json')
-    cutoff = time.strftime('%Y-%m-%d', time.gmtime(time.time() - 30 * 86400))
+    cutoff = time.strftime('%Y-%m-%d', time.gmtime(time.time() - int(os.environ.get('ADZUNA_KEEP_DAYS') or 14) * 86400))
     if os.path.exists(path):
         for r in json.load(open(path, encoding='utf-8')).get('data', []):
             if (r.get('d') or '9') >= cutoff:

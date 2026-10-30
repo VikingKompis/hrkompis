@@ -273,6 +273,16 @@ def fresh(r):
     try: return (TODAY - datetime.date.fromisoformat(r['p'])).days <= 120
     except Exception: return True
 final = [r for r in final if fresh(r)]
+# Adzuna: we only see new ads, never closures, so keep them 14 days at most
+def adz_ok(r):
+    if r['o'] != 'adzuna' or not r.get('p'): return True
+    try: return (TODAY - datetime.date.fromisoformat(r['p'])).days <= 14
+    except Exception: return True
+final = [r for r in final if adz_ok(r)]
+# Drop Adzuna copies of jobs we already have from the original source (same title and employer)
+def _k(r): return (r['c'], re.sub(r'\W+', '', r['t'].lower())[:60], re.sub(r'\W+', '', r['e'].lower())[:30])
+direct = {_k(r) for r in final if r['o'] != 'adzuna' and r['e'] != 'Employer not named'}
+final = [r for r in final if r['o'] != 'adzuna' or _k(r) not in direct]
 
 for r in final:
     r['lg'] = lang_of(r, r.pop('hint', ''))
