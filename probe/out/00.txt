@@ -21,23 +21,20 @@
         <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700;800&amp;family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&amp;family=Spline+Sans+Mono:wght@500;600;700&amp;display=swap" rel="stylesheet">
         
         
-        <title>HR Director Jobs | Personnel Today Jobs</title>
-        <meta name="description" content="HR director and head of HR jobs lead the people function and sit with the senior leadership team.">
+        <title>Personnel Today Jobs Jobs</title>
+        <meta name="description" content="Search Personnel Today Jobs vacancies by keyword, location, hours, contract type, workplace, recruiter type, date posted and salary.">
         
                     <link rel="preload" as="style" href="https://jobs.personneltoday.com/build/assets/app-DKDS1hcD.css" /><link rel="modulepreload" as="script" href="https://jobs.personneltoday.com/build/assets/app-LJzjzkiS.js" /><link rel="modulepreload" as="script" href="https://jobs.personneltoday.com/build/assets/job-multi-location-DJ7iVGCg.js" /><link rel="stylesheet" href="https://jobs.personneltoday.com/build/assets/app-DKDS1hcD.css" /><script type="module" src="https://jobs.personneltoday.com/build/assets/app-LJzjzkiS.js"></script>        
-            <link rel="canonical" href="https://jobs.personneltoday.com/job-types/hr-director">
-    
+            <link rel="canonical" href="https://jobs.personneltoday.com/jobs?page=2">
     <meta name="robots" content="index, follow">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Personnel Today Jobs">
-    <meta property="og:title" content="HR Director Jobs | Personnel Today Jobs">
-    <meta property="og:description" content="HR director and head of HR jobs lead the people function and sit with the senior leadership team.">
-    <meta property="og:url" content="https://jobs.personneltoday.com/job-types/hr-director">
+    <meta property="og:title" content="Personnel Today Jobs Jobs">
+    <meta property="og:description" content="Search Personnel Today Jobs vacancies by keyword, location, hours, contract type, workplace, recruiter type, date posted and salary.">
+    <meta property="og:url" content="https://jobs.personneltoday.com/jobs?page=2">
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="HR Director Jobs | Personnel Today Jobs">
-    <meta name="twitter:description" content="HR director and head of HR jobs lead the people function and sit with the senior leadership team.">
-    
-    <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jobs.personneltoday.com"},{"@type":"ListItem","position":2,"name":"Jobs","item":"https://jobs.personneltoday.com/jobs"},{"@type":"ListItem","position":3,"name":"HR Director","item":"https://jobs.personneltoday.com/job-types/hr-director"}]}</script>
+    <meta name="twitter:title" content="Personnel Today Jobs Jobs">
+    <meta name="twitter:description" content="Search Personnel Today Jobs vacancies by keyword, location, hours, contract type, workplace, recruiter type, date posted and salary.">
     </head>
     <body
         class="public-site public-layout--personnel-today"
@@ -137,46 +134,866 @@
     <div id="pmg-ad-personnel-today-top_leaderboard" class="public-ad-slot__container" data-pmg-ad-container></div>
 </section>
         
-        <main id="main-content" class="public-main public-directory-page">
+        <main id="main-content" class="public-main ">
             
             
             
+                        <section class="public-listing-search-band" data-wireframe-screen="job-search">
+            <div class="public-container public-listing-search-band__inner">
                 
-    <section class="public-directory-hero public-directory-hero--sector public-directory-hero--compact" data-public-job-type-profile>
-        <div class="public-container public-directory-hero__inner">
-            <nav class="public-breadcrumbs" aria-label="Breadcrumb">
-                <a href="/">Home</a>
-                <span aria-hidden="true">/</span>
-                <a href="/jobs">Jobs</a>
-                <span aria-hidden="true">/</span>
-                <span aria-current="page">HR Director</span>
-            </nav>
+                                <form class="public-listing-search" method="GET" action="/jobs" role="search" data-search-preview-form aria-label="Search Personnel Today Jobs jobs">
+                    <label for="public-job-search-keyword">
+                        <span class="public-visually-hidden">Keyword</span>
+                        <span class="public-listing-search__icon" aria-hidden="true">🔍</span>
+                        <input id="public-job-search-keyword" type="search" name="q" value="" placeholder="Keyword e.g. HR Manager" autocomplete="off" >
+                    </label>
+                    <div
+                        class="public-location-search"
+                                                    data-public-location-search
+                            data-suggestions-url="/locations/suggestions"
+                                                                        >
+                        <label for="public-job-search-location">
+                            <span class="public-visually-hidden">Location</span>
+                            <span class="public-listing-search__icon" aria-hidden="true">📍</span>
+                            <input
+                                id="public-job-search-location"
+                                type="search"
+                                
+                                name="location[]"
+                                value=""
+                                placeholder="Location e.g. London"
+                                autocomplete="off"
+                                                                    aria-autocomplete="list"
+                                    aria-controls="public-location-suggestions"
+                                    aria-expanded="false"
+                                                                data-public-location-input
+                                                            >
+                        </label>
+                        <input type="hidden" name="location_id" value="" data-public-location-id>
+                                                                                                                            <div class="public-location-search__suggestions" id="public-location-suggestions" role="listbox" hidden data-public-location-suggestions></div>
+                            <p class="public-location-search__status" role="status" aria-live="polite" data-public-location-status></p>
+                                            </div>
 
-            <div class="public-directory-hero__copy public-directory-hero__copy--wide">
-                <p class="public-eyebrow">Job type · Personnel Today Jobs</p>
-                <h1>HR Director jobs</h1>
-                <p>HR director and head of HR jobs lead the people function and sit with the senior leadership team. They set the people strategy, advise the board on organisation design, culture, pay and risk, and lead HR business partners, specialists and operations teams. Roles include HR director, people director, head of HR and chief people officer.</p>
+                    
+                    <button class="public-button public-button--primary public-button--medium" type="submit">Search jobs</button>
 
-                <p class="public-directory-hero__meta">
-                    <strong>3 active jobs</strong>
-                    <span aria-hidden="true">·</span>
-                    <a href="/jobs">Browse all jobs →</a>
-                </p>
+                    
+                    <div
+                        class="public-listing-extra-locations"
+                        data-public-extra-locations
+                                                    
+                            data-suggestions-url="/locations/suggestions"
+                                            >
+                            <div class="public-listing-extra-locations__rows" data-location-rows>
+                                                            </div>
+
+                            
+                            <label class="public-listing-search__homeworking">
+                                <input
+                                    type="checkbox"
+                                    name="remote_policy[]"
+                                    value="remote"
+                                                                    >
+                                <span>Homeworking</span>
+                            </label>
+
+                            <button type="button" class="public-listing-extra-locations__add" data-add-location>
+                                + Add another location
+                            </button>
+
+                            
+                                                    <label class="public-listing-search__radius" for="public-job-search-radius">
+                                <span class="public-visually-hidden">Radius</span>
+                                <select id="public-job-search-radius" name="radius" data-public-radius-select data-radius-options-mi="5,10,25,50,100,200" data-radius-options-km="5,10,25,50,100,200,300">
+                                    <option value="">Any distance</option>
+                                                                            <option value="5" >5 miles</option>
+                                                                            <option value="10" >10 miles</option>
+                                                                            <option value="25" >25 miles</option>
+                                                                            <option value="50" >50 miles</option>
+                                                                            <option value="100" >100 miles</option>
+                                                                            <option value="200" >200 miles</option>
+                                                                    </select>
+                            </label>
+                            <input type="hidden" name="radius_unit" value="mi" data-public-radius-unit-field>
+                        
+                            <template data-location-template>
+                                <div class="public-listing-extra-locations__row" data-location-row>
+                                    <div class="public-location-search">
+                                        <label>
+                                            <span class="public-visually-hidden">Another location</span>
+                                            <span class="public-listing-search__icon" aria-hidden="true">📍</span>
+                                            <input type="search" name="location[]" value="" placeholder="Another city, country or region" autocomplete="off" aria-autocomplete="list" aria-expanded="false" data-location-input>
+                                        </label>
+                                        <div class="public-location-search__suggestions" role="listbox" hidden data-location-suggestions></div>
+                                        <p class="public-location-search__status" role="status" aria-live="polite" data-location-status></p>
+                                    </div>
+                                    <button type="button" class="public-listing-extra-locations__remove" data-remove-location>
+                                        Remove<span class="public-visually-hidden"> this location</span>
+                                    </button>
+                                </div>
+                        </template>
+
+                                                                                    
+                                <a class="public-listing-alert" href="/account/login?return_to=%2Fjobs%3Fpage%3D2">
+                                    <span class="public-visually-hidden">Sign in to save alert for this search</span>
+                                    <span aria-hidden="true">＋ Alert</span>
+                                </a>
+                                                    
+                        <a class="public-listing-advanced-link" href="/searchjobs">Advanced search</a>
+                        <button
+                            class="public-listing-filter-toggle"
+                            type="button"
+                            aria-expanded="false"
+                            aria-controls="public-listing-filters"
+                            aria-haspopup="dialog"
+                            data-public-filter-toggle
+                            data-js038-filter-toggle
+                        >
+                            Filters
+                                                    </button>
+                    </div>
+
+
+
+                                                                                                                                                                                                        <input type="hidden" name="sort" value="match">
+
+                                                        </form>
+
+                
+                
+                            </div>
+        </section>
+
+        
+        <section class="public-listing-page public-container" data-public-search-contract-closure>
+            
+            <header class="public-listing-page__header public-visually-hidden">
+                                    <h1>Jobs on Personnel Today Jobs</h1>
+                                <strong role="status" aria-live="polite" aria-atomic="true" data-public-search-result-summary>69 active jobs</strong>
+            </header>
+
+            
+            <div class="public-listing-layout">
+                <aside
+                    class="public-listing-filters"
+                    id="public-listing-filters"
+                    data-public-filter-panel
+                    data-js038-filter-drawer
+                    tabindex="-1"
+                >
+                    <div class="public-listing-filters__mobile-head">
+                        <strong id="public-listing-filters-title">Filter jobs</strong>
+                        <button type="button" data-public-filter-close data-js038-filter-close aria-label="Close filters">
+                            <span aria-hidden="true">×</span>
+                        </button>
+                    </div>
+
+                                            
+                        <div class="public-listing-alert-card" data-listing-alert-card>
+                            <strong>Get new jobs by email</strong>
+                            <p>Be the first to hear about new jobs that match your criteria.</p>
+                            
+                                                            <a href="/account/login?return_to=%2Fjobs%3Fpage%3D2">Create a job alert</a>
+                                                    </div>
+                    
+                    <form class="public-listing-filters__form" method="GET" action="/jobs">
+    <input type="hidden" name="q" value="">
+        <input type="hidden" name="location_id" value="">
+    <input type="hidden" name="sort" value="match">
+
+    <div class="public-listing-filters__heading">
+        <span>Filters</span>
             </div>
+
+    
+    
+            <label class="public-listing-filters__group">
+            
+            <span class="public-listing-filters__label">Industry / Sector</span>
+            <select name="sector">
+                <option value="">All industries / sectors</option>
+                
+                                                                                <option value="accountancy-banking-finance-insurance" >
+                            Accountancy Banking, Finance &amp; Insurance · 2
+                        </option>
+                                            <option value="agriculture-forestry" >
+                            Agriculture &amp; Forestry · 0
+                        </option>
+                                            <option value="automotive" >
+                            Automotive · 0
+                        </option>
+                                            <option value="aviation" >
+                            Aviation · 0
+                        </option>
+                                            <option value="chemicals-oil-gas" >
+                            Chemicals, Oil &amp; Gas · 0
+                        </option>
+                                            <option value="construction-property" >
+                            Construction &amp; Property · 1
+                        </option>
+                                            <option value="distribution-logistics" >
+                            Distribution &amp; Logistics · 0
+                        </option>
+                                            <option value="education" >
+                            Education · 1
+                        </option>
+                                            <option value="energy-and-renewable" >
+                            Energy and Renewable · 0
+                        </option>
+                                            <option value="engineering-manufacturing" >
+                            Engineering &amp; Manufacturing · 2
+                        </option>
+                                            <option value="fmcg" >
+                            FMCG · 0
+                        </option>
+                                            <option value="healthcare" >
+                            Healthcare · 0
+                        </option>
+                                            <option value="hospitality-leisure" >
+                            Hospitality &amp; Leisure · 0
+                        </option>
+                                            <option value="housing" >
+                            Housing · 0
+                        </option>
+                                            <option value="it-internet-and-new-media" >
+                            IT, Internet and New Media · 0
+                        </option>
+                                            <option value="legal" >
+                            Legal · 1
+                        </option>
+                                            <option value="local-national-government" >
+                            Local &amp; National Government · 0
+                        </option>
+                                            <option value="military-defence" >
+                            Military &amp; Defence · 0
+                        </option>
+                                            <option value="not-for-profitcharity" >
+                            Not for Profit/Charity · 2
+                        </option>
+                                            <option value="performing-arts-entertainment" >
+                            Performing Arts &amp; Entertainment · 0
+                        </option>
+                                            <option value="private-sector" >
+                            Private Sector · 0
+                        </option>
+                                            <option value="professional-services" >
+                            Professional Services · 1
+                        </option>
+                                            <option value="public-relation" >
+                            Public Relation · 0
+                        </option>
+                                            <option value="public-sector" >
+                            Public Sector · 55
+                        </option>
+                                            <option value="publishing-media" >
+                            Publishing &amp; Media · 0
+                        </option>
+                                            <option value="recruitment-consultancy" >
+                            Recruitment Consultancy · 2
+                        </option>
+                                            <option value="retail-wholesale" >
+                            Retail &amp; Wholesale · 2
+                        </option>
+                                            <option value="sales-marketing" >
+                            Sales &amp; Marketing · 0
+                        </option>
+                                            <option value="social-services" >
+                            Social Services · 0
+                        </option>
+                                            <option value="telecommunications" >
+                            Telecommunications · 0
+                        </option>
+                                            <option value="travel-transport" >
+                            Travel &amp; Transport · 0
+                        </option>
+                                            <option value="utilities" >
+                            Utilities · 0
+                        </option>
+                                                                    </select>
+        </label>
+    
+            <div class="public-listing-filters__group aviation-dropdowns">
+                    <details class="aviation-dropdown" data-public-aviation-filter="specialism" data-aviation-dropdown>
+    <summary class="aviation-dropdown__button">
+        <span class="aviation-dropdown__label">Specialism</span>
+        <span class="aviation-dropdown__value " data-aviation-dropdown-value>Any</span>
+    </summary>
+    <div class="aviation-dropdown__panel">
+                                                <label class="aviation-dropdown__option">
+                    <input type="checkbox" name="specialism[]" value="hr-director"  data-label="HR Director / Head of HR">
+                    <span>HR Director / Head of HR <small data-aviation-dropdown-count>· 3</small></span>
+                </label>
+                            <label class="aviation-dropdown__option">
+                    <input type="checkbox" name="specialism[]" value="hr-business-partner"  data-label="HR Business Partner">
+                    <span>HR Business Partner <small data-aviation-dropdown-count>· 6</small></span>
+                </label>
+                            <label class="aviation-dropdown__option">
+                    <input type="checkbox" name="specialism[]" value="hr-manager"  data-label="HR Manager">
+                    <span>HR Manager <small data-aviation-dropdown-count>· 10</small></span>
+                </label>
+                            <label class="aviation-dropdown__option">
+                    <input type="checkbox" name="specialism[]" value="hr-advisor"  data-label="HR Advisor / Officer">
+                    <span>HR Advisor / Officer <small data-aviation-dropdown-count>· 16</small></span>
+                </label>
+                            <label class="aviation-dropdown__option">
+                    <input type="checkbox" name="specialism[]" value="hr-assistant"  data-label="HR Administrator / Assistant">
+                    <span>HR Administrator / Assistant <small data-aviation-dropdown-count>· 2</small></span>
+                </label>
+                            <label class="aviation-dropdown__option">
+                    <input type="checkbox" name="specialism[]" value="learning-and-development"  data-label="Learning &amp; Development">
+                    <span>Learning &amp; Development <small data-aviation-dropdown-count>· 4</small></span>
+                </label>
+                            <label class="aviation-dropdown__option">
+                    <input type="checkbox" name="specialism[]" value="recruitment-and-resourcing"  data-label="Recruitment &amp; Talent Acquisition">
+                    <span>Recruitment &amp; Talent Acquisition <small data-aviation-dropdown-count>· 6</small></span>
+                </label>
+                            <label class="aviation-dropdown__option">
+                    <input type="checkbox" name="specialism[]" value="compensation-and-benefits"  data-label="Reward &amp; Benefits">
+                    <span>Reward &amp; Benefits <small data-aviation-dropdown-count>· 1</small></span>
+                </label>
+                            <label class="aviation-dropdown__option">
+                    <input type="checkbox" name="specialism[]" value="employee-relations"  data-label="Employee Relations">
+                    <span>Employee Relations <small data-aviation-dropdown-count>· 6</small></span>
+                </label>
+                            <label class="aviation-dropdown__option">
+                    <input type="checkbox" name="specialism[]" value="organisational-development"  data-label="Organisational Development &amp; Change">
+                    <span>Organisational Development &amp; Change <small data-aviation-dropdown-count>· 3</small></span>
+                </label>
+                            <label class="aviation-dropdown__option">
+                    <input type="checkbox" name="specialism[]" value="hr-systems-and-data-analytics"  data-label="HR Systems, HRIS &amp; Analytics">
+                    <span>HR Systems, HRIS &amp; Analytics <small data-aviation-dropdown-count>· 1</small></span>
+                </label>
+                            <label class="aviation-dropdown__option">
+                    <input type="checkbox" name="specialism[]" value="diversity-and-inclusion"  data-label="Equality, Diversity &amp; Inclusion">
+                    <span>Equality, Diversity &amp; Inclusion <small data-aviation-dropdown-count>· 0</small></span>
+                </label>
+                            <label class="aviation-dropdown__option">
+                    <input type="checkbox" name="specialism[]" value="payroll"  data-label="Payroll">
+                    <span>Payroll <small data-aviation-dropdown-count>· 1</small></span>
+                </label>
+                            <label class="aviation-dropdown__option">
+                    <input type="checkbox" name="specialism[]" value="health-safety-and-wellbeing"  data-label="Health, Safety &amp; Wellbeing">
+                    <span>Health, Safety &amp; Wellbeing <small data-aviation-dropdown-count>· 0</small></span>
+                </label>
+                            <label class="aviation-dropdown__option">
+                    <input type="checkbox" name="specialism[]" value="interim-contract-hr"  data-label="Interim / Contract HR">
+                    <span>Interim / Contract HR <small data-aviation-dropdown-count>· 9</small></span>
+                </label>
+                        </div>
+</details>
+    <script>
+        (() => {
+            // One dropdown open at a time; a click elsewhere closes them; the button
+            // shows what is ticked.
+            const all = () => document.querySelectorAll('[data-aviation-dropdown]');
+            document.addEventListener('toggle', (event) => {
+                const opened = event.target;
+                if (!(opened instanceof HTMLDetailsElement) || !opened.matches('[data-aviation-dropdown]') || !opened.open) {
+                    return;
+                }
+                all().forEach((other) => { if (other !== opened) { other.open = false; } });
+            }, true);
+            document.addEventListener('click', (event) => {
+                all().forEach((dropdown) => {
+                    if (dropdown.open && !dropdown.contains(event.target)) {
+                        dropdown.open = false;
+                    }
+                });
+            });
+            document.addEventListener('change', (event) => {
+                const box = event.target;
+                const dropdown = box instanceof HTMLInputElement ? box.closest('[data-aviation-dropdown]') : null;
+                if (!dropdown) {
+                    return;
+                }
+                const ticked = [...dropdown.querySelectorAll('input[type="checkbox"]:checked')].map((input) => input.dataset.label);
+                const value = dropdown.querySelector('[data-aviation-dropdown-value]');
+                value.textContent = ticked.length === 0 ? 'Any' : ticked[0] + (ticked.length > 1 ? ' +' + (ticked.length - 1) : '');
+                value.classList.toggle('is-set', ticked.length > 0);
+            });
+        })();
+    </script>
+            </div>
+    
+    
+        <fieldset class="public-listing-filters__group" data-public-hours-filter>
+        <legend class="public-listing-filters__label">Hours</legend>
+        <div class="public-listing-filter-chips">
+                            <label class="public-listing-filter-chip ">
+                    <input type="checkbox" name="employment_type[]" value="full_time" >
+                    <span>Full time <small class="public-listing-filter-chip__count" data-type-count>· 47</small></span>
+                </label>
+                            <label class="public-listing-filter-chip ">
+                    <input type="checkbox" name="employment_type[]" value="part_time" >
+                    <span>Part time</span>
+                </label>
+                            <label class="public-listing-filter-chip ">
+                    <input type="checkbox" name="employment_type[]" value="flexible" >
+                    <span>Flexible / shifts</span>
+                </label>
+                    </div>
+    </fieldset>
+
+    <fieldset class="public-listing-filters__group" data-public-contract-type-filter>
+        <legend class="public-listing-filters__label">Contract type</legend>
+        <div class="public-listing-filter-chips">
+                            <label class="public-listing-filter-chip ">
+                    <input type="checkbox" name="employment_type[]" value="permanent" >
+                    <span>Permanent <small class="public-listing-filter-chip__count" data-type-count>· 39</small></span>
+                </label>
+                            <label class="public-listing-filter-chip ">
+                    <input type="checkbox" name="employment_type[]" value="contract" >
+                    <span>Contract <small class="public-listing-filter-chip__count" data-type-count>· 10</small></span>
+                </label>
+                            <label class="public-listing-filter-chip ">
+                    <input type="checkbox" name="employment_type[]" value="fixed_term" >
+                    <span>Fixed-term <small class="public-listing-filter-chip__count" data-type-count>· 1</small></span>
+                </label>
+                            <label class="public-listing-filter-chip ">
+                    <input type="checkbox" name="employment_type[]" value="temporary" >
+                    <span>Temporary <small class="public-listing-filter-chip__count" data-type-count>· 13</small></span>
+                </label>
+                            <label class="public-listing-filter-chip ">
+                    <input type="checkbox" name="employment_type[]" value="interim" >
+                    <span>Interim <small class="public-listing-filter-chip__count" data-type-count>· 1</small></span>
+                </label>
+                            <label class="public-listing-filter-chip ">
+                    <input type="checkbox" name="employment_type[]" value="freelance" >
+                    <span>Freelance</span>
+                </label>
+                            <label class="public-listing-filter-chip ">
+                    <input type="checkbox" name="employment_type[]" value="seasonal" >
+                    <span>Seasonal</span>
+                </label>
+                            <label class="public-listing-filter-chip ">
+                    <input type="checkbox" name="employment_type[]" value="internship" >
+                    <span>Internship</span>
+                </label>
+                    </div>
+    </fieldset>
+
+    <fieldset class="public-listing-filters__group">
+        <legend class="public-listing-filters__label">Workplace</legend>
+        <div class="public-listing-filter-checks">
+                            <label>
+                    <input type="checkbox" name="remote_policy[]" value="remote" >
+                    <span>Homeworking</span>
+                </label>
+                            <label>
+                    <input type="checkbox" name="remote_policy[]" value="hybrid" >
+                    <span>Hybrid</span>
+                </label>
+                            <label>
+                    <input type="checkbox" name="remote_policy[]" value="onsite" >
+                    <span>On-site</span>
+                </label>
+                    </div>
+    </fieldset>
+
+    <label class="public-listing-filters__group">
+        <span class="public-listing-filters__label">Salary band</span>
+        <select name="salary_band" data-public-salary-band-filter>
+            <option value="">Any salary</option>
+                                            <option value="under_30000" >Up to £29,999</option>
+                                            <option value="30000_49999" >£30,000–£49,999</option>
+                                            <option value="50000_74999" >£50,000–£74,999</option>
+                                            <option value="75000_99999" >£75,000–£99,999</option>
+                                            <option value="100000_plus" >£100,000+</option>
+                    </select>
+    </label>
+
+    <label class="public-listing-filters__group public-listing-salary">
+        <span class="public-listing-filters__label">Minimum salary</span>
+        <input
+            type="range"
+            name="salary_min"
+            min="0"
+            max="100000"
+            step="5000"
+            value="0"
+            data-public-salary-range
+            aria-describedby="public-salary-value"
+        >
+        <span id="public-salary-value" class="public-listing-salary__value" data-public-salary-output data-currency="£">
+            £0+
+        </span>
+    </label>
+
+    
+    <details class="public-listing-advanced" open data-public-advanced-search>
+        <summary>
+            <span>Advanced search</span>
+                    </summary>
+
+        <div class="public-listing-advanced__body">
+            <a class="public-listing-advanced__full-link" href="/searchjobs">Open full advanced search</a>
+
+            
+            <label class="public-listing-filters__group">
+                <span class="public-listing-filters__label">Country</span>
+                <select name="country" list="public-country-options" >
+                    <option value="">Any country</option>
+                                            <option value="AF" >Afghanistan</option>
+                                            <option value="AL" >Albania</option>
+                                            <option value="DZ" >Algeria</option>
+                                            <option value="AS" >American Samoa</option>
+                                            <option value="AD" >Andorra</option>
+                                            <option value="AO" >Angola</option>
+                                            <option value="AI" >Anguilla</option>
+                                            <option value="AQ" >Antarctica</option>
+                                            <option value="AG" >Antigua and Barbuda</option>
+                                            <option value="AR" >Argentina</option>
+                                            <option value="AM" >Armenia</option>
+                                            <option value="AW" >Aruba</option>
+                                            <option value="AU" >Australia</option>
+                                            <option value="AT" >Austria</option>
+                                            <option value="AZ" >Azerbaijan</option>
+                                            <option value="BS" >Bahamas</option>
+                                            <option value="BH" >Bahrain</option>
+                                            <option value="BD" >Bangladesh</option>
+                                            <option value="BB" >Barbados</option>
+                                            <option value="BY" >Belarus</option>
+                                            <option value="BE" >Belgium</option>
+                                            <option value="BZ" >Belize</option>
+                                            <option value="BJ" >Benin</option>
+                                            <option value="BM" >Bermuda</option>
+                                            <option value="BT" >Bhutan</option>
+                                            <option value="BO" >Bolivia</option>
+                                            <option value="BQ" >Bonaire, Sint Eustatius and Saba</option>
+                                            <option value="BA" >Bosnia and Herzegovina</option>
+                                            <option value="BW" >Botswana</option>
+                                            <option value="BV" >Bouvet Island</option>
+                                            <option value="BR" >Brazil</option>
+                                            <option value="IO" >British Indian Ocean Territory</option>
+                                            <option value="BN" >Brunei</option>
+                                            <option value="BG" >Bulgaria</option>
+                                            <option value="BF" >Burkina Faso</option>
+                                            <option value="BI" >Burundi</option>
+                                            <option value="CV" >Cabo Verde</option>
+                                            <option value="KH" >Cambodia</option>
+                                            <option value="CM" >Cameroon</option>
+                                            <option value="CA" >Canada</option>
+                                            <option value="KY" >Cayman Islands</option>
+                                            <option value="CF" >Central African Republic</option>
+                                            <option value="TD" >Chad</option>
+                                            <option value="CL" >Chile</option>
+                                            <option value="CN" >China</option>
+                                            <option value="CX" >Christmas Island</option>
+                                            <option value="CC" >Cocos (Keeling) Islands</option>
+                                            <option value="CO" >Colombia</option>
+                                            <option value="KM" >Comoros</option>
+                                            <option value="CG" >Congo</option>
+                                            <option value="CD" >Congo, The Democratic Republic of the</option>
+                                            <option value="CK" >Cook Islands</option>
+                                            <option value="CR" >Costa Rica</option>
+                                            <option value="HR" >Croatia</option>
+                                            <option value="CU" >Cuba</option>
+                                            <option value="CW" >Curaçao</option>
+                                            <option value="CY" >Cyprus</option>
+                                            <option value="CZ" >Czechia</option>
+                                            <option value="CI" >Côte d&#039;Ivoire</option>
+                                            <option value="DK" >Denmark</option>
+                                            <option value="DJ" >Djibouti</option>
+                                            <option value="DM" >Dominica</option>
+                                            <option value="DO" >Dominican Republic</option>
+                                            <option value="EC" >Ecuador</option>
+                                            <option value="EG" >Egypt</option>
+                                            <option value="SV" >El Salvador</option>
+                                            <option value="GQ" >Equatorial Guinea</option>
+                                            <option value="ER" >Eritrea</option>
+                                            <option value="EE" >Estonia</option>
+                                            <option value="SZ" >Eswatini</option>
+                                            <option value="ET" >Ethiopia</option>
+                                            <option value="FK" >Falkland Islands (Malvinas)</option>
+                                            <option value="FO" >Faroe Islands</option>
+                                            <option value="FJ" >Fiji</option>
+                                            <option value="FI" >Finland</option>
+                                            <option value="FR" >France</option>
+                                            <option value="GF" >French Guiana</option>
+                                            <option value="PF" >French Polynesia</option>
+                                            <option value="TF" >French Southern Territories</option>
+                                            <option value="GA" >Gabon</option>
+                                            <option value="GM" >Gambia</option>
+                                            <option value="GE" >Georgia</option>
+                                            <option value="DE" >Germany</option>
+                                            <option value="GH" >Ghana</option>
+                                            <option value="GI" >Gibraltar</option>
+                                            <option value="GR" >Greece</option>
+                                            <option value="GL" >Greenland</option>
+                                            <option value="GD" >Grenada</option>
+                                            <option value="GP" >Guadeloupe</option>
+                                            <option value="GU" >Guam</option>
+                                            <option value="GT" >Guatemala</option>
+                                            <option value="GG" >Guernsey</option>
+                                            <option value="GN" >Guinea</option>
+                                            <option value="GW" >Guinea-Bissau</option>
+                                            <option value="GY" >Guyana</option>
+                                            <option value="HT" >Haiti</option>
+                                            <option value="HM" >Heard Island and McDonald Islands</option>
+                                            <option value="VA" >Holy See (Vatican City State)</option>
+                                            <option value="HN" >Honduras</option>
+                                            <option value="HK" >Hong Kong</option>
+                                            <option value="HU" >Hungary</option>
+                                            <option value="IS" >Iceland</option>
+                                            <option value="IN" >India</option>
+                                            <option value="ID" >Indonesia</option>
+                                            <option value="IR" >Iran</option>
+                                            <option value="IQ" >Iraq</option>
+                                            <option value="IE" >Ireland</option>
+                                            <option value="IM" >Isle of Man</option>
+                                            <option value="IL" >Israel</option>
+                                            <option value="IT" >Italy</option>
+                                            <option value="JM" >Jamaica</option>
+                                            <option value="JP" >Japan</option>
+                                            <option value="JE" >Jersey</option>
+                                            <option value="JO" >Jordan</option>
+                                            <option value="KZ" >Kazakhstan</option>
+                                            <option value="KE" >Kenya</option>
+                                            <option value="KI" >Kiribati</option>
+                                            <option value="KW" >Kuwait</option>
+                                            <option value="KG" >Kyrgyzstan</option>
+                                            <option value="LA" >Laos</option>
+                                            <option value="LV" >Latvia</option>
+                                            <option value="LB" >Lebanon</option>
+                                            <option value="LS" >Lesotho</option>
+                                            <option value="LR" >Liberia</option>
+                                            <option value="LY" >Libya</option>
+                                            <option value="LI" >Liechtenstein</option>
+                                            <option value="LT" >Lithuania</option>
+                                            <option value="LU" >Luxembourg</option>
+                                            <option value="MO" >Macao</option>
+                                            <option value="MG" >Madagascar</option>
+                                            <option value="MW" >Malawi</option>
+                                            <option value="MY" >Malaysia</option>
+                                            <option value="MV" >Maldives</option>
+                                            <option value="ML" >Mali</option>
+                                            <option value="MT" >Malta</option>
+                                            <option value="MH" >Marshall Islands</option>
+                                            <option value="MQ" >Martinique</option>
+                                            <option value="MR" >Mauritania</option>
+                                            <option value="MU" >Mauritius</option>
+                                            <option value="YT" >Mayotte</option>
+                                            <option value="MX" >Mexico</option>
+                                            <option value="FM" >Micronesia, Federated States of</option>
+                                            <option value="MD" >Moldova</option>
+                                            <option value="MC" >Monaco</option>
+                                            <option value="MN" >Mongolia</option>
+                                            <option value="ME" >Montenegro</option>
+                                            <option value="MS" >Montserrat</option>
+                                            <option value="MA" >Morocco</option>
+                                            <option value="MZ" >Mozambique</option>
+                                            <option value="MM" >Myanmar</option>
+                                            <option value="NA" >Namibia</option>
+                                            <option value="NR" >Nauru</option>
+                                            <option value="NP" >Nepal</option>
+                                            <option value="NL" >Netherlands</option>
+                                            <option value="NC" >New Caledonia</option>
+                                            <option value="NZ" >New Zealand</option>
+                                            <option value="NI" >Nicaragua</option>
+                                            <option value="NE" >Niger</option>
+                                            <option value="NG" >Nigeria</option>
+                                            <option value="NU" >Niue</option>
+                                            <option value="NF" >Norfolk Island</option>
+                                            <option value="KP" >North Korea</option>
+                                            <option value="MK" >North Macedonia</option>
+                                            <option value="MP" >Northern Mariana Islands</option>
+                                            <option value="NO" >Norway</option>
+                                            <option value="OM" >Oman</option>
+                                            <option value="PK" >Pakistan</option>
+                                            <option value="PW" >Palau</option>
+                                            <option value="PS" >Palestine, State of</option>
+                                            <option value="PA" >Panama</option>
+                                            <option value="PG" >Papua New Guinea</option>
+                                            <option value="PY" >Paraguay</option>
+                                            <option value="PE" >Peru</option>
+                                            <option value="PH" >Philippines</option>
+                                            <option value="PN" >Pitcairn</option>
+                                            <option value="PL" >Poland</option>
+                                            <option value="PT" >Portugal</option>
+                                            <option value="PR" >Puerto Rico</option>
+                                            <option value="QA" >Qatar</option>
+                                            <option value="RO" >Romania</option>
+                                            <option value="RU" >Russia</option>
+                                            <option value="RW" >Rwanda</option>
+                                            <option value="RE" >Réunion</option>
+                                            <option value="BL" >Saint Barthélemy</option>
+                                            <option value="SH" >Saint Helena, Ascension and Tristan da Cunha</option>
+                                            <option value="KN" >Saint Kitts and Nevis</option>
+                                            <option value="LC" >Saint Lucia</option>
+                                            <option value="MF" >Saint Martin (French part)</option>
+                                            <option value="PM" >Saint Pierre and Miquelon</option>
+                                            <option value="VC" >Saint Vincent and the Grenadines</option>
+                                            <option value="WS" >Samoa</option>
+                                            <option value="SM" >San Marino</option>
+                                            <option value="ST" >Sao Tome and Principe</option>
+                                            <option value="SA" >Saudi Arabia</option>
+                                            <option value="SN" >Senegal</option>
+                                            <option value="RS" >Serbia</option>
+                                            <option value="SC" >Seychelles</option>
+                                            <option value="SL" >Sierra Leone</option>
+                                            <option value="SG" >Singapore</option>
+                                            <option value="SX" >Sint Maarten (Dutch part)</option>
+                                            <option value="SK" >Slovakia</option>
+                                            <option value="SI" >Slovenia</option>
+                                            <option value="SB" >Solomon Islands</option>
+                                            <option value="SO" >Somalia</option>
+                                            <option value="ZA" >South Africa</option>
+                                            <option value="GS" >South Georgia and the South Sandwich Islands</option>
+                                            <option value="KR" >South Korea</option>
+                                            <option value="SS" >South Sudan</option>
+                                            <option value="ES" >Spain</option>
+                                            <option value="LK" >Sri Lanka</option>
+                                            <option value="SD" >Sudan</option>
+                                            <option value="SR" >Suriname</option>
+                                            <option value="SJ" >Svalbard and Jan Mayen</option>
+                                            <option value="SE" >Sweden</option>
+                                            <option value="CH" >Switzerland</option>
+                                            <option value="SY" >Syria</option>
+                                            <option value="TW" >Taiwan</option>
+                                            <option value="TJ" >Tajikistan</option>
+                                            <option value="TZ" >Tanzania</option>
+                                            <option value="TH" >Thailand</option>
+                                            <option value="TL" >Timor-Leste</option>
+                                            <option value="TG" >Togo</option>
+                                            <option value="TK" >Tokelau</option>
+                                            <option value="TO" >Tonga</option>
+                                            <option value="TT" >Trinidad and Tobago</option>
+                                            <option value="TN" >Tunisia</option>
+                                            <option value="TM" >Turkmenistan</option>
+                                            <option value="TC" >Turks and Caicos Islands</option>
+                                            <option value="TV" >Tuvalu</option>
+                                            <option value="TR" >Türkiye</option>
+                                            <option value="UG" >Uganda</option>
+                                            <option value="UA" >Ukraine</option>
+                                            <option value="AE" >United Arab Emirates</option>
+                                            <option value="GB" >United Kingdom</option>
+                                            <option value="US" >United States</option>
+                                            <option value="UM" >United States Minor Outlying Islands</option>
+                                            <option value="UY" >Uruguay</option>
+                                            <option value="UZ" >Uzbekistan</option>
+                                            <option value="VU" >Vanuatu</option>
+                                            <option value="VE" >Venezuela</option>
+                                            <option value="VN" >Vietnam</option>
+                                            <option value="VG" >Virgin Islands, British</option>
+                                            <option value="VI" >Virgin Islands, U.S.</option>
+                                            <option value="WF" >Wallis and Futuna</option>
+                                            <option value="EH" >Western Sahara</option>
+                                            <option value="YE" >Yemen</option>
+                                            <option value="ZM" >Zambia</option>
+                                            <option value="ZW" >Zimbabwe</option>
+                                            <option value="AX" >Åland Islands</option>
+                                    </select>
+            </label>
+
+            <label class="public-listing-advanced__check">
+                <input type="checkbox" name="nationwide" value="1" >
+                <span>
+                    <strong>Worldwide</strong>
+                    <small>Search every location, ignoring the town and country fields.</small>
+                </span>
+            </label>
+                            <div class="public-listing-radius-controls" data-public-radius-controls>
+                    <label class="public-listing-filters__group">
+                        <span class="public-listing-filters__label">Radius</span>
+                        <select name="radius" data-public-radius-select data-radius-options-mi="5,10,25,50,100,200" data-radius-options-km="5,10,25,50,100,200,300">
+                            <option value="">Any distance</option>
+                                                            <option value="5" >5 miles</option>
+                                                            <option value="10" >10 miles</option>
+                                                            <option value="25" >25 miles</option>
+                                                            <option value="50" >50 miles</option>
+                                                            <option value="100" >100 miles</option>
+                                                            <option value="200" >200 miles</option>
+                                                    </select>
+                    </label>
+                    <label class="public-listing-filters__group">
+                        <span class="public-listing-filters__label">Unit</span>
+                        <select name="radius_unit" data-public-radius-unit-select>
+                            <option value="mi" selected>Miles</option>
+                            <option value="km" >Kilometres</option>
+                        </select>
+                    </label>
+                    <p>Select a location suggestion in the search bar before applying a radius.</p>
+                </div>
+            
+            <label class="public-listing-filters__group">
+                <span class="public-listing-filters__label">Date posted</span>
+                <select name="posted_within">
+                    <option value="">Any time</option>
+                                            <option value="1" >Last 24 hours</option>
+                                            <option value="3" >Last 3 days</option>
+                                            <option value="7" >Last 7 days</option>
+                                            <option value="14" >Last 14 days</option>
+                                            <option value="30" >Last 30 days</option>
+                                    </select>
+            </label>
+
+            <label class="public-listing-advanced__check">
+                <input type="checkbox" name="salary_known" value="1" >
+                <span>
+                    <strong>Salary shown</strong>
+                    <small>Only include vacancies with a published salary range.</small>
+                </span>
+            </label>
+
+            
+
         </div>
-    </section>
+    </details>
 
-    <section class="public-directory-section public-directory-section--jobs public-directory-section--compact" id="job-type-open-roles" aria-label="HR Director jobs">
-        <div class="public-container">
+    <button class="public-button public-button--primary public-button--medium public-listing-filters__apply" type="submit">Apply filters</button>
+</form>
+                </aside>
 
-                            <div class="public-directory-jobs">
-                                            <article class="public-listing-card  " data-listing-featured="false" data-upgrade-tier="none">
+                <div class="public-listing-results">
+                    <div class="public-listing-results__toolbar">
+                        <div>
+                            <strong>69</strong>
+                            <span>jobs</span>
+                        </div>
+
+                        <form method="GET" action="/jobs">
+                            <input type="hidden" name="q" value="">
+                            <input type="hidden" name="sector" value="">
+                                                        <input type="hidden" name="location_id" value="">
+                                                            <input type="hidden" name="radius" value="0">
+                                <input type="hidden" name="radius_unit" value="mi">
+                                                                                                                                                                        <input type="hidden" name="posted_within" value="">
+                            <input type="hidden" name="salary_min" value="0">
+                            <input type="hidden" name="salary_band" value="">
+                                                        <label>
+                                <span>Sort</span>
+                                <select name="sort" onchange="this.form.submit()">
+                                    <option value="match" selected>Best match</option>
+                                    <option value="recent" >Most recent</option>
+                                    <option value="salary" >Highest salary</option>
+                                                                    </select>
+                            </label>
+                        </form>
+                    </div>
+
+                    
+                    
+                    
+                    
+                    
+                                            <aside class="public-listing-recommendation">
+                            <span aria-hidden="true">✦</span>
+                            <div>
+                                <strong>Featured and latest jobs</strong>
+                                <p>Top, Premium and Featured jobs first, followed by the newest roles matching your search.</p>
+                            </div>
+                        </aside>
+                    
+                                            
+                        
+                        <div class="public-listing-results__list">
+                                                            <article class="public-listing-card  " data-listing-featured="false" data-upgrade-tier="none">
     <span
     class="public-employer-logo public-employer-logo--medium"
     aria-hidden="true"
     data-employer-logo="image"
 >
-            <img class="public-employer-logo__image" src="/employers/macmillan-davies-hodes/media/employer-logo" alt="" loading="lazy" decoding="async">
+            <img class="public-employer-logo__image" src="/employers/hays-human-resources/media/employer-logo" alt="" loading="lazy" decoding="async">
     </span>
 
     <div class="public-listing-card__body">
@@ -185,10 +1002,10 @@
                                         <span class="public-badge public-badge--neutral">Apply on site</span>
                     </div>
 
-        <h2><a href="/jobs/vp-people-culture-2">VP People &amp; Culture</a></h2>
+        <h2><a href="/jobs/hr-officer-hr-administrator">HR Officer / HR Administrator</a></h2>
         <p class="public-listing-card__meta">
-                            <a class="public-listing-card__employer" href="/employers/macmillan-davies-hodes">Macmillan Davies Hodes</a>
-                                        · Stockport, England
+                            <a class="public-listing-card__employer" href="/employers/hays-human-resources">Hays Human Resources</a>
+                                        · Chislehurst, England
                                         · Hybrid
                     </p>
 
@@ -203,21 +1020,21 @@
     </div>
 
     <div class="public-listing-card__aside">
-                                    <a class="public-listing-card__save" href="/account/login?save_job=vp-people-culture-2&amp;return_to=%2Faccount%23saved-jobs" aria-label="Sign in to save VP People &amp; Culture">
+                                    <a class="public-listing-card__save" href="/account/login?save_job=hr-officer-hr-administrator&amp;return_to=%2Faccount%23saved-jobs" aria-label="Sign in to save HR Officer / HR Administrator">
                     <span aria-hidden="true">♡</span>
                 </a>
                     
         <div class="public-listing-card__commercial">
-                            <strong>£100,000–£120,000</strong>
-                                                                    <span>Posted 3 days ago</span>
+                            <strong>£30,000–£40,000</strong>
+                                                                    <span>Posted 4 days ago</span>
                                         <span>Closes 23 Nov 2026</span>
                     </div>
 
         <div class="public-listing-card__actions">
-            <a href="/jobs/vp-people-culture-2">View role</a>
+            <a href="/jobs/hr-officer-hr-administrator">View role</a>
                             <a
                     class="is-primary"
-                    href="/jobs/vp-people-culture-2/apply"
+                    href="/jobs/hr-officer-hr-administrator/apply"
                                         data-application-method="internal"
                                     >
                     Apply now
@@ -225,7 +1042,249 @@
                     </div>
     </div>
 </article>
-                                            <article class="public-listing-card  " data-listing-featured="false" data-upgrade-tier="none">
+                                                                
+                                                                                            <article class="public-listing-card  " data-listing-featured="false" data-upgrade-tier="none">
+    <span
+    class="public-employer-logo public-employer-logo--medium"
+    aria-hidden="true"
+    data-employer-logo="image"
+>
+            <img class="public-employer-logo__image" src="/employers/henlee-resourcing/media/employer-logo" alt="" loading="lazy" decoding="async">
+    </span>
+
+    <div class="public-listing-card__body">
+        <div class="public-listing-card__badges">
+            
+                                        <span class="public-badge public-badge--neutral">Apply on site</span>
+                    </div>
+
+        <h2><a href="/jobs/hr-manager-7">HR Manager</a></h2>
+        <p class="public-listing-card__meta">
+                            <a class="public-listing-card__employer" href="/employers/henlee-resourcing">Henlee Resourcing</a>
+                                        · Swindon, England
+                                        · Hybrid
+                    </p>
+
+        
+        <div class="public-listing-card__tags" aria-label="Job attributes">
+                            <a href="/sectors/public-sector">Public Sector</a>
+                        
+                            <a href="/jobs?employment_type%5B0%5D=contract" data-employment-link="contract">Contract</a>
+                            <a href="/jobs?employment_type%5B0%5D=full_time" data-employment-link="full_time">Full time</a>
+                        
+                    </div>
+    </div>
+
+    <div class="public-listing-card__aside">
+                                    <a class="public-listing-card__save" href="/account/login?save_job=hr-manager-7&amp;return_to=%2Faccount%23saved-jobs" aria-label="Sign in to save HR Manager">
+                    <span aria-hidden="true">♡</span>
+                </a>
+                    
+        <div class="public-listing-card__commercial">
+                            <strong>£45,000–£50,000</strong>
+                                                                    <span>Posted 4 days ago</span>
+                                        <span>Closes 23 Nov 2026</span>
+                    </div>
+
+        <div class="public-listing-card__actions">
+            <a href="/jobs/hr-manager-7">View role</a>
+                            <a
+                    class="is-primary"
+                    href="/jobs/hr-manager-7/apply"
+                                        data-application-method="internal"
+                                    >
+                    Apply now
+                </a>
+                    </div>
+    </div>
+</article>
+                                                                
+                                                                                            <article class="public-listing-card  " data-listing-featured="false" data-upgrade-tier="none">
+    <span
+    class="public-employer-logo public-employer-logo--medium"
+    aria-hidden="true"
+    data-employer-logo="image"
+>
+            <img class="public-employer-logo__image" src="/employers/hays-human-resources/media/employer-logo" alt="" loading="lazy" decoding="async">
+    </span>
+
+    <div class="public-listing-card__body">
+        <div class="public-listing-card__badges">
+            
+                                        <span class="public-badge public-badge--neutral">Apply on site</span>
+                    </div>
+
+        <h2><a href="/jobs/hr-advisor-12">HR Advisor</a></h2>
+        <p class="public-listing-card__meta">
+                            <a class="public-listing-card__employer" href="/employers/hays-human-resources">Hays Human Resources</a>
+                                        · Reigate, England
+                                        · Hybrid
+                    </p>
+
+        
+        <div class="public-listing-card__tags" aria-label="Job attributes">
+                            <a href="/sectors/public-sector">Public Sector</a>
+                        
+                            <a href="/jobs?employment_type%5B0%5D=permanent" data-employment-link="permanent">Permanent</a>
+                            <a href="/jobs?employment_type%5B0%5D=full_time" data-employment-link="full_time">Full time</a>
+                        
+                    </div>
+    </div>
+
+    <div class="public-listing-card__aside">
+                                    <a class="public-listing-card__save" href="/account/login?save_job=hr-advisor-12&amp;return_to=%2Faccount%23saved-jobs" aria-label="Sign in to save HR Advisor">
+                    <span aria-hidden="true">♡</span>
+                </a>
+                    
+        <div class="public-listing-card__commercial">
+                            <strong>£36,000–£50,000</strong>
+                                                                    <span>Posted 1 week ago</span>
+                                        <span>Closes 18 Nov 2026</span>
+                    </div>
+
+        <div class="public-listing-card__actions">
+            <a href="/jobs/hr-advisor-12">View role</a>
+                            <a
+                    class="is-primary"
+                    href="/jobs/hr-advisor-12/apply"
+                                        data-application-method="internal"
+                                    >
+                    Apply now
+                </a>
+                    </div>
+    </div>
+</article>
+                                                                
+                                                                                            <article class="public-listing-card  " data-listing-featured="false" data-upgrade-tier="none">
+    <span
+    class="public-employer-logo public-employer-logo--medium"
+    aria-hidden="true"
+    data-employer-logo="image"
+>
+            <img class="public-employer-logo__image" src="/employers/macmillan-davies-hodes/media/employer-logo" alt="" loading="lazy" decoding="async">
+    </span>
+
+    <div class="public-listing-card__body">
+        <div class="public-listing-card__badges">
+            
+                                        <span class="public-badge public-badge--neutral">Apply on site</span>
+                    </div>
+
+        <h2><a href="/jobs/executive-assistant">Executive Assistant</a></h2>
+        <p class="public-listing-card__meta">
+                            <a class="public-listing-card__employer" href="/employers/macmillan-davies-hodes">Macmillan Davies Hodes</a>
+                                        · Finchley, England
+                                        · Hybrid
+                    </p>
+
+        
+        <div class="public-listing-card__tags" aria-label="Job attributes">
+                            <a href="/sectors/public-sector">Public Sector</a>
+                        
+                            <a href="/jobs?employment_type%5B0%5D=temporary" data-employment-link="temporary">Temporary</a>
+                            <a href="/jobs?employment_type%5B0%5D=full_time" data-employment-link="full_time">Full time</a>
+                        
+                    </div>
+    </div>
+
+    <div class="public-listing-card__aside">
+                                    <a class="public-listing-card__save" href="/account/login?save_job=executive-assistant&amp;return_to=%2Faccount%23saved-jobs" aria-label="Sign in to save Executive Assistant">
+                    <span aria-hidden="true">♡</span>
+                </a>
+                    
+        <div class="public-listing-card__commercial">
+                            <strong>£350–£400</strong>
+                                                                    <span>Posted 1 week ago</span>
+                                        <span>Closes 18 Nov 2026</span>
+                    </div>
+
+        <div class="public-listing-card__actions">
+            <a href="/jobs/executive-assistant">View role</a>
+                            <a
+                    class="is-primary"
+                    href="/jobs/executive-assistant/apply"
+                                        data-application-method="internal"
+                                    >
+                    Apply now
+                </a>
+                    </div>
+    </div>
+</article>
+                                                                    <section
+    class="public-ad-slot public-ad-slot--search_results_mpu"
+    aria-label="Advertisement"
+    data-pmg-ad-slot
+    data-ad-delivery-state="pending-consent"
+    data-ad-slot-key="search_results_mpu"
+    data-ad-page-context="job_search"
+    data-ad-position="in_results"
+    data-ad-unit-path="/13644946/PTOD_JOBS_MPU"
+    data-ad-consent-category="marketing"
+    data-ad-supported-sizes='[[300,250]]'
+    data-ad-responsive-size-mapping='[{"sizes":[[300,250]],"viewport":[0,0]},{"sizes":[[300,250]],"viewport":[768,0]},{"sizes":[[300,250]],"viewport":[1024,0]}]'
+    data-ad-collapse-when-empty="true"
+>
+    <span class="public-ad-slot__label">Advertisement</span>
+    <div id="pmg-ad-personnel-today-search_results_mpu" class="public-ad-slot__container" data-pmg-ad-container></div>
+</section>
+                                                                
+                                                                                            <article class="public-listing-card  " data-listing-featured="false" data-upgrade-tier="none">
+    <span
+    class="public-employer-logo public-employer-logo--medium"
+    aria-hidden="true"
+    data-employer-logo="image"
+>
+            <img class="public-employer-logo__image" src="/employers/henlee-resourcing/media/employer-logo" alt="" loading="lazy" decoding="async">
+    </span>
+
+    <div class="public-listing-card__body">
+        <div class="public-listing-card__badges">
+            
+                                        <span class="public-badge public-badge--neutral">Apply on site</span>
+                    </div>
+
+        <h2><a href="/jobs/hr-er-advisor">HR / ER Advisor</a></h2>
+        <p class="public-listing-card__meta">
+                            <a class="public-listing-card__employer" href="/employers/henlee-resourcing">Henlee Resourcing</a>
+                                        · Bristol, England
+                                        · Hybrid
+                    </p>
+
+        
+        <div class="public-listing-card__tags" aria-label="Job attributes">
+                            <a href="/sectors/public-sector">Public Sector</a>
+                        
+                            <a href="/jobs?employment_type%5B0%5D=permanent" data-employment-link="permanent">Permanent</a>
+                            <a href="/jobs?employment_type%5B0%5D=full_time" data-employment-link="full_time">Full time</a>
+                        
+                    </div>
+    </div>
+
+    <div class="public-listing-card__aside">
+                                    <a class="public-listing-card__save" href="/account/login?save_job=hr-er-advisor&amp;return_to=%2Faccount%23saved-jobs" aria-label="Sign in to save HR / ER Advisor">
+                    <span aria-hidden="true">♡</span>
+                </a>
+                    
+        <div class="public-listing-card__commercial">
+                            <strong>£36,000–£38,400</strong>
+                                                                    <span>Posted 1 week ago</span>
+                                        <span>Closes 18 Nov 2026</span>
+                    </div>
+
+        <div class="public-listing-card__actions">
+            <a href="/jobs/hr-er-advisor">View role</a>
+                            <a
+                    class="is-primary"
+                    href="/jobs/hr-er-advisor/apply"
+                                        data-application-method="internal"
+                                    >
+                    Apply now
+                </a>
+                    </div>
+    </div>
+</article>
+                                                                
+                                                                                            <article class="public-listing-card  " data-listing-featured="false" data-upgrade-tier="none">
     <span
     class="public-employer-logo public-employer-logo--medium"
     aria-hidden="true"
@@ -280,13 +1339,14 @@
                     </div>
     </div>
 </article>
-                                            <article class="public-listing-card  " data-listing-featured="false" data-upgrade-tier="none">
+                                                                
+                                                                                            <article class="public-listing-card  " data-listing-featured="false" data-upgrade-tier="none">
     <span
     class="public-employer-logo public-employer-logo--medium"
     aria-hidden="true"
     data-employer-logo="image"
 >
-            <img class="public-employer-logo__image" src="/employers/henlee-resourcing/media/employer-logo" alt="" loading="lazy" decoding="async">
+            <img class="public-employer-logo__image" src="/employers/hays-human-resources/media/employer-logo" alt="" loading="lazy" decoding="async">
     </span>
 
     <div class="public-listing-card__body">
@@ -295,10 +1355,10 @@
                                         <span class="public-badge public-badge--neutral">Apply on site</span>
                     </div>
 
-        <h2><a href="/jobs/head-of-people-and-culture">Head of People and Culture</a></h2>
+        <h2><a href="/jobs/hr-officer-3">HR Officer</a></h2>
         <p class="public-listing-card__meta">
-                            <a class="public-listing-card__employer" href="/employers/henlee-resourcing">Henlee Resourcing</a>
-                                        · Chippenham, England
+                            <a class="public-listing-card__employer" href="/employers/hays-human-resources">Hays Human Resources</a>
+                                        · Poynton, England
                                         · Hybrid
                     </p>
 
@@ -307,26 +1367,27 @@
                             <a href="/sectors/public-sector">Public Sector</a>
                         
                             <a href="/jobs?employment_type%5B0%5D=permanent" data-employment-link="permanent">Permanent</a>
+                            <a href="/jobs?employment_type%5B0%5D=full_time" data-employment-link="full_time">Full time</a>
                         
                     </div>
     </div>
 
     <div class="public-listing-card__aside">
-                                    <a class="public-listing-card__save" href="/account/login?save_job=head-of-people-and-culture&amp;return_to=%2Faccount%23saved-jobs" aria-label="Sign in to save Head of People and Culture">
+                                    <a class="public-listing-card__save" href="/account/login?save_job=hr-officer-3&amp;return_to=%2Faccount%23saved-jobs" aria-label="Sign in to save HR Officer">
                     <span aria-hidden="true">♡</span>
                 </a>
                     
         <div class="public-listing-card__commercial">
-                            <strong>£65,000–£70,000</strong>
-                                                                    <span>Posted 3 weeks ago</span>
-                                        <span>Closes 31 Oct 2026</span>
+                            <strong>£28,000–£32,000</strong>
+                                                                    <span>Posted 1 week ago</span>
+                                        <span>Closes 18 Nov 2026</span>
                     </div>
 
         <div class="public-listing-card__actions">
-            <a href="/jobs/head-of-people-and-culture">View role</a>
+            <a href="/jobs/hr-officer-3">View role</a>
                             <a
                     class="is-primary"
-                    href="/jobs/head-of-people-and-culture/apply"
+                    href="/jobs/hr-officer-3/apply"
                                         data-application-method="internal"
                                     >
                     Apply now
@@ -334,39 +1395,177 @@
                     </div>
     </div>
 </article>
-                                    </div>
+                                                                
+                                                                                            <article class="public-listing-card  " data-listing-featured="false" data-upgrade-tier="none">
+    <span
+    class="public-employer-logo public-employer-logo--medium"
+    aria-hidden="true"
+    data-employer-logo="image"
+>
+            <img class="public-employer-logo__image" src="/employers/hays-human-resources/media/employer-logo" alt="" loading="lazy" decoding="async">
+    </span>
 
-                                    </div>
-    </section>
-
+    <div class="public-listing-card__body">
+        <div class="public-listing-card__badges">
             
-        <section class="public-directory-section public-sector-articles" aria-labelledby="job-type-articles-heading" data-job-type-articles>
-            <div class="public-container">
-                <div class="public-section-heading public-content-heading">
-                    <div>
-                        <p class="public-eyebrow">Career advice</p>
-                        <h2 id="job-type-articles-heading">HR Director career advice</h2>
+                                        <span class="public-badge public-badge--neutral">Apply on site</span>
                     </div>
-                    <a href="/career-advice">View all resources →</a>
-                </div>
 
-                <div class="public-content-grid">
-                                            <article class="public-content-card" data-job-type-article="additional-qualifications-to-boost-your-hr-career">
-                            <p class="public-eyebrow">Personnel Today Jobs</p>
-                            <h3><a href="/pages/additional-qualifications-to-boost-your-hr-career">Additional Qualifications to Boost your HR Career</a></h3>
-                            <p>No matter which stage of your HR career you currently inhabit, it must always be remembered that there are many recognised qualifications that really can progress your career to the next level.</p>
-                            <div class="public-content-card__meta">
-                                <span>9 Aug 2026</span>
-                                <a href="/pages/additional-qualifications-to-boost-your-hr-career">Read →</a>
-                            </div>
-                        </article>
-                                    </div>
-            </div>
-        </section>
-            </main>
+        <h2><a href="/jobs/employee-relation-specialist">Employee Relation Specialist</a></h2>
+        <p class="public-listing-card__meta">
+                            <a class="public-listing-card__employer" href="/employers/hays-human-resources">Hays Human Resources</a>
+                                        · Southampton, England
+                                        · Hybrid
+                    </p>
 
         
-                    <section
+        <div class="public-listing-card__tags" aria-label="Job attributes">
+                            <a href="/sectors/public-sector">Public Sector</a>
+                        
+                            <a href="/jobs?employment_type%5B0%5D=permanent" data-employment-link="permanent">Permanent</a>
+                            <a href="/jobs?employment_type%5B0%5D=full_time" data-employment-link="full_time">Full time</a>
+                        
+                    </div>
+    </div>
+
+    <div class="public-listing-card__aside">
+                                    <a class="public-listing-card__save" href="/account/login?save_job=employee-relation-specialist&amp;return_to=%2Faccount%23saved-jobs" aria-label="Sign in to save Employee Relation Specialist">
+                    <span aria-hidden="true">♡</span>
+                </a>
+                    
+        <div class="public-listing-card__commercial">
+                            <strong>£65,000–£75,000</strong>
+                                                                    <span>Posted 1 week ago</span>
+                                        <span>Closes 18 Nov 2026</span>
+                    </div>
+
+        <div class="public-listing-card__actions">
+            <a href="/jobs/employee-relation-specialist">View role</a>
+                            <a
+                    class="is-primary"
+                    href="/jobs/employee-relation-specialist/apply"
+                                        data-application-method="internal"
+                                    >
+                    Apply now
+                </a>
+                    </div>
+    </div>
+</article>
+                                                                
+                                                                                            <article class="public-listing-card  " data-listing-featured="false" data-upgrade-tier="none">
+    <span
+    class="public-employer-logo public-employer-logo--medium"
+    aria-hidden="true"
+    data-employer-logo="image"
+>
+            <img class="public-employer-logo__image" src="/employers/hays-human-resources/media/employer-logo" alt="" loading="lazy" decoding="async">
+    </span>
+
+    <div class="public-listing-card__body">
+        <div class="public-listing-card__badges">
+            
+                                        <span class="public-badge public-badge--neutral">Apply on site</span>
+                    </div>
+
+        <h2><a href="/jobs/senior-employee-relations-manager-accountancy-remote">Senior Employee Relations Manager, Accountancy, Remote</a></h2>
+        <p class="public-listing-card__meta">
+                            <a class="public-listing-card__employer" href="/employers/hays-human-resources">Hays Human Resources</a>
+                                        · City of London, England
+                                        · Hybrid
+                    </p>
+
+        
+        <div class="public-listing-card__tags" aria-label="Job attributes">
+                            <a href="/sectors/public-sector">Public Sector</a>
+                        
+                            <a href="/jobs?employment_type%5B0%5D=permanent" data-employment-link="permanent">Permanent</a>
+                            <a href="/jobs?employment_type%5B0%5D=full_time" data-employment-link="full_time">Full time</a>
+                        
+                    </div>
+    </div>
+
+    <div class="public-listing-card__aside">
+                                    <a class="public-listing-card__save" href="/account/login?save_job=senior-employee-relations-manager-accountancy-remote&amp;return_to=%2Faccount%23saved-jobs" aria-label="Sign in to save Senior Employee Relations Manager, Accountancy, Remote">
+                    <span aria-hidden="true">♡</span>
+                </a>
+                    
+        <div class="public-listing-card__commercial">
+                            <strong>£65,000–£74,999.99</strong>
+                                                                    <span>Posted 1 week ago</span>
+                                        <span>Closes 18 Nov 2026</span>
+                    </div>
+
+        <div class="public-listing-card__actions">
+            <a href="/jobs/senior-employee-relations-manager-accountancy-remote">View role</a>
+                            <a
+                    class="is-primary"
+                    href="/jobs/senior-employee-relations-manager-accountancy-remote/apply"
+                                        data-application-method="internal"
+                                    >
+                    Apply now
+                </a>
+                    </div>
+    </div>
+</article>
+                                                                
+                                                                                            <article class="public-listing-card  " data-listing-featured="false" data-upgrade-tier="none">
+    <span
+    class="public-employer-logo public-employer-logo--medium"
+    aria-hidden="true"
+    data-employer-logo="image"
+>
+            <img class="public-employer-logo__image" src="/employers/hays-human-resources/media/employer-logo" alt="" loading="lazy" decoding="async">
+    </span>
+
+    <div class="public-listing-card__body">
+        <div class="public-listing-card__badges">
+            
+                                        <span class="public-badge public-badge--neutral">Apply on site</span>
+                    </div>
+
+        <h2><a href="/jobs/hr-manager-full-time-or-part-time">HR Manager (Full-time or Part-time)</a></h2>
+        <p class="public-listing-card__meta">
+                            <a class="public-listing-card__employer" href="/employers/hays-human-resources">Hays Human Resources</a>
+                                        · Bury St Edmunds, England
+                                        · Hybrid
+                    </p>
+
+        
+        <div class="public-listing-card__tags" aria-label="Job attributes">
+                            <a href="/sectors/public-sector">Public Sector</a>
+                        
+                            <a href="/jobs?employment_type%5B0%5D=permanent" data-employment-link="permanent">Permanent</a>
+                            <a href="/jobs?employment_type%5B0%5D=full_time" data-employment-link="full_time">Full time</a>
+                        
+                    </div>
+    </div>
+
+    <div class="public-listing-card__aside">
+                                    <a class="public-listing-card__save" href="/account/login?save_job=hr-manager-full-time-or-part-time&amp;return_to=%2Faccount%23saved-jobs" aria-label="Sign in to save HR Manager (Full-time or Part-time)">
+                    <span aria-hidden="true">♡</span>
+                </a>
+                    
+        <div class="public-listing-card__commercial">
+                            <strong>£50,000–£60,000</strong>
+                                                                    <span>Posted 1 week ago</span>
+                                        <span>Closes 18 Nov 2026</span>
+                    </div>
+
+        <div class="public-listing-card__actions">
+            <a href="/jobs/hr-manager-full-time-or-part-time">View role</a>
+                            <a
+                    class="is-primary"
+                    href="/jobs/hr-manager-full-time-or-part-time/apply"
+                                        data-application-method="internal"
+                                    >
+                    Apply now
+                </a>
+                    </div>
+    </div>
+</article>
+                                                                
+                                                                                                        <div class="public-ad-inline">
+                                        <section
     class="public-ad-slot public-ad-slot--bottom_leaderboard"
     aria-label="Advertisement"
     data-pmg-ad-slot
@@ -383,6 +1582,201 @@
     <span class="public-ad-slot__label">Advertisement</span>
     <div id="pmg-ad-personnel-today-bottom_leaderboard" class="public-ad-slot__container" data-pmg-ad-container></div>
 </section>
+                                    </div>
+                                                                                            <article class="public-listing-card  " data-listing-featured="false" data-upgrade-tier="none">
+    <span
+    class="public-employer-logo public-employer-logo--medium"
+    aria-hidden="true"
+    data-employer-logo="image"
+>
+            <img class="public-employer-logo__image" src="/employers/hays-human-resources/media/employer-logo" alt="" loading="lazy" decoding="async">
+    </span>
+
+    <div class="public-listing-card__body">
+        <div class="public-listing-card__badges">
+            
+                                        <span class="public-badge public-badge--neutral">Apply on site</span>
+                    </div>
+
+        <h2><a href="/jobs/transformation-manager-resourcing">Transformation Manager (Resourcing)</a></h2>
+        <p class="public-listing-card__meta">
+                            <a class="public-listing-card__employer" href="/employers/hays-human-resources">Hays Human Resources</a>
+                                        · Liverpool, England
+                                        · Hybrid
+                    </p>
+
+        
+        <div class="public-listing-card__tags" aria-label="Job attributes">
+                            <a href="/sectors/public-sector">Public Sector</a>
+                        
+                            <a href="/jobs?employment_type%5B0%5D=contract" data-employment-link="contract">Contract</a>
+                            <a href="/jobs?employment_type%5B0%5D=full_time" data-employment-link="full_time">Full time</a>
+                        
+                    </div>
+    </div>
+
+    <div class="public-listing-card__aside">
+                                    <a class="public-listing-card__save" href="/account/login?save_job=transformation-manager-resourcing&amp;return_to=%2Faccount%23saved-jobs" aria-label="Sign in to save Transformation Manager (Resourcing)">
+                    <span aria-hidden="true">♡</span>
+                </a>
+                    
+        <div class="public-listing-card__commercial">
+                            <strong>£54,000–£54,001</strong>
+                                                                    <span>Posted 1 week ago</span>
+                                        <span>Closes 18 Nov 2026</span>
+                    </div>
+
+        <div class="public-listing-card__actions">
+            <a href="/jobs/transformation-manager-resourcing">View role</a>
+                            <a
+                    class="is-primary"
+                    href="/jobs/transformation-manager-resourcing/apply"
+                                        data-application-method="internal"
+                                    >
+                    Apply now
+                </a>
+                    </div>
+    </div>
+</article>
+                                                                
+                                                                                            <article class="public-listing-card  " data-listing-featured="false" data-upgrade-tier="none">
+    <span
+    class="public-employer-logo public-employer-logo--medium"
+    aria-hidden="true"
+    data-employer-logo="image"
+>
+            <img class="public-employer-logo__image" src="/employers/hays-human-resources/media/employer-logo" alt="" loading="lazy" decoding="async">
+    </span>
+
+    <div class="public-listing-card__body">
+        <div class="public-listing-card__badges">
+            
+                                        <span class="public-badge public-badge--neutral">Apply on site</span>
+                    </div>
+
+        <h2><a href="/jobs/hrbp-2">HRBP</a></h2>
+        <p class="public-listing-card__meta">
+                            <a class="public-listing-card__employer" href="/employers/hays-human-resources">Hays Human Resources</a>
+                                        · Leeds, England
+                                        · Hybrid
+                    </p>
+
+        
+        <div class="public-listing-card__tags" aria-label="Job attributes">
+                            <a href="/sectors/education">Education</a>
+                        
+                            <a href="/jobs?employment_type%5B0%5D=permanent" data-employment-link="permanent">Permanent</a>
+                            <a href="/jobs?employment_type%5B0%5D=full_time" data-employment-link="full_time">Full time</a>
+                        
+                    </div>
+    </div>
+
+    <div class="public-listing-card__aside">
+                                    <a class="public-listing-card__save" href="/account/login?save_job=hrbp-2&amp;return_to=%2Faccount%23saved-jobs" aria-label="Sign in to save HRBP">
+                    <span aria-hidden="true">♡</span>
+                </a>
+                    
+        <div class="public-listing-card__commercial">
+                            <strong>£44,000–£51,000</strong>
+                                                                    <span>Posted 1 week ago</span>
+                                        <span>Closes 18 Nov 2026</span>
+                    </div>
+
+        <div class="public-listing-card__actions">
+            <a href="/jobs/hrbp-2">View role</a>
+                            <a
+                    class="is-primary"
+                    href="/jobs/hrbp-2/apply"
+                                        data-application-method="internal"
+                                    >
+                    Apply now
+                </a>
+                    </div>
+    </div>
+</article>
+                                                                
+                                                                                    </div>
+
+                        <nav class="public-pagination" aria-label="Pagination">
+        <nav role="navigation" aria-label="Pagination Navigation">
+
+        <div class="flex gap-2 items-center justify-between sm:hidden">
+
+                            <a href="https://jobs.personneltoday.com/jobs?page=1" rel="prev" class="inline-flex items-center px-4 py-2 text-sm font-medium text-gray-800 bg-white border border-gray-300 leading-5 rounded-md hover:text-gray-700 focus:outline-none focus:ring ring-gray-300 focus:border-blue-300 active:bg-gray-100 active:text-gray-800 transition ease-in-out duration-150 dark:bg-gray-800 dark:border-gray-600 dark:text-gray-200 dark:focus:border-blue-700 dark:active:bg-gray-700 dark:active:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-900 dark:hover:text-gray-200">
+                    &laquo; Previous
+                </a>
+            
+                            <a href="https://jobs.personneltoday.com/jobs?page=3" rel="next" class="inline-flex items-center px-4 py-2 text-sm font-medium text-gray-800 bg-white border border-gray-300 leading-5 rounded-md hover:text-gray-700 focus:outline-none focus:ring ring-gray-300 focus:border-blue-300 active:bg-gray-100 active:text-gray-800 transition ease-in-out duration-150 dark:bg-gray-800 dark:border-gray-600 dark:text-gray-200 dark:focus:border-blue-700 dark:active:bg-gray-700 dark:active:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-900 dark:hover:text-gray-200">
+                    Next &raquo;
+                </a>
+            
+        </div>
+
+        <div class="hidden sm:flex-1 sm:flex sm:gap-2 sm:items-center sm:justify-between">
+
+            <div>
+                <p class="text-sm text-gray-700 leading-5 dark:text-gray-600">
+                    Showing
+                                            <span class="font-medium">13</span>
+                        to
+                        <span class="font-medium">24</span>
+                                        of
+                    <span class="font-medium">69</span>
+                    results
+                </p>
+            </div>
+
+            <div>
+                <span class="inline-flex rtl:flex-row-reverse shadow-sm rounded-md">
+
+                    
+                                            <a href="https://jobs.personneltoday.com/jobs?page=1" rel="prev" class="inline-flex items-center px-2 py-2 text-sm font-medium text-gray-500 bg-white border border-gray-300 rounded-l-md leading-5 hover:text-gray-400 focus:outline-none focus:ring ring-gray-300 focus:border-blue-300 active:bg-gray-100 active:text-gray-500 transition ease-in-out duration-150 dark:bg-gray-800 dark:border-gray-600 dark:active:bg-gray-700 dark:focus:border-blue-800 dark:text-gray-300 dark:hover:bg-gray-900 dark:hover:text-gray-300" aria-label="&amp;laquo; Previous">
+                            <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                                <path fill-rule="evenodd" d="M12.707 5.293a1 1 0 010 1.414L9.414 10l3.293 3.293a1 1 0 01-1.414 1.414l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 0z" clip-rule="evenodd" />
+                            </svg>
+                        </a>
+                    
+                    
+                                            
+                        
+                        
+                                                                                                                        <a href="https://jobs.personneltoday.com/jobs?page=1" class="inline-flex items-center px-4 py-2 -ml-px text-sm font-medium text-gray-700 bg-white border border-gray-300 leading-5 hover:text-gray-700 focus:outline-none focus:ring ring-gray-300 focus:border-blue-300 active:bg-gray-100 active:text-gray-700 transition ease-in-out duration-150 dark:bg-gray-800 dark:border-gray-600 dark:text-gray-300 dark:hover:text-gray-300 dark:active:bg-gray-700 dark:focus:border-blue-800 hover:bg-gray-100 dark:hover:bg-gray-900" aria-label="Go to page 1">
+                                        1
+                                    </a>
+                                                                                                                                <span aria-current="page">
+                                        <span class="inline-flex items-center px-4 py-2 -ml-px text-sm font-medium text-gray-700 bg-gray-200 border border-gray-300 cursor-default leading-5 dark:bg-gray-700 dark:border-gray-600 dark:text-gray-300">2</span>
+                                    </span>
+                                                                                                                                <a href="https://jobs.personneltoday.com/jobs?page=3" class="inline-flex items-center px-4 py-2 -ml-px text-sm font-medium text-gray-700 bg-white border border-gray-300 leading-5 hover:text-gray-700 focus:outline-none focus:ring ring-gray-300 focus:border-blue-300 active:bg-gray-100 active:text-gray-700 transition ease-in-out duration-150 dark:bg-gray-800 dark:border-gray-600 dark:text-gray-300 dark:hover:text-gray-300 dark:active:bg-gray-700 dark:focus:border-blue-800 hover:bg-gray-100 dark:hover:bg-gray-900" aria-label="Go to page 3">
+                                        3
+                                    </a>
+                                                                                                                                <a href="https://jobs.personneltoday.com/jobs?page=4" class="inline-flex items-center px-4 py-2 -ml-px text-sm font-medium text-gray-700 bg-white border border-gray-300 leading-5 hover:text-gray-700 focus:outline-none focus:ring ring-gray-300 focus:border-blue-300 active:bg-gray-100 active:text-gray-700 transition ease-in-out duration-150 dark:bg-gray-800 dark:border-gray-600 dark:text-gray-300 dark:hover:text-gray-300 dark:active:bg-gray-700 dark:focus:border-blue-800 hover:bg-gray-100 dark:hover:bg-gray-900" aria-label="Go to page 4">
+                                        4
+                                    </a>
+                                                                                                                                <a href="https://jobs.personneltoday.com/jobs?page=5" class="inline-flex items-center px-4 py-2 -ml-px text-sm font-medium text-gray-700 bg-white border border-gray-300 leading-5 hover:text-gray-700 focus:outline-none focus:ring ring-gray-300 focus:border-blue-300 active:bg-gray-100 active:text-gray-700 transition ease-in-out duration-150 dark:bg-gray-800 dark:border-gray-600 dark:text-gray-300 dark:hover:text-gray-300 dark:active:bg-gray-700 dark:focus:border-blue-800 hover:bg-gray-100 dark:hover:bg-gray-900" aria-label="Go to page 5">
+                                        5
+                                    </a>
+                                                                                                                                <a href="https://jobs.personneltoday.com/jobs?page=6" class="inline-flex items-center px-4 py-2 -ml-px text-sm font-medium text-gray-700 bg-white border border-gray-300 leading-5 hover:text-gray-700 focus:outline-none focus:ring ring-gray-300 focus:border-blue-300 active:bg-gray-100 active:text-gray-700 transition ease-in-out duration-150 dark:bg-gray-800 dark:border-gray-600 dark:text-gray-300 dark:hover:text-gray-300 dark:active:bg-gray-700 dark:focus:border-blue-800 hover:bg-gray-100 dark:hover:bg-gray-900" aria-label="Go to page 6">
+                                        6
+                                    </a>
+                                                                                                        
+                    
+                                            <a href="https://jobs.personneltoday.com/jobs?page=3" rel="next" class="inline-flex items-center px-2 py-2 -ml-px text-sm font-medium text-gray-500 bg-white border border-gray-300 rounded-r-md leading-5 hover:text-gray-400 focus:outline-none focus:ring ring-gray-300 focus:border-blue-300 active:bg-gray-100 active:text-gray-500 transition ease-in-out duration-150 dark:bg-gray-800 dark:border-gray-600 dark:active:bg-gray-700 dark:focus:border-blue-800 dark:text-gray-300 dark:hover:bg-gray-900 dark:hover:text-gray-300" aria-label="Next &amp;raquo;">
+                            <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                                <path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd" />
+                            </svg>
+                        </a>
+                                    </span>
+            </div>
+        </div>
+    </nav>
+
+    </nav>
+                                    </div>
+            </div>
+        </section>
+            </main>
+
+        
         
         <footer class="public-footer public-footer--personnel-today" aria-label="Public footer navigation">
     <div class="public-container public-footer__grid">
@@ -403,6 +1797,7 @@
                             <a href="/employers">Search employers</a>
                 <a href="/career-advice">Career advice</a>
                         
+                            <a href="/products">Products</a>
                         
                             <a href="https://www.personneltoday.com" target="_blank" rel="noopener noreferrer" data-public-brand-site-link>PT.com</a>
             
