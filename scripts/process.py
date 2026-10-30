@@ -242,6 +242,14 @@ for a in D('employers')['data']:
         r=se_region(loc) if c == 'se' else uk_region(loc) if c == 'gb' else '', p=wd_date(a.get('d')), x='', u=a['u'],
         n=1 if c == 'gb' or eng_title(t) else 0)
 
+# HR-specialist boards and search firms (Personnel Today, CIPD, Frazer Jones, Annapurna, ChapmanCG)
+for a in D('hrspec')['data']:
+    if not is_hr(a['t']): continue
+    c = a['c']; loc = a.get('loc') or ''
+    add(o=a['s'], c=c, i='hs' + hashlib.md5(a['u'].encode()).hexdigest()[:12], t=a['t'], e=a.get('e'), l=loc,
+        r=uk_region(loc) if c == 'gb' else '', p=a.get('d') or '', x=a.get('x') or '', u=a['u'],
+        a=1 if a.get('xs') else 0, xs=1 if a.get('xs') else 0)
+
 # fix region for Germany career-site rows etc.: keep city as region where no region known
 # ---------------- ad language ----------------
 DE_M = re.compile(r'\b[mwfd]\s*[/|]\s*[wmf]\s*[/|]\s*(d|x|div)|\(all genders?\)|[äöüß]|\b(und|für|mit|zur|zum|im|bei|sachbearbeit|referent|leiter|leitung|personal|mitarbeiter|kauf(mann|frau)|abrechnung|entgelt|lohn|gehalt|stellvertret|teilzeit|vollzeit|befristet|werkstudent|gn\b|standort|bereich|schwerpunkt|vertrieb|technik|berlin|münchen|hamburg|köln|frankfurt|stuttgart|düsseldorf|leipzig|dresden|hannover|nürnberg|bremen|essen|dortmund|bonn|mannheim|karlsruhe)', re.I)

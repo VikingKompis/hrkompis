@@ -385,6 +385,121 @@ def adzuna():
     return {'src': 'adzuna', 'calls': calls, 'new': new, 'data': data}, len(data)
 
 
+# ---------------- HR-specialist job boards and search firms ----------------
+# Personnel Today Jobs, CIPD People Management Jobs, Frazer Jones, Annapurna (UK HR-specialist recruiters)
+# and ChapmanCG (HR-only executive search). All HTML listings; xs=1 marks executive search / HR-specialist firms.
+CC_SLUG = {'gb': 'gb', 'uk': 'gb', 'ie': 'ie', 'se': 'se', 'dk': 'dk', 'de': 'de', 'nl': 'nl'}
+LOC_CC = [('ie', re.compile(r'\b((?<!northern )ireland|dublin|cork|galway|limerick)\b', re.I)),
+          ('se', re.compile(r'\b(sweden|stockholm|gothenburg|göteborg|malmö|malmo)\b', re.I)),
+          ('dk', re.compile(r'\b(denmark|copenhagen|københavn|aarhus)\b', re.I)),
+          ('nl', re.compile(r'\b(netherlands|amsterdam|rotterdam|utrecht|the hague|eindhoven)\b', re.I)),
+          ('de', re.compile(r'\b(germany|berlin|munich|münchen|frankfurt|hamburg|düsseldorf|cologne|köln|stuttgart)\b', re.I)),
+          ('gb', re.compile(r'\b(uk|united kingdom|england|scotland|wales|northern ireland|london|manchester|birmingham|leeds|bristol|glasgow|edinburgh|belfast|cardiff|liverpool|[a-z]+shire|remote|hybrid|nationwide)\b', re.I))]
+
+
+def loc_cc(loc, default=None):
+    for cc, rx in LOC_CC:
+        if rx.search(loc or ''): return cc
+    return default
+
+
+def ago(txt):
+    m = re.search(r'(\d+)\s*(hour|day|week|month)', txt or '', re.I)
+    if re.search(r'today|hour|minute|just', txt or '', re.I): n = 0
+    elif m: n = int(m.group(1)) * {'day': 1, 'week': 7, 'month': 30}.get(m.group(2).lower(), 0)
+    elif re.search(r'yesterday', txt or '', re.I): n = 1
+    else: return ''
+    return time.strftime('%Y-%m-%d', time.gmtime(time.time() - n * 86400))
+
+
+def hrspec():
+    out, errs = {}, []
+    def put(src, c, t, e, loc, u, d='', x='', xs=1):
+        if c and t and u: out[u] = {'s': src, 'c': c, 't': strip(t), 'e': strip(e), 'loc': strip(loc), 'u': u, 'd': d, 'x': x, 'xs': xs}
+    def pages(name, fn, maxp):
+        seen = 0
+        try:
+            for pg in range(1, maxp + 1):
+                n = fn(pg)
+                if not n: break
+                seen += n
+        except Exception as e:
+            if not seen: errs.append(f'{name}: {e}')
+        print(f'  hrspec {name}: {seen}', flush=True)
+    MON = {m: i for i, m in enumerate(['jan', 'feb', 'mar', 'apr', 'may', 'jun', 'jul', 'aug', 'sep', 'oct', 'nov', 'dec'], 1)}
+
+    def pt(pg):  # Personnel Today Jobs
+        h = get(f'https://jobs.personneltoday.com/jobs?page={pg}')
+        cards = re.findall(r'<article class="public-listing-card.*?</article>', h, re.S)
+        for c in cards:
+            m = re.search(r'<h2><a href="(/jobs/[^"]+)">(.*?)</a>', c, re.S)
+            if not m: continue
+            emp = re.search(r'public-listing-card__employer"[^>]*>(.*?)</a>', c, re.S)
+            meta = re.search(r'public-listing-card__meta">(.*?)</p>', c, re.S)
+            loc = strip(re.sub(r'<a[^>]*>.*?</a>', '', meta.group(1), flags=re.S)).strip(' ·') if meta else ''
+            loc = loc.split(' · ')[0]
+            cl = re.search(r'Closes (\d{1,2}) (\w{3})\w* (\d{4})', c)
+            x = f'{cl.group(3)}-{MON.get(cl.group(2).lower()[:3], 1):02d}-{int(cl.group(1)):02d}' if cl else ''
+            put('pt', loc_cc(loc, 'gb'), m.group(2), emp.group(1) if emp else '', loc, 'https://jobs.personneltoday.com' + m.group(1),
+                ago(re.search(r'Posted ([^<]+)', c).group(1) if re.search(r'Posted ([^<]+)', c) else ''), x, 0)
+        return len(cards)
+
+    def cipd(pg):  # CIPD People Management Jobs
+        h = get(f'https://jp.peoplemanagement.co.uk/jobs/?pagenumber={pg}', timeout=60)
+        blocks = h.split('class="product-item job-box')[1:]
+        for b in blocks:
+            m = re.search(r'<h2 class="product-title">\s*<a href="(/jobdetail/[^"]+)">(.*?)</a>', b, re.S)
+            if not m: continue
+            li = [strip(x) for x in re.findall(r'<li>\s*<p>(.*?)</p>', b, re.S)]
+            img = re.search(r'/image/\d+_(.+?)_\d+\.\w+"', b)
+            days = re.search(r'days-count[^>]*>([^<]+)<', b)
+            loc = li[0] if li else ''
+            emp = img.group(1) if img and re.search(r'[A-Za-z]{2}', img.group(1)) else ''
+            put('cipd', loc_cc(loc, 'gb'), m.group(2), emp, loc, 'https://jp.peoplemanagement.co.uk' + m.group(1),
+                ago(days.group(1) if days else ''), '', 0)
+        return len(blocks)
+
+    def fj(pg):  # Frazer Jones
+        h = get('https://www.frazerjones.com/jobs/' + (f'page/{pg}/' if pg > 1 else ''))
+        arts = re.findall(r'<article class="job-summary.*?</article>', h, re.S)
+        for a in arts:
+            m = re.search(r'href="(https://www\.frazerjones\.com/job/[^"]+)">(.*?)</a>', a, re.S)
+            loc = re.search(r'Location: </span>(.*?)</li>', a, re.S)
+            d = re.search(r'<time datetime="(\d{4}-\d\d-\d\d)', a)
+            if m: put('fj', loc_cc(loc.group(1) if loc else ''), m.group(2), 'Frazer Jones', loc.group(1) if loc else '', m.group(1), d.group(1) if d else '')
+        return len(arts)
+
+    def anna(pg):  # Annapurna
+        h = get('https://www.annapurnarecruitment.com/jobs/' + (f'page/{pg}/' if pg > 1 else ''))
+        items = re.findall(r'<li class="jobs__item".*?</li>\s*(?=<li class="jobs__item"|</ul>)', h, re.S)
+        for it in items:
+            m = re.search(r'<a href="(https://www\.annapurnarecruitment\.com/job/[^"]+)">(.*?)</a>', it, re.S)
+            lm = re.search(r"job_location[^>]*>([^<]+)</a>", it)
+            loc = strip(lm.group(1)) if lm else ''
+            if m: put('anna', loc_cc(loc, 'gb'), m.group(2), 'Annapurna', loc, m.group(1))
+        return len(items)
+
+    def ccg(pg):  # ChapmanCG (HR executive search, global)
+        if pg > 1: return 0
+        h = get('https://www.chapmancg.com/jobs').replace('\\"', '"')
+        n = 0
+        for m in re.finditer(r'"href":"(/jobs/(\d+)/([a-z0-9-]+))"', h):
+            cc = CC_SLUG.get(m.group(3).rsplit('-', 1)[-1])
+            tm = re.search(r'"h1",null,\{[^{}]*"children":"([^"]+)"', h[m.end():m.end() + 1500])
+            n += 1
+            if cc and tm and not re.search(r'executive search', tm.group(1), re.I):
+                full = json.loads('"' + tm.group(1) + '"')
+                t, _, loc = full.rpartition(',')
+                put('ccg', cc, t or full, 'ChapmanCG (client confidential)', re.sub(r'\s*\([A-Z]{2}\)\s*$', '', loc).strip(), 'https://www.chapmancg.com' + m.group(1))
+        return n
+
+    for name, fn, mx in [('personneltoday', pt, 80), ('cipd', cipd, 40), ('frazerjones', fj, 30), ('annapurna', anna, 15), ('chapmancg', ccg, 1)]:
+        pages(name, fn, mx)
+    if errs: print('  hrspec errors: ' + '; '.join(errs), flush=True)
+    data = list(out.values())
+    return {'src': 'hrspec', 'errors': errs, 'data': data}, len(data)
+
+
 def employers():
     sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
     import employers as em
@@ -397,7 +512,7 @@ if __name__ == '__main__':
     t0 = time.time()
     sources = [('jobtech', jobtech, 100), ('eures', eures, 1000), ('jobnet', jobnet, 50), ('nhs', nhs, 200),
                ('workhub', workhub, 200), ('publicjobs', publicjobs, 50), ('greenhouse', greenhouse, 10),
-               ('lever', lever, 5), ('smartrecruiters', smartrecruiters, 20), ('employers', employers, 50), ('adzuna', adzuna, 1)]
+               ('lever', lever, 5), ('smartrecruiters', smartrecruiters, 20), ('employers', employers, 50), ('adzuna', adzuna, 1), ('hrspec', hrspec, 30)]
     only = [x for x in os.environ.get('ONLY', '').split(',') if x]
     if only:
         sources = [s for s in sources if s[0] in only]

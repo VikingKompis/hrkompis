@@ -244,6 +244,8 @@ button:focus-visible,input:focus-visible,select:focus-visible,a:focus-visible{ou
       <li>NHS Jobs (UK)</li>
       <li>The UK government's Work Hub (UK)</li>
       <li>publicjobs.ie (Ireland)</li>
+      <li>Personnel Today Jobs and CIPD People Management Jobs (UK)</li>
+      <li>HR-specialist search firms: Frazer Jones, Annapurna and ChapmanCG</li>
       <li>Career sites of 200+ employers, including Amazon, Unilever, Salesforce, Pfizer, Barclays, Volvo and Spotify</li>
     </ul>
     <p class="note">HRKompis is free to use, with no sign-up. We don't ask for your CV and we don't post jobs ourselves.</p>
@@ -273,7 +275,7 @@ button:focus-visible,input:focus-visible,select:focus-visible,a:focus-visible{ou
   <button class="more" id="more" type="button" hidden>Show more</button>
 </main>
   <footer><div class="wrap">
-  <div>Updated every morning at 05:00 Stockholm time from Arbetsförmedlingen (Sweden), Jobnet (Denmark), EURES, the EU job portal (Germany, Netherlands, Ireland), NHS Jobs and the UK government Work Hub (UK), publicjobs.ie (Ireland), employers' own career sites, and <a href="https://www.adzuna.co.uk" target="_blank" rel="noopener">Jobs by Adzuna</a> (UK, Germany, Netherlands).</div>
+  <div>Updated every morning at 05:00 Stockholm time from Arbetsförmedlingen (Sweden), Jobnet (Denmark), EURES, the EU job portal (Germany, Netherlands, Ireland), NHS Jobs and the UK government Work Hub (UK), publicjobs.ie (Ireland), Personnel Today Jobs and CIPD People Management Jobs (UK), HR search firms Frazer Jones, Annapurna and ChapmanCG, employers' own career sites, and <a href="https://www.adzuna.co.uk" target="_blank" rel="noopener">Jobs by Adzuna</a> (UK, Germany, Netherlands).</div>
   <div>Each listing opens the original ad, where you apply directly. Ad language for Dutch and German ads is judged from the job title.</div>
 </div></footer>
 
@@ -299,7 +301,7 @@ function aboutFill(p){
 // Data is refreshed every day at 05:00 Stockholm time by GitHub Actions; Cloudflare Pages rebuilds the site on each refresh.
 const DATA_URL = "/jobs.json";
 const CNAME = {gb:"United Kingdom",ie:"Ireland",dk:"Denmark",de:"Germany",nl:"Netherlands",se:"Sweden"};
-const SRC = {af:"Arbetsförmedlingen",eures:"EURES",jobnet:"Jobnet",nhs:"NHS Jobs",workhub:"UK Work Hub",career:"Employer careers site",publicjobs:"publicjobs.ie",adzuna:"Jobs by Adzuna"};
+const SRC = {af:"Arbetsförmedlingen",eures:"EURES",jobnet:"Jobnet",nhs:"NHS Jobs",workhub:"UK Work Hub",career:"Employer careers site",publicjobs:"publicjobs.ie",adzuna:"Jobs by Adzuna",pt:"Personnel Today Jobs",cipd:"CIPD People Management Jobs",fj:"Frazer Jones",anna:"Annapurna",ccg:"ChapmanCG"};
 const FILTERS = [
   {key:"c",  label:"Country",    opts:[["gb","United Kingdom"],["ie","Ireland"],["dk","Denmark"],["de","Germany"],["nl","Netherlands"],["se","Sweden"]]},
   {key:"k",  label:"Sector",     opts:[["pub","Public sector"],["priv","Private sector"],["u","Employer not named"]]},
@@ -307,10 +309,10 @@ const FILTERS = [
   {key:"f",  label:"Job family", opts:[["lead","HR leadership"],["bp","Business partnering & generalist"],["ta","Talent acquisition"],["tal","Talent, learning & OD"],["rew","Reward & payroll"],["er","Employee relations & work environment"],["ops","HR operations & systems"]]},
   {key:"v",  label:"Level",      opts:[["exec","Executive"],["mgr","Manager"],["senior","Senior"],["pro","Professional"],["entry","Entry & student"]]},
   {key:"r",  label:"Region",     opts:[]},
-  {key:"x",  label:"More",       opts:[["direct","Direct employers only"],["sal","Salary shown"],["week","Posted in the last 7 days"],["noint","Hide interim and temporary"]], flags:true},
+  {key:"x",  label:"More",       opts:[["direct","Direct employers only"],["sal","Salary shown"],["week","Posted in the last 7 days"],["noint","Hide interim and temporary"],["xs","HR search firms only"]], flags:true},
 ];
 const LABEL = {}; FILTERS.forEach(f=>{ LABEL[f.key]=Object.fromEntries(f.opts); });
-const FLAG = {direct:j=>!j.a, sal:j=>!!j.s, week:j=>j.age<=7, noint:j=>!j.m};
+const FLAG = {direct:j=>!j.a, sal:j=>!!j.s, week:j=>j.age<=7, noint:j=>!j.m, xs:j=>!!j.xs};
 const DAY = 864e5;
 let JOBS = [], ASOF = null, open = null;
 const S = {sel:Object.fromEntries(FILTERS.map(f=>[f.key,new Set()])), q:"", sort:"new", tab:"all", shown:50};
@@ -389,7 +391,7 @@ function render(){
     const where=[j.l, j.r && j.r!==j.l ? j.r : "", multiC?CNAME[j.c]:""].filter(Boolean).join(", ")||CNAME[j.c];
     const tags=[`<span class="tag">${LABEL.f[j.f]}</span>`,`<span class="tag lvl">${LABEL.v[j.v]}</span>`];
     if(j.k==="pub") tags.push(`<span class="tag lvl">Public sector</span>`);
-    if(j.a) tags.push(`<span class="tag lvl">Via agency</span>`);
+    if(j.xs) tags.push(`<span class="tag">Via HR search firm</span>`); else if(j.a) tags.push(`<span class="tag lvl">Via agency</span>`);
     if(j.m) tags.push(`<span class="tag lvl">Interim / temp</span>`);
     if(j.h) tags.push(`<span class="tag lvl">Part-time</span>`);
     if(j.lg==="en" && j.c!=="gb" && j.c!=="ie") tags.push(`<span class="tag lvl">English</span>`);
