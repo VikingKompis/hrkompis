@@ -416,16 +416,23 @@ def hrspec():
     out, errs = {}, []
     def put(src, c, t, e, loc, u, d='', x='', xs=1):
         if c and t and u: out[u] = {'s': src, 'c': c, 't': strip(t), 'e': strip(e), 'loc': strip(loc), 'u': u, 'd': d, 'x': x, 'xs': xs}
+    stats = {}
     def pages(name, fn, maxp):
-        seen = 0
-        try:
-            for pg in range(1, maxp + 1):
+        seen, pg, why = 0, 0, 'max pages'
+        for pg in range(1, maxp + 1):
+            try:
                 n = fn(pg)
-                if not n: break
-                seen += n
-        except Exception as e:
-            if not seen: errs.append(f'{name}: {e}')
-        print(f'  hrspec {name}: {seen}', flush=True)
+            except Exception as e:
+                try: n = fn(pg)  # one retry
+                except Exception as e2:
+                    why = f'page {pg}: {type(e2).__name__}: {str(e2)[:80]}'
+                    if not seen: errs.append(f'{name}: {why}')
+                    break
+            if not n:
+                why = f'empty page {pg}'; break
+            seen += n
+        stats[name] = {'listed': seen, 'stopped': why}
+        print(f'  hrspec {name}: {seen} ({why})', flush=True)
     MON = {m: i for i, m in enumerate(['jan', 'feb', 'mar', 'apr', 'may', 'jun', 'jul', 'aug', 'sep', 'oct', 'nov', 'dec'], 1)}
 
     def pt(pg):  # Personnel Today Jobs
@@ -497,7 +504,7 @@ def hrspec():
         pages(name, fn, mx)
     if errs: print('  hrspec errors: ' + '; '.join(errs), flush=True)
     data = list(out.values())
-    return {'src': 'hrspec', 'errors': errs, 'data': data}, len(data)
+    return {'src': 'hrspec', 'errors': errs, 'stats': stats, 'data': data}, len(data)
 
 
 def employers():
