@@ -419,6 +419,7 @@ def hrspec():
     stats = {}
     def pages(name, fn, maxp):
         seen, pg, why = 0, 0, 'max pages'
+        before = [len(out)]
         for pg in range(1, maxp + 1):
             try:
                 n = fn(pg)
@@ -430,6 +431,9 @@ def hrspec():
                     break
             if not n:
                 why = f'empty page {pg}'; break
+            if len(out) == before[0] and pg > 1:
+                why = f'no new jobs on page {pg}'; break
+            before[0] = len(out)
             seen += n
         stats[name] = {'listed': seen, 'stopped': why}
         print(f'  hrspec {name}: {seen} ({why})', flush=True)
