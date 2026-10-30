@@ -1,0 +1,547 @@
+<!DOCTYPE html>
+<html
+    lang="en-GB"
+    data-ga4-enabled="true"
+     data-ga4-measurement-id="G-TLBRVDN7XP"     data-recruitics-enabled="true"
+            data-recruitics-script-url="https://jsv3.recruitics.com/9cc04a42-3f4e-11ed-840c-73ffec900d12.js"
+        data-recruitics-script-id="9cc04a42-3f4e-11ed-840c-73ffec900d12"
+        data-recruitics-client-id="3596"
+        data-recruitics-consent-category="analytics"
+    >
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#007078">
+        <link rel="icon" type="image/x-icon" href="/tenant-branding/personnel-today/favicon.ico">
+    <link rel="apple-touch-icon" sizes="114x114" href="/tenant-branding/personnel-today/apple-touch-icon.png">
+        <meta name="referrer" content="strict-origin-when-cross-origin">
+                    <meta name="google-site-verification" content="WPXCu4RoCkmfuSX6Had2M4MF5RrvDomcwYEyJ5-qFuA">
+                <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700;800&amp;family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&amp;family=Spline+Sans+Mono:wght@500;600;700&amp;display=swap" rel="stylesheet">
+        
+        
+        <title>HR Director Jobs | Personnel Today Jobs</title>
+        <meta name="description" content="HR director and head of HR jobs lead the people function and sit with the senior leadership team.">
+        
+                    <link rel="preload" as="style" href="https://jobs.personneltoday.com/build/assets/app-DKDS1hcD.css" /><link rel="modulepreload" as="script" href="https://jobs.personneltoday.com/build/assets/app-LJzjzkiS.js" /><link rel="modulepreload" as="script" href="https://jobs.personneltoday.com/build/assets/job-multi-location-DJ7iVGCg.js" /><link rel="stylesheet" href="https://jobs.personneltoday.com/build/assets/app-DKDS1hcD.css" /><script type="module" src="https://jobs.personneltoday.com/build/assets/app-LJzjzkiS.js"></script>        
+            <link rel="canonical" href="https://jobs.personneltoday.com/job-types/hr-director">
+    
+    <meta name="robots" content="index, follow">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Personnel Today Jobs">
+    <meta property="og:title" content="HR Director Jobs | Personnel Today Jobs">
+    <meta property="og:description" content="HR director and head of HR jobs lead the people function and sit with the senior leadership team.">
+    <meta property="og:url" content="https://jobs.personneltoday.com/job-types/hr-director">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="HR Director Jobs | Personnel Today Jobs">
+    <meta name="twitter:description" content="HR director and head of HR jobs lead the people function and sit with the senior leadership team.">
+    
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://jobs.personneltoday.com"},{"@type":"ListItem","position":2,"name":"Jobs","item":"https://jobs.personneltoday.com/jobs"},{"@type":"ListItem","position":3,"name":"HR Director","item":"https://jobs.personneltoday.com/job-types/hr-director"}]}</script>
+    </head>
+    <body
+        class="public-site public-layout--personnel-today"
+        data-public-layout-family="personnel-today"
+        data-public-tenant-key="personnel-today"
+        data-public-application-mode="mixed"
+        data-public-minimum-viewport="320"
+        data-public-minimum-target="44"
+        style="--ds-border-default: #e6e3dc; --ds-border-strong: #94a3b8; --ds-brand-primary: #007078; --ds-brand-primary-hover: #005157; --ds-brand-secondary: #2f3037; --ds-brand-soft: #dcf4f5; --ds-control-height: 44px; --ds-layout-container-width: 1180px; --ds-layout-management-container-width: 1480px; --ds-layout-narrow-container-width: 760px; --ds-layout-sidebar-width: 280px; --ds-logo-employer-box-height: 60px; --ds-logo-employer-box-width: 120px; --ds-radius-large: 16px; --ds-radius-medium: 8px; --ds-radius-small: 4px; --ds-status-danger: #c0392f; --ds-status-info: #0369a1; --ds-status-success: #2e9e63; --ds-status-warning: #c98a2f; --ds-surface-card: #ffffff; --ds-surface-navigation: #ffffff; --ds-surface-page: #faf9f6; --ds-surface-subtle: #f8fafc; --ds-text-inverse: #ffffff; --ds-text-muted: #74767e; --ds-text-primary: #2f3037; --ds-text-secondary: #4b5563; --ds-typography-body-family: Archivo; --ds-typography-display-family: Newsreader; --ds-typography-mono-family: Spline Sans Mono; --ink: #2f3037; --accent: #007078; --accent-deep: #005157; --accent-soft: #dcf4f5; --muted: var(--ds-text-muted); --paper: var(--ds-surface-page); --card: var(--ds-surface-card); --line: var(--ds-border-default); --success: var(--ds-status-success); --warning: var(--ds-status-warning); --error: var(--ds-status-danger); --display-font: var(--ds-typography-display-family), Georgia, 'Times New Roman', serif; --body-font: var(--ds-typography-body-family), Inter, ui-sans-serif, system-ui, sans-serif; --mono-font: var(--ds-typography-mono-family), 'SFMono-Regular', Consolas, monospace; --container: var(--ds-layout-container-width); --employer-logo-box-width: 120px; --employer-logo-box-height: 60px; --employer-logo-box-medium-width: 90px; --employer-logo-box-medium-height: 45px; --employer-logo-box-small-width: 60px; --employer-logo-box-small-height: 30px;"
+    >
+        <div
+            class="ds-context ds-context--scope-tenant ds-context--density-comfortable ds-context--button-standard ds-context--card-bordered ds-context--width-standard"
+            data-design-system-context
+            data-design-profile-source="published-profile"
+             data-design-profile-revision="1"         >
+        <div class="public-site" data-public-shell>
+            <a class="public-skip-link" href="#main-content">Skip to main content</a>
+
+        <header class="public-header public-header--personnel-today" data-public-header>
+    <div class="public-container public-header__inner">
+        <div class="public-brand-stack">
+            <a class="public-brand public-brand--personnel-today" href="/" aria-label="Personnel Today Jobs home">
+                <img
+        class="public-brand__logo public-brand__logo--personnel-today"
+        src="/tenant-branding/personnel-today/logo.svg"
+        alt="Personnel Today Jobs"
+    >
+            </a>
+
+        </div>
+
+        <button
+            class="public-header__toggle"
+            type="button"
+            aria-expanded="false"
+            aria-controls="public-navigation-panel"
+            data-public-nav-toggle
+            data-mobile-navigation-burger
+        >
+            <span class="public-header__toggle-label">Menu</span>
+            <span aria-hidden="true">☰</span>
+        </button>
+
+        <div class="public-header__panel" id="public-navigation-panel" data-public-nav-panel>
+            <nav class="public-navigation" aria-label="Public navigation">
+                <a class="public-navigation__link is-active" href="/jobs"  aria-current="page" >
+                    Browse jobs
+                </a>
+
+                                    <a class="public-navigation__link" href="/account/login#job-alerts">
+                        Job alerts
+                    </a>
+                
+                                    <a class="public-navigation__link " href="/employers" >
+                        Search employers
+                    </a>
+                    
+                                        <a class="public-navigation__link " href="/products"  data-nav-advertise>
+                        
+                        Products
+                    </a>
+                                        <a class="public-navigation__link " href="/career-advice" >
+                        Career advice
+                    </a>
+                
+                
+                                                            <a class="public-navigation__link public-navigation__link--account" href="/account/login" data-candidate-sign-in>Sign in</a>
+                        <a class="public-navigation__link public-navigation__link--account" href="/account/register" data-candidate-create-account>Create account</a>
+                                                </nav>
+
+            <div class="public-header__actions">
+                
+                                    
+                                            <a class="public-header__signin" href="/recruiter/login" data-recruiter-sign-in>Recruiter sign in</a>
+                                        <a class="public-button public-button--dark public-button--small" href="/products" data-post-a-job="products">Post a job</a>
+                            </div>
+        </div>
+    </div>
+</header>
+
+        
+                    <section
+    class="public-ad-slot public-ad-slot--top_leaderboard"
+    aria-label="Advertisement"
+    data-pmg-ad-slot
+    data-ad-delivery-state="pending-consent"
+    data-ad-slot-key="top_leaderboard"
+    data-ad-page-context="site"
+    data-ad-position="below_header"
+    data-ad-unit-path="/13644946/PTOD_JOBS_Leaderboard"
+    data-ad-consent-category="marketing"
+    data-ad-supported-sizes='[[320,100],[728,90],[970,90],[970,250]]'
+    data-ad-responsive-size-mapping='[{"sizes":[[320,100]],"viewport":[0,0]},{"sizes":[[728,90]],"viewport":[768,0]},{"sizes":[[728,90],[970,90],[970,250]],"viewport":[1024,0]}]'
+    data-ad-collapse-when-empty="true"
+>
+    <span class="public-ad-slot__label">Advertisement</span>
+    <div id="pmg-ad-personnel-today-top_leaderboard" class="public-ad-slot__container" data-pmg-ad-container></div>
+</section>
+        
+        <main id="main-content" class="public-main public-directory-page">
+            
+            
+            
+                
+    <section class="public-directory-hero public-directory-hero--sector public-directory-hero--compact" data-public-job-type-profile>
+        <div class="public-container public-directory-hero__inner">
+            <nav class="public-breadcrumbs" aria-label="Breadcrumb">
+                <a href="/">Home</a>
+                <span aria-hidden="true">/</span>
+                <a href="/jobs">Jobs</a>
+                <span aria-hidden="true">/</span>
+                <span aria-current="page">HR Director</span>
+            </nav>
+
+            <div class="public-directory-hero__copy public-directory-hero__copy--wide">
+                <p class="public-eyebrow">Job type · Personnel Today Jobs</p>
+                <h1>HR Director jobs</h1>
+                <p>HR director and head of HR jobs lead the people function and sit with the senior leadership team. They set the people strategy, advise the board on organisation design, culture, pay and risk, and lead HR business partners, specialists and operations teams. Roles include HR director, people director, head of HR and chief people officer.</p>
+
+                <p class="public-directory-hero__meta">
+                    <strong>3 active jobs</strong>
+                    <span aria-hidden="true">·</span>
+                    <a href="/jobs">Browse all jobs →</a>
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <section class="public-directory-section public-directory-section--jobs public-directory-section--compact" id="job-type-open-roles" aria-label="HR Director jobs">
+        <div class="public-container">
+
+                            <div class="public-directory-jobs">
+                                            <article class="public-listing-card  " data-listing-featured="false" data-upgrade-tier="none">
+    <span
+    class="public-employer-logo public-employer-logo--medium"
+    aria-hidden="true"
+    data-employer-logo="image"
+>
+            <img class="public-employer-logo__image" src="/employers/macmillan-davies-hodes/media/employer-logo" alt="" loading="lazy" decoding="async">
+    </span>
+
+    <div class="public-listing-card__body">
+        <div class="public-listing-card__badges">
+            
+                                        <span class="public-badge public-badge--neutral">Apply on site</span>
+                    </div>
+
+        <h2><a href="/jobs/vp-people-culture-2">VP People &amp; Culture</a></h2>
+        <p class="public-listing-card__meta">
+                            <a class="public-listing-card__employer" href="/employers/macmillan-davies-hodes">Macmillan Davies Hodes</a>
+                                        · Stockport, England
+                                        · Hybrid
+                    </p>
+
+        
+        <div class="public-listing-card__tags" aria-label="Job attributes">
+                            <a href="/sectors/public-sector">Public Sector</a>
+                        
+                            <a href="/jobs?employment_type%5B0%5D=permanent" data-employment-link="permanent">Permanent</a>
+                            <a href="/jobs?employment_type%5B0%5D=full_time" data-employment-link="full_time">Full time</a>
+                        
+                    </div>
+    </div>
+
+    <div class="public-listing-card__aside">
+                                    <a class="public-listing-card__save" href="/account/login?save_job=vp-people-culture-2&amp;return_to=%2Faccount%23saved-jobs" aria-label="Sign in to save VP People &amp; Culture">
+                    <span aria-hidden="true">♡</span>
+                </a>
+                    
+        <div class="public-listing-card__commercial">
+                            <strong>£100,000–£120,000</strong>
+                                                                    <span>Posted 3 days ago</span>
+                                        <span>Closes 23 Nov 2026</span>
+                    </div>
+
+        <div class="public-listing-card__actions">
+            <a href="/jobs/vp-people-culture-2">View role</a>
+                            <a
+                    class="is-primary"
+                    href="/jobs/vp-people-culture-2/apply"
+                                        data-application-method="internal"
+                                    >
+                    Apply now
+                </a>
+                    </div>
+    </div>
+</article>
+                                            <article class="public-listing-card  " data-listing-featured="false" data-upgrade-tier="none">
+    <span
+    class="public-employer-logo public-employer-logo--medium"
+    aria-hidden="true"
+    data-employer-logo="image"
+>
+            <img class="public-employer-logo__image" src="/employers/hays-human-resources/media/employer-logo" alt="" loading="lazy" decoding="async">
+    </span>
+
+    <div class="public-listing-card__body">
+        <div class="public-listing-card__badges">
+            
+                                        <span class="public-badge public-badge--neutral">Apply on site</span>
+                    </div>
+
+        <h2><a href="/jobs/head-of-hr-3">Head of HR</a></h2>
+        <p class="public-listing-card__meta">
+                            <a class="public-listing-card__employer" href="/employers/hays-human-resources">Hays Human Resources</a>
+                                        · Derby, England
+                                        · Hybrid
+                    </p>
+
+        
+        <div class="public-listing-card__tags" aria-label="Job attributes">
+                            <a href="/sectors/public-sector">Public Sector</a>
+                        
+                            <a href="/jobs?employment_type%5B0%5D=permanent" data-employment-link="permanent">Permanent</a>
+                            <a href="/jobs?employment_type%5B0%5D=full_time" data-employment-link="full_time">Full time</a>
+                        
+                    </div>
+    </div>
+
+    <div class="public-listing-card__aside">
+                                    <a class="public-listing-card__save" href="/account/login?save_job=head-of-hr-3&amp;return_to=%2Faccount%23saved-jobs" aria-label="Sign in to save Head of HR">
+                    <span aria-hidden="true">♡</span>
+                </a>
+                    
+        <div class="public-listing-card__commercial">
+                            <strong>Competitive</strong>
+                                                                    <span>Posted 1 week ago</span>
+                                        <span>Closes 18 Nov 2026</span>
+                    </div>
+
+        <div class="public-listing-card__actions">
+            <a href="/jobs/head-of-hr-3">View role</a>
+                            <a
+                    class="is-primary"
+                    href="/jobs/head-of-hr-3/apply"
+                                        data-application-method="internal"
+                                    >
+                    Apply now
+                </a>
+                    </div>
+    </div>
+</article>
+                                            <article class="public-listing-card  " data-listing-featured="false" data-upgrade-tier="none">
+    <span
+    class="public-employer-logo public-employer-logo--medium"
+    aria-hidden="true"
+    data-employer-logo="image"
+>
+            <img class="public-employer-logo__image" src="/employers/henlee-resourcing/media/employer-logo" alt="" loading="lazy" decoding="async">
+    </span>
+
+    <div class="public-listing-card__body">
+        <div class="public-listing-card__badges">
+            
+                                        <span class="public-badge public-badge--neutral">Apply on site</span>
+                    </div>
+
+        <h2><a href="/jobs/head-of-people-and-culture">Head of People and Culture</a></h2>
+        <p class="public-listing-card__meta">
+                            <a class="public-listing-card__employer" href="/employers/henlee-resourcing">Henlee Resourcing</a>
+                                        · Chippenham, England
+                                        · Hybrid
+                    </p>
+
+        
+        <div class="public-listing-card__tags" aria-label="Job attributes">
+                            <a href="/sectors/public-sector">Public Sector</a>
+                        
+                            <a href="/jobs?employment_type%5B0%5D=permanent" data-employment-link="permanent">Permanent</a>
+                        
+                    </div>
+    </div>
+
+    <div class="public-listing-card__aside">
+                                    <a class="public-listing-card__save" href="/account/login?save_job=head-of-people-and-culture&amp;return_to=%2Faccount%23saved-jobs" aria-label="Sign in to save Head of People and Culture">
+                    <span aria-hidden="true">♡</span>
+                </a>
+                    
+        <div class="public-listing-card__commercial">
+                            <strong>£65,000–£70,000</strong>
+                                                                    <span>Posted 3 weeks ago</span>
+                                        <span>Closes 31 Oct 2026</span>
+                    </div>
+
+        <div class="public-listing-card__actions">
+            <a href="/jobs/head-of-people-and-culture">View role</a>
+                            <a
+                    class="is-primary"
+                    href="/jobs/head-of-people-and-culture/apply"
+                                        data-application-method="internal"
+                                    >
+                    Apply now
+                </a>
+                    </div>
+    </div>
+</article>
+                                    </div>
+
+                                    </div>
+    </section>
+
+            
+        <section class="public-directory-section public-sector-articles" aria-labelledby="job-type-articles-heading" data-job-type-articles>
+            <div class="public-container">
+                <div class="public-section-heading public-content-heading">
+                    <div>
+                        <p class="public-eyebrow">Career advice</p>
+                        <h2 id="job-type-articles-heading">HR Director career advice</h2>
+                    </div>
+                    <a href="/career-advice">View all resources →</a>
+                </div>
+
+                <div class="public-content-grid">
+                                            <article class="public-content-card" data-job-type-article="additional-qualifications-to-boost-your-hr-career">
+                            <p class="public-eyebrow">Personnel Today Jobs</p>
+                            <h3><a href="/pages/additional-qualifications-to-boost-your-hr-career">Additional Qualifications to Boost your HR Career</a></h3>
+                            <p>No matter which stage of your HR career you currently inhabit, it must always be remembered that there are many recognised qualifications that really can progress your career to the next level.</p>
+                            <div class="public-content-card__meta">
+                                <span>9 Aug 2026</span>
+                                <a href="/pages/additional-qualifications-to-boost-your-hr-career">Read →</a>
+                            </div>
+                        </article>
+                                    </div>
+            </div>
+        </section>
+            </main>
+
+        
+                    <section
+    class="public-ad-slot public-ad-slot--bottom_leaderboard"
+    aria-label="Advertisement"
+    data-pmg-ad-slot
+    data-ad-delivery-state="pending-consent"
+    data-ad-slot-key="bottom_leaderboard"
+    data-ad-page-context="site"
+    data-ad-position="above_footer"
+    data-ad-unit-path="/13644946/PTOD_JOBS_Bottomleaderboard"
+    data-ad-consent-category="marketing"
+    data-ad-supported-sizes='[[320,100],[728,90],[970,90]]'
+    data-ad-responsive-size-mapping='[{"sizes":[[320,100]],"viewport":[0,0]},{"sizes":[[728,90]],"viewport":[768,0]},{"sizes":[[728,90]],"viewport":[1024,0]}]'
+    data-ad-collapse-when-empty="true"
+>
+    <span class="public-ad-slot__label">Advertisement</span>
+    <div id="pmg-ad-personnel-today-bottom_leaderboard" class="public-ad-slot__container" data-pmg-ad-container></div>
+</section>
+        
+        <footer class="public-footer public-footer--personnel-today" aria-label="Public footer navigation">
+    <div class="public-container public-footer__grid">
+        <div class="public-footer__brand">
+            <span class="public-brand public-brand--personnel-today public-brand--footer">
+                <img
+        class="public-brand__logo public-brand__logo--personnel-today"
+        src="/tenant-branding/personnel-today/logo.svg"
+        alt="Personnel Today Jobs"
+    >
+            </span>
+            <p>Personnel Today · HR Careers</p>
+        </div>
+
+        <nav class="public-footer__links" aria-label="Footer links">
+            <a href="/">Home</a>
+            <a href="/jobs">Browse jobs</a>
+                            <a href="/employers">Search employers</a>
+                <a href="/career-advice">Career advice</a>
+                        
+                        
+                            <a href="https://www.personneltoday.com" target="_blank" rel="noopener noreferrer" data-public-brand-site-link>PT.com</a>
+            
+            
+                            <a href="/privacy">Privacy requests</a>
+            
+                            <a href="https://www.promedia.co.uk/privacy-policy/">Privacy Policy</a>
+                <a href="https://www.promedia.co.uk/general-terms-conditions/">Terms &amp; Conditions</a>
+
+                                    <a href="https://www.personneltoday.com/personnel-today-jobs-contact-us/">Contact Us</a>
+                            
+            <button
+                type="button"
+                data-cookie-preferences-open
+                aria-haspopup="dialog"
+                aria-controls="cookie-preferences-dialog"
+            >Cookie preferences</button>
+        </nav>
+    </div>
+
+    <div class="public-container public-footer__legal">
+        <span>&copy; 2026 ProMedia Group</span>
+    </div>
+</footer>
+
+        <nav class="public-mobile-navigation" aria-label="Mobile public navigation">
+    <a class="" href="/" >
+        <span aria-hidden="true">⌂</span>
+        <span>Home</span>
+    </a>
+    <a class="is-active" href="/jobs"  aria-current="page" >
+        <span aria-hidden="true">⌕</span>
+        <span>Search</span>
+    </a>
+
+            <a class="" href="/account/login" >
+            <span aria-hidden="true">♡</span>
+            <span>Saved</span>
+        </a>
+    
+            <a href="/recruiter/login">
+            <span aria-hidden="true">▣</span>
+            <span>Recruiters</span>
+        </a>
+    </nav>
+
+            <div
+    class="public-cookie-consent-root"
+    data-cookie-consent-root
+    data-cookie-consent-version="3"
+    data-cookie-consent-storage-key="pmg-job-board-cookie-preferences"
+    data-cookie-consent-cookie-name="pmg_job_board_cookie_preferences"
+    data-cookie-consent-lifetime-days="180"
+    data-cookie-consent-tenant-key="personnel-today"
+    data-cookie-consent-state="undecided"
+>
+    <section
+        class="public-cookie-banner"
+        data-cookie-consent-banner
+        aria-labelledby="cookie-consent-title"
+        aria-describedby="cookie-consent-description"
+        hidden
+    >
+        <div class="public-cookie-banner__copy">
+            <p class="public-eyebrow">Your privacy</p>
+            <h2 id="cookie-consent-title">Your cookie preferences</h2>
+                <p>Analytics and advertising cookies are optional and stay off until you accept them.</p>
+            <p id="cookie-consent-description">
+                Essential cookies keep the site secure and working properly. Analytics and advertising cookies are optional and will only be used if you allow them.
+            </p>
+        </div>
+
+        <div class="public-cookie-banner__actions">
+            <button class="public-button public-button--secondary public-button--medium" type="button" data-cookie-consent-essential="data-cookie-consent-essential">Reject optional cookies</button>
+            <button class="public-button public-button--secondary public-button--medium" type="button" data-cookie-consent-customise="data-cookie-consent-customise" aria-haspopup="dialog" aria-controls="cookie-preferences-dialog">Manage choices</button>
+            
+            <button class="public-button public-button--primary public-button--medium" type="button" data-cookie-consent-accept="data-cookie-consent-accept">Accept all cookies</button>
+        </div>
+    </section>
+
+    <dialog
+        id="cookie-preferences-dialog"
+        class="public-cookie-dialog"
+        data-cookie-preferences-dialog
+        aria-labelledby="cookie-preferences-title"
+        aria-describedby="cookie-preferences-description"
+    >
+        <form method="dialog" class="public-cookie-dialog__panel">
+            <div class="public-cookie-dialog__heading">
+                <div>
+                    <p class="public-eyebrow">Privacy controls</p>
+                    <h2 id="cookie-preferences-title">Cookie preferences</h2>
+                </div>
+                <button class="public-cookie-dialog__close" value="cancel" aria-label="Close cookie preferences">×</button>
+            </div>
+
+            <p class="public-cookie-dialog__copy" id="cookie-preferences-description">
+                Essential cookies keep the job board secure and operational. Optional analytics and advertising preferences are stored for this tenant on this device.
+            </p>
+
+            <p class="public-cookie-dialog__state" data-cookie-preferences-current-state>
+                Current choice: not set.
+            </p>
+
+            <label class="public-cookie-option">
+                <span>
+                    <strong>Essential cookies</strong>
+                    <small>Required for security, sessions and core functionality.</small>
+                </span>
+                <input type="checkbox" checked disabled>
+            </label>
+
+            <label class="public-cookie-option">
+                <span>
+                    <strong>Analytics cookies</strong>
+                    <small>Help PMG understand job discovery and application journeys.</small>
+                </span>
+                <input type="checkbox" data-cookie-analytics-toggle>
+            </label>
+
+            <label class="public-cookie-option">
+                <span>
+                    <strong>Advertising cookies</strong>
+                    <small>Allow tenant-approved Google Ad Manager placements. They remain off unless selected.</small>
+                </span>
+                <input type="checkbox" data-cookie-marketing-toggle>
+            </label>
+
+            <div class="public-cookie-dialog__actions">
+                <button class="public-button public-button--secondary public-button--medium" type="button" data-cookie-preferences-reject="data-cookie-preferences-reject">Reject optional cookies</button>
+                <button class="public-button public-button--primary public-button--medium" type="button" data-cookie-preferences-save="data-cookie-preferences-save">Save preferences</button>
+            </div>
+        </form>
+    </dialog>
+
+    <p class="public-visually-hidden" role="status" aria-live="polite" data-cookie-preferences-status></p>
+</div>
+        </div>
+        </div>
+
+            </body>
+</html>
