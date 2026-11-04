@@ -3,15 +3,15 @@
   "c": "se",
   "name": "Volvo Group",
   "type": "rmk",
-  "jobs": 14,
+  "jobs": 17,
   "error": null,
-  "secs": 11
+  "secs": 10
  },
  {
   "c": "se",
   "name": "Volvo Cars",
   "type": "rmk",
-  "jobs": 7,
+  "jobs": 6,
   "error": null,
   "secs": 9
  },
@@ -19,7 +19,7 @@
   "c": "se",
   "name": "Scania",
   "type": "rmk",
-  "jobs": 42,
+  "jobs": 32,
   "error": null,
   "secs": 10
  },
@@ -29,13 +29,13 @@
   "type": "rmk",
   "jobs": 2,
   "error": null,
-  "secs": 11
+  "secs": 10
  },
  {
   "c": "se",
   "name": "Axfood",
   "type": "rmk",
-  "jobs": 54,
+  "jobs": 55,
   "error": null,
   "secs": 8
  },
@@ -43,7 +43,7 @@
   "c": "se",
   "name": "SCA",
   "type": "rmk",
-  "jobs": 9,
+  "jobs": 10,
   "error": null,
   "secs": 7
  },
@@ -51,7 +51,7 @@
   "c": "se",
   "name": "Getinge",
   "type": "rmk",
-  "jobs": 6,
+  "jobs": 7,
   "error": null,
   "secs": 12
  },
@@ -59,17 +59,17 @@
   "c": "se",
   "name": "Sandvik",
   "type": "workday",
-  "jobs": 24,
+  "jobs": 23,
   "error": null,
-  "secs": 19
+  "secs": 18
  },
  {
   "c": "se",
   "name": "Essity",
   "type": "workday",
-  "jobs": 17,
+  "jobs": 18,
   "error": null,
-  "secs": 18
+  "secs": 17
  },
  {
   "c": "se",
@@ -83,7 +83,7 @@
   "c": "se",
   "name": "Saab",
   "type": "workday",
-  "jobs": 160,
+  "jobs": 158,
   "error": null,
   "secs": 26
  },
@@ -91,9 +91,9 @@
   "c": "se",
   "name": "Husqvarna Group",
   "type": "workday",
-  "jobs": 23,
+  "jobs": 20,
   "error": null,
-  "secs": 879
+  "secs": 498
  },
  {
   "c": "se",
@@ -101,13 +101,13 @@
   "type": "workday",
   "jobs": 17,
   "error": null,
-  "secs": 255
+  "secs": 181
  },
  {
   "c": "se",
   "name": "Swedbank",
   "type": "teamtailor",
-  "jobs": 54,
+  "jobs": 56,
   "error": null,
   "secs": 2
  },
@@ -115,7 +115,7 @@
   "c": "se",
   "name": "Apoteket",
   "type": "teamtailor",
-  "jobs": 48,
+  "jobs": 49,
   "error": null,
   "secs": 2
  },
@@ -147,9 +147,9 @@
   "c": "se",
   "name": "ABB",
   "type": "phenom",
-  "jobs": 69,
+  "jobs": 52,
   "error": null,
-  "secs": 8
+  "secs": 6
  },
  {
   "c": "se",
@@ -157,7 +157,7 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 81
+  "secs": 49
  },
  {
   "c": "se",
@@ -165,7 +165,7 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 253
+  "secs": 228
  },
  {
   "c": "se",
@@ -173,7 +173,7 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 243
+  "secs": 78
  },
  {
   "c": "se",
@@ -181,7 +181,7 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 349
+  "secs": 470
  },
  {
   "c": "se",
@@ -189,7 +189,7 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 120
+  "secs": 134
  },
  {
   "c": "se",
@@ -197,15 +197,15 @@
   "type": "workday",
   "jobs": 1,
   "error": null,
-  "secs": 282
+  "secs": 738
  },
  {
   "c": "se",
   "name": "Accenture",
   "type": "workday",
-  "jobs": 42,
+  "jobs": 41,
   "error": null,
-  "secs": 168
+  "secs": 59
  },
  {
   "c": "se",
@@ -221,7 +221,7 @@
   "type": "amazon",
   "jobs": 33,
   "error": null,
-  "secs": 5
+  "secs": 4
  },
  {
   "c": "se",
@@ -229,7 +229,7 @@
   "type": "workday",
   "jobs": 7,
   "error": null,
-  "secs": 291
+  "secs": 53
  },
  {
   "c": "se",
@@ -245,7 +245,7 @@
   "type": "workday",
   "jobs": 8,
   "error": null,
-  "secs": 57
+  "secs": 440
  },
  {
   "c": "se",
@@ -253,15 +253,15 @@
   "type": "workday",
   "jobs": 2,
   "error": null,
-  "secs": 12
+  "secs": 13
  },
  {
   "c": "se",
   "name": "Workday",
   "type": "workday",
-  "jobs": 4,
+  "jobs": 3,
   "error": null,
-  "secs": 30
+  "secs": 687
  },
  {
   "c": "se",
@@ -277,7 +277,7 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 277
+  "secs": 350
  },
  {
   "c": "se",
@@ -285,7 +285,7 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 24
+  "secs": 25
  },
  {
   "c": "se",
@@ -301,7 +301,7 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 45
+  "secs": 197
  },
  {
   "c": "se",
@@ -309,7 +309,7 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 29
+  "secs": 28
  },
  {
   "c": "se",
@@ -339,9 +339,9 @@
   "c": "se",
   "name": "Spotify",
   "type": "lever",
-  "jobs": 33,
+  "jobs": 34,
   "error": null,
-  "secs": 1
+  "secs": 0
  },
  {
   "c": "se",
@@ -365,15 +365,15 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 340
+  "secs": 224
  },
  {
   "c": "se",
   "name": "Johnson & Johnson",
   "type": "workday",
-  "jobs": 0,
+  "jobs": 2,
   "error": null,
-  "secs": 157
+  "secs": 260
  },
  {
   "c": "se",
@@ -381,7 +381,7 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 36
+  "secs": 35
  },
  {
   "c": "se",
@@ -389,7 +389,7 @@
   "type": "workday",
   "jobs": 1,
   "error": null,
-  "secs": 20
+  "secs": 19
  },
  {
   "c": "se",
@@ -397,7 +397,7 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 27
+  "secs": 29
  },
  {
   "c": "se",
@@ -405,7 +405,7 @@
   "type": "workday",
   "jobs": 6,
   "error": null,
-  "secs": 17
+  "secs": 18
  },
  {
   "c": "se",
@@ -413,23 +413,23 @@
   "type": "workday",
   "jobs": 4,
   "error": null,
-  "secs": 32
+  "secs": 111
  },
  {
   "c": "se",
   "name": "Thermo Fisher Scientific",
   "type": "workday",
-  "jobs": 8,
+  "jobs": 9,
   "error": null,
-  "secs": 93
+  "secs": 66
  },
  {
   "c": "se",
   "name": "MSD",
   "type": "workday",
-  "jobs": 0,
+  "jobs": 1,
   "error": null,
-  "secs": 125
+  "secs": 53
  },
  {
   "c": "se",
@@ -437,7 +437,7 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 77
+  "secs": 78
  },
  {
   "c": "se",
@@ -445,7 +445,7 @@
   "type": "workday",
   "jobs": 2,
   "error": null,
-  "secs": 142
+  "secs": 47
  },
  {
   "c": "se",
@@ -453,7 +453,7 @@
   "type": "workday",
   "jobs": 2,
   "error": null,
-  "secs": 16
+  "secs": 15
  },
  {
   "c": "se",
@@ -461,7 +461,7 @@
   "type": "oracle",
   "jobs": 0,
   "error": null,
-  "secs": 17
+  "secs": 16
  },
  {
   "c": "se",
@@ -469,7 +469,7 @@
   "type": "workday",
   "jobs": 7,
   "error": null,
-  "secs": 286
+  "secs": 15
  },
  {
   "c": "se",
@@ -477,7 +477,7 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 61
+  "secs": 60
  },
  {
   "c": "se",
@@ -493,7 +493,7 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 26
+  "secs": 34
  },
  {
   "c": "se",
@@ -501,7 +501,7 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 7
+  "secs": 8
  },
  {
   "c": "se",
@@ -509,7 +509,7 @@
   "type": "radancy",
   "jobs": 1,
   "error": null,
-  "secs": 6
+  "secs": 7
  },
  {
   "c": "se",
@@ -517,7 +517,7 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 317
+  "secs": 103
  },
  {
   "c": "se",
@@ -525,7 +525,7 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 21
+  "secs": 22
  },
  {
   "c": "se",
@@ -533,7 +533,7 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 9
+  "secs": 10
  },
  {
   "c": "se",
@@ -541,7 +541,7 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 9
+  "secs": 13
  },
  {
   "c": "se",
@@ -549,7 +549,7 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 245
+  "secs": 128
  },
  {
   "c": "se",
@@ -557,7 +557,7 @@
   "type": "workday",
   "jobs": 5,
   "error": null,
-  "secs": 221
+  "secs": 19
  },
  {
   "c": "se",
@@ -581,7 +581,7 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 71
+  "secs": 146
  },
  {
   "c": "se",
@@ -589,7 +589,7 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 24
+  "secs": 23
  },
  {
   "c": "se",
@@ -611,7 +611,7 @@
   "c": "se",
   "name": "Marsh McLennan",
   "type": "workday",
-  "jobs": 1,
+  "jobs": 2,
   "error": null,
   "secs": 17
  },
@@ -621,7 +621,7 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 17
+  "secs": 18
  },
  {
   "c": "se",
@@ -629,13 +629,13 @@
   "type": "rmk",
   "jobs": 1,
   "error": null,
-  "secs": 24
+  "secs": 25
  },
  {
   "c": "se",
   "name": "Kone",
   "type": "workday",
-  "jobs": 14,
+  "jobs": 15,
   "error": null,
   "secs": 19
  },
@@ -653,7 +653,7 @@
   "type": "oracle",
   "jobs": 0,
   "error": null,
-  "secs": 16
+  "secs": 15
  },
  {
   "c": "se",
@@ -661,7 +661,7 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 14
+  "secs": 15
  },
  {
   "c": "se",
@@ -669,7 +669,7 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 20
+  "secs": 19
  },
  {
   "c": "se",
@@ -677,7 +677,7 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 13
+  "secs": 14
  },
  {
   "c": "se",
@@ -685,7 +685,7 @@
   "type": "workday",
   "jobs": 3,
   "error": null,
-  "secs": 451
+  "secs": 15
  },
  {
   "c": "se",
@@ -693,7 +693,7 @@
   "type": "workday",
   "jobs": 1,
   "error": null,
-  "secs": 154
+  "secs": 123
  },
  {
   "c": "se",
@@ -701,7 +701,7 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 64
+  "secs": 86
  },
  {
   "c": "se",
@@ -709,15 +709,15 @@
   "type": "workday",
   "jobs": 1,
   "error": null,
-  "secs": 16
+  "secs": 47
  },
  {
   "c": "se",
   "name": "Pernod Ricard",
   "type": "workday",
-  "jobs": 2,
+  "jobs": 1,
   "error": null,
-  "secs": 69
+  "secs": 326
  },
  {
   "c": "se",
@@ -725,7 +725,7 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 52
+  "secs": 27
  },
  {
   "c": "se",
@@ -733,7 +733,7 @@
   "type": "workday",
   "jobs": 3,
   "error": null,
-  "secs": 16
+  "secs": 15
  },
  {
   "c": "se",
@@ -741,7 +741,7 @@
   "type": "workday",
   "jobs": 1,
   "error": null,
-  "secs": 335
+  "secs": 27
  },
  {
   "c": "se",
@@ -749,7 +749,7 @@
   "type": "workday",
   "jobs": 7,
   "error": null,
-  "secs": 79
+  "secs": 81
  },
  {
   "c": "se",
@@ -765,7 +765,7 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 21
+  "secs": 22
  },
  {
   "c": "se",
@@ -773,7 +773,7 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 15
+  "secs": 14
  },
  {
   "c": "se",
@@ -781,7 +781,7 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 22
+  "secs": 21
  },
  {
   "c": "se",
@@ -805,55 +805,55 @@
   "type": "phenom",
   "jobs": 1,
   "error": null,
-  "secs": 2
+  "secs": 3
  },
  {
   "c": "gb",
   "name": "Asda",
   "type": "workday",
-  "jobs": 288,
+  "jobs": 283,
   "error": null,
-  "secs": 120
+  "secs": 262
  },
  {
   "c": "gb",
   "name": "Unilever",
   "type": "workday",
-  "jobs": 3,
+  "jobs": 5,
   "error": null,
-  "secs": 19
+  "secs": 98
  },
  {
   "c": "gb",
   "name": "GSK",
   "type": "workday",
-  "jobs": 91,
+  "jobs": 89,
   "error": null,
-  "secs": 102
+  "secs": 118
  },
  {
   "c": "gb",
   "name": "BP",
   "type": "workday",
-  "jobs": 8,
+  "jobs": 12,
   "error": null,
-  "secs": 55
+  "secs": 124
  },
  {
   "c": "gb",
   "name": "Barclays",
   "type": "workday",
-  "jobs": 124,
+  "jobs": 129,
   "error": null,
-  "secs": 59
+  "secs": 379
  },
  {
   "c": "gb",
   "name": "Lloyds Banking Group",
   "type": "workday",
-  "jobs": 70,
+  "jobs": 85,
   "error": null,
-  "secs": 136
+  "secs": 28
  },
  {
   "c": "gb",
@@ -861,13 +861,13 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 20
+  "secs": 19
  },
  {
   "c": "gb",
   "name": "Rolls-Royce",
   "type": "workday",
-  "jobs": 54,
+  "jobs": 57,
   "error": null,
   "secs": 24
  },
@@ -877,7 +877,7 @@
   "type": "workday",
   "jobs": 22,
   "error": null,
-  "secs": 19
+  "secs": 20
  },
  {
   "c": "gb",
@@ -891,17 +891,17 @@
   "c": "gb",
   "name": "John Lewis Partnership",
   "type": "workday",
-  "jobs": 61,
+  "jobs": 71,
   "error": null,
-  "secs": 671
+  "secs": 301
  },
  {
   "c": "gb",
   "name": "Centrica",
   "type": "workday",
-  "jobs": 47,
+  "jobs": 48,
   "error": null,
-  "secs": 23
+  "secs": 22
  },
  {
   "c": "gb",
@@ -915,23 +915,23 @@
   "c": "gb",
   "name": "Accenture",
   "type": "workday",
-  "jobs": 208,
+  "jobs": 206,
   "error": null,
-  "secs": 63
+  "secs": 57
  },
  {
   "c": "gb",
   "name": "Sainsbury's",
   "type": "oracle",
-  "jobs": 226,
+  "jobs": 217,
   "error": null,
-  "secs": 13
+  "secs": 15
  },
  {
   "c": "gb",
   "name": "Morrisons",
   "type": "oracle",
-  "jobs": 251,
+  "jobs": 264,
   "error": null,
   "secs": 13
  },
@@ -939,7 +939,7 @@
   "c": "gb",
   "name": "Marks & Spencer",
   "type": "oracle",
-  "jobs": 282,
+  "jobs": 278,
   "error": null,
   "secs": 7
  },
@@ -947,7 +947,7 @@
   "c": "gb",
   "name": "Next",
   "type": "oracle",
-  "jobs": 307,
+  "jobs": 302,
   "error": null,
   "secs": 11
  },
@@ -955,15 +955,15 @@
   "c": "gb",
   "name": "BT Group",
   "type": "rmk",
-  "jobs": 65,
+  "jobs": 56,
   "error": null,
-  "secs": 9
+  "secs": 7
  },
  {
   "c": "gb",
   "name": "Reckitt",
   "type": "rmk",
-  "jobs": 2,
+  "jobs": 5,
   "error": null,
   "secs": 11
  },
@@ -981,13 +981,13 @@
   "type": "smartrecruiters",
   "jobs": 0,
   "error": null,
-  "secs": 0
+  "secs": 1
  },
  {
   "c": "gb",
   "name": "Ocado Group",
   "type": "greenhouse",
-  "jobs": 27,
+  "jobs": 26,
   "error": null,
   "secs": 0
  },
@@ -1003,9 +1003,9 @@
   "c": "gb",
   "name": "Primark",
   "type": "radancy",
-  "jobs": 78,
+  "jobs": 76,
   "error": null,
-  "secs": 7
+  "secs": 6
  },
  {
   "c": "gb",
@@ -1019,17 +1019,17 @@
   "c": "gb",
   "name": "Amazon",
   "type": "amazon",
-  "jobs": 470,
+  "jobs": 465,
   "error": null,
-  "secs": 12
+  "secs": 11
  },
  {
   "c": "gb",
   "name": "Salesforce",
   "type": "workday",
-  "jobs": 69,
+  "jobs": 71,
   "error": null,
-  "secs": 243
+  "secs": 229
  },
  {
   "c": "gb",
@@ -1043,31 +1043,31 @@
   "c": "gb",
   "name": "Cisco",
   "type": "workday",
-  "jobs": 15,
+  "jobs": 17,
   "error": null,
-  "secs": 193
+  "secs": 285
  },
  {
   "c": "gb",
   "name": "Adobe",
   "type": "workday",
-  "jobs": 10,
+  "jobs": 9,
   "error": null,
-  "secs": 298
+  "secs": 182
  },
  {
   "c": "gb",
   "name": "Workday",
   "type": "workday",
-  "jobs": 9,
+  "jobs": 11,
   "error": null,
-  "secs": 315
+  "secs": 59
  },
  {
   "c": "gb",
   "name": "ServiceNow",
   "type": "smartrecruiters",
-  "jobs": 25,
+  "jobs": 23,
   "error": null,
   "secs": 0
  },
@@ -1077,7 +1077,7 @@
   "type": "workday",
   "jobs": 3,
   "error": null,
-  "secs": 198
+  "secs": 179
  },
  {
   "c": "gb",
@@ -1085,7 +1085,7 @@
   "type": "workday",
   "jobs": 1,
   "error": null,
-  "secs": 23
+  "secs": 26
  },
  {
   "c": "gb",
@@ -1093,23 +1093,23 @@
   "type": "workday",
   "jobs": 46,
   "error": null,
-  "secs": 136
+  "secs": 15
  },
  {
   "c": "gb",
   "name": "PayPal",
   "type": "workday",
-  "jobs": 24,
+  "jobs": 23,
   "error": null,
-  "secs": 25
+  "secs": 26
  },
  {
   "c": "gb",
   "name": "Mastercard",
   "type": "workday",
-  "jobs": 29,
+  "jobs": 27,
   "error": null,
-  "secs": 26
+  "secs": 24
  },
  {
   "c": "gb",
@@ -1123,7 +1123,7 @@
   "c": "gb",
   "name": "Uber",
   "type": "oracle",
-  "jobs": 74,
+  "jobs": 77,
   "error": null,
   "secs": 9
  },
@@ -1139,9 +1139,9 @@
   "c": "gb",
   "name": "Spotify",
   "type": "lever",
-  "jobs": 65,
+  "jobs": 66,
   "error": null,
-  "secs": 0
+  "secs": 1
  },
  {
   "c": "gb",
@@ -1155,7 +1155,7 @@
   "c": "gb",
   "name": "Monzo",
   "type": "greenhouse",
-  "jobs": 51,
+  "jobs": 46,
   "error": null,
   "secs": 0
  },
@@ -1163,25 +1163,25 @@
   "c": "gb",
   "name": "Pfizer",
   "type": "workday",
-  "jobs": 8,
+  "jobs": 13,
   "error": null,
-  "secs": 189
+  "secs": 368
  },
  {
   "c": "gb",
   "name": "Johnson & Johnson",
   "type": "workday",
-  "jobs": 45,
+  "jobs": 40,
   "error": null,
-  "secs": 252
+  "secs": 626
  },
  {
   "c": "gb",
   "name": "Novartis",
   "type": "workday",
-  "jobs": 23,
+  "jobs": 22,
   "error": null,
-  "secs": 23
+  "secs": 22
  },
  {
   "c": "gb",
@@ -1195,23 +1195,23 @@
   "c": "gb",
   "name": "Bristol Myers Squibb",
   "type": "workday",
-  "jobs": 17,
+  "jobs": 18,
   "error": null,
-  "secs": 26
+  "secs": 25
  },
  {
   "c": "gb",
   "name": "Abbott",
   "type": "workday",
-  "jobs": 38,
+  "jobs": 41,
   "error": null,
-  "secs": 17
+  "secs": 19
  },
  {
   "c": "gb",
   "name": "Medtronic",
   "type": "workday",
-  "jobs": 40,
+  "jobs": 41,
   "error": null,
   "secs": 27
  },
@@ -1219,7 +1219,7 @@
   "c": "gb",
   "name": "Thermo Fisher Scientific",
   "type": "workday",
-  "jobs": 71,
+  "jobs": 69,
   "error": null,
   "secs": 58
  },
@@ -1245,7 +1245,7 @@
   "type": "workday",
   "jobs": 22,
   "error": null,
-  "secs": 45
+  "secs": 44
  },
  {
   "c": "gb",
@@ -1259,7 +1259,7 @@
   "c": "gb",
   "name": "Honeywell",
   "type": "oracle",
-  "jobs": 25,
+  "jobs": 30,
   "error": null,
   "secs": 17
  },
@@ -1275,9 +1275,9 @@
   "c": "gb",
   "name": "GE Vernova",
   "type": "workday",
-  "jobs": 10,
+  "jobs": 8,
   "error": null,
-  "secs": 51
+  "secs": 50
  },
  {
   "c": "gb",
@@ -1285,7 +1285,7 @@
   "type": "workday",
   "jobs": 39,
   "error": null,
-  "secs": 28
+  "secs": 45
  },
  {
   "c": "gb",
@@ -1293,7 +1293,7 @@
   "type": "workday",
   "jobs": 3,
   "error": null,
-  "secs": 18
+  "secs": 16
  },
  {
   "c": "gb",
@@ -1301,13 +1301,13 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 7
+  "secs": 8
  },
  {
   "c": "gb",
   "name": "L'Oréal",
   "type": "radancy",
-  "jobs": 101,
+  "jobs": 102,
   "error": null,
   "secs": 6
  },
@@ -1317,13 +1317,13 @@
   "type": "workday",
   "jobs": 29,
   "error": null,
-  "secs": 88
+  "secs": 467
  },
  {
   "c": "gb",
   "name": "adidas",
   "type": "rmk",
-  "jobs": 6,
+  "jobs": 2,
   "error": null,
   "secs": 10
  },
@@ -1333,7 +1333,7 @@
   "type": "rmk",
   "jobs": 1,
   "error": null,
-  "secs": 8
+  "secs": 5
  },
  {
   "c": "gb",
@@ -1347,17 +1347,17 @@
   "c": "gb",
   "name": "Equinor",
   "type": "workday",
-  "jobs": 5,
+  "jobs": 3,
   "error": null,
-  "secs": 431
+  "secs": 64
  },
  {
   "c": "gb",
   "name": "Citi",
   "type": "workday",
-  "jobs": 135,
+  "jobs": 133,
   "error": null,
-  "secs": 77
+  "secs": 54
  },
  {
   "c": "gb",
@@ -1371,15 +1371,15 @@
   "c": "gb",
   "name": "BlackRock",
   "type": "workday",
-  "jobs": 94,
+  "jobs": 96,
   "error": null,
-  "secs": 134
+  "secs": 230
  },
  {
   "c": "gb",
   "name": "State Street",
   "type": "workday",
-  "jobs": 55,
+  "jobs": 57,
   "error": null,
   "secs": 16
  },
@@ -1389,69 +1389,69 @@
   "type": "workday",
   "jobs": 25,
   "error": null,
-  "secs": 16
+  "secs": 15
  },
  {
   "c": "gb",
   "name": "S&P Global",
   "type": "workday",
-  "jobs": 66,
+  "jobs": 63,
   "error": null,
-  "secs": 20
+  "secs": 21
  },
  {
   "c": "gb",
   "name": "LSEG",
   "type": "workday",
-  "jobs": 101,
+  "jobs": 102,
   "error": null,
-  "secs": 27
+  "secs": 26
  },
  {
   "c": "gb",
   "name": "Marsh McLennan",
   "type": "workday",
-  "jobs": 128,
+  "jobs": 126,
   "error": null,
-  "secs": 24
+  "secs": 22
  },
  {
   "c": "gb",
   "name": "Zurich",
   "type": "rmk",
-  "jobs": 3,
+  "jobs": 9,
   "error": null,
-  "secs": 13
+  "secs": 11
  },
  {
   "c": "gb",
   "name": "EY",
   "type": "rmk",
-  "jobs": 8,
+  "jobs": 2,
   "error": null,
-  "secs": 15
+  "secs": 24
  },
  {
   "c": "gb",
   "name": "Kone",
   "type": "workday",
-  "jobs": 52,
+  "jobs": 50,
   "error": null,
-  "secs": 136
+  "secs": 98
  },
  {
   "c": "gb",
   "name": "Hilton",
   "type": "oracle",
-  "jobs": 104,
+  "jobs": 94,
   "error": null,
-  "secs": 16
+  "secs": 17
  },
  {
   "c": "gb",
   "name": "Marriott",
   "type": "oracle",
-  "jobs": 30,
+  "jobs": 37,
   "error": null,
   "secs": 17
  },
@@ -1461,7 +1461,7 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 13
+  "secs": 15
  },
  {
   "c": "gb",
@@ -1469,13 +1469,13 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 12
+  "secs": 13
  },
  {
   "c": "gb",
   "name": "ESB",
   "type": "rmk",
-  "jobs": 4,
+  "jobs": 3,
   "error": null,
   "secs": 7
  },
@@ -1483,9 +1483,9 @@
   "c": "gb",
   "name": "Stryker",
   "type": "workday",
-  "jobs": 41,
+  "jobs": 42,
   "error": null,
-  "secs": 544
+  "secs": 150
  },
  {
   "c": "gb",
@@ -1493,7 +1493,7 @@
   "type": "workday",
   "jobs": 25,
   "error": null,
-  "secs": 12
+  "secs": 74
  },
  {
   "c": "gb",
@@ -1501,23 +1501,23 @@
   "type": "workday",
   "jobs": 5,
   "error": null,
-  "secs": 138
+  "secs": 128
  },
  {
   "c": "gb",
   "name": "Miele",
   "type": "workday",
-  "jobs": 10,
+  "jobs": 13,
   "error": null,
-  "secs": 15
+  "secs": 273
  },
  {
   "c": "gb",
   "name": "Pernod Ricard",
   "type": "workday",
-  "jobs": 11,
+  "jobs": 13,
   "error": null,
-  "secs": 401
+  "secs": 56
  },
  {
   "c": "gb",
@@ -1525,23 +1525,23 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 133
+  "secs": 574
  },
  {
   "c": "gb",
   "name": "PVH",
   "type": "workday",
-  "jobs": 110,
+  "jobs": 109,
   "error": null,
-  "secs": 23
+  "secs": 21
  },
  {
   "c": "gb",
   "name": "LEGO",
   "type": "workday",
-  "jobs": 6,
+  "jobs": 7,
   "error": null,
-  "secs": 26
+  "secs": 25
  },
  {
   "c": "gb",
@@ -1549,7 +1549,7 @@
   "type": "workday",
   "jobs": 13,
   "error": null,
-  "secs": 73
+  "secs": 74
  },
  {
   "c": "gb",
@@ -1563,9 +1563,9 @@
   "c": "gb",
   "name": "Nestlé",
   "type": "rmk",
-  "jobs": 4,
+  "jobs": 6,
   "error": null,
-  "secs": 12
+  "secs": 11
  },
  {
   "c": "gb",
@@ -1573,7 +1573,7 @@
   "type": "rmk",
   "jobs": 1,
   "error": null,
-  "secs": 8
+  "secs": 7
  },
  {
   "c": "gb",
@@ -1581,7 +1581,7 @@
   "type": "rmk",
   "jobs": 4,
   "error": null,
-  "secs": 15
+  "secs": 13
  },
  {
   "c": "gb",
@@ -1589,7 +1589,7 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 23
+  "secs": 20
  },
  {
   "c": "gb",
@@ -1613,7 +1613,7 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 83
+  "secs": 34
  },
  {
   "c": "ie",
@@ -1621,7 +1621,7 @@
   "type": "workday",
   "jobs": 1,
   "error": null,
-  "secs": 64
+  "secs": 71
  },
  {
   "c": "ie",
@@ -1629,15 +1629,15 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 32
+  "secs": 77
  },
  {
   "c": "ie",
   "name": "Barclays",
   "type": "workday",
-  "jobs": 2,
+  "jobs": 3,
   "error": null,
-  "secs": 609
+  "secs": 354
  },
  {
   "c": "ie",
@@ -1653,7 +1653,7 @@
   "type": "workday",
   "jobs": 9,
   "error": null,
-  "secs": 216
+  "secs": 17
  },
  {
   "c": "ie",
@@ -1661,7 +1661,7 @@
   "type": "workday",
   "jobs": 3,
   "error": null,
-  "secs": 17
+  "secs": 41
  },
  {
   "c": "ie",
@@ -1675,33 +1675,33 @@
   "c": "ie",
   "name": "Accenture",
   "type": "workday",
-  "jobs": 91,
+  "jobs": 90,
   "error": null,
-  "secs": 56
+  "secs": 46
  },
  {
   "c": "ie",
   "name": "Marks & Spencer",
   "type": "oracle",
-  "jobs": 83,
+  "jobs": 81,
   "error": null,
-  "secs": 7
+  "secs": 8
  },
  {
   "c": "ie",
   "name": "Next",
   "type": "oracle",
-  "jobs": 21,
+  "jobs": 28,
   "error": null,
-  "secs": 11
+  "secs": 10
  },
  {
   "c": "ie",
   "name": "BT Group",
   "type": "rmk",
-  "jobs": 1,
+  "jobs": 0,
   "error": null,
-  "secs": 9
+  "secs": 12
  },
  {
   "c": "ie",
@@ -1709,15 +1709,15 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 23
+  "secs": 20
  },
  {
   "c": "ie",
   "name": "Jaguar Land Rover",
   "type": "rmk",
-  "jobs": 1,
+  "jobs": 0,
   "error": null,
-  "secs": 10
+  "secs": 16
  },
  {
   "c": "ie",
@@ -1731,25 +1731,25 @@
   "c": "ie",
   "name": "Primark",
   "type": "radancy",
-  "jobs": 47,
-  "error": null,
-  "secs": 6
- },
- {
-  "c": "ie",
-  "name": "Amazon",
-  "type": "amazon",
-  "jobs": 175,
+  "jobs": 46,
   "error": null,
   "secs": 7
  },
  {
   "c": "ie",
+  "name": "Amazon",
+  "type": "amazon",
+  "jobs": 176,
+  "error": null,
+  "secs": 6
+ },
+ {
+  "c": "ie",
   "name": "Salesforce",
   "type": "workday",
-  "jobs": 99,
+  "jobs": 102,
   "error": null,
-  "secs": 168
+  "secs": 634
  },
  {
   "c": "ie",
@@ -1763,9 +1763,9 @@
   "c": "ie",
   "name": "Cisco",
   "type": "workday",
-  "jobs": 32,
+  "jobs": 31,
   "error": null,
-  "secs": 238
+  "secs": 218
  },
  {
   "c": "ie",
@@ -1773,23 +1773,23 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 276
+  "secs": 596
  },
  {
   "c": "ie",
   "name": "Workday",
   "type": "workday",
-  "jobs": 28,
+  "jobs": 30,
   "error": null,
-  "secs": 63
+  "secs": 215
  },
  {
   "c": "ie",
   "name": "ServiceNow",
   "type": "smartrecruiters",
-  "jobs": 16,
+  "jobs": 15,
   "error": null,
-  "secs": 1
+  "secs": 0
  },
  {
   "c": "ie",
@@ -1797,15 +1797,15 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 373
+  "secs": 256
  },
  {
   "c": "ie",
   "name": "Intel",
   "type": "workday",
-  "jobs": 3,
+  "jobs": 2,
   "error": null,
-  "secs": 24
+  "secs": 174
  },
  {
   "c": "ie",
@@ -1827,9 +1827,9 @@
   "c": "ie",
   "name": "Mastercard",
   "type": "workday",
-  "jobs": 7,
+  "jobs": 5,
   "error": null,
-  "secs": 25
+  "secs": 26
  },
  {
   "c": "ie",
@@ -1845,13 +1845,13 @@
   "type": "oracle",
   "jobs": 0,
   "error": null,
-  "secs": 9
+  "secs": 8
  },
  {
   "c": "ie",
   "name": "LinkedIn",
   "type": "smartrecruiters",
-  "jobs": 29,
+  "jobs": 28,
   "error": null,
   "secs": 0
  },
@@ -1875,7 +1875,7 @@
   "c": "ie",
   "name": "Monzo",
   "type": "greenhouse",
-  "jobs": 5,
+  "jobs": 4,
   "error": null,
   "secs": 0
  },
@@ -1885,21 +1885,21 @@
   "type": "workday",
   "jobs": 1,
   "error": null,
-  "secs": 99
+  "secs": 277
  },
  {
   "c": "ie",
   "name": "Johnson & Johnson",
   "type": "workday",
-  "jobs": 11,
+  "jobs": 14,
   "error": null,
-  "secs": 186
+  "secs": 60
  },
  {
   "c": "ie",
   "name": "Novartis",
   "type": "workday",
-  "jobs": 15,
+  "jobs": 14,
   "error": null,
   "secs": 18
  },
@@ -1917,15 +1917,15 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 26
+  "secs": 28
  },
  {
   "c": "ie",
   "name": "Abbott",
   "type": "workday",
-  "jobs": 75,
+  "jobs": 77,
   "error": null,
-  "secs": 20
+  "secs": 22
  },
  {
   "c": "ie",
@@ -1939,9 +1939,9 @@
   "c": "ie",
   "name": "Thermo Fisher Scientific",
   "type": "workday",
-  "jobs": 5,
+  "jobs": 6,
   "error": null,
-  "secs": 58
+  "secs": 59
  },
  {
   "c": "ie",
@@ -1949,7 +1949,7 @@
   "type": "workday",
   "jobs": 5,
   "error": null,
-  "secs": 44
+  "secs": 43
  },
  {
   "c": "ie",
@@ -1957,7 +1957,7 @@
   "type": "workday",
   "jobs": 3,
   "error": null,
-  "secs": 67
+  "secs": 71
  },
  {
   "c": "ie",
@@ -1981,7 +1981,7 @@
   "type": "oracle",
   "jobs": 2,
   "error": null,
-  "secs": 18
+  "secs": 19
  },
  {
   "c": "ie",
@@ -1997,7 +1997,7 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 50
+  "secs": 54
  },
  {
   "c": "ie",
@@ -2005,7 +2005,7 @@
   "type": "workday",
   "jobs": 12,
   "error": null,
-  "secs": 21
+  "secs": 23
  },
  {
   "c": "ie",
@@ -2013,7 +2013,7 @@
   "type": "workday",
   "jobs": 1,
   "error": null,
-  "secs": 32
+  "secs": 16
  },
  {
   "c": "ie",
@@ -2021,15 +2021,15 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 7
+  "secs": 6
  },
  {
   "c": "ie",
   "name": "L'Oréal",
   "type": "radancy",
-  "jobs": 6,
-  "error": null,
-  "secs": 7
+  "jobs": 0,
+  "error": "IncompleteRead: IncompleteRead(662435 bytes read)",
+  "secs": 1
  },
  {
   "c": "ie",
@@ -2037,7 +2037,7 @@
   "type": "workday",
   "jobs": 3,
   "error": null,
-  "secs": 225
+  "secs": 40
  },
  {
   "c": "ie",
@@ -2045,13 +2045,13 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 19
+  "secs": 24
  },
  {
   "c": "ie",
   "name": "Mars",
   "type": "rmk",
-  "jobs": 4,
+  "jobs": 2,
   "error": null,
   "secs": 5
  },
@@ -2061,7 +2061,7 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 9
+  "secs": 10
  },
  {
   "c": "ie",
@@ -2069,15 +2069,15 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 15
+  "secs": 60
  },
  {
   "c": "ie",
   "name": "Citi",
   "type": "workday",
-  "jobs": 34,
+  "jobs": 33,
   "error": null,
-  "secs": 132
+  "secs": 159
  },
  {
   "c": "ie",
@@ -2093,23 +2093,23 @@
   "type": "workday",
   "jobs": 2,
   "error": null,
-  "secs": 74
+  "secs": 159
  },
  {
   "c": "ie",
   "name": "State Street",
   "type": "workday",
-  "jobs": 39,
+  "jobs": 42,
   "error": null,
-  "secs": 14
+  "secs": 51
  },
  {
   "c": "ie",
   "name": "Northern Trust",
   "type": "workday",
-  "jobs": 72,
+  "jobs": 70,
   "error": null,
-  "secs": 173
+  "secs": 18
  },
  {
   "c": "ie",
@@ -2125,15 +2125,15 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 30
+  "secs": 31
  },
  {
   "c": "ie",
   "name": "Marsh McLennan",
   "type": "workday",
-  "jobs": 22,
+  "jobs": 24,
   "error": null,
-  "secs": 17
+  "secs": 19
  },
  {
   "c": "ie",
@@ -2147,9 +2147,9 @@
   "c": "ie",
   "name": "EY",
   "type": "rmk",
-  "jobs": 1,
+  "jobs": 0,
   "error": null,
-  "secs": 23
+  "secs": 32
  },
  {
   "c": "ie",
@@ -2157,7 +2157,7 @@
   "type": "workday",
   "jobs": 3,
   "error": null,
-  "secs": 17
+  "secs": 141
  },
  {
   "c": "ie",
@@ -2181,7 +2181,7 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 12
+  "secs": 16
  },
  {
   "c": "ie",
@@ -2189,7 +2189,7 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 10
+  "secs": 11
  },
  {
   "c": "ie",
@@ -2197,15 +2197,15 @@
   "type": "rmk",
   "jobs": 23,
   "error": null,
-  "secs": 7
+  "secs": 6
  },
  {
   "c": "ie",
   "name": "Stryker",
   "type": "workday",
-  "jobs": 47,
+  "jobs": 46,
   "error": null,
-  "secs": 97
+  "secs": 136
  },
  {
   "c": "ie",
@@ -2213,7 +2213,7 @@
   "type": "workday",
   "jobs": 70,
   "error": null,
-  "secs": 12
+  "secs": 66
  },
  {
   "c": "ie",
@@ -2221,15 +2221,15 @@
   "type": "workday",
   "jobs": 1,
   "error": null,
-  "secs": 18
+  "secs": 80
  },
  {
   "c": "ie",
   "name": "Miele",
   "type": "workday",
-  "jobs": 4,
+  "jobs": 3,
   "error": null,
-  "secs": 58
+  "secs": 355
  },
  {
   "c": "ie",
@@ -2237,7 +2237,7 @@
   "type": "workday",
   "jobs": 6,
   "error": null,
-  "secs": 91
+  "secs": 304
  },
  {
   "c": "ie",
@@ -2245,7 +2245,7 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 59
+  "secs": 25
  },
  {
   "c": "ie",
@@ -2253,7 +2253,7 @@
   "type": "workday",
   "jobs": 25,
   "error": null,
-  "secs": 18
+  "secs": 19
  },
  {
   "c": "ie",
@@ -2283,9 +2283,9 @@
   "c": "ie",
   "name": "Nestlé",
   "type": "rmk",
-  "jobs": 0,
+  "jobs": 1,
   "error": null,
-  "secs": 21
+  "secs": 15
  },
  {
   "c": "ie",
@@ -2301,15 +2301,15 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 21
+  "secs": 22
  },
  {
   "c": "ie",
   "name": "Tetra Pak",
   "type": "rmk",
-  "jobs": 0,
+  "jobs": 1,
   "error": null,
-  "secs": 20
+  "secs": 14
  },
  {
   "c": "ie",
@@ -2317,7 +2317,7 @@
   "type": "rmk",
   "jobs": 2,
   "error": null,
-  "secs": 4
+  "secs": 5
  },
  {
   "c": "ie",
@@ -2333,7 +2333,7 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 280
+  "secs": 52
  },
  {
   "c": "nl",
@@ -2341,7 +2341,7 @@
   "type": "workday",
   "jobs": 15,
   "error": null,
-  "secs": 26
+  "secs": 51
  },
  {
   "c": "nl",
@@ -2349,15 +2349,15 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 91
+  "secs": 137
  },
  {
   "c": "nl",
   "name": "Signify",
   "type": "workday",
-  "jobs": 3,
+  "jobs": 2,
   "error": null,
-  "secs": 50
+  "secs": 81
  },
  {
   "c": "nl",
@@ -2365,7 +2365,7 @@
   "type": "workday",
   "jobs": 89,
   "error": null,
-  "secs": 19
+  "secs": 20
  },
  {
   "c": "nl",
@@ -2373,7 +2373,7 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 168
+  "secs": 297
  },
  {
   "c": "nl",
@@ -2387,9 +2387,9 @@
   "c": "nl",
   "name": "Grundfos",
   "type": "rmk",
-  "jobs": 0,
+  "jobs": 1,
   "error": null,
-  "secs": 13
+  "secs": 8
  },
  {
   "c": "nl",
@@ -2405,7 +2405,7 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 12
+  "secs": 11
  },
  {
   "c": "nl",
@@ -2413,29 +2413,29 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 18
+  "secs": 17
  },
  {
   "c": "nl",
   "name": "Tetra Pak",
   "type": "rmk",
-  "jobs": 1,
+  "jobs": 0,
   "error": null,
-  "secs": 13
+  "secs": 19
  },
  {
   "c": "nl",
   "name": "Under Armour",
   "type": "rmk",
-  "jobs": 3,
+  "jobs": 2,
   "error": null,
-  "secs": 7
+  "secs": 3
  },
  {
   "c": "nl",
   "name": "Versuni",
   "type": "phenom",
-  "jobs": 21,
+  "jobs": 22,
   "error": null,
   "secs": 2
  },
@@ -2445,7 +2445,7 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 7
+  "secs": 5
  },
  {
   "c": "nl",
@@ -2453,15 +2453,15 @@
   "type": "rmk",
   "jobs": 1,
   "error": null,
-  "secs": 10
+  "secs": 12
  },
  {
   "c": "nl",
   "name": "Nike",
   "type": "workday",
-  "jobs": 15,
+  "jobs": 12,
   "error": null,
-  "secs": 118
+  "secs": 28
  },
  {
   "c": "nl",
@@ -2477,15 +2477,15 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 260
+  "secs": 42
  },
  {
   "c": "nl",
   "name": "Philips",
   "type": "workday",
-  "jobs": 4,
+  "jobs": 5,
   "error": null,
-  "secs": 298
+  "secs": 281
  },
  {
   "c": "nl",
@@ -2493,7 +2493,7 @@
   "type": "workday",
   "jobs": 3,
   "error": null,
-  "secs": 150
+  "secs": 101
  },
  {
   "c": "nl",
@@ -2501,7 +2501,7 @@
   "type": "workday",
   "jobs": 2,
   "error": null,
-  "secs": 72
+  "secs": 222
  },
  {
   "c": "nl",
@@ -2509,7 +2509,7 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 11
+  "secs": 14
  },
  {
   "c": "nl",
@@ -2517,7 +2517,7 @@
   "type": "radancy",
   "jobs": 11,
   "error": null,
-  "secs": 7
+  "secs": 6
  },
  {
   "c": "nl",
@@ -2525,7 +2525,7 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 16
+  "secs": 17
  },
  {
   "c": "nl",
@@ -2533,7 +2533,7 @@
   "type": "radancy",
   "jobs": 0,
   "error": null,
-  "secs": 6
+  "secs": 7
  },
  {
   "c": "dk",
@@ -2541,7 +2541,7 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 57
+  "secs": 36
  },
  {
   "c": "dk",
@@ -2557,7 +2557,7 @@
   "type": "workday",
   "jobs": 1,
   "error": null,
-  "secs": 39
+  "secs": 60
  },
  {
   "c": "dk",
@@ -2565,7 +2565,7 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 248
+  "secs": 24
  },
  {
   "c": "dk",
@@ -2573,15 +2573,15 @@
   "type": "workday",
   "jobs": 3,
   "error": null,
-  "secs": 14
+  "secs": 13
  },
  {
   "c": "dk",
   "name": "LEGO",
   "type": "workday",
-  "jobs": 16,
+  "jobs": 18,
   "error": null,
-  "secs": 26
+  "secs": 46
  },
  {
   "c": "dk",
@@ -2589,13 +2589,13 @@
   "type": "workday",
   "jobs": 16,
   "error": null,
-  "secs": 70
+  "secs": 69
  },
  {
   "c": "dk",
   "name": "Grundfos",
   "type": "rmk",
-  "jobs": 4,
+  "jobs": 3,
   "error": null,
   "secs": 7
  },
@@ -2603,23 +2603,23 @@
   "c": "dk",
   "name": "Nestlé",
   "type": "rmk",
-  "jobs": 1,
+  "jobs": 0,
   "error": null,
-  "secs": 10
+  "secs": 17
  },
  {
   "c": "dk",
   "name": "Danfoss",
   "type": "rmk",
-  "jobs": 12,
+  "jobs": 11,
   "error": null,
-  "secs": 7
+  "secs": 6
  },
  {
   "c": "dk",
   "name": "Novo Nordisk",
   "type": "rmk",
-  "jobs": 13,
+  "jobs": 16,
   "error": null,
   "secs": 9
  },
@@ -2629,7 +2629,7 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 17
+  "secs": 18
  },
  {
   "c": "dk",
@@ -2653,15 +2653,15 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 12
+  "secs": 6
  },
  {
   "c": "dk",
   "name": "adidas",
   "type": "rmk",
-  "jobs": 1,
+  "jobs": 0,
   "error": null,
-  "secs": 9
+  "secs": 17
  },
  {
   "c": "dk",
@@ -2669,7 +2669,7 @@
   "type": "workday",
   "jobs": 1,
   "error": null,
-  "secs": 243
+  "secs": 213
  },
  {
   "c": "dk",
@@ -2677,7 +2677,7 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 171
+  "secs": 120
  },
  {
   "c": "dk",
@@ -2685,7 +2685,7 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 30
+  "secs": 92
  },
  {
   "c": "dk",
@@ -2693,7 +2693,7 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 100
+  "secs": 46
  },
  {
   "c": "dk",
@@ -2701,7 +2701,7 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 40
+  "secs": 59
  },
  {
   "c": "dk",
@@ -2709,7 +2709,7 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 188
+  "secs": 26
  },
  {
   "c": "dk",
@@ -2733,7 +2733,7 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 16
+  "secs": 17
  },
  {
   "c": "dk",
@@ -2741,15 +2741,15 @@
   "type": "radancy",
   "jobs": 0,
   "error": null,
-  "secs": 4
+  "secs": 6
  },
  {
   "c": "de",
   "name": "Samsung",
   "type": "workday",
-  "jobs": 10,
+  "jobs": 11,
   "error": null,
-  "secs": 58
+  "secs": 17
  },
  {
   "c": "de",
@@ -2757,7 +2757,7 @@
   "type": "workday",
   "jobs": 17,
   "error": null,
-  "secs": 13
+  "secs": 53
  },
  {
   "c": "de",
@@ -2773,13 +2773,13 @@
   "type": "workday",
   "jobs": 7,
   "error": null,
-  "secs": 140
+  "secs": 42
  },
  {
   "c": "de",
   "name": "PVH",
   "type": "workday",
-  "jobs": 52,
+  "jobs": 51,
   "error": null,
   "secs": 14
  },
@@ -2787,7 +2787,7 @@
   "c": "de",
   "name": "LEGO",
   "type": "workday",
-  "jobs": 7,
+  "jobs": 8,
   "error": null,
   "secs": 25
  },
@@ -2797,7 +2797,7 @@
   "type": "workday",
   "jobs": 11,
   "error": null,
-  "secs": 71
+  "secs": 70
  },
  {
   "c": "de",
@@ -2805,7 +2805,7 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 15
+  "secs": 16
  },
  {
   "c": "de",
@@ -2813,15 +2813,15 @@
   "type": "rmk",
   "jobs": 1,
   "error": null,
-  "secs": 13
+  "secs": 12
  },
  {
   "c": "de",
   "name": "Danfoss",
   "type": "rmk",
-  "jobs": 1,
+  "jobs": 3,
   "error": null,
-  "secs": 10
+  "secs": 7
  },
  {
   "c": "de",
@@ -2845,7 +2845,7 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 8
+  "secs": 11
  },
  {
   "c": "de",
@@ -2853,7 +2853,7 @@
   "type": "phenom",
   "jobs": 4,
   "error": null,
-  "secs": 2
+  "secs": 3
  },
  {
   "c": "de",
@@ -2861,13 +2861,13 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 14
+  "secs": 6
  },
  {
   "c": "de",
   "name": "adidas",
   "type": "rmk",
-  "jobs": 2,
+  "jobs": 1,
   "error": null,
   "secs": 9
  },
@@ -2875,17 +2875,17 @@
   "c": "de",
   "name": "Nike",
   "type": "workday",
-  "jobs": 26,
+  "jobs": 28,
   "error": null,
-  "secs": 75
+  "secs": 46
  },
  {
   "c": "de",
   "name": "Unilever",
   "type": "workday",
-  "jobs": 18,
+  "jobs": 16,
   "error": null,
-  "secs": 34
+  "secs": 69
  },
  {
   "c": "de",
@@ -2893,7 +2893,7 @@
   "type": "workday",
   "jobs": 11,
   "error": null,
-  "secs": 16
+  "secs": 44
  },
  {
   "c": "de",
@@ -2901,15 +2901,15 @@
   "type": "workday",
   "jobs": 2,
   "error": null,
-  "secs": 103
+  "secs": 44
  },
  {
   "c": "de",
   "name": "Mondelez",
   "type": "workday",
-  "jobs": 28,
+  "jobs": 29,
   "error": null,
-  "secs": 53
+  "secs": 78
  },
  {
   "c": "de",
@@ -2917,7 +2917,7 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 20
+  "secs": 65
  },
  {
   "c": "de",
@@ -2931,17 +2931,17 @@
   "c": "de",
   "name": "L'Oréal",
   "type": "radancy",
-  "jobs": 21,
+  "jobs": 23,
   "error": null,
-  "secs": 7
+  "secs": 6
  },
  {
   "c": "de",
   "name": "Reckitt",
   "type": "rmk",
-  "jobs": 4,
+  "jobs": 0,
   "error": null,
-  "secs": 10
+  "secs": 18
  },
  {
   "c": "de",
@@ -2949,6 +2949,6 @@
   "type": "radancy",
   "jobs": 0,
   "error": null,
-  "secs": 5
+  "secs": 6
  }
 ]
