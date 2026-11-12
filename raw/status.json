@@ -1,5 +1,7 @@
 {
- "run_utc": "2026-11-11T05:09:17Z",
- "seconds": 1322,
- "problems": []
+ "run_utc": "2026-11-12T05:09:29Z",
+ "seconds": 1342,
+ "problems": [
+  "eures: HTTPError: HTTP Error 404: Not Found"
+ ]
 }

@@ -1,45 +1,45 @@
 # HRKompis daily audit
 
-Run: 2026-11-11T05:09:50Z (UTC). Updated automatically after every daily refresh.
+Run: 2026-11-12T05:09:49Z (UTC). Updated automatically after every daily refresh.
 
 ## Today's list
 
-- **9,777 jobs published** (from 10,676 HR ads collected)
-- 899 duplicate rows merged: 514 listings now show "+N other locations"; 41 jobs were found via more than one source (best source kept)
-- 0 EURES ads removed because EURES says they no longer exist
+- **9,500 jobs published** (from 10,754 HR ads collected)
+- 932 duplicate rows merged: 520 listings now show "+N other locations"; 47 jobs were found via more than one source (best source kept)
+- 322 EURES ads removed because EURES says they no longer exist
 - Adzuna ads are kept for 14 days at most; every other source is a fresh snapshot each morning
 
 ## Freshness
 
-- Posted in the last 7 days: 2,514
-- 8 to 14 days: 2,636
-- 15 to 28 days: 1,803
-- Over 28 days: 2,200 (of which over 45 days: 1,152)
-- No posting date given by the source: 624
+- Posted in the last 7 days: 2,275
+- 8 to 14 days: 2,771
+- 15 to 28 days: 1,746
+- Over 28 days: 2,083 (of which over 45 days: 1,141)
+- No posting date given by the source: 625
 
 ## Dead-link check (EURES)
 
-- Checked today: 498 (492 live, 0 gone, 6 could not be checked)
-- Known dead and excluded: 14
+- Checked today: 322 (0 live, 322 gone, 0 could not be checked)
+- Known dead and excluded: 336
 
 ## Jobs by source
 
 | Source | Jobs |
 |---|---|
-| eures | 5,602 |
-| adzuna | 2,484 |
-| workhub | 593 |
-| af | 413 |
-| career | 299 |
+| eures | 5,284 |
+| adzuna | 2,524 |
+| workhub | 600 |
+| af | 418 |
+| career | 295 |
 | jobnet | 207 |
-| nhs | 79 |
-| fj | 37 |
+| nhs | 74 |
+| fj | 36 |
 | pt | 35 |
-| cipd | 18 |
-| publicjobs | 5 |
+| cipd | 17 |
+| publicjobs | 6 |
 | anna | 3 |
-| ccg | 2 |
+| ccg | 1 |
 
 ## Source health
 
-- All sources ran without problems
+- Problems: eures: HTTPError: HTTP Error 404: Not Found
