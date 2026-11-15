@@ -3,9 +3,9 @@
   "c": "se",
   "name": "Volvo Group",
   "type": "rmk",
-  "jobs": 6,
+  "jobs": 5,
   "error": null,
-  "secs": 12
+  "secs": 14
  },
  {
   "c": "se",
@@ -53,7 +53,7 @@
   "type": "rmk",
   "jobs": 9,
   "error": null,
-  "secs": 14
+  "secs": 13
  },
  {
   "c": "se",
@@ -61,7 +61,7 @@
   "type": "workday",
   "jobs": 19,
   "error": null,
-  "secs": 17
+  "secs": 16
  },
  {
   "c": "se",
@@ -77,7 +77,7 @@
   "type": "workday",
   "jobs": 30,
   "error": null,
-  "secs": 19
+  "secs": 18
  },
  {
   "c": "se",
@@ -85,7 +85,7 @@
   "type": "workday",
   "jobs": 167,
   "error": null,
-  "secs": 24
+  "secs": 25
  },
  {
   "c": "se",
@@ -93,7 +93,7 @@
   "type": "workday",
   "jobs": 24,
   "error": null,
-  "secs": 111
+  "secs": 191
  },
  {
   "c": "se",
@@ -101,13 +101,13 @@
   "type": "workday",
   "jobs": 17,
   "error": null,
-  "secs": 34
+  "secs": 63
  },
  {
   "c": "se",
   "name": "Swedbank",
   "type": "teamtailor",
-  "jobs": 59,
+  "jobs": 56,
   "error": null,
   "secs": 0
  },
@@ -117,7 +117,7 @@
   "type": "teamtailor",
   "jobs": 49,
   "error": null,
-  "secs": 1
+  "secs": 0
  },
  {
   "c": "se",
@@ -141,15 +141,15 @@
   "type": "phenom",
   "jobs": 0,
   "error": null,
-  "secs": 3
+  "secs": 2
  },
  {
   "c": "se",
   "name": "ABB",
   "type": "phenom",
-  "jobs": 53,
+  "jobs": 52,
   "error": null,
-  "secs": 6
+  "secs": 5
  },
  {
   "c": "se",
@@ -157,15 +157,15 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 90
+  "secs": 49
  },
  {
   "c": "se",
   "name": "GSK",
   "type": "workday",
   "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 13
+  "error": null,
+  "secs": 333
  },
  {
   "c": "se",
@@ -173,7 +173,7 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 68
+  "secs": 357
  },
  {
   "c": "se",
@@ -181,7 +181,7 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 72
+  "secs": 256
  },
  {
   "c": "se",
@@ -189,7 +189,7 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 146
+  "secs": 283
  },
  {
   "c": "se",
@@ -197,7 +197,7 @@
   "type": "workday",
   "jobs": 1,
   "error": null,
-  "secs": 32
+  "secs": 59
  },
  {
   "c": "se",
@@ -205,7 +205,7 @@
   "type": "workday",
   "jobs": 36,
   "error": null,
-  "secs": 49
+  "secs": 180
  },
  {
   "c": "se",
@@ -213,13 +213,13 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 25
+  "secs": 22
  },
  {
   "c": "se",
   "name": "Amazon",
   "type": "amazon",
-  "jobs": 34,
+  "jobs": 35,
   "error": null,
   "secs": 2
  },
@@ -229,7 +229,7 @@
   "type": "workday",
   "jobs": 7,
   "error": null,
-  "secs": 109
+  "secs": 318
  },
  {
   "c": "se",
@@ -237,31 +237,31 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 3
+  "secs": 2
  },
  {
   "c": "se",
   "name": "Cisco",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 0
+  "jobs": 4,
+  "error": null,
+  "secs": 52
  },
  {
   "c": "se",
   "name": "Adobe",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 0
+  "jobs": 1,
+  "error": null,
+  "secs": 11
  },
  {
   "c": "se",
   "name": "Workday",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 7
+  "jobs": 5,
+  "error": null,
+  "secs": 204
  },
  {
   "c": "se",
@@ -276,40 +276,40 @@
   "name": "Nvidia",
   "type": "workday",
   "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 136
+  "error": null,
+  "secs": 460
  },
  {
   "c": "se",
   "name": "Intel",
   "type": "workday",
   "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 1
+  "error": null,
+  "secs": 23
  },
  {
   "c": "se",
   "name": "HP",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 147
+  "jobs": 1,
+  "error": null,
+  "secs": 13
  },
  {
   "c": "se",
   "name": "PayPal",
   "type": "workday",
   "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 106
+  "error": null,
+  "secs": 222
  },
  {
   "c": "se",
   "name": "Mastercard",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 1
+  "jobs": 1,
+  "error": null,
+  "secs": 25
  },
  {
   "c": "se",
@@ -363,17 +363,17 @@
   "c": "se",
   "name": "Pfizer",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 99
+  "jobs": 1,
+  "error": null,
+  "secs": 153
  },
  {
   "c": "se",
   "name": "Johnson & Johnson",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 100
+  "jobs": 2,
+  "error": null,
+  "secs": 242
  },
  {
   "c": "se",
@@ -381,7 +381,7 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 97
+  "secs": 31
  },
  {
   "c": "se",
@@ -389,47 +389,47 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 36
+  "secs": 34
  },
  {
   "c": "se",
   "name": "Bristol Myers Squibb",
   "type": "workday",
   "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 225
+  "error": null,
+  "secs": 25
  },
  {
   "c": "se",
   "name": "Abbott",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 0
+  "jobs": 5,
+  "error": null,
+  "secs": 16
  },
  {
   "c": "se",
   "name": "Medtronic",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 80
+  "jobs": 3,
+  "error": null,
+  "secs": 18
  },
  {
   "c": "se",
   "name": "Thermo Fisher Scientific",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 0
+  "jobs": 9,
+  "error": null,
+  "secs": 57
  },
  {
   "c": "se",
   "name": "MSD",
   "type": "workday",
   "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 64
+  "error": null,
+  "secs": 46
  },
  {
   "c": "se",
@@ -437,7 +437,7 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 81
+  "secs": 77
  },
  {
   "c": "se",
@@ -445,7 +445,7 @@
   "type": "workday",
   "jobs": 1,
   "error": null,
-  "secs": 46
+  "secs": 47
  },
  {
   "c": "se",
@@ -461,23 +461,23 @@
   "type": "oracle",
   "jobs": 1,
   "error": null,
-  "secs": 15
+  "secs": 16
  },
  {
   "c": "se",
   "name": "3M",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 1
+  "jobs": 5,
+  "error": null,
+  "secs": 14
  },
  {
   "c": "se",
   "name": "GE Vernova",
   "type": "workday",
   "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 28
+  "error": null,
+  "secs": 54
  },
  {
   "c": "se",
@@ -485,15 +485,15 @@
   "type": "workday",
   "jobs": 9,
   "error": null,
-  "secs": 38
+  "secs": 21
  },
  {
   "c": "se",
   "name": "Coca-Cola",
   "type": "workday",
   "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 1
+  "error": null,
+  "secs": 251
  },
  {
   "c": "se",
@@ -501,7 +501,7 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 7
+  "secs": 6
  },
  {
   "c": "se",
@@ -516,8 +516,8 @@
   "name": "Nike",
   "type": "workday",
   "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 1
+  "error": null,
+  "secs": 34
  },
  {
   "c": "se",
@@ -525,7 +525,7 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 52
+  "secs": 22
  },
  {
   "c": "se",
@@ -533,7 +533,7 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 8
+  "secs": 13
  },
  {
   "c": "se",
@@ -541,7 +541,7 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 14
+  "secs": 13
  },
  {
   "c": "se",
@@ -549,15 +549,15 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 41
+  "secs": 128
  },
  {
   "c": "se",
   "name": "Citi",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 29
+  "jobs": 4,
+  "error": null,
+  "secs": 75
  },
  {
   "c": "se",
@@ -572,32 +572,32 @@
   "name": "BlackRock",
   "type": "workday",
   "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 30
+  "error": null,
+  "secs": 90
  },
  {
   "c": "se",
   "name": "State Street",
   "type": "workday",
   "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 29
+  "error": null,
+  "secs": 540
  },
  {
   "c": "se",
   "name": "Northern Trust",
   "type": "workday",
   "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 23
+  "error": null,
+  "secs": 22
  },
  {
   "c": "se",
   "name": "S&P Global",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 28
+  "jobs": 1,
+  "error": null,
+  "secs": 12
  },
  {
   "c": "se",
@@ -605,15 +605,15 @@
   "type": "workday",
   "jobs": 2,
   "error": null,
-  "secs": 21
+  "secs": 20
  },
  {
   "c": "se",
   "name": "Marsh McLennan",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 22
+  "jobs": 2,
+  "error": null,
+  "secs": 14
  },
  {
   "c": "se",
@@ -621,7 +621,7 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 24
+  "secs": 17
  },
  {
   "c": "se",
@@ -635,7 +635,7 @@
   "c": "se",
   "name": "Kone",
   "type": "workday",
-  "jobs": 18,
+  "jobs": 13,
   "error": null,
   "secs": 18
  },
@@ -645,7 +645,7 @@
   "type": "oracle",
   "jobs": 1,
   "error": null,
-  "secs": 15
+  "secs": 14
  },
  {
   "c": "se",
@@ -653,7 +653,7 @@
   "type": "oracle",
   "jobs": 0,
   "error": null,
-  "secs": 16
+  "secs": 15
  },
  {
   "c": "se",
@@ -661,7 +661,7 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 14
+  "secs": 13
  },
  {
   "c": "se",
@@ -669,7 +669,7 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 15
+  "secs": 242
  },
  {
   "c": "se",
@@ -683,17 +683,17 @@
   "c": "se",
   "name": "Stryker",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 78
+  "jobs": 4,
+  "error": null,
+  "secs": 135
  },
  {
   "c": "se",
   "name": "Analog Devices",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 90
+  "jobs": 1,
+  "error": null,
+  "secs": 76
  },
  {
   "c": "se",
@@ -701,7 +701,7 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 37
+  "secs": 219
  },
  {
   "c": "se",
@@ -709,7 +709,7 @@
   "type": "workday",
   "jobs": 1,
   "error": null,
-  "secs": 15
+  "secs": 69
  },
  {
   "c": "se",
@@ -717,7 +717,7 @@
   "type": "workday",
   "jobs": 2,
   "error": null,
-  "secs": 27
+  "secs": 17
  },
  {
   "c": "se",
@@ -725,15 +725,15 @@
   "type": "workday",
   "jobs": 1,
   "error": null,
-  "secs": 29
+  "secs": 24
  },
  {
   "c": "se",
   "name": "PVH",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 1
+  "jobs": 4,
+  "error": null,
+  "secs": 15
  },
  {
   "c": "se",
@@ -741,7 +741,7 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 161
+  "secs": 27
  },
  {
   "c": "se",
@@ -749,7 +749,7 @@
   "type": "workday",
   "jobs": 7,
   "error": null,
-  "secs": 78
+  "secs": 75
  },
  {
   "c": "se",
@@ -765,7 +765,7 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 55
+  "secs": 23
  },
  {
   "c": "se",
@@ -773,7 +773,7 @@
   "type": "rmk",
   "jobs": 1,
   "error": null,
-  "secs": 15
+  "secs": 14
  },
  {
   "c": "se",
@@ -781,7 +781,7 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 57
+  "secs": 25
  },
  {
   "c": "se",
@@ -797,7 +797,7 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 17
+  "secs": 12
  },
  {
   "c": "se",
@@ -811,7 +811,7 @@
   "c": "gb",
   "name": "Asda",
   "type": "workday",
-  "jobs": 320,
+  "jobs": 318,
   "error": null,
   "secs": 92
  },
@@ -821,15 +821,15 @@
   "type": "workday",
   "jobs": 11,
   "error": null,
-  "secs": 108
+  "secs": 228
  },
  {
   "c": "gb",
   "name": "GSK",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 111
+  "jobs": 94,
+  "error": null,
+  "secs": 247
  },
  {
   "c": "gb",
@@ -837,7 +837,7 @@
   "type": "workday",
   "jobs": 16,
   "error": null,
-  "secs": 79
+  "secs": 42
  },
  {
   "c": "gb",
@@ -845,7 +845,7 @@
   "type": "workday",
   "jobs": 112,
   "error": null,
-  "secs": 107
+  "secs": 112
  },
  {
   "c": "gb",
@@ -853,7 +853,7 @@
   "type": "workday",
   "jobs": 90,
   "error": null,
-  "secs": 130
+  "secs": 26
  },
  {
   "c": "gb",
@@ -869,13 +869,13 @@
   "type": "workday",
   "jobs": 65,
   "error": null,
-  "secs": 23
+  "secs": 350
  },
  {
   "c": "gb",
   "name": "Diageo",
   "type": "workday",
-  "jobs": 36,
+  "jobs": 35,
   "error": null,
   "secs": 24
  },
@@ -891,9 +891,9 @@
   "c": "gb",
   "name": "John Lewis Partnership",
   "type": "workday",
-  "jobs": 55,
+  "jobs": 50,
   "error": null,
-  "secs": 25
+  "secs": 396
  },
  {
   "c": "gb",
@@ -907,39 +907,39 @@
   "c": "gb",
   "name": "RELX",
   "type": "workday",
-  "jobs": 120,
+  "jobs": 119,
   "error": null,
-  "secs": 25
+  "secs": 24
  },
  {
   "c": "gb",
   "name": "Accenture",
   "type": "workday",
-  "jobs": 199,
+  "jobs": 196,
   "error": null,
-  "secs": 69
+  "secs": 48
  },
  {
   "c": "gb",
   "name": "Sainsbury's",
   "type": "oracle",
-  "jobs": 197,
+  "jobs": 203,
   "error": null,
-  "secs": 13
+  "secs": 14
  },
  {
   "c": "gb",
   "name": "Morrisons",
   "type": "oracle",
-  "jobs": 268,
+  "jobs": 270,
   "error": null,
-  "secs": 13
+  "secs": 14
  },
  {
   "c": "gb",
   "name": "Marks & Spencer",
   "type": "oracle",
-  "jobs": 260,
+  "jobs": 256,
   "error": null,
   "secs": 7
  },
@@ -947,7 +947,7 @@
   "c": "gb",
   "name": "Next",
   "type": "oracle",
-  "jobs": 339,
+  "jobs": 319,
   "error": null,
   "secs": 11
  },
@@ -957,7 +957,7 @@
   "type": "rmk",
   "jobs": 56,
   "error": null,
-  "secs": 8
+  "secs": 7
  },
  {
   "c": "gb",
@@ -1003,7 +1003,7 @@
   "c": "gb",
   "name": "Primark",
   "type": "radancy",
-  "jobs": 73,
+  "jobs": 63,
   "error": null,
   "secs": 4
  },
@@ -1011,7 +1011,7 @@
   "c": "gb",
   "name": "Royal Mail Group",
   "type": "phenom",
-  "jobs": 109,
+  "jobs": 108,
   "error": null,
   "secs": 2
  },
@@ -1021,7 +1021,7 @@
   "type": "amazon",
   "jobs": 537,
   "error": null,
-  "secs": 5
+  "secs": 4
  },
  {
   "c": "gb",
@@ -1029,7 +1029,7 @@
   "type": "workday",
   "jobs": 71,
   "error": null,
-  "secs": 33
+  "secs": 321
  },
  {
   "c": "gb",
@@ -1043,25 +1043,25 @@
   "c": "gb",
   "name": "Cisco",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 70
+  "jobs": 19,
+  "error": null,
+  "secs": 181
  },
  {
   "c": "gb",
   "name": "Adobe",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 198
+  "jobs": 7,
+  "error": null,
+  "secs": 213
  },
  {
   "c": "gb",
   "name": "Workday",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 71
+  "jobs": 13,
+  "error": null,
+  "secs": 27
  },
  {
   "c": "gb",
@@ -1075,41 +1075,41 @@
   "c": "gb",
   "name": "Nvidia",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 69
+  "jobs": 4,
+  "error": null,
+  "secs": 276
  },
  {
   "c": "gb",
   "name": "Intel",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 72
+  "jobs": 1,
+  "error": null,
+  "secs": 23
  },
  {
   "c": "gb",
   "name": "HP",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 68
+  "jobs": 48,
+  "error": null,
+  "secs": 14
  },
  {
   "c": "gb",
   "name": "PayPal",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 1
+  "jobs": 21,
+  "error": null,
+  "secs": 23
  },
  {
   "c": "gb",
   "name": "Mastercard",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 30
+  "jobs": 25,
+  "error": null,
+  "secs": 22
  },
  {
   "c": "gb",
@@ -1125,7 +1125,7 @@
   "type": "oracle",
   "jobs": 71,
   "error": null,
-  "secs": 10
+  "secs": 9
  },
  {
   "c": "gb",
@@ -1139,7 +1139,7 @@
   "c": "gb",
   "name": "Spotify",
   "type": "lever",
-  "jobs": 64,
+  "jobs": 66,
   "error": null,
   "secs": 0
  },
@@ -1163,17 +1163,17 @@
   "c": "gb",
   "name": "Pfizer",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 25
+  "jobs": 10,
+  "error": null,
+  "secs": 78
  },
  {
   "c": "gb",
   "name": "Johnson & Johnson",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 159
+  "jobs": 31,
+  "error": null,
+  "secs": 614
  },
  {
   "c": "gb",
@@ -1181,7 +1181,7 @@
   "type": "workday",
   "jobs": 14,
   "error": null,
-  "secs": 18
+  "secs": 16
  },
  {
   "c": "gb",
@@ -1189,55 +1189,55 @@
   "type": "workday",
   "jobs": 3,
   "error": null,
-  "secs": 17
+  "secs": 16
  },
  {
   "c": "gb",
   "name": "Bristol Myers Squibb",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 0
+  "jobs": 14,
+  "error": null,
+  "secs": 25
  },
  {
   "c": "gb",
   "name": "Abbott",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 32
+  "jobs": 44,
+  "error": null,
+  "secs": 16
  },
  {
   "c": "gb",
   "name": "Medtronic",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 1
+  "jobs": 43,
+  "error": null,
+  "secs": 24
  },
  {
   "c": "gb",
   "name": "Thermo Fisher Scientific",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 85
+  "jobs": 72,
+  "error": null,
+  "secs": 50
  },
  {
   "c": "gb",
   "name": "MSD",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 8
+  "jobs": 31,
+  "error": null,
+  "secs": 38
  },
  {
   "c": "gb",
   "name": "Roche",
   "type": "workday",
-  "jobs": 5,
+  "jobs": 4,
   "error": null,
-  "secs": 68
+  "secs": 66
  },
  {
   "c": "gb",
@@ -1245,7 +1245,7 @@
   "type": "workday",
   "jobs": 18,
   "error": null,
-  "secs": 92
+  "secs": 136
  },
  {
   "c": "gb",
@@ -1259,7 +1259,7 @@
   "c": "gb",
   "name": "Honeywell",
   "type": "oracle",
-  "jobs": 29,
+  "jobs": 27,
   "error": null,
   "secs": 18
  },
@@ -1267,33 +1267,33 @@
   "c": "gb",
   "name": "3M",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 22
+  "jobs": 12,
+  "error": null,
+  "secs": 12
  },
  {
   "c": "gb",
   "name": "GE Vernova",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 0
+  "jobs": 9,
+  "error": null,
+  "secs": 47
  },
  {
   "c": "gb",
   "name": "Mondelez",
   "type": "workday",
-  "jobs": 40,
+  "jobs": 39,
   "error": null,
-  "secs": 27
+  "secs": 117
  },
  {
   "c": "gb",
   "name": "Coca-Cola",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 4
+  "jobs": 2,
+  "error": null,
+  "secs": 13
  },
  {
   "c": "gb",
@@ -1308,16 +1308,16 @@
   "name": "L'Oréal",
   "type": "radancy",
   "jobs": 0,
-  "error": "IncompleteRead: IncompleteRead(1358233 bytes read)",
-  "secs": 5
+  "error": "IncompleteRead: IncompleteRead(1359061 bytes read)",
+  "secs": 4
  },
  {
   "c": "gb",
   "name": "Nike",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 1
+  "jobs": 28,
+  "error": null,
+  "secs": 100
  },
  {
   "c": "gb",
@@ -1325,23 +1325,23 @@
   "type": "rmk",
   "jobs": 3,
   "error": null,
-  "secs": 10
+  "secs": 11
  },
  {
   "c": "gb",
   "name": "Mars",
   "type": "rmk",
-  "jobs": 0,
+  "jobs": 4,
   "error": null,
-  "secs": 10
+  "secs": 8
  },
  {
   "c": "gb",
   "name": "ExxonMobil",
   "type": "rmk",
-  "jobs": 0,
+  "jobs": 2,
   "error": null,
-  "secs": 10
+  "secs": 7
  },
  {
   "c": "gb",
@@ -1349,15 +1349,15 @@
   "type": "workday",
   "jobs": 2,
   "error": null,
-  "secs": 17
+  "secs": 15
  },
  {
   "c": "gb",
   "name": "Citi",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 19
+  "jobs": 141,
+  "error": null,
+  "secs": 75
  },
  {
   "c": "gb",
@@ -1371,33 +1371,33 @@
   "c": "gb",
   "name": "BlackRock",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 17
+  "jobs": 101,
+  "error": null,
+  "secs": 56
  },
  {
   "c": "gb",
   "name": "State Street",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 52
+  "jobs": 59,
+  "error": null,
+  "secs": 14
  },
  {
   "c": "gb",
   "name": "Northern Trust",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 17
+  "jobs": 27,
+  "error": null,
+  "secs": 14
  },
  {
   "c": "gb",
   "name": "S&P Global",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 87
+  "jobs": 69,
+  "error": null,
+  "secs": 18
  },
  {
   "c": "gb",
@@ -1405,23 +1405,23 @@
   "type": "workday",
   "jobs": 91,
   "error": null,
-  "secs": 28
+  "secs": 26
  },
  {
   "c": "gb",
   "name": "Marsh McLennan",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 11
+  "jobs": 129,
+  "error": null,
+  "secs": 21
  },
  {
   "c": "gb",
   "name": "Zurich",
   "type": "rmk",
-  "jobs": 3,
+  "jobs": 2,
   "error": null,
-  "secs": 16
+  "secs": 13
  },
  {
   "c": "gb",
@@ -1437,13 +1437,13 @@
   "type": "workday",
   "jobs": 50,
   "error": null,
-  "secs": 22
+  "secs": 300
  },
  {
   "c": "gb",
   "name": "Hilton",
   "type": "oracle",
-  "jobs": 82,
+  "jobs": 80,
   "error": null,
   "secs": 16
  },
@@ -1461,7 +1461,7 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 13
+  "secs": 12
  },
  {
   "c": "gb",
@@ -1469,7 +1469,7 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 9
+  "secs": 242
  },
  {
   "c": "gb",
@@ -1477,31 +1477,31 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 14
+  "secs": 15
  },
  {
   "c": "gb",
   "name": "Stryker",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 29
+  "jobs": 34,
+  "error": null,
+  "secs": 55
  },
  {
   "c": "gb",
   "name": "Analog Devices",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 29
+  "jobs": 24,
+  "error": null,
+  "secs": 158
  },
  {
   "c": "gb",
   "name": "Samsung",
   "type": "workday",
-  "jobs": 6,
+  "jobs": 4,
   "error": null,
-  "secs": 44
+  "secs": 72
  },
  {
   "c": "gb",
@@ -1509,15 +1509,15 @@
   "type": "workday",
   "jobs": 13,
   "error": null,
-  "secs": 21
+  "secs": 13
  },
  {
   "c": "gb",
   "name": "Pernod Ricard",
   "type": "workday",
-  "jobs": 9,
+  "jobs": 8,
   "error": null,
-  "secs": 16
+  "secs": 161
  },
  {
   "c": "gb",
@@ -1525,15 +1525,15 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 39
+  "secs": 22
  },
  {
   "c": "gb",
   "name": "PVH",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 154
+  "jobs": 109,
+  "error": null,
+  "secs": 20
  },
  {
   "c": "gb",
@@ -1541,7 +1541,7 @@
   "type": "workday",
   "jobs": 8,
   "error": null,
-  "secs": 89
+  "secs": 25
  },
  {
   "c": "gb",
@@ -1549,7 +1549,7 @@
   "type": "workday",
   "jobs": 15,
   "error": null,
-  "secs": 71
+  "secs": 68
  },
  {
   "c": "gb",
@@ -1565,7 +1565,7 @@
   "type": "rmk",
   "jobs": 2,
   "error": null,
-  "secs": 12
+  "secs": 13
  },
  {
   "c": "gb",
@@ -1573,7 +1573,7 @@
   "type": "rmk",
   "jobs": 2,
   "error": null,
-  "secs": 10
+  "secs": 9
  },
  {
   "c": "gb",
@@ -1589,15 +1589,15 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 50
+  "secs": 22
  },
  {
   "c": "gb",
   "name": "Under Armour",
   "type": "rmk",
-  "jobs": 0,
+  "jobs": 7,
   "error": null,
-  "secs": 10
+  "secs": 6
  },
  {
   "c": "gb",
@@ -1613,15 +1613,15 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 93
+  "secs": 201
  },
  {
   "c": "ie",
   "name": "GSK",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 54
+  "jobs": 3,
+  "error": null,
+  "secs": 13
  },
  {
   "c": "ie",
@@ -1629,7 +1629,7 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 118
+  "secs": 310
  },
  {
   "c": "ie",
@@ -1637,7 +1637,7 @@
   "type": "workday",
   "jobs": 2,
   "error": null,
-  "secs": 124
+  "secs": 96
  },
  {
   "c": "ie",
@@ -1645,7 +1645,7 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 36
+  "secs": 35
  },
  {
   "c": "ie",
@@ -1653,7 +1653,7 @@
   "type": "workday",
   "jobs": 8,
   "error": null,
-  "secs": 41
+  "secs": 16
  },
  {
   "c": "ie",
@@ -1661,7 +1661,7 @@
   "type": "workday",
   "jobs": 6,
   "error": null,
-  "secs": 61
+  "secs": 17
  },
  {
   "c": "ie",
@@ -1669,21 +1669,21 @@
   "type": "workday",
   "jobs": 3,
   "error": null,
-  "secs": 16
+  "secs": 534
  },
  {
   "c": "ie",
   "name": "Accenture",
   "type": "workday",
-  "jobs": 92,
+  "jobs": 90,
   "error": null,
-  "secs": 43
+  "secs": 44
  },
  {
   "c": "ie",
   "name": "Marks & Spencer",
   "type": "oracle",
-  "jobs": 79,
+  "jobs": 78,
   "error": null,
   "secs": 7
  },
@@ -1691,9 +1691,9 @@
   "c": "ie",
   "name": "Next",
   "type": "oracle",
-  "jobs": 10,
+  "jobs": 23,
   "error": null,
-  "secs": 11
+  "secs": 10
  },
  {
   "c": "ie",
@@ -1701,7 +1701,7 @@
   "type": "rmk",
   "jobs": 1,
   "error": null,
-  "secs": 7
+  "secs": 8
  },
  {
   "c": "ie",
@@ -1733,13 +1733,13 @@
   "type": "radancy",
   "jobs": 39,
   "error": null,
-  "secs": 4
+  "secs": 5
  },
  {
   "c": "ie",
   "name": "Amazon",
   "type": "amazon",
-  "jobs": 172,
+  "jobs": 173,
   "error": null,
   "secs": 3
  },
@@ -1749,7 +1749,7 @@
   "type": "workday",
   "jobs": 102,
   "error": null,
-  "secs": 15
+  "secs": 232
  },
  {
   "c": "ie",
@@ -1763,25 +1763,25 @@
   "c": "ie",
   "name": "Cisco",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 139
+  "jobs": 29,
+  "error": null,
+  "secs": 188
  },
  {
   "c": "ie",
   "name": "Adobe",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 9
+  "jobs": 1,
+  "error": null,
+  "secs": 10
  },
  {
   "c": "ie",
   "name": "Workday",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 0
+  "jobs": 37,
+  "error": null,
+  "secs": 249
  },
  {
   "c": "ie",
@@ -1796,40 +1796,40 @@
   "name": "Nvidia",
   "type": "workday",
   "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 43
+  "error": null,
+  "secs": 216
  },
  {
   "c": "ie",
   "name": "Intel",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 7
+  "jobs": 1,
+  "error": null,
+  "secs": 22
  },
  {
   "c": "ie",
   "name": "HP",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 43
+  "jobs": 3,
+  "error": null,
+  "secs": 12
  },
  {
   "c": "ie",
   "name": "PayPal",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 1
+  "jobs": 2,
+  "error": null,
+  "secs": 23
  },
  {
   "c": "ie",
   "name": "Mastercard",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 56
+  "jobs": 7,
+  "error": null,
+  "secs": 23
  },
  {
   "c": "ie",
@@ -1861,7 +1861,7 @@
   "type": "lever",
   "jobs": 0,
   "error": null,
-  "secs": 1
+  "secs": 0
  },
  {
   "c": "ie",
@@ -1883,17 +1883,17 @@
   "c": "ie",
   "name": "Pfizer",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 7
+  "jobs": 5,
+  "error": null,
+  "secs": 171
  },
  {
   "c": "ie",
   "name": "Johnson & Johnson",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 7
+  "jobs": 11,
+  "error": null,
+  "secs": 156
  },
  {
   "c": "ie",
@@ -1901,7 +1901,7 @@
   "type": "workday",
   "jobs": 8,
   "error": null,
-  "secs": 17
+  "secs": 16
  },
  {
   "c": "ie",
@@ -1909,47 +1909,47 @@
   "type": "workday",
   "jobs": 12,
   "error": null,
-  "secs": 86
+  "secs": 16
  },
  {
   "c": "ie",
   "name": "Bristol Myers Squibb",
   "type": "workday",
   "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 0
+  "error": null,
+  "secs": 24
  },
  {
   "c": "ie",
   "name": "Abbott",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 49
+  "jobs": 79,
+  "error": null,
+  "secs": 18
  },
  {
   "c": "ie",
   "name": "Medtronic",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 64
+  "jobs": 34,
+  "error": null,
+  "secs": 24
  },
  {
   "c": "ie",
   "name": "Thermo Fisher Scientific",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 27
+  "jobs": 6,
+  "error": null,
+  "secs": 51
  },
  {
   "c": "ie",
   "name": "MSD",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 46
+  "jobs": 4,
+  "error": null,
+  "secs": 39
  },
  {
   "c": "ie",
@@ -1957,7 +1957,7 @@
   "type": "workday",
   "jobs": 1,
   "error": null,
-  "secs": 94
+  "secs": 64
  },
  {
   "c": "ie",
@@ -1965,7 +1965,7 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 44
+  "secs": 43
  },
  {
   "c": "ie",
@@ -1987,17 +1987,17 @@
   "c": "ie",
   "name": "3M",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 1
+  "jobs": 1,
+  "error": null,
+  "secs": 150
  },
  {
   "c": "ie",
   "name": "GE Vernova",
   "type": "workday",
   "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 22
+  "error": null,
+  "secs": 51
  },
  {
   "c": "ie",
@@ -2005,15 +2005,15 @@
   "type": "workday",
   "jobs": 9,
   "error": null,
-  "secs": 78
+  "secs": 19
  },
  {
   "c": "ie",
   "name": "Coca-Cola",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 37
+  "jobs": 5,
+  "error": null,
+  "secs": 393
  },
  {
   "c": "ie",
@@ -2021,7 +2021,7 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 6
+  "secs": 5
  },
  {
   "c": "ie",
@@ -2029,15 +2029,15 @@
   "type": "radancy",
   "jobs": 2,
   "error": null,
-  "secs": 5
+  "secs": 7
  },
  {
   "c": "ie",
   "name": "Nike",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 11
+  "jobs": 2,
+  "error": null,
+  "secs": 204
  },
  {
   "c": "ie",
@@ -2051,9 +2051,9 @@
   "c": "ie",
   "name": "Mars",
   "type": "rmk",
-  "jobs": 0,
+  "jobs": 1,
   "error": null,
-  "secs": 7
+  "secs": 8
  },
  {
   "c": "ie",
@@ -2069,15 +2069,15 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 17
+  "secs": 15
  },
  {
   "c": "ie",
   "name": "Citi",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 0
+  "jobs": 31,
+  "error": null,
+  "secs": 242
  },
  {
   "c": "ie",
@@ -2091,33 +2091,33 @@
   "c": "ie",
   "name": "BlackRock",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 13
+  "jobs": 2,
+  "error": null,
+  "secs": 122
  },
  {
   "c": "ie",
   "name": "State Street",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 16
+  "jobs": 43,
+  "error": null,
+  "secs": 13
  },
  {
   "c": "ie",
   "name": "Northern Trust",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 13
+  "jobs": 68,
+  "error": null,
+  "secs": 18
  },
  {
   "c": "ie",
   "name": "S&P Global",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 10
+  "jobs": 3,
+  "error": null,
+  "secs": 12
  },
  {
   "c": "ie",
@@ -2125,15 +2125,15 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 31
+  "secs": 29
  },
  {
   "c": "ie",
   "name": "Marsh McLennan",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 126
+  "jobs": 26,
+  "error": null,
+  "secs": 17
  },
  {
   "c": "ie",
@@ -2141,7 +2141,7 @@
   "type": "rmk",
   "jobs": 4,
   "error": null,
-  "secs": 9
+  "secs": 14
  },
  {
   "c": "ie",
@@ -2149,7 +2149,7 @@
   "type": "rmk",
   "jobs": 2,
   "error": null,
-  "secs": 15
+  "secs": 16
  },
  {
   "c": "ie",
@@ -2157,7 +2157,7 @@
   "type": "workday",
   "jobs": 1,
   "error": null,
-  "secs": 19
+  "secs": 16
  },
  {
   "c": "ie",
@@ -2165,7 +2165,7 @@
   "type": "oracle",
   "jobs": 2,
   "error": null,
-  "secs": 16
+  "secs": 17
  },
  {
   "c": "ie",
@@ -2173,7 +2173,7 @@
   "type": "oracle",
   "jobs": 0,
   "error": null,
-  "secs": 17
+  "secs": 18
  },
  {
   "c": "ie",
@@ -2189,7 +2189,7 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 8
+  "secs": 122
  },
  {
   "c": "ie",
@@ -2203,17 +2203,17 @@
   "c": "ie",
   "name": "Stryker",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 88
+  "jobs": 42,
+  "error": null,
+  "secs": 16
  },
  {
   "c": "ie",
   "name": "Analog Devices",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 88
+  "jobs": 65,
+  "error": null,
+  "secs": 146
  },
  {
   "c": "ie",
@@ -2221,7 +2221,7 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 60
+  "secs": 37
  },
  {
   "c": "ie",
@@ -2229,7 +2229,7 @@
   "type": "workday",
   "jobs": 3,
   "error": null,
-  "secs": 23
+  "secs": 63
  },
  {
   "c": "ie",
@@ -2237,7 +2237,7 @@
   "type": "workday",
   "jobs": 6,
   "error": null,
-  "secs": 79
+  "secs": 195
  },
  {
   "c": "ie",
@@ -2245,15 +2245,15 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 44
+  "secs": 262
  },
  {
   "c": "ie",
   "name": "PVH",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 77
+  "jobs": 21,
+  "error": null,
+  "secs": 19
  },
  {
   "c": "ie",
@@ -2261,7 +2261,7 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 29
+  "secs": 25
  },
  {
   "c": "ie",
@@ -2269,7 +2269,7 @@
   "type": "workday",
   "jobs": 3,
   "error": null,
-  "secs": 142
+  "secs": 69
  },
  {
   "c": "ie",
@@ -2285,7 +2285,7 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 51
+  "secs": 22
  },
  {
   "c": "ie",
@@ -2317,7 +2317,7 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 13
+  "secs": 12
  },
  {
   "c": "ie",
@@ -2333,7 +2333,7 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 51
+  "secs": 63
  },
  {
   "c": "nl",
@@ -2341,7 +2341,7 @@
   "type": "workday",
   "jobs": 14,
   "error": null,
-  "secs": 12
+  "secs": 13
  },
  {
   "c": "nl",
@@ -2357,15 +2357,15 @@
   "type": "workday",
   "jobs": 8,
   "error": null,
-  "secs": 41
+  "secs": 52
  },
  {
   "c": "nl",
   "name": "PVH",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 18
+  "jobs": 86,
+  "error": null,
+  "secs": 89
  },
  {
   "c": "nl",
@@ -2373,7 +2373,7 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 21
+  "secs": 126
  },
  {
   "c": "nl",
@@ -2381,7 +2381,7 @@
   "type": "workday",
   "jobs": 6,
   "error": null,
-  "secs": 75
+  "secs": 56
  },
  {
   "c": "nl",
@@ -2397,7 +2397,7 @@
   "type": "rmk",
   "jobs": 1,
   "error": null,
-  "secs": 44
+  "secs": 14
  },
  {
   "c": "nl",
@@ -2405,7 +2405,7 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 13
+  "secs": 12
  },
  {
   "c": "nl",
@@ -2413,7 +2413,7 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 50
+  "secs": 20
  },
  {
   "c": "nl",
@@ -2427,9 +2427,9 @@
   "c": "nl",
   "name": "Under Armour",
   "type": "rmk",
-  "jobs": 0,
+  "jobs": 1,
   "error": null,
-  "secs": 12
+  "secs": 8
  },
  {
   "c": "nl",
@@ -2453,15 +2453,15 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 16
+  "secs": 17
  },
  {
   "c": "nl",
   "name": "Nike",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 112
+  "jobs": 13,
+  "error": null,
+  "secs": 23
  },
  {
   "c": "nl",
@@ -2469,7 +2469,7 @@
   "type": "workday",
   "jobs": 19,
   "error": null,
-  "secs": 28
+  "secs": 191
  },
  {
   "c": "nl",
@@ -2477,7 +2477,7 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 156
+  "secs": 26
  },
  {
   "c": "nl",
@@ -2485,7 +2485,7 @@
   "type": "workday",
   "jobs": 6,
   "error": null,
-  "secs": 133
+  "secs": 171
  },
  {
   "c": "nl",
@@ -2493,15 +2493,15 @@
   "type": "workday",
   "jobs": 5,
   "error": null,
-  "secs": 19
+  "secs": 18
  },
  {
   "c": "nl",
   "name": "Coca-Cola",
   "type": "workday",
   "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 1
+  "error": null,
+  "secs": 93
  },
  {
   "c": "nl",
@@ -2509,7 +2509,7 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 15
+  "secs": 11
  },
  {
   "c": "nl",
@@ -2517,7 +2517,7 @@
   "type": "radancy",
   "jobs": 12,
   "error": null,
-  "secs": 5
+  "secs": 7
  },
  {
   "c": "nl",
@@ -2525,7 +2525,7 @@
   "type": "rmk",
   "jobs": 1,
   "error": null,
-  "secs": 15
+  "secs": 16
  },
  {
   "c": "nl",
@@ -2541,7 +2541,7 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 102
+  "secs": 34
  },
  {
   "c": "dk",
@@ -2549,7 +2549,7 @@
   "type": "workday",
   "jobs": 4,
   "error": null,
-  "secs": 167
+  "secs": 107
  },
  {
   "c": "dk",
@@ -2557,7 +2557,7 @@
   "type": "workday",
   "jobs": 1,
   "error": null,
-  "secs": 29
+  "secs": 15
  },
  {
   "c": "dk",
@@ -2565,15 +2565,15 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 33
+  "secs": 36
  },
  {
   "c": "dk",
   "name": "PVH",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 27
+  "jobs": 3,
+  "error": null,
+  "secs": 12
  },
  {
   "c": "dk",
@@ -2581,15 +2581,15 @@
   "type": "workday",
   "jobs": 25,
   "error": null,
-  "secs": 107
+  "secs": 43
  },
  {
   "c": "dk",
   "name": "Maersk",
   "type": "workday",
-  "jobs": 25,
+  "jobs": 22,
   "error": null,
-  "secs": 83
+  "secs": 64
  },
  {
   "c": "dk",
@@ -2613,7 +2613,7 @@
   "type": "rmk",
   "jobs": 10,
   "error": null,
-  "secs": 7
+  "secs": 6
  },
  {
   "c": "dk",
@@ -2629,7 +2629,7 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 47
+  "secs": 18
  },
  {
   "c": "dk",
@@ -2637,7 +2637,7 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 9
+  "secs": 10
  },
  {
   "c": "dk",
@@ -2667,9 +2667,9 @@
   "c": "dk",
   "name": "Nike",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 1
+  "jobs": 1,
+  "error": null,
+  "secs": 47
  },
  {
   "c": "dk",
@@ -2677,7 +2677,7 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 160
+  "secs": 172
  },
  {
   "c": "dk",
@@ -2685,7 +2685,7 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 29
+  "secs": 126
  },
  {
   "c": "dk",
@@ -2693,7 +2693,7 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 44
+  "secs": 141
  },
  {
   "c": "dk",
@@ -2701,15 +2701,15 @@
   "type": "workday",
   "jobs": 0,
   "error": null,
-  "secs": 143
+  "secs": 35
  },
  {
   "c": "dk",
   "name": "Coca-Cola",
   "type": "workday",
   "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 1
+  "error": null,
+  "secs": 83
  },
  {
   "c": "dk",
@@ -2717,15 +2717,15 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 9
+  "secs": 11
  },
  {
   "c": "dk",
   "name": "L'Oréal",
   "type": "radancy",
-  "jobs": 0,
-  "error": "IncompleteRead: IncompleteRead(817745 bytes read)",
-  "secs": 2
+  "jobs": 3,
+  "error": null,
+  "secs": 6
  },
  {
   "c": "dk",
@@ -2749,7 +2749,7 @@
   "type": "workday",
   "jobs": 8,
   "error": null,
-  "secs": 131
+  "secs": 44
  },
  {
   "c": "de",
@@ -2757,7 +2757,7 @@
   "type": "workday",
   "jobs": 13,
   "error": null,
-  "secs": 41
+  "secs": 13
  },
  {
   "c": "de",
@@ -2765,7 +2765,7 @@
   "type": "workday",
   "jobs": 4,
   "error": null,
-  "secs": 78
+  "secs": 15
  },
  {
   "c": "de",
@@ -2773,23 +2773,23 @@
   "type": "workday",
   "jobs": 7,
   "error": null,
-  "secs": 22
+  "secs": 102
  },
  {
   "c": "de",
   "name": "PVH",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 1
+  "jobs": 52,
+  "error": null,
+  "secs": 14
  },
  {
   "c": "de",
   "name": "LEGO",
   "type": "workday",
-  "jobs": 9,
+  "jobs": 10,
   "error": null,
-  "secs": 52
+  "secs": 24
  },
  {
   "c": "de",
@@ -2797,7 +2797,7 @@
   "type": "workday",
   "jobs": 12,
   "error": null,
-  "secs": 89
+  "secs": 158
  },
  {
   "c": "de",
@@ -2821,7 +2821,7 @@
   "type": "rmk",
   "jobs": 1,
   "error": null,
-  "secs": 8
+  "secs": 7
  },
  {
   "c": "de",
@@ -2829,7 +2829,7 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 27
+  "secs": 23
  },
  {
   "c": "de",
@@ -2845,7 +2845,7 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 16
+  "secs": 10
  },
  {
   "c": "de",
@@ -2861,7 +2861,7 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 4
+  "secs": 5
  },
  {
   "c": "de",
@@ -2869,15 +2869,15 @@
   "type": "rmk",
   "jobs": 2,
   "error": null,
-  "secs": 40
+  "secs": 9
  },
  {
   "c": "de",
   "name": "Nike",
   "type": "workday",
-  "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 52
+  "jobs": 23,
+  "error": null,
+  "secs": 99
  },
  {
   "c": "de",
@@ -2885,7 +2885,7 @@
   "type": "workday",
   "jobs": 22,
   "error": null,
-  "secs": 61
+  "secs": 19
  },
  {
   "c": "de",
@@ -2893,7 +2893,7 @@
   "type": "workday",
   "jobs": 8,
   "error": null,
-  "secs": 40
+  "secs": 15
  },
  {
   "c": "de",
@@ -2901,7 +2901,7 @@
   "type": "workday",
   "jobs": 1,
   "error": null,
-  "secs": 94
+  "secs": 84
  },
  {
   "c": "de",
@@ -2909,15 +2909,15 @@
   "type": "workday",
   "jobs": 29,
   "error": null,
-  "secs": 25
+  "secs": 37
  },
  {
   "c": "de",
   "name": "Coca-Cola",
   "type": "workday",
   "jobs": 0,
-  "error": "HTTPError: HTTP Error 521: <none>",
-  "secs": 1
+  "error": null,
+  "secs": 62
  },
  {
   "c": "de",
@@ -2925,7 +2925,7 @@
   "type": "rmk",
   "jobs": 0,
   "error": null,
-  "secs": 12
+  "secs": 15
  },
  {
   "c": "de",
@@ -2933,7 +2933,7 @@
   "type": "radancy",
   "jobs": 20,
   "error": null,
-  "secs": 5
+  "secs": 6
  },
  {
   "c": "de",
@@ -2949,6 +2949,6 @@
   "type": "radancy",
   "jobs": 0,
   "error": null,
-  "secs": 3
+  "secs": 4
  }
 ]
